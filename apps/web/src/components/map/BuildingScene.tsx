@@ -1,6 +1,6 @@
 import { Edges, Line } from '@react-three/drei'
 import { MapHtml } from './MapHtml'
-import { Accessibility, ArrowUpDown, DoorOpen, Footprints, TriangleAlert } from 'lucide-react'
+import { Accessibility, ArrowUpDown, DoorOpen, TriangleAlert } from 'lucide-react'
 import { useState, type ReactNode } from 'react'
 import type { BuildingCode } from '../../data/campus'
 import {
@@ -18,6 +18,7 @@ import { COLORS, type LayerKey, type MapLocation } from '../../lib/types'
 import { MapBadge } from './Badge'
 import { RestroomIcon } from './RestroomIcon'
 import { WheelchairIcon } from './WheelchairIcon'
+import { StairsIcon } from './StairsIcon'
 import { EndPin, RouteLine, StartDot } from './RouteLine'
 import { CurrentLocationPin, TommyTrojanMarker, TommyTrojanPlacement } from './TommyTrojan'
 
@@ -26,6 +27,7 @@ interface Props {
   floor: number
   allFloors?: boolean
   layers: Set<LayerKey>
+  showRoomLabels: boolean
   highlights: Map<string, string>
   selectedCell?: string
   currentLocation: MapLocation | null
@@ -197,7 +199,7 @@ function CellWalls({ c, color }: { c: Cell; color?: string }) {
   )
 }
 
-function ActiveFloor({ code, floor, layers, highlights, selectedCell, onSelectCell, onSelectLocation }: Props) {
+function ActiveFloor({ code, floor, layers, showRoomLabels, highlights, selectedCell, onSelectCell, onSelectLocation }: Props) {
   const layout = getLayout(code, floor)
   const [hover, setHover] = useState<string | null>(null)
   const accessibleOn = layers.has('accessible')
@@ -280,7 +282,7 @@ function ActiveFloor({ code, floor, layers, highlights, selectedCell, onSelectCe
           </group>
         )
       })}
-      <FloorMarkers layout={layout} layers={layers} highlights={highlights} selectedCell={selectedCell} onSelectCell={onSelectCell} onSelectLocation={onSelectLocation} />
+      <FloorMarkers layout={layout} layers={layers} showRoomLabels={showRoomLabels} highlights={highlights} selectedCell={selectedCell} onSelectCell={onSelectCell} onSelectLocation={onSelectLocation} />
     </group>
   )
 }
@@ -315,6 +317,7 @@ function Stairs({ c }: { c: Cell }) {
 function FloorMarkers({
   layout,
   layers,
+  showRoomLabels,
   highlights,
   selectedCell,
   onSelectCell,
@@ -322,6 +325,7 @@ function FloorMarkers({
 }: {
   layout: FloorLayout
   layers: Set<LayerKey>
+  showRoomLabels: boolean
   highlights: Map<string, string>
   selectedCell?: string
   onSelectCell: (c: Cell) => void
@@ -336,7 +340,7 @@ function FloorMarkers({
     if (c.kind === 'room') {
       const hl = highlights.get(c.id)
       const selected = selectedCell === c.id
-      if (layers.has('classrooms') || hl || selected) {
+      if (showRoomLabels && (layers.has('classrooms') || hl || selected)) {
         markers.push({
           key: c.id,
           pos: [cx, 1.3, cz],
@@ -371,7 +375,7 @@ function FloorMarkers({
       if (layers.has('accessible')) badges.push(<MapBadge key="a" color={COLORS.accessible} title="Step-free access"><Accessibility className={icon} /></MapBadge>)
     }
     if (c.kind === 'stairs') {
-      if (layers.has('stairs')) badges.push(<MapBadge key="s" color="#3f3f46" title={c.name}><Footprints className={icon} /></MapBadge>)
+      if (layers.has('stairs')) badges.push(<MapBadge key="s" color="#3f3f46" title={c.name}><StairsIcon className={icon} /></MapBadge>)
       if (layers.has('exits') && c.core !== 'SC') badges.push(<MapBadge key="x" color={COLORS.exit} title="Emergency exit stair"><DoorOpen className={icon} /></MapBadge>)
     }
     if (badges.length) markers.push({ key: c.id, pos: [cx, 1.5, cz], node: <span className="flex gap-1">{badges}</span> })

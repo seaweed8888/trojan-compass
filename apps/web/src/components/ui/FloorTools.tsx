@@ -1,7 +1,8 @@
-import { Accessibility, ArrowUpDown, ChevronDown, ChevronRight, Footprints, MapPin, MessageCircle, Route, Search, Send, Sparkles, X } from 'lucide-react'
+import { Accessibility, ArrowUpDown, ChevronDown, ChevronRight, MapPin, MessageCircle, Route, Search, Send, Sparkles, X } from 'lucide-react'
 import { useEffect, useRef, useState } from 'react'
 import type { RouteMode } from '../../lib/routing'
 import { LocationAutocomplete } from './LocationAutocomplete'
+import { StairsIcon } from '../map/StairsIcon'
 
 const TOOLS = [
   { id: 'search', label: 'Search', description: 'Find a building or room', icon: Search },
@@ -190,7 +191,7 @@ export function FloorTools({ locations, onLocationChange, picking, onPick, onSea
                   <legend className="mb-1.5 text-[12px] font-semibold text-neutral-700">Travel between floors</legend>
                   <div className="grid grid-cols-2 gap-2">
                     {([
-                      { value: 'stairs', label: 'Stairs', icon: Footprints },
+                      { value: 'stairs', label: 'Stairs', icon: StairsIcon },
                       { value: 'elevator', label: 'Elevators', icon: ArrowUpDown },
                     ] as const).map(({ value, label, icon: Icon }) => (
                       <label key={value} className={`flex cursor-pointer items-center justify-center gap-2 rounded-lg border px-3 py-2.5 text-[13px] font-semibold transition focus-within:ring-2 focus-within:ring-cardinal/30 ${travelMode === value ? 'border-cardinal bg-cardinal-50 text-cardinal' : 'border-neutral-200 text-neutral-600 hover:bg-neutral-50'} ${accessibleOnly && value === 'stairs' ? 'cursor-not-allowed opacity-40' : ''}`}>

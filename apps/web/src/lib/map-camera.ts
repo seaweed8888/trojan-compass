@@ -2,6 +2,10 @@ import { Vector3 } from 'three'
 import type { BuildingCode } from '../data/campus'
 import { cellCenter, findCell, floorY, getLevels, planBounds } from '../data/floorplan'
 
+export function roomLabelsVisible(distance: number, maxDistance: number, visible: boolean) {
+  return visible ? distance < maxDistance * 0.995 : distance < maxDistance * 0.99
+}
+
 /** Turn only when the selected room is on the far side of the building. */
 export function roomFacingAngle(code: BuildingCode, roomId: string | undefined, azimuth: number) {
   const room = roomId ? findCell(roomId) : undefined

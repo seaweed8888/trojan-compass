@@ -15,7 +15,13 @@ test('the Trojan guide stays within the map rendering budget and retains his car
   const primitives = gltf.meshes.flatMap((mesh: { primitives: { indices: number }[] }) => mesh.primitives)
   const triangles = primitives.reduce((sum: number, primitive: { indices: number }) => sum + gltf.accessors[primitive.indices].count / 3, 0)
   assert.ok(triangles < 6_000, `${triangles} triangles exceeds the map budget`)
-  assert.equal(primitives.length, 7, 'Six animated parts plus the bronze helmet finish')
+  assert.equal(gltf.meshes.length, 1, 'The guide must be one skinned model')
+  assert.equal(primitives.length, 2, 'Only the matte and bronze finishes need separate draws')
+  assert.equal(gltf.skins.length, 1)
+  assert.equal(gltf.skins[0].joints.length, 14, 'Dance rig includes hips, spine, elbows, knees, and feet')
+  for (const primitive of primitives) {
+    assert.ok('JOINTS_0' in primitive.attributes && 'WEIGHTS_0' in primitive.attributes, 'The continuous surface must deform with the skeleton')
+  }
   assert.equal(gltf.materials.length, 2, 'Matte figure and bronze helmet share vertex colors without textures')
   assert.ok(!gltf.textures?.length, 'The helmet must not add texture downloads')
   for (const name of ['Head', 'ArmL', 'ArmR', 'LegL', 'LegR']) {

@@ -1,10 +1,10 @@
 import { CameraControls } from '@react-three/drei'
-import { Canvas, useThree } from '@react-three/fiber'
-import { useEffect, useRef } from 'react'
+import { Canvas, events, useThree } from '@react-three/fiber'
+import { useEffect, useRef, useState } from 'react'
 import type { BuildingCode } from '../../data/campus'
 import type { Cell } from '../../data/floorplan'
 import type { Route } from '../../lib/routing'
-import { buildingFrame, roomFacingAngle } from '../../lib/map-camera'
+import { buildingFrame, roomFacingAngle, roomLabelsVisible } from '../../lib/map-camera'
 import type { LayerKey, MapLocation, View } from '../../lib/types'
 import { BuildingScene } from './BuildingScene'
 import { LabelLayerContext } from './MapHtml'
@@ -42,6 +42,7 @@ export function MapCanvas(props: Props) {
   const { view, route, layers } = props
   const controls = useRef<CameraControls>(null)
   const labelLayer = useRef<HTMLDivElement>(null)
+  const [showRoomLabels, setShowRoomLabels] = useState(true)
 
 
   const outdoor = route?.legs.find((l) => l.kind === 'outdoor')
@@ -54,6 +55,7 @@ export function MapCanvas(props: Props) {
     <div data-floor-map className="relative h-full w-full" style={{ cursor: props.placingCurrentLocation ? 'grabbing' : undefined }}>
       <LabelLayerContext.Provider value={labelLayer}>
       <Canvas
+        events={state => ({ ...events(state), filter: intersections => intersections.sort((a, b) => Number(!!b.object.userData.locationGuide) - Number(!!a.object.userData.locationGuide)) })}
         shadows="percentage"
         dpr={[1, 2]}
         flat
@@ -87,6 +89,7 @@ export function MapCanvas(props: Props) {
             floor={view.floor}
             allFloors={view.allFloors}
             layers={layers}
+            showRoomLabels={showRoomLabels}
             highlights={props.highlights}
             selectedCell={props.selectedCell}
             currentLocation={props.currentLocation}
@@ -101,6 +104,10 @@ export function MapCanvas(props: Props) {
         )}
         <CameraControls
           ref={controls}
+          onUpdate={() => {
+            const cameraControls = controls.current
+            if (cameraControls) setShowRoomLabels((visible) => roomLabelsVisible(cameraControls.distance, cameraControls.maxDistance, visible))
+          }}
           enabled={!props.placingCurrentLocation}
           makeDefault
           minDistance={12}

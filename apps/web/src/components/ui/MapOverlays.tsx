@@ -19,11 +19,12 @@ import type { Route, StepIcon } from '../../lib/routing'
 import { COLORS, type LayerKey, type View } from '../../lib/types'
 import { RestroomIcon } from '../map/RestroomIcon'
 import { WheelchairIcon } from '../map/WheelchairIcon'
+import { StairsIcon } from '../map/StairsIcon'
 
-const STEP_ICONS: Record<StepIcon, typeof DoorOpen> = {
+const STEP_ICONS: Record<StepIcon, ComponentType<{ className?: string }>> = {
   start: DoorOpen,
   walk: Footprints,
-  stairs: Footprints,
+  stairs: StairsIcon,
   elevator: ArrowUpDown,
   arrive: Flag,
   outdoor: TreePine,
@@ -36,7 +37,7 @@ const LAYER_META: { key: LayerKey; label: string; icon: ComponentType<{ classNam
   { key: 'womensRestrooms', label: 'Women’s restrooms', icon: (props) => <RestroomIcon {...props} women />, color: COLORS.restroom },
   { key: 'ramps', label: 'Wheelchair ramps', icon: WheelchairIcon, color: COLORS.accessible },
   { key: 'elevators', label: 'Elevators', icon: ArrowUpDown, color: COLORS.accessible },
-  { key: 'stairs', label: 'Stairs', icon: Footprints, color: '#3f3f46' },
+  { key: 'stairs', label: 'Stairs', icon: StairsIcon, color: '#3f3f46' },
   { key: 'entrances', label: 'Entrances', icon: DoorOpen, color: COLORS.entrance },
   { key: 'exits', label: 'Emergency exits', icon: DoorOpen, color: COLORS.exit },
 ]

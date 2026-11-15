@@ -3,7 +3,18 @@ import { test } from 'node:test'
 import { PerspectiveCamera, Vector3 } from 'three'
 import { BUILDINGS } from '../src/data/campus'
 import { cellCenter, floorY, getLayout, getLevels, planBounds } from '../src/data/floorplan'
-import { buildingFrame, roomFacingAngle } from '../src/lib/map-camera'
+import { buildingFrame, roomFacingAngle, roomLabelsVisible } from '../src/lib/map-camera'
+
+test('room labels hide at the dynamic zoom limit and restore without flickering', () => {
+  for (const max of [160, 300, 500]) {
+    assert.equal(roomLabelsVisible(max * 0.994, max, true), true)
+    assert.equal(roomLabelsVisible(max * 0.995, max, true), false)
+    assert.equal(roomLabelsVisible(max, max, false), false)
+    assert.equal(roomLabelsVisible(max * 0.992, max, false), false)
+    assert.equal(roomLabelsVisible(max * 0.989, max, false), true)
+    assert.equal(roomLabelsVisible(max / 2, max, false), true)
+  }
+})
 
 test('close framing keeps every floor in view on desktop and mobile, from either side', () => {
   for (const building of BUILDINGS) for (const aspect of [0.55, 1.25, 2]) for (const angle of [0, Math.PI / 2, Math.PI, -Math.PI / 2]) {

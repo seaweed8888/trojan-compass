@@ -206,13 +206,15 @@ Exit markers describe locations; they do not constitute an evacuation-routing fe
 
 ## Trojan guide: appearance, animation, and assets
 
-Use the current **blobby, faceless gold figure**, with no visible neck, thick arms
-connected at the shoulders, a bronze Trojan helmet, and a cardinal crest. Do not
+Use the current **user-supplied Animal Crossing character template**, recolored
+USC gold, with its ears removed, arms lowered, and a fitted bronze Trojan helmet
+and cardinal crest. The source is `scripts/assets/animal_crossing_character.glb`.
+Its large round head and short body replace the earlier procedural figure. Do not
 use the earlier detailed Tommy Trojan mascot-suit model.
 
 The guide marks the manually chosen current location with “You are here.” It is
 exaggerated for visibility, not a huge avatar covering the building. The web model
-is approximately 2.4 model units tall and displayed at a nominal 4.1 metres after
+is approximately 2.35 model units tall and displayed at a nominal 4.1 metres after
 the web scene’s scale conversion. Preserve perceived visibility on mobile rather
 than copying the number into a different coordinate system.
 
@@ -230,8 +232,9 @@ placed guide to reposition it. Provide tap-to-place as an alternative to draggin
 | [TommyTrojanModel.tsx](apps/web/src/components/map/TommyTrojanModel.tsx) | Scale, nape anchor, asset loading, clip attachment |
 | [TommyTrojan.tsx](apps/web/src/components/map/TommyTrojan.tsx) | Picking, carrying, dropping, and off-floor marker behavior |
 
-At handoff the GLB is about 162 KB, with 5,080 triangles, six meshes, two materials,
-and seven render primitives. It has no texture downloads. Animation lives in the
+The updated GLB is about 192 KB, with fewer than 6,000 triangles, one skinned mesh, two materials,
+and two render primitives. The gold body is a connected, smoothed surface, with
+blended shoulder weights and a 14-bone skeleton. It has no texture downloads. Animation lives in the
 TypeScript clip, **not inside the GLB**: five pivots named `Head`, `ArmL`, `ArmR`,
 `LegL`, and `LegR`, seven poses over 2.4 seconds. Preserve those pivots or remap
 them when converting the asset for the selected native renderer.
@@ -431,3 +434,13 @@ the repository root. Campus runs on port 3001; interiors on port 3000. Optional
 
 This handoff was checked against source files. Native implementation, backend
 availability, authoritative campus data, and device performance remain unverified.
+
+
+### Guide dance parity
+
+Double-tap the placed guide to choose randomly among three retargeted dances;
+finish in the rest pose and cancel the dance when dragging starts. The web asset
+`apps/web/public/models/trojan-dances.json` stores Three.js quaternion tracks for
+the 14-bone guide plus root height. Convert those tracks to native animations
+against the same bind skeleton; do not import the Fortnite meshes. Keep this
+optional animation download cached and separate from the initial map load.

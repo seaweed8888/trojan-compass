@@ -1,13 +1,13 @@
 import { useFrame, useThree } from '@react-three/fiber'
 import { Grab, MapPin } from 'lucide-react'
-import { useEffect, useRef } from 'react'
+import { useCallback, useEffect, useRef, useState } from 'react'
 import { Group, Mesh, MeshBasicMaterial, Plane, Raycaster, Vector2, Vector3 } from 'three'
 import { cellCenter, cellTitle, floorName, floorY, metersPerUnit, type FloorLayout } from '../../data/floorplan'
 import { mapLocationAt } from '../../lib/map-location'
 import { advanceCarrySwing, createCarrySwing } from '../../lib/mascot-motion'
 import type { MapLocation } from '../../lib/types'
 import { MapHtml } from './MapHtml'
-import { TOMMY_HEIGHT_METERS, TOMMY_MODEL_HEIGHT, TOMMY_NAPE, TommyTrojanModel } from './TommyTrojanModel'
+import { TOMMY_HEIGHT_METERS, TOMMY_MODEL_HEIGHT, TOMMY_NAPE, TommyTrojanModel, type GuideDance } from './TommyTrojanModel'
 
 export function CurrentLocationPin({ location, onSelect }: { location: MapLocation; onSelect: () => void }) {
   return (
@@ -22,6 +22,51 @@ export function CurrentLocationPin({ location, onSelect }: { location: MapLocati
 }
 
 export function TommyTrojanMarker({ location, onGrab }: { location: MapLocation; onGrab: () => void }) {
+  const [dance, setDance] = useState<GuideDance>()
+  const [danceError, setDanceError] = useState(false)
+  const clickTimer = useRef<ReturnType<typeof setTimeout> | undefined>(undefined)
+  const pointer = useRef<{ x: number; y: number; id: number } | null>(null)
+  const danceEnded = useCallback((token: number, failed = false) => {
+    setDance(current => current?.token === token ? undefined : current)
+    setDanceError(failed)
+  }, [])
+  useEffect(() => {
+    const move = (event: PointerEvent) => {
+      const start = pointer.current
+      if (!start || start.id !== event.pointerId || Math.hypot(event.clientX - start.x, event.clientY - start.y) < 6) return
+      pointer.current = null
+      clearTimeout(clickTimer.current)
+      onGrab()
+    }
+    const release = () => { pointer.current = null }
+    window.addEventListener('pointermove', move)
+    window.addEventListener('pointerup', release)
+    window.addEventListener('pointercancel', release)
+    return () => {
+      clearTimeout(clickTimer.current)
+      window.removeEventListener('pointermove', move)
+      window.removeEventListener('pointerup', release)
+      window.removeEventListener('pointercancel', release)
+    }
+  }, [onGrab])
+  const press = (event: { button: number; clientX: number; clientY: number; pointerId: number; stopPropagation: () => void }) => {
+    if (event.button !== 0) return
+    event.stopPropagation()
+    pointer.current = { x: event.clientX, y: event.clientY, id: event.pointerId }
+  }
+  const click = (event: { detail: number; stopPropagation: () => void }) => {
+    event.stopPropagation()
+    clearTimeout(clickTimer.current)
+    if (event.detail === 0) { onGrab(); return }
+    if (event.detail === 1) clickTimer.current = setTimeout(onGrab, 400)
+  }
+  const danceNow = (event: { stopPropagation: () => void }) => {
+    event.stopPropagation()
+    clearTimeout(clickTimer.current)
+    pointer.current = null
+    setDanceError(false)
+    setDance({ index: Math.floor(Math.random() * 3), token: performance.now() })
+  }
   const scale = TOMMY_HEIGHT_METERS / (TOMMY_MODEL_HEIGHT * metersPerUnit(location.building))
   const body = useRef<Group>(null)
   const fall = useRef({ height: scale * 0.7, velocity: 0 })
@@ -39,11 +84,13 @@ export function TommyTrojanMarker({ location, onGrab }: { location: MapLocation;
   return (
     <group position={[location.x, floorY(location.floor) + 0.04, location.z]}>
       <mesh rotation={[-Math.PI / 2, 0, 0]} scale={scale}><ringGeometry args={[0.26, 0.3, 32]} /><meshBasicMaterial color="#990000" transparent opacity={0.7} depthWrite={false} /></mesh>
-      <group ref={body} onPointerDown={(event) => { event.stopPropagation(); onGrab() }}><group scale={scale}><TommyTrojanModel /></group></group>
+      <group ref={body} onPointerDown={press} onClick={click} onDoubleClick={danceNow}><group scale={scale}><TommyTrojanModel dance={dance} onDanceEnd={danceEnded} /></group></group>
       <MapHtml position={[0, 0, scale * 0.38]} center zIndexRange={[25, 21]}>
-        <button onPointerDown={onGrab} onClick={onGrab} aria-label="Move Trojan guide to a new current location" className="whitespace-nowrap rounded-full bg-cardinal px-2 py-0.5 text-[10px] font-bold text-white shadow-sm">
+        <button onPointerDown={press} onClick={click} onDoubleClick={danceNow} onKeyDown={event => { if (event.key.toLowerCase() === 'd') { event.preventDefault(); danceNow(event) } }}
+          data-dance={dance?.index} title="Drag to move · Double-click or press D to dance" aria-label="Move Trojan guide to a new current location" className="whitespace-nowrap rounded-full bg-cardinal px-2 py-0.5 text-[10px] font-bold text-white shadow-sm">
           <span role="img" aria-label={`Trojan guide · Current location: ${location.label}`}>You are here</span>
         </button>
+        {danceError && <span role="status" className="block whitespace-nowrap rounded bg-white px-2 text-[10px] text-cardinal">Dance unavailable. Double-click to retry.</span>}
       </MapHtml>
     </group>
   )
