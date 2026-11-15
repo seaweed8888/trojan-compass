@@ -1,0 +1,23 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### Node / build output ###
+node_modules/
+.next/
+dist/
+out/
+coverage/
+*.tsbuildinfo
+*.log
+
+### Local environment ###
+.env
+.env.*
+!.env.example
+.DS_Store
