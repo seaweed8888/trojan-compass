@@ -1,3 +1,4 @@
+For the AI@USC Hackathon 11/14 - 11/15 2026 
 # Trojan Compass
 
 **Find the building. Find the floor. Find your room.**
