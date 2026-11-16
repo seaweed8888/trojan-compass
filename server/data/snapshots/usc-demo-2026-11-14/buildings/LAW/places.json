@@ -1,0 +1,6720 @@
+[
+  {
+    "id": "LAW-1",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "Classroom",
+    "displayLabel": "LAW 1",
+    "roomNumber": "1",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 1",
+      "LAW 1"
+    ],
+    "position": {
+      "x": -38.68,
+      "y": -3.4,
+      "z": -3.920000000000001
+    },
+    "sceneObjectKey": "LAW-1:object",
+    "bounds": {
+      "min": {
+        "x": -45.199999999999996,
+        "y": -3.4,
+        "z": -19.84
+      },
+      "max": {
+        "x": -32.16,
+        "y": -2.55,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-1:access",
+        "nodeId": "LAW:0:cell:LAW-1",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -38.68,
+          "y": -3.4,
+          "z": -3.920000000000001
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-3",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "Classroom",
+    "displayLabel": "LAW 3",
+    "roomNumber": "3",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 3",
+      "LAW 3"
+    ],
+    "position": {
+      "x": -21.999999999999996,
+      "y": -3.4,
+      "z": -3.8
+    },
+    "sceneObjectKey": "LAW-3:object",
+    "bounds": {
+      "min": {
+        "x": -29.199999999999996,
+        "y": -3.4,
+        "z": -13.999999999999998
+      },
+      "max": {
+        "x": -14.8,
+        "y": -2.55,
+        "z": 6.3999999999999995
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-3:access",
+        "nodeId": "LAW:0:cell:LAW-3",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21.999999999999996,
+          "y": -3.4,
+          "z": -3.8
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-7",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "Classroom",
+    "displayLabel": "LAW 7",
+    "roomNumber": "7",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 7",
+      "LAW 7"
+    ],
+    "position": {
+      "x": 0.1200000000000001,
+      "y": -3.4,
+      "z": -3.8
+    },
+    "sceneObjectKey": "LAW-7:object",
+    "bounds": {
+      "min": {
+        "x": -6,
+        "y": -3.4,
+        "z": -13.999999999999998
+      },
+      "max": {
+        "x": 6.24,
+        "y": -2.55,
+        "z": 6.3999999999999995
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-7:access",
+        "nodeId": "LAW:0:cell:LAW-7",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0.1200000000000001,
+          "y": -3.4,
+          "z": -3.8
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-2",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "Classroom",
+    "displayLabel": "LAW 2",
+    "roomNumber": "2",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 2",
+      "LAW 2"
+    ],
+    "position": {
+      "x": -1.68,
+      "y": -3.4,
+      "z": 12.08
+    },
+    "sceneObjectKey": "LAW-2:object",
+    "bounds": {
+      "min": {
+        "x": -8.16,
+        "y": -3.4,
+        "z": 8.56
+      },
+      "max": {
+        "x": 4.8,
+        "y": -2.55,
+        "z": 15.6
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-2:access",
+        "nodeId": "LAW:0:cell:LAW-2",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -1.68,
+          "y": -3.4,
+          "z": 12.08
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-12",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "Seminar Room",
+    "displayLabel": "LAW 12",
+    "roomNumber": "12",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 12",
+      "LAW 12"
+    ],
+    "position": {
+      "x": -1.68,
+      "y": -3.4,
+      "z": -20.52
+    },
+    "sceneObjectKey": "LAW-12:object",
+    "bounds": {
+      "min": {
+        "x": -8.16,
+        "y": -3.4,
+        "z": -24.8
+      },
+      "max": {
+        "x": 4.8,
+        "y": -2.55,
+        "z": -16.24
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-12:access",
+        "nodeId": "LAW:0:cell:LAW-12",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -1.68,
+          "y": -3.4,
+          "z": -20.52
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-18",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "Affinity Group Lounge",
+    "displayLabel": "LAW 18",
+    "roomNumber": "18",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 18",
+      "LAW 18"
+    ],
+    "position": {
+      "x": -22.000000000000004,
+      "y": -3.4,
+      "z": -19.8
+    },
+    "sceneObjectKey": "LAW-18:object",
+    "bounds": {
+      "min": {
+        "x": -26,
+        "y": -3.4,
+        "z": -23.359999999999996
+      },
+      "max": {
+        "x": -18,
+        "y": -2.55,
+        "z": -16.24
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-18:access",
+        "nodeId": "LAW:0:cell:LAW-18",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -22.000000000000004,
+          "y": -3.4,
+          "z": -19.8
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-16",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "Law Journals",
+    "displayLabel": "LAW 16",
+    "roomNumber": "16",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 16",
+      "LAW 16"
+    ],
+    "position": {
+      "x": -15.88,
+      "y": -3.4,
+      "z": -20.52
+    },
+    "sceneObjectKey": "LAW-16:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": -3.4,
+        "z": -24.8
+      },
+      "max": {
+        "x": -13.76,
+        "y": -2.55,
+        "z": -16.24
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-16:access",
+        "nodeId": "LAW:0:cell:LAW-16",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -15.88,
+          "y": -3.4,
+          "z": -20.52
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-17",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "Moot Court Office",
+    "displayLabel": "LAW 17",
+    "roomNumber": "17",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 17",
+      "LAW 17"
+    ],
+    "position": {
+      "x": -10.999999999999998,
+      "y": -3.4,
+      "z": -12.2
+    },
+    "sceneObjectKey": "LAW-17:object",
+    "bounds": {
+      "min": {
+        "x": -14.399999999999999,
+        "y": -3.4,
+        "z": -13.999999999999998
+      },
+      "max": {
+        "x": -7.6,
+        "y": -2.55,
+        "z": -10.399999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-17:access",
+        "nodeId": "LAW:0:cell:LAW-17",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -10.999999999999998,
+          "y": -3.4,
+          "z": -12.2
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-4",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "Student Bar Association",
+    "displayLabel": "LAW 4",
+    "roomNumber": "4",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 4",
+      "LAW 4"
+    ],
+    "position": {
+      "x": 7.000000000000001,
+      "y": -3.4,
+      "z": 12.08
+    },
+    "sceneObjectKey": "LAW-4:object",
+    "bounds": {
+      "min": {
+        "x": 4.8,
+        "y": -3.4,
+        "z": 8.56
+      },
+      "max": {
+        "x": 9.2,
+        "y": -2.55,
+        "z": 15.6
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-4:access",
+        "nodeId": "LAW:0:cell:LAW-4",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.000000000000001,
+          "y": -3.4,
+          "z": 12.08
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-6",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "PILF Office",
+    "displayLabel": "LAW 6",
+    "roomNumber": "6",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 6",
+      "LAW 6"
+    ],
+    "position": {
+      "x": 11.28,
+      "y": -3.4,
+      "z": 9.04
+    },
+    "sceneObjectKey": "LAW-6:object",
+    "bounds": {
+      "min": {
+        "x": 9.6,
+        "y": -3.4,
+        "z": 5.4399999999999995
+      },
+      "max": {
+        "x": 12.96,
+        "y": -2.55,
+        "z": 12.639999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-6:access",
+        "nodeId": "LAW:0:cell:LAW-6",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 11.28,
+          "y": -3.4,
+          "z": 9.04
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-B9",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "Dining Room",
+    "displayLabel": "LAW B9",
+    "roomNumber": "B9",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "LAW B9",
+      "LAW B9"
+    ],
+    "position": {
+      "x": 23.4,
+      "y": -3.4,
+      "z": 2.4
+    },
+    "sceneObjectKey": "LAW-B9:object",
+    "bounds": {
+      "min": {
+        "x": 16.8,
+        "y": -3.4,
+        "z": -7.199999999999999
+      },
+      "max": {
+        "x": 30,
+        "y": -2.55,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-B9:access",
+        "nodeId": "LAW:0:cell:LAW-B9",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 23.4,
+          "y": -3.4,
+          "z": 2.4
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-B9F",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "Student Lockers",
+    "displayLabel": "LAW B9F",
+    "roomNumber": "B9F",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "LAW B9F",
+      "LAW B9F"
+    ],
+    "position": {
+      "x": 20.6,
+      "y": -3.4,
+      "z": -18.2
+    },
+    "sceneObjectKey": "LAW-B9F:object",
+    "bounds": {
+      "min": {
+        "x": 12.4,
+        "y": -3.4,
+        "z": -23.6
+      },
+      "max": {
+        "x": 28.799999999999997,
+        "y": -2.55,
+        "z": -12.799999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-B9F:access",
+        "nodeId": "LAW:0:cell:LAW-B9F",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 20.6,
+          "y": -3.4,
+          "z": -18.2
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-0-restroom",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "Restrooms",
+    "displayLabel": "LAW restrooms, basement",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "LAW restrooms, basement"
+    ],
+    "position": {
+      "x": -10.2,
+      "y": -3.4,
+      "z": -6
+    },
+    "sceneObjectKey": "LAW-0-restroom:object",
+    "bounds": {
+      "min": {
+        "x": -13.999999999999998,
+        "y": -3.4,
+        "z": -9.2
+      },
+      "max": {
+        "x": -6.3999999999999995,
+        "y": -2.55,
+        "z": -2.8000000000000003
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-0-restroom:access",
+        "nodeId": "LAW:0:cell:LAW-0-restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -10.2,
+          "y": -3.4,
+          "z": -6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-0-restroom-2",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "Restrooms",
+    "displayLabel": "LAW restrooms, basement",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "LAW restrooms, basement"
+    ],
+    "position": {
+      "x": 13.799999999999999,
+      "y": -3.4,
+      "z": -9.2
+    },
+    "sceneObjectKey": "LAW-0-restroom-2:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": -3.4,
+        "z": -11.200000000000001
+      },
+      "max": {
+        "x": 17.599999999999998,
+        "y": -2.55,
+        "z": -7.199999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-0-restroom-2:access",
+        "nodeId": "LAW:0:cell:LAW-0-restroom-2",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 13.799999999999999,
+          "y": -3.4,
+          "z": -9.2
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-0-stairsNW",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "West stairs",
+    "displayLabel": "LAW west stairs, basement",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW west stairs, basement"
+    ],
+    "position": {
+      "x": -10.799999999999999,
+      "y": -3.4,
+      "z": 10.2
+    },
+    "sceneObjectKey": "LAW-0-stairsNW:object",
+    "bounds": {
+      "min": {
+        "x": -12.799999999999999,
+        "y": -3.4,
+        "z": 8.799999999999999
+      },
+      "max": {
+        "x": -8.799999999999999,
+        "y": -2.55,
+        "z": 11.6
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-0-stairsNW:access",
+        "nodeId": "LAW:0:cell:LAW-0-stairsNW",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -10.799999999999999,
+          "y": -3.4,
+          "z": 10.2
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-0-stairsNE",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "East stairs",
+    "displayLabel": "LAW east stairs, basement",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW east stairs, basement"
+    ],
+    "position": {
+      "x": -12,
+      "y": -3.4,
+      "z": -18.599999999999998
+    },
+    "sceneObjectKey": "LAW-0-stairsNE:object",
+    "bounds": {
+      "min": {
+        "x": -13.6,
+        "y": -3.4,
+        "z": -20.4
+      },
+      "max": {
+        "x": -10.399999999999999,
+        "y": -2.55,
+        "z": -16.8
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-0-stairsNE:access",
+        "nodeId": "LAW:0:cell:LAW-0-stairsNE",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12,
+          "y": -3.4,
+          "z": -18.599999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-0-stairsSW",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "South-west stairs",
+    "displayLabel": "LAW south-west stairs, basement",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW south-west stairs, basement"
+    ],
+    "position": {
+      "x": 14.799999999999997,
+      "y": -3.4,
+      "z": 9
+    },
+    "sceneObjectKey": "LAW-0-stairsSW:object",
+    "bounds": {
+      "min": {
+        "x": 13.2,
+        "y": -3.4,
+        "z": 6.56
+      },
+      "max": {
+        "x": 16.4,
+        "y": -2.55,
+        "z": 11.44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-0-stairsSW:access",
+        "nodeId": "LAW:0:cell:LAW-0-stairsSW",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14.799999999999997,
+          "y": -3.4,
+          "z": 9
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-0-stairsSE",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "South-east stairs",
+    "displayLabel": "LAW south-east stairs, basement",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW south-east stairs, basement"
+    ],
+    "position": {
+      "x": 34.4,
+      "y": -3.4,
+      "z": -18
+    },
+    "sceneObjectKey": "LAW-0-stairsSE:object",
+    "bounds": {
+      "min": {
+        "x": 32.8,
+        "y": -3.4,
+        "z": -19.599999999999998
+      },
+      "max": {
+        "x": 36,
+        "y": -2.55,
+        "z": -16.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-0-stairsSE:access",
+        "nodeId": "LAW:0:cell:LAW-0-stairsSE",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 34.4,
+          "y": -3.4,
+          "z": -18
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-0-elevatorEC",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "Central elevator",
+    "displayLabel": "LAW central elevator, basement",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LAW central elevator, basement"
+    ],
+    "position": {
+      "x": -12.4,
+      "y": -3.4,
+      "z": 0.8
+    },
+    "sceneObjectKey": "LAW-0-elevatorEC:object",
+    "bounds": {
+      "min": {
+        "x": -13.6,
+        "y": -3.4,
+        "z": -0.7999999999999999
+      },
+      "max": {
+        "x": -11.200000000000001,
+        "y": -2.55,
+        "z": 2.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-0-elevatorEC:access",
+        "nodeId": "LAW:0:cell:LAW-0-elevatorEC",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12.4,
+          "y": -3.4,
+          "z": 0.8
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-0-elevatorES",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "South elevator",
+    "displayLabel": "LAW south elevator, basement",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LAW south elevator, basement"
+    ],
+    "position": {
+      "x": 36.6,
+      "y": -3.4,
+      "z": -14.799999999999997
+    },
+    "sceneObjectKey": "LAW-0-elevatorES:object",
+    "bounds": {
+      "min": {
+        "x": 35.199999999999996,
+        "y": -3.4,
+        "z": -16.4
+      },
+      "max": {
+        "x": 38,
+        "y": -2.55,
+        "z": -13.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-0-elevatorES:access",
+        "nodeId": "LAW:0:cell:LAW-0-elevatorES",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 36.6,
+          "y": -3.4,
+          "z": -14.799999999999997
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-EXIT-0-PATIO",
+    "buildingId": "LAW",
+    "floorId": "0",
+    "name": "dining patio exit",
+    "displayLabel": "LAW dining patio exit",
+    "roomNumber": null,
+    "kind": "emergency_exit",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": 24.4,
+      "y": -3.4,
+      "z": 11.84
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "LAW:0:patio:access",
+        "nodeId": "LAW:0:patio",
+        "label": "dining patio exit",
+        "position": {
+          "x": 24.4,
+          "y": -3.4,
+          "z": 11.84
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": false,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-100",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "Personnel & Undergraduate Programs",
+    "displayLabel": "LAW 100",
+    "roomNumber": "100",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 100",
+      "LAW 100"
+    ],
+    "position": {
+      "x": -20.640000000000004,
+      "y": 0,
+      "z": 16.04
+    },
+    "sceneObjectKey": "LAW-100:object",
+    "bounds": {
+      "min": {
+        "x": -24.64,
+        "y": 0,
+        "z": 11.44
+      },
+      "max": {
+        "x": -16.64,
+        "y": 0.85,
+        "z": 20.639999999999997
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-100:access",
+        "nodeId": "LAW:1:cell:LAW-100",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -20.640000000000004,
+          "y": 0,
+          "z": 16.04
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-104",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "Student Affairs Office",
+    "displayLabel": "LAW 104",
+    "roomNumber": "104",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 104",
+      "LAW 104"
+    ],
+    "position": {
+      "x": -2.1999999999999997,
+      "y": 0,
+      "z": 16.24
+    },
+    "sceneObjectKey": "LAW-104:object",
+    "bounds": {
+      "min": {
+        "x": -11.6,
+        "y": 0,
+        "z": 11.84
+      },
+      "max": {
+        "x": 7.199999999999999,
+        "y": 0.85,
+        "z": 20.639999999999997
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-104:access",
+        "nodeId": "LAW:1:cell:LAW-104",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -2.1999999999999997,
+          "y": 0,
+          "z": 16.24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-101",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "LAW 101",
+    "roomNumber": "101",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 101",
+      "LAW 101"
+    ],
+    "position": {
+      "x": -21.319999999999997,
+      "y": 0,
+      "z": 3.1999999999999997
+    },
+    "sceneObjectKey": "LAW-101:object",
+    "bounds": {
+      "min": {
+        "x": -25.84,
+        "y": 0,
+        "z": -3.0399999999999996
+      },
+      "max": {
+        "x": -16.8,
+        "y": 0.85,
+        "z": 9.44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-101:access",
+        "nodeId": "LAW:1:cell:LAW-101",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21.319999999999997,
+          "y": 0,
+          "z": 3.1999999999999997
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-103",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "LAW 103",
+    "roomNumber": "103",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 103",
+      "LAW 103"
+    ],
+    "position": {
+      "x": -4.919999999999999,
+      "y": 0,
+      "z": 3.1999999999999997
+    },
+    "sceneObjectKey": "LAW-103:object",
+    "bounds": {
+      "min": {
+        "x": -9.44,
+        "y": 0,
+        "z": -3.0399999999999996
+      },
+      "max": {
+        "x": -0.39999999999999997,
+        "y": 0.85,
+        "z": 9.44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-103:access",
+        "nodeId": "LAW:1:cell:LAW-103",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -4.919999999999999,
+          "y": 0,
+          "z": 3.1999999999999997
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-130",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "LAW 130",
+    "roomNumber": "130",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 130",
+      "LAW 130"
+    ],
+    "position": {
+      "x": -21.319999999999997,
+      "y": 0,
+      "z": -9.719999999999999
+    },
+    "sceneObjectKey": "LAW-130:object",
+    "bounds": {
+      "min": {
+        "x": -25.84,
+        "y": 0,
+        "z": -14.24
+      },
+      "max": {
+        "x": -16.8,
+        "y": 0.85,
+        "z": -5.199999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-130:access",
+        "nodeId": "LAW:1:cell:LAW-130",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21.319999999999997,
+          "y": 0,
+          "z": -9.719999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-124",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "Admissions & Financial Aid",
+    "displayLabel": "LAW 124",
+    "roomNumber": "124",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 124",
+      "LAW 124"
+    ],
+    "position": {
+      "x": -2.7999999999999994,
+      "y": 0,
+      "z": -9.639999999999999
+    },
+    "sceneObjectKey": "LAW-124:object",
+    "bounds": {
+      "min": {
+        "x": -11.6,
+        "y": 0,
+        "z": -14.079999999999998
+      },
+      "max": {
+        "x": 6,
+        "y": 0.85,
+        "z": -5.199999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-124:access",
+        "nodeId": "LAW:1:cell:LAW-124",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -2.7999999999999994,
+          "y": 0,
+          "z": -9.639999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-107",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "Courtroom",
+    "displayLabel": "LAW 107",
+    "roomNumber": "107",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 107",
+      "LAW 107"
+    ],
+    "position": {
+      "x": 17.4,
+      "y": 0,
+      "z": 0.3199999999999999
+    },
+    "sceneObjectKey": "LAW-107:object",
+    "bounds": {
+      "min": {
+        "x": 12.4,
+        "y": 0,
+        "z": -5.76
+      },
+      "max": {
+        "x": 22.400000000000002,
+        "y": 0.85,
+        "z": 6.3999999999999995
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-107:access",
+        "nodeId": "LAW:1:cell:LAW-107",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 17.4,
+          "y": 0,
+          "z": 0.3199999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-106",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "Seminar Room",
+    "displayLabel": "LAW 106",
+    "roomNumber": "106",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 106",
+      "LAW 106"
+    ],
+    "position": {
+      "x": 17,
+      "y": 0,
+      "z": 8.92
+    },
+    "sceneObjectKey": "LAW-106:object",
+    "bounds": {
+      "min": {
+        "x": 12.799999999999999,
+        "y": 0,
+        "z": 6.3999999999999995
+      },
+      "max": {
+        "x": 21.2,
+        "y": 0.85,
+        "z": 11.44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-106:access",
+        "nodeId": "LAW:1:cell:LAW-106",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 17,
+          "y": 0,
+          "z": 8.92
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-105",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "Graduate & International Programs",
+    "displayLabel": "LAW 105",
+    "roomNumber": "105",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 105",
+      "LAW 105"
+    ],
+    "position": {
+      "x": 18.319999999999997,
+      "y": 0,
+      "z": 14.639999999999999
+    },
+    "sceneObjectKey": "LAW-105:object",
+    "bounds": {
+      "min": {
+        "x": 12.639999999999999,
+        "y": 0,
+        "z": 11.44
+      },
+      "max": {
+        "x": 24,
+        "y": 0.85,
+        "z": 17.84
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-105:access",
+        "nodeId": "LAW:1:cell:LAW-105",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 18.319999999999997,
+          "y": 0,
+          "z": 14.639999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-120",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "Seminar Room",
+    "displayLabel": "LAW 120",
+    "roomNumber": "120",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 120",
+      "LAW 120"
+    ],
+    "position": {
+      "x": 15.4,
+      "y": 0,
+      "z": -10.959999999999999
+    },
+    "sceneObjectKey": "LAW-120:object",
+    "bounds": {
+      "min": {
+        "x": 12.4,
+        "y": 0,
+        "z": -14.079999999999998
+      },
+      "max": {
+        "x": 18.4,
+        "y": 0.85,
+        "z": -7.84
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-120:access",
+        "nodeId": "LAW:1:cell:LAW-120",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 15.4,
+          "y": 0,
+          "z": -10.959999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-118",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "Seminar Room",
+    "displayLabel": "LAW 118",
+    "roomNumber": "118",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 118",
+      "LAW 118"
+    ],
+    "position": {
+      "x": 21.4,
+      "y": 0,
+      "z": -10.959999999999999
+    },
+    "sceneObjectKey": "LAW-118:object",
+    "bounds": {
+      "min": {
+        "x": 18.4,
+        "y": 0,
+        "z": -14.079999999999998
+      },
+      "max": {
+        "x": 24.4,
+        "y": 0.85,
+        "z": -7.84
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-118:access",
+        "nodeId": "LAW:1:cell:LAW-118",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21.4,
+          "y": 0,
+          "z": -10.959999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-114",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "Seminar Room",
+    "displayLabel": "LAW 114",
+    "roomNumber": "114",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 114",
+      "LAW 114"
+    ],
+    "position": {
+      "x": 33.919999999999995,
+      "y": 0,
+      "z": -10.959999999999999
+    },
+    "sceneObjectKey": "LAW-114:object",
+    "bounds": {
+      "min": {
+        "x": 29.44,
+        "y": 0,
+        "z": -14.079999999999998
+      },
+      "max": {
+        "x": 38.4,
+        "y": 0.85,
+        "z": -7.84
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-114:access",
+        "nodeId": "LAW:1:cell:LAW-114",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 33.919999999999995,
+          "y": 0,
+          "z": -10.959999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-110",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "Career Services Office",
+    "displayLabel": "LAW 110",
+    "roomNumber": "110",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 110",
+      "LAW 110"
+    ],
+    "position": {
+      "x": 41.48,
+      "y": 0,
+      "z": -5.3999999999999995
+    },
+    "sceneObjectKey": "LAW-110:object",
+    "bounds": {
+      "min": {
+        "x": 38.4,
+        "y": 0,
+        "z": -14.24
+      },
+      "max": {
+        "x": 44.559999999999995,
+        "y": 0.85,
+        "z": 3.44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-110:access",
+        "nodeId": "LAW:1:cell:LAW-110",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 41.48,
+          "y": 0,
+          "z": -5.3999999999999995
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-1-restroom",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "Restrooms",
+    "displayLabel": "LAW restrooms, floor 1",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "LAW restrooms, floor 1"
+    ],
+    "position": {
+      "x": -13.12,
+      "y": 0,
+      "z": 1.76
+    },
+    "sceneObjectKey": "LAW-1-restroom:object",
+    "bounds": {
+      "min": {
+        "x": -16.64,
+        "y": 0,
+        "z": -3.0399999999999996
+      },
+      "max": {
+        "x": -9.6,
+        "y": 0.85,
+        "z": 6.56
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-1-restroom:access",
+        "nodeId": "LAW:1:cell:LAW-1-restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -13.12,
+          "y": 0,
+          "z": 1.76
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-1-restroom-2",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "Restrooms",
+    "displayLabel": "LAW restrooms, floor 1",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "LAW restrooms, floor 1"
+    ],
+    "position": {
+      "x": 32.8,
+      "y": 0,
+      "z": -0.8
+    },
+    "sceneObjectKey": "LAW-1-restroom-2:object",
+    "bounds": {
+      "min": {
+        "x": 29.199999999999996,
+        "y": 0,
+        "z": -5.6000000000000005
+      },
+      "max": {
+        "x": 36.4,
+        "y": 0.85,
+        "z": 4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-1-restroom-2:access",
+        "nodeId": "LAW:1:cell:LAW-1-restroom-2",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 32.8,
+          "y": 0,
+          "z": -0.8
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-1-stairsNW",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "North-west stairs",
+    "displayLabel": "LAW north-west stairs, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW north-west stairs, floor 1"
+    ],
+    "position": {
+      "x": -26.200000000000003,
+      "y": 0,
+      "z": 12.919999999999998
+    },
+    "sceneObjectKey": "LAW-1-stairsNW:object",
+    "bounds": {
+      "min": {
+        "x": -27.599999999999998,
+        "y": 0,
+        "z": 11.44
+      },
+      "max": {
+        "x": -24.8,
+        "y": 0.85,
+        "z": 14.399999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-1-stairsNW:access",
+        "nodeId": "LAW:1:cell:LAW-1-stairsNW",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -26.200000000000003,
+          "y": 0,
+          "z": 12.919999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-1-stairsNE",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "North-east stairs",
+    "displayLabel": "LAW north-east stairs, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW north-east stairs, floor 1"
+    ],
+    "position": {
+      "x": -29.200000000000003,
+      "y": 0,
+      "z": -11.6
+    },
+    "sceneObjectKey": "LAW-1-stairsNE:object",
+    "bounds": {
+      "min": {
+        "x": -31.2,
+        "y": 0,
+        "z": -13.999999999999998
+      },
+      "max": {
+        "x": -27.2,
+        "y": 0.85,
+        "z": -9.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-1-stairsNE:access",
+        "nodeId": "LAW:1:cell:LAW-1-stairsNE",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -29.200000000000003,
+          "y": 0,
+          "z": -11.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-1-stairsSW",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "South-west stairs",
+    "displayLabel": "LAW south-west stairs, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW south-west stairs, floor 1"
+    ],
+    "position": {
+      "x": 26.4,
+      "y": 0,
+      "z": 9.6
+    },
+    "sceneObjectKey": "LAW-1-stairsSW:object",
+    "bounds": {
+      "min": {
+        "x": 24.8,
+        "y": 0,
+        "z": 6.3999999999999995
+      },
+      "max": {
+        "x": 27.999999999999996,
+        "y": 0.85,
+        "z": 12.799999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-1-stairsSW:access",
+        "nodeId": "LAW:1:cell:LAW-1-stairsSW",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 26.4,
+          "y": 0,
+          "z": 9.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-1-stairsSE",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "South-east stairs",
+    "displayLabel": "LAW south-east stairs, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW south-east stairs, floor 1"
+    ],
+    "position": {
+      "x": 26.4,
+      "y": 0,
+      "z": -10.72
+    },
+    "sceneObjectKey": "LAW-1-stairsSE:object",
+    "bounds": {
+      "min": {
+        "x": 24.8,
+        "y": 0,
+        "z": -13.6
+      },
+      "max": {
+        "x": 27.999999999999996,
+        "y": 0.85,
+        "z": -7.84
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-1-stairsSE:access",
+        "nodeId": "LAW:1:cell:LAW-1-stairsSE",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 26.4,
+          "y": 0,
+          "z": -10.72
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-1-elevatorEC",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "Central elevators",
+    "displayLabel": "LAW central elevators, floor 1",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LAW central elevators, floor 1"
+    ],
+    "position": {
+      "x": -14.559999999999999,
+      "y": 0,
+      "z": 8.079999999999998
+    },
+    "sceneObjectKey": "LAW-1-elevatorEC:object",
+    "bounds": {
+      "min": {
+        "x": -16.16,
+        "y": 0,
+        "z": 6.72
+      },
+      "max": {
+        "x": -12.96,
+        "y": 0.85,
+        "z": 9.44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-1-elevatorEC:access",
+        "nodeId": "LAW:1:cell:LAW-1-elevatorEC",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14.559999999999999,
+          "y": 0,
+          "z": 8.079999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-1-elevatorES",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "South elevator",
+    "displayLabel": "LAW south elevator, floor 1",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LAW south elevator, floor 1"
+    ],
+    "position": {
+      "x": 26.4,
+      "y": 0,
+      "z": -0.8
+    },
+    "sceneObjectKey": "LAW-1-elevatorES:object",
+    "bounds": {
+      "min": {
+        "x": 24.8,
+        "y": 0,
+        "z": -2.4
+      },
+      "max": {
+        "x": 27.999999999999996,
+        "y": 0.85,
+        "z": 0.7999999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-1-elevatorES:access",
+        "nodeId": "LAW:1:cell:LAW-1-elevatorES",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 26.4,
+          "y": 0,
+          "z": -0.8
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-ENT",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "north main entrance",
+    "displayLabel": "LAW north main entrance",
+    "roomNumber": null,
+    "kind": "entrance",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": -31.599999999999998,
+      "y": 0,
+      "z": 3.1999999999999997
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "LAW:1:entrance:access",
+        "nodeId": "LAW:1:entrance",
+        "label": "north main entrance",
+        "position": {
+          "x": -31.599999999999998,
+          "y": 0,
+          "z": 3.1999999999999997
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-ENT-EAST",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "east ramp entrance",
+    "displayLabel": "LAW east ramp entrance",
+    "roomNumber": null,
+    "kind": "entrance",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": 9.6,
+      "y": 0,
+      "z": -14.24
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "LAW:1:east:access",
+        "nodeId": "LAW:1:east",
+        "label": "east ramp entrance",
+        "position": {
+          "x": 9.6,
+          "y": 0,
+          "z": -14.24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": true,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-ENT-WEST",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "name": "west entrance",
+    "displayLabel": "LAW west entrance",
+    "roomNumber": null,
+    "kind": "entrance",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": 9.6,
+      "y": 0,
+      "z": 18
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "LAW:1:west:access",
+        "nodeId": "LAW:1:west",
+        "label": "west entrance",
+        "position": {
+          "x": 9.6,
+          "y": 0,
+          "z": 18
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-205",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Law Library Reading Room",
+    "displayLabel": "LAW 205",
+    "roomNumber": "205",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "LAW 205",
+      "LAW 205"
+    ],
+    "position": {
+      "x": -7.1999999999999975,
+      "y": 3.4,
+      "z": -15.6
+    },
+    "sceneObjectKey": "LAW-205:object",
+    "bounds": {
+      "min": {
+        "x": -43.99999999999999,
+        "y": 3.4,
+        "z": -21.2
+      },
+      "max": {
+        "x": 29.6,
+        "y": 4.25,
+        "z": -10
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-205:access",
+        "nodeId": "LAW:2:cell:LAW-205",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.1999999999999975,
+          "y": 3.4,
+          "z": -15.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-202",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Library Administration",
+    "displayLabel": "LAW 202",
+    "roomNumber": "202",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 202",
+      "LAW 202"
+    ],
+    "position": {
+      "x": -36.4,
+      "y": 3.4,
+      "z": 19.279999999999998
+    },
+    "sceneObjectKey": "LAW-202:object",
+    "bounds": {
+      "min": {
+        "x": -46,
+        "y": 3.4,
+        "z": 16.16
+      },
+      "max": {
+        "x": -26.799999999999997,
+        "y": 4.25,
+        "z": 22.400000000000002
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-202:access",
+        "nodeId": "LAW:2:cell:LAW-202",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -36.4,
+          "y": 3.4,
+          "z": 19.279999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-2-Lincoln",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Lincoln Meeting Room",
+    "displayLabel": "LAW Lincoln Meeting Room",
+    "roomNumber": null,
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW Lincoln Meeting Room"
+    ],
+    "position": {
+      "x": -31.88,
+      "y": 3.4,
+      "z": 12.88
+    },
+    "sceneObjectKey": "LAW-2-Lincoln:object",
+    "bounds": {
+      "min": {
+        "x": -34.8,
+        "y": 3.4,
+        "z": 9.76
+      },
+      "max": {
+        "x": -28.959999999999997,
+        "y": 4.25,
+        "z": 16
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-2-Lincoln:access",
+        "nodeId": "LAW:2:cell:LAW-2-Lincoln",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -31.88,
+          "y": 3.4,
+          "z": 12.88
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-203",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Library Service Counter",
+    "displayLabel": "LAW 203",
+    "roomNumber": "203",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "LAW 203",
+      "LAW 203"
+    ],
+    "position": {
+      "x": -33.6,
+      "y": 3.4,
+      "z": 1.48
+    },
+    "sceneObjectKey": "LAW-203:object",
+    "bounds": {
+      "min": {
+        "x": -40.8,
+        "y": 3.4,
+        "z": -3.0399999999999996
+      },
+      "max": {
+        "x": -26.4,
+        "y": 4.25,
+        "z": 6
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-203:access",
+        "nodeId": "LAW:2:cell:LAW-203",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -33.6,
+          "y": 3.4,
+          "z": 1.48
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-201",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Reference Desk",
+    "displayLabel": "LAW 201",
+    "roomNumber": "201",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 201",
+      "LAW 201"
+    ],
+    "position": {
+      "x": -37.48,
+      "y": 3.4,
+      "z": -5.4799999999999995
+    },
+    "sceneObjectKey": "LAW-201:object",
+    "bounds": {
+      "min": {
+        "x": -41.76,
+        "y": 3.4,
+        "z": -7.76
+      },
+      "max": {
+        "x": -33.2,
+        "y": 4.25,
+        "z": -3.1999999999999997
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-201:access",
+        "nodeId": "LAW:2:cell:LAW-201",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -37.48,
+          "y": 3.4,
+          "z": -5.4799999999999995
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-206",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Library Budget Office",
+    "displayLabel": "LAW 206",
+    "roomNumber": "206",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 206",
+      "LAW 206"
+    ],
+    "position": {
+      "x": -5.68,
+      "y": 3.4,
+      "z": 17.4
+    },
+    "sceneObjectKey": "LAW-206:object",
+    "bounds": {
+      "min": {
+        "x": -9.76,
+        "y": 3.4,
+        "z": 12.4
+      },
+      "max": {
+        "x": -1.5999999999999999,
+        "y": 4.25,
+        "z": 22.400000000000002
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-206:access",
+        "nodeId": "LAW:2:cell:LAW-206",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.68,
+          "y": 3.4,
+          "z": 17.4
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-227",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Study Room",
+    "displayLabel": "LAW 227",
+    "roomNumber": "227",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 227",
+      "LAW 227"
+    ],
+    "position": {
+      "x": -5.840000000000001,
+      "y": 3.4,
+      "z": -5.68
+    },
+    "sceneObjectKey": "LAW-227:object",
+    "bounds": {
+      "min": {
+        "x": -7.199999999999999,
+        "y": 3.4,
+        "z": -8.799999999999999
+      },
+      "max": {
+        "x": -4.4799999999999995,
+        "y": 4.25,
+        "z": -2.56
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-227:access",
+        "nodeId": "LAW:2:cell:LAW-227",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.840000000000001,
+          "y": 3.4,
+          "z": -5.68
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-225",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Study Room",
+    "displayLabel": "LAW 225",
+    "roomNumber": "225",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 225",
+      "LAW 225"
+    ],
+    "position": {
+      "x": -3.0399999999999996,
+      "y": 3.4,
+      "z": -6.72
+    },
+    "sceneObjectKey": "LAW-225:object",
+    "bounds": {
+      "min": {
+        "x": -4.4799999999999995,
+        "y": 3.4,
+        "z": -8.799999999999999
+      },
+      "max": {
+        "x": -1.5999999999999999,
+        "y": 4.25,
+        "z": -4.64
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-225:access",
+        "nodeId": "LAW:2:cell:LAW-225",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -3.0399999999999996,
+          "y": 3.4,
+          "z": -6.72
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-223-IT",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "IT Help Desk",
+    "displayLabel": "LAW 223",
+    "roomNumber": "223",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 223",
+      "LAW 223"
+    ],
+    "position": {
+      "x": 0.2800000000000001,
+      "y": 3.4,
+      "z": -6.64
+    },
+    "sceneObjectKey": "LAW-223-IT:object",
+    "bounds": {
+      "min": {
+        "x": -1.5999999999999999,
+        "y": 3.4,
+        "z": -8.799999999999999
+      },
+      "max": {
+        "x": 2.16,
+        "y": 4.25,
+        "z": -4.4799999999999995
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-223-IT:access",
+        "nodeId": "LAW:2:cell:LAW-223-IT",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0.2800000000000001,
+          "y": 3.4,
+          "z": -6.64
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-205-LAB",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Computer Lab",
+    "displayLabel": "LAW 205",
+    "roomNumber": "205",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 205",
+      "LAW 205"
+    ],
+    "position": {
+      "x": -1.16,
+      "y": 3.4,
+      "z": -2.16
+    },
+    "sceneObjectKey": "LAW-205-LAB:object",
+    "bounds": {
+      "min": {
+        "x": -4.4799999999999995,
+        "y": 3.4,
+        "z": -4.4799999999999995
+      },
+      "max": {
+        "x": 2.16,
+        "y": 4.25,
+        "z": 0.16
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-205-LAB:access",
+        "nodeId": "LAW:2:cell:LAW-205-LAB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -1.16,
+          "y": 3.4,
+          "z": -2.16
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-223",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Library Classroom",
+    "displayLabel": "LAW 223",
+    "roomNumber": "223",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 223",
+      "LAW 223"
+    ],
+    "position": {
+      "x": 7.6000000000000005,
+      "y": 3.4,
+      "z": -4.319999999999999
+    },
+    "sceneObjectKey": "LAW-223:object",
+    "bounds": {
+      "min": {
+        "x": 2.16,
+        "y": 3.4,
+        "z": -8.799999999999999
+      },
+      "max": {
+        "x": 13.040000000000001,
+        "y": 4.25,
+        "z": 0.16
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-223:access",
+        "nodeId": "LAW:2:cell:LAW-223",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.6000000000000005,
+          "y": 3.4,
+          "z": -4.319999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-221",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Library Classroom",
+    "displayLabel": "LAW 221",
+    "roomNumber": "221",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 221",
+      "LAW 221"
+    ],
+    "position": {
+      "x": 16.12,
+      "y": 3.4,
+      "z": -4.319999999999999
+    },
+    "sceneObjectKey": "LAW-221:object",
+    "bounds": {
+      "min": {
+        "x": 13.040000000000001,
+        "y": 3.4,
+        "z": -8.799999999999999
+      },
+      "max": {
+        "x": 19.2,
+        "y": 4.25,
+        "z": 0.16
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-221:access",
+        "nodeId": "LAW:2:cell:LAW-221",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 16.12,
+          "y": 3.4,
+          "z": -4.319999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-211",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Turrentine Conference Room",
+    "displayLabel": "LAW 211",
+    "roomNumber": "211",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 211",
+      "LAW 211"
+    ],
+    "position": {
+      "x": 4.68,
+      "y": 3.4,
+      "z": 5.04
+    },
+    "sceneObjectKey": "LAW-211:object",
+    "bounds": {
+      "min": {
+        "x": 1.44,
+        "y": 3.4,
+        "z": 0.32
+      },
+      "max": {
+        "x": 7.919999999999999,
+        "y": 4.25,
+        "z": 9.76
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-211:access",
+        "nodeId": "LAW:2:cell:LAW-211",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4.68,
+          "y": 3.4,
+          "z": 5.04
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-213",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Library Classroom",
+    "displayLabel": "LAW 213",
+    "roomNumber": "213",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 213",
+      "LAW 213"
+    ],
+    "position": {
+      "x": 11.16,
+      "y": 3.4,
+      "z": 5.04
+    },
+    "sceneObjectKey": "LAW-213:object",
+    "bounds": {
+      "min": {
+        "x": 7.919999999999999,
+        "y": 3.4,
+        "z": 0.32
+      },
+      "max": {
+        "x": 14.399999999999999,
+        "y": 4.25,
+        "z": 9.76
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-213:access",
+        "nodeId": "LAW:2:cell:LAW-213",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 11.16,
+          "y": 3.4,
+          "z": 5.04
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-215",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Study Room",
+    "displayLabel": "LAW 215",
+    "roomNumber": "215",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 215",
+      "LAW 215"
+    ],
+    "position": {
+      "x": 16.8,
+      "y": 3.4,
+      "z": 7.359999999999999
+    },
+    "sceneObjectKey": "LAW-215:object",
+    "bounds": {
+      "min": {
+        "x": 14.399999999999999,
+        "y": 3.4,
+        "z": 4.96
+      },
+      "max": {
+        "x": 19.2,
+        "y": 4.25,
+        "z": 9.76
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-215:access",
+        "nodeId": "LAW:2:cell:LAW-215",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 16.8,
+          "y": 3.4,
+          "z": 7.359999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-217",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Study Room",
+    "displayLabel": "LAW 217",
+    "roomNumber": "217",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 217",
+      "LAW 217"
+    ],
+    "position": {
+      "x": 16.8,
+      "y": 3.4,
+      "z": 2.64
+    },
+    "sceneObjectKey": "LAW-217:object",
+    "bounds": {
+      "min": {
+        "x": 14.399999999999999,
+        "y": 3.4,
+        "z": 0.32
+      },
+      "max": {
+        "x": 19.2,
+        "y": 4.25,
+        "z": 4.96
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-217:access",
+        "nodeId": "LAW:2:cell:LAW-217",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 16.8,
+          "y": 3.4,
+          "z": 2.64
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-212",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Study Room",
+    "displayLabel": "LAW 212",
+    "roomNumber": "212",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 212",
+      "LAW 212"
+    ],
+    "position": {
+      "x": 9.68,
+      "y": 3.4,
+      "z": 14.08
+    },
+    "sceneObjectKey": "LAW-212:object",
+    "bounds": {
+      "min": {
+        "x": 6.56,
+        "y": 3.4,
+        "z": 12.159999999999998
+      },
+      "max": {
+        "x": 12.799999999999999,
+        "y": 4.25,
+        "z": 16
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-212:access",
+        "nodeId": "LAW:2:cell:LAW-212",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 9.68,
+          "y": 3.4,
+          "z": 14.08
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-214",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Study Room",
+    "displayLabel": "LAW 214",
+    "roomNumber": "214",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 214",
+      "LAW 214"
+    ],
+    "position": {
+      "x": 15.799999999999999,
+      "y": 3.4,
+      "z": 14.08
+    },
+    "sceneObjectKey": "LAW-214:object",
+    "bounds": {
+      "min": {
+        "x": 12.799999999999999,
+        "y": 3.4,
+        "z": 12.159999999999998
+      },
+      "max": {
+        "x": 18.799999999999997,
+        "y": 4.25,
+        "z": 16
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-214:access",
+        "nodeId": "LAW:2:cell:LAW-214",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 15.799999999999999,
+          "y": 3.4,
+          "z": 14.08
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-216",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Information Technology",
+    "displayLabel": "LAW 216",
+    "roomNumber": "216",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 216",
+      "LAW 216"
+    ],
+    "position": {
+      "x": 27.720000000000002,
+      "y": 3.4,
+      "z": 6.319999999999999
+    },
+    "sceneObjectKey": "LAW-216:object",
+    "bounds": {
+      "min": {
+        "x": 23.6,
+        "y": 3.4,
+        "z": 3.1999999999999997
+      },
+      "max": {
+        "x": 31.84,
+        "y": 4.25,
+        "z": 9.44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-216:access",
+        "nodeId": "LAW:2:cell:LAW-216",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 27.720000000000002,
+          "y": 3.4,
+          "z": 6.319999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-2-restroom",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Restrooms",
+    "displayLabel": "LAW restrooms, floor 2",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "LAW restrooms, floor 2"
+    ],
+    "position": {
+      "x": -23.599999999999998,
+      "y": 3.4,
+      "z": -3
+    },
+    "sceneObjectKey": "LAW-2-restroom:object",
+    "bounds": {
+      "min": {
+        "x": -25.2,
+        "y": 3.4,
+        "z": -7.6
+      },
+      "max": {
+        "x": -21.999999999999996,
+        "y": 4.25,
+        "z": 1.5999999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-2-restroom:access",
+        "nodeId": "LAW:2:cell:LAW-2-restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -23.599999999999998,
+          "y": 3.4,
+          "z": -3
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-2-restroom-2",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Restrooms",
+    "displayLabel": "LAW restrooms, floor 2",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "LAW restrooms, floor 2"
+    ],
+    "position": {
+      "x": 28.999999999999996,
+      "y": 3.4,
+      "z": -3.88
+    },
+    "sceneObjectKey": "LAW-2-restroom-2:object",
+    "bounds": {
+      "min": {
+        "x": 25.599999999999998,
+        "y": 3.4,
+        "z": -9.2
+      },
+      "max": {
+        "x": 32.4,
+        "y": 4.25,
+        "z": 1.44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-2-restroom-2:access",
+        "nodeId": "LAW:2:cell:LAW-2-restroom-2",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 28.999999999999996,
+          "y": 3.4,
+          "z": -3.88
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-2-stairsNW",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "North-west stairs",
+    "displayLabel": "LAW north-west stairs, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW north-west stairs, floor 2"
+    ],
+    "position": {
+      "x": -40,
+      "y": 3.4,
+      "z": 13.2
+    },
+    "sceneObjectKey": "LAW-2-stairsNW:object",
+    "bounds": {
+      "min": {
+        "x": -42.4,
+        "y": 3.4,
+        "z": 10.399999999999999
+      },
+      "max": {
+        "x": -37.599999999999994,
+        "y": 4.25,
+        "z": 16
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-2-stairsNW:access",
+        "nodeId": "LAW:2:cell:LAW-2-stairsNW",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -40,
+          "y": 3.4,
+          "z": 13.2
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-2-stairsNE",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "North-east stairs",
+    "displayLabel": "LAW north-east stairs, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW north-east stairs, floor 2"
+    ],
+    "position": {
+      "x": -23.599999999999998,
+      "y": 3.4,
+      "z": -15.200000000000001
+    },
+    "sceneObjectKey": "LAW-2-stairsNE:object",
+    "bounds": {
+      "min": {
+        "x": -26.4,
+        "y": 3.4,
+        "z": -18
+      },
+      "max": {
+        "x": -20.799999999999997,
+        "y": 4.25,
+        "z": -12.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-2-stairsNE:access",
+        "nodeId": "LAW:2:cell:LAW-2-stairsNE",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -23.599999999999998,
+          "y": 3.4,
+          "z": -15.200000000000001
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-2-stairsSC",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Library spiral stair",
+    "displayLabel": "LAW library spiral stair, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW library spiral stair, floor 2"
+    ],
+    "position": {
+      "x": -23.2,
+      "y": 3.4,
+      "z": 2.56
+    },
+    "sceneObjectKey": "LAW-2-stairsSC:object",
+    "bounds": {
+      "min": {
+        "x": -25.439999999999998,
+        "y": 3.4,
+        "z": 1.7599999999999998
+      },
+      "max": {
+        "x": -20.959999999999997,
+        "y": 4.25,
+        "z": 3.36
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-2-stairsSC:access",
+        "nodeId": "LAW:2:cell:LAW-2-stairsSC",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -23.2,
+          "y": 3.4,
+          "z": 2.56
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-2-stairsSW",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "South-west stairs",
+    "displayLabel": "LAW south-west stairs, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW south-west stairs, floor 2"
+    ],
+    "position": {
+      "x": 21.68,
+      "y": 3.4,
+      "z": 6.319999999999999
+    },
+    "sceneObjectKey": "LAW-2-stairsSW:object",
+    "bounds": {
+      "min": {
+        "x": 20,
+        "y": 3.4,
+        "z": 3.1999999999999997
+      },
+      "max": {
+        "x": 23.359999999999996,
+        "y": 4.25,
+        "z": 9.44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-2-stairsSW:access",
+        "nodeId": "LAW:2:cell:LAW-2-stairsSW",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21.68,
+          "y": 3.4,
+          "z": 6.319999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-2-stairsSE",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "South-east stairs",
+    "displayLabel": "LAW south-east stairs, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW south-east stairs, floor 2"
+    ],
+    "position": {
+      "x": 21.479999999999997,
+      "y": 3.4,
+      "z": -14.799999999999997
+    },
+    "sceneObjectKey": "LAW-2-stairsSE:object",
+    "bounds": {
+      "min": {
+        "x": 19.599999999999998,
+        "y": 3.4,
+        "z": -18
+      },
+      "max": {
+        "x": 23.359999999999996,
+        "y": 4.25,
+        "z": -11.6
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-2-stairsSE:access",
+        "nodeId": "LAW:2:cell:LAW-2-stairsSE",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21.479999999999997,
+          "y": 3.4,
+          "z": -14.799999999999997
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-2-elevatorEC",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "Central elevators",
+    "displayLabel": "LAW central elevators, floor 2",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LAW central elevators, floor 2"
+    ],
+    "position": {
+      "x": -23.4,
+      "y": 3.4,
+      "z": 5.08
+    },
+    "sceneObjectKey": "LAW-2-elevatorEC:object",
+    "bounds": {
+      "min": {
+        "x": -25.599999999999998,
+        "y": 3.4,
+        "z": 3.5999999999999996
+      },
+      "max": {
+        "x": -21.2,
+        "y": 4.25,
+        "z": 6.56
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-2-elevatorEC:access",
+        "nodeId": "LAW:2:cell:LAW-2-elevatorEC",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -23.4,
+          "y": 3.4,
+          "z": 5.08
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-2-elevatorES",
+    "buildingId": "LAW",
+    "floorId": "2",
+    "name": "South elevator",
+    "displayLabel": "LAW south elevator, floor 2",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LAW south elevator, floor 2"
+    ],
+    "position": {
+      "x": 21.68,
+      "y": 3.4,
+      "z": -4.4
+    },
+    "sceneObjectKey": "LAW-2-elevatorES:object",
+    "bounds": {
+      "min": {
+        "x": 20,
+        "y": 3.4,
+        "z": -6
+      },
+      "max": {
+        "x": 23.359999999999996,
+        "y": 4.25,
+        "z": -2.8000000000000003
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-2-elevatorES:access",
+        "nodeId": "LAW:2:cell:LAW-2-elevatorES",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21.68,
+          "y": 3.4,
+          "z": -4.4
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-307",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Law Library Stacks",
+    "displayLabel": "LAW 307",
+    "roomNumber": "307",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "LAW 307",
+      "LAW 307"
+    ],
+    "position": {
+      "x": -3.400000000000001,
+      "y": 6.8,
+      "z": 1.3600000000000005
+    },
+    "sceneObjectKey": "LAW-307:object",
+    "bounds": {
+      "min": {
+        "x": -26.4,
+        "y": 6.8,
+        "z": -8.479999999999999
+      },
+      "max": {
+        "x": 19.599999999999998,
+        "y": 7.6499999999999995,
+        "z": 11.200000000000001
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-307:access",
+        "nodeId": "LAW:3:cell:LAW-307",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -3.400000000000001,
+          "y": 6.8,
+          "z": 1.3600000000000005
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-300",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Dean's Suite",
+    "displayLabel": "LAW 300",
+    "roomNumber": "300",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 300",
+      "LAW 300"
+    ],
+    "position": {
+      "x": -36.68,
+      "y": 6.8,
+      "z": 13.44
+    },
+    "sceneObjectKey": "LAW-300:object",
+    "bounds": {
+      "min": {
+        "x": -42.16,
+        "y": 6.8,
+        "z": 3.5199999999999996
+      },
+      "max": {
+        "x": -31.2,
+        "y": 7.6499999999999995,
+        "z": 23.359999999999996
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-300:access",
+        "nodeId": "LAW:3:cell:LAW-300",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -36.68,
+          "y": 6.8,
+          "z": 13.44
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-304",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Academic Operations",
+    "displayLabel": "LAW 304",
+    "roomNumber": "304",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 304",
+      "LAW 304"
+    ],
+    "position": {
+      "x": -37.08,
+      "y": 6.8,
+      "z": -2.4799999999999995
+    },
+    "sceneObjectKey": "LAW-304:object",
+    "bounds": {
+      "min": {
+        "x": -42.16,
+        "y": 6.8,
+        "z": -8.479999999999999
+      },
+      "max": {
+        "x": -32,
+        "y": 7.6499999999999995,
+        "z": 3.5199999999999996
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-304:access",
+        "nodeId": "LAW:3:cell:LAW-304",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -37.08,
+          "y": 6.8,
+          "z": -2.4799999999999995
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-306",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Communications & Web Services",
+    "displayLabel": "LAW 306",
+    "roomNumber": "306",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 306",
+      "LAW 306"
+    ],
+    "position": {
+      "x": -36.68,
+      "y": 6.8,
+      "z": -13.64
+    },
+    "sceneObjectKey": "LAW-306:object",
+    "bounds": {
+      "min": {
+        "x": -42.16,
+        "y": 6.8,
+        "z": -18.799999999999997
+      },
+      "max": {
+        "x": -31.2,
+        "y": 7.6499999999999995,
+        "z": -8.479999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-306:access",
+        "nodeId": "LAW:3:cell:LAW-306",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -36.68,
+          "y": 6.8,
+          "z": -13.64
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-303",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Facilities & Supplies",
+    "displayLabel": "LAW 303",
+    "roomNumber": "303",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 303",
+      "LAW 303"
+    ],
+    "position": {
+      "x": -26.599999999999998,
+      "y": 6.8,
+      "z": 6.319999999999999
+    },
+    "sceneObjectKey": "LAW-303:object",
+    "bounds": {
+      "min": {
+        "x": -30.24,
+        "y": 6.8,
+        "z": 1.44
+      },
+      "max": {
+        "x": -22.959999999999997,
+        "y": 7.6499999999999995,
+        "z": 11.200000000000001
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-303:access",
+        "nodeId": "LAW:3:cell:LAW-303",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -26.599999999999998,
+          "y": 6.8,
+          "z": 6.319999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-305",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Mailroom",
+    "displayLabel": "LAW 305",
+    "roomNumber": "305",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 305",
+      "LAW 305"
+    ],
+    "position": {
+      "x": -26.599999999999998,
+      "y": 6.8,
+      "z": 0.5599999999999999
+    },
+    "sceneObjectKey": "LAW-305:object",
+    "bounds": {
+      "min": {
+        "x": -30.24,
+        "y": 6.8,
+        "z": -0.32
+      },
+      "max": {
+        "x": -22.959999999999997,
+        "y": 7.6499999999999995,
+        "z": 1.44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-305:access",
+        "nodeId": "LAW:3:cell:LAW-305",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -26.599999999999998,
+          "y": 6.8,
+          "z": 0.5599999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-307C",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Study Room",
+    "displayLabel": "LAW 307C",
+    "roomNumber": "307C",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 307C",
+      "LAW 307C"
+    ],
+    "position": {
+      "x": -28.64,
+      "y": 6.8,
+      "z": -1.68
+    },
+    "sceneObjectKey": "LAW-307C:object",
+    "bounds": {
+      "min": {
+        "x": -30.24,
+        "y": 6.8,
+        "z": -3.0399999999999996
+      },
+      "max": {
+        "x": -27.040000000000003,
+        "y": 7.6499999999999995,
+        "z": -0.32
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-307C:access",
+        "nodeId": "LAW:3:cell:LAW-307C",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -28.64,
+          "y": 6.8,
+          "z": -1.68
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-307B",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Study Room",
+    "displayLabel": "LAW 307B",
+    "roomNumber": "307B",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 307B",
+      "LAW 307B"
+    ],
+    "position": {
+      "x": -28.64,
+      "y": 6.8,
+      "z": -4.3999999999999995
+    },
+    "sceneObjectKey": "LAW-307B:object",
+    "bounds": {
+      "min": {
+        "x": -30.24,
+        "y": 6.8,
+        "z": -5.76
+      },
+      "max": {
+        "x": -27.040000000000003,
+        "y": 7.6499999999999995,
+        "z": -3.0399999999999996
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-307B:access",
+        "nodeId": "LAW:3:cell:LAW-307B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -28.64,
+          "y": 6.8,
+          "z": -4.3999999999999995
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-307A",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Study Room",
+    "displayLabel": "LAW 307A",
+    "roomNumber": "307A",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 307A",
+      "LAW 307A"
+    ],
+    "position": {
+      "x": -28.64,
+      "y": 6.8,
+      "z": -7.12
+    },
+    "sceneObjectKey": "LAW-307A:object",
+    "bounds": {
+      "min": {
+        "x": -30.24,
+        "y": 6.8,
+        "z": -8.479999999999999
+      },
+      "max": {
+        "x": -27.040000000000003,
+        "y": 7.6499999999999995,
+        "z": -5.76
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-307A:access",
+        "nodeId": "LAW:3:cell:LAW-307A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -28.64,
+          "y": 6.8,
+          "z": -7.12
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-301",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Student Lounge",
+    "displayLabel": "LAW 301",
+    "roomNumber": "301",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 301",
+      "LAW 301"
+    ],
+    "position": {
+      "x": -5.6000000000000005,
+      "y": 6.8,
+      "z": 18.479999999999997
+    },
+    "sceneObjectKey": "LAW-301:object",
+    "bounds": {
+      "min": {
+        "x": -11.200000000000001,
+        "y": 6.8,
+        "z": 13.6
+      },
+      "max": {
+        "x": 0,
+        "y": 7.6499999999999995,
+        "z": 23.359999999999996
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-301:access",
+        "nodeId": "LAW:3:cell:LAW-301",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.6000000000000005,
+          "y": 6.8,
+          "z": 18.479999999999997
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-313",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Events Office",
+    "displayLabel": "LAW 313",
+    "roomNumber": "313",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 313",
+      "LAW 313"
+    ],
+    "position": {
+      "x": -4.8,
+      "y": 6.8,
+      "z": -10.799999999999999
+    },
+    "sceneObjectKey": "LAW-313:object",
+    "bounds": {
+      "min": {
+        "x": -9.2,
+        "y": 6.8,
+        "z": -12.799999999999999
+      },
+      "max": {
+        "x": -0.39999999999999997,
+        "y": 7.6499999999999995,
+        "z": -8.799999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-313:access",
+        "nodeId": "LAW:3:cell:LAW-313",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -4.8,
+          "y": 6.8,
+          "z": -10.799999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-3-Faculty",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Faculty & Adjunct Offices",
+    "displayLabel": "LAW Faculty & Adjunct Offices",
+    "roomNumber": null,
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW Faculty & Adjunct Offices"
+    ],
+    "position": {
+      "x": 6.48,
+      "y": 6.8,
+      "z": -16.599999999999998
+    },
+    "sceneObjectKey": "LAW-3-Faculty:object",
+    "bounds": {
+      "min": {
+        "x": -11.04,
+        "y": 6.8,
+        "z": -18.799999999999997
+      },
+      "max": {
+        "x": 24,
+        "y": 7.6499999999999995,
+        "z": -14.399999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-3-Faculty:access",
+        "nodeId": "LAW:3:cell:LAW-3-Faculty",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.48,
+          "y": 6.8,
+          "z": -16.599999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-326",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Continuing Legal Education",
+    "displayLabel": "LAW 326",
+    "roomNumber": "326",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 326",
+      "LAW 326"
+    ],
+    "position": {
+      "x": 29.479999999999997,
+      "y": 6.8,
+      "z": -14.44
+    },
+    "sceneObjectKey": "LAW-326:object",
+    "bounds": {
+      "min": {
+        "x": 24.16,
+        "y": 6.8,
+        "z": -18.799999999999997
+      },
+      "max": {
+        "x": 34.8,
+        "y": 7.6499999999999995,
+        "z": -10.08
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-326:access",
+        "nodeId": "LAW:3:cell:LAW-326",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 29.479999999999997,
+          "y": 6.8,
+          "z": -14.44
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-330",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Development & Alumni Relations",
+    "displayLabel": "LAW 330",
+    "roomNumber": "330",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 330",
+      "LAW 330"
+    ],
+    "position": {
+      "x": 40.839999999999996,
+      "y": 6.8,
+      "z": -12.839999999999998
+    },
+    "sceneObjectKey": "LAW-330:object",
+    "bounds": {
+      "min": {
+        "x": 36.88,
+        "y": 6.8,
+        "z": -18.799999999999997
+      },
+      "max": {
+        "x": 44.800000000000004,
+        "y": 7.6499999999999995,
+        "z": -6.88
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-330:access",
+        "nodeId": "LAW:3:cell:LAW-330",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 40.839999999999996,
+          "y": 6.8,
+          "z": -12.839999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-336",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Graduate & International Programs",
+    "displayLabel": "LAW 336",
+    "roomNumber": "336",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 336",
+      "LAW 336"
+    ],
+    "position": {
+      "x": 40.839999999999996,
+      "y": 6.8,
+      "z": -1.24
+    },
+    "sceneObjectKey": "LAW-336:object",
+    "bounds": {
+      "min": {
+        "x": 36.88,
+        "y": 6.8,
+        "z": -6.88
+      },
+      "max": {
+        "x": 44.800000000000004,
+        "y": 7.6499999999999995,
+        "z": 4.3999999999999995
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-336:access",
+        "nodeId": "LAW:3:cell:LAW-336",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 40.839999999999996,
+          "y": 6.8,
+          "z": -1.24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-338",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Graduate & International Programs",
+    "displayLabel": "LAW 338",
+    "roomNumber": "338",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 338",
+      "LAW 338"
+    ],
+    "position": {
+      "x": 31.279999999999998,
+      "y": 6.8,
+      "z": 7.8
+    },
+    "sceneObjectKey": "LAW-338:object",
+    "bounds": {
+      "min": {
+        "x": 27.999999999999996,
+        "y": 6.8,
+        "z": 4.3999999999999995
+      },
+      "max": {
+        "x": 34.56,
+        "y": 7.6499999999999995,
+        "z": 11.200000000000001
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-338:access",
+        "nodeId": "LAW:3:cell:LAW-338",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 31.279999999999998,
+          "y": 6.8,
+          "z": 7.8
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-3-restroom",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Restrooms",
+    "displayLabel": "LAW restrooms, floor 3",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "LAW restrooms, floor 3"
+    ],
+    "position": {
+      "x": 31.64,
+      "y": 6.8,
+      "z": -2.8399999999999994
+    },
+    "sceneObjectKey": "LAW-3-restroom:object",
+    "bounds": {
+      "min": {
+        "x": 27.999999999999996,
+        "y": 6.8,
+        "z": -8.479999999999999
+      },
+      "max": {
+        "x": 35.279999999999994,
+        "y": 7.6499999999999995,
+        "z": 2.8000000000000003
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-3-restroom:access",
+        "nodeId": "LAW:3:cell:LAW-3-restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 31.64,
+          "y": 6.8,
+          "z": -2.8399999999999994
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-3-stairsNW",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "North-west stairs",
+    "displayLabel": "LAW north-west stairs, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW north-west stairs, floor 3"
+    ],
+    "position": {
+      "x": -20.4,
+      "y": 6.8,
+      "z": 16.52
+    },
+    "sceneObjectKey": "LAW-3-stairsNW:object",
+    "bounds": {
+      "min": {
+        "x": -23.44,
+        "y": 6.8,
+        "z": 13.68
+      },
+      "max": {
+        "x": -17.36,
+        "y": 7.6499999999999995,
+        "z": 19.36
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-3-stairsNW:access",
+        "nodeId": "LAW:3:cell:LAW-3-stairsNW",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -20.4,
+          "y": 6.8,
+          "z": 16.52
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-3-stairsNE",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "North-east stairs",
+    "displayLabel": "LAW north-east stairs, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW north-east stairs, floor 3"
+    ],
+    "position": {
+      "x": -20.279999999999998,
+      "y": 6.8,
+      "z": -13.679999999999998
+    },
+    "sceneObjectKey": "LAW-3-stairsNE:object",
+    "bounds": {
+      "min": {
+        "x": -23.2,
+        "y": 6.8,
+        "z": -16.4
+      },
+      "max": {
+        "x": -17.36,
+        "y": 7.6499999999999995,
+        "z": -10.959999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-3-stairsNE:access",
+        "nodeId": "LAW:3:cell:LAW-3-stairsNE",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -20.279999999999998,
+          "y": 6.8,
+          "z": -13.679999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-3-stairsSC",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Library spiral stair",
+    "displayLabel": "LAW library spiral stair, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW library spiral stair, floor 3"
+    ],
+    "position": {
+      "x": -19.839999999999996,
+      "y": 6.8,
+      "z": 3.28
+    },
+    "sceneObjectKey": "LAW-3-stairsSC:object",
+    "bounds": {
+      "min": {
+        "x": -22.8,
+        "y": 6.8,
+        "z": 1.28
+      },
+      "max": {
+        "x": -16.88,
+        "y": 7.6499999999999995,
+        "z": 5.28
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-3-stairsSC:access",
+        "nodeId": "LAW:3:cell:LAW-3-stairsSC",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -19.839999999999996,
+          "y": 6.8,
+          "z": 3.28
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-3-stairsSW",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "South-west stairs",
+    "displayLabel": "LAW south-west stairs, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW south-west stairs, floor 3"
+    ],
+    "position": {
+      "x": 24.12,
+      "y": 6.8,
+      "z": 7.56
+    },
+    "sceneObjectKey": "LAW-3-stairsSW:object",
+    "bounds": {
+      "min": {
+        "x": 21.999999999999996,
+        "y": 6.8,
+        "z": 4.3999999999999995
+      },
+      "max": {
+        "x": 26.24,
+        "y": 7.6499999999999995,
+        "z": 10.72
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-3-stairsSW:access",
+        "nodeId": "LAW:3:cell:LAW-3-stairsSW",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 24.12,
+          "y": 6.8,
+          "z": 7.56
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-3-stairsSE",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "South-east stairs",
+    "displayLabel": "LAW south-east stairs, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW south-east stairs, floor 3"
+    ],
+    "position": {
+      "x": 22.12,
+      "y": 6.8,
+      "z": -12.319999999999999
+    },
+    "sceneObjectKey": "LAW-3-stairsSE:object",
+    "bounds": {
+      "min": {
+        "x": 20.4,
+        "y": 6.8,
+        "z": -14.24
+      },
+      "max": {
+        "x": 23.84,
+        "y": 7.6499999999999995,
+        "z": -10.399999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-3-stairsSE:access",
+        "nodeId": "LAW:3:cell:LAW-3-stairsSE",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 22.12,
+          "y": 6.8,
+          "z": -12.319999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-3-elevatorEC",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "Central elevators",
+    "displayLabel": "LAW central elevators, floor 3",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LAW central elevators, floor 3"
+    ],
+    "position": {
+      "x": -20.4,
+      "y": 6.8,
+      "z": 6.64
+    },
+    "sceneObjectKey": "LAW-3-elevatorEC:object",
+    "bounds": {
+      "min": {
+        "x": -22.400000000000002,
+        "y": 6.8,
+        "z": 5.28
+      },
+      "max": {
+        "x": -18.4,
+        "y": 7.6499999999999995,
+        "z": 8
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-3-elevatorEC:access",
+        "nodeId": "LAW:3:cell:LAW-3-elevatorEC",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -20.4,
+          "y": 6.8,
+          "z": 6.64
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-3-elevatorES",
+    "buildingId": "LAW",
+    "floorId": "3",
+    "name": "South elevator",
+    "displayLabel": "LAW south elevator, floor 3",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LAW south elevator, floor 3"
+    ],
+    "position": {
+      "x": 26.32,
+      "y": 6.8,
+      "z": -6.079999999999999
+    },
+    "sceneObjectKey": "LAW-3-elevatorES:object",
+    "bounds": {
+      "min": {
+        "x": 24.8,
+        "y": 6.8,
+        "z": -7.36
+      },
+      "max": {
+        "x": 27.84,
+        "y": 7.6499999999999995,
+        "z": -4.8
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-3-elevatorES:access",
+        "nodeId": "LAW:3:cell:LAW-3-elevatorES",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 26.32,
+          "y": 6.8,
+          "z": -6.079999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-433",
+    "buildingId": "LAW",
+    "floorId": "4",
+    "name": "Student Lounge",
+    "displayLabel": "LAW 433",
+    "roomNumber": "433",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "LAW 433",
+      "LAW 433"
+    ],
+    "position": {
+      "x": 37.199999999999996,
+      "y": 10.2,
+      "z": -10.16
+    },
+    "sceneObjectKey": "LAW-433:object",
+    "bounds": {
+      "min": {
+        "x": 31.2,
+        "y": 10.2,
+        "z": -17.2
+      },
+      "max": {
+        "x": 43.199999999999996,
+        "y": 11.049999999999999,
+        "z": -3.12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-433:access",
+        "nodeId": "LAW:4:cell:LAW-433",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 37.199999999999996,
+          "y": 10.2,
+          "z": -10.16
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-4-LyonLab",
+    "buildingId": "LAW",
+    "floorId": "4",
+    "name": "Lyon Lab",
+    "displayLabel": "LAW Lyon Lab",
+    "roomNumber": null,
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW Lyon Lab"
+    ],
+    "position": {
+      "x": -5.68,
+      "y": 10.2,
+      "z": 9.52
+    },
+    "sceneObjectKey": "LAW-4-LyonLab:object",
+    "bounds": {
+      "min": {
+        "x": -12.159999999999998,
+        "y": 10.2,
+        "z": 6.24
+      },
+      "max": {
+        "x": 0.7999999999999999,
+        "y": 11.049999999999999,
+        "z": 12.799999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-4-LyonLab:access",
+        "nodeId": "LAW:4:cell:LAW-4-LyonLab",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.68,
+          "y": 10.2,
+          "z": 9.52
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-4-LawReview",
+    "buildingId": "LAW",
+    "floorId": "4",
+    "name": "Law Review",
+    "displayLabel": "LAW Law Review",
+    "roomNumber": null,
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW Law Review"
+    ],
+    "position": {
+      "x": -30.2,
+      "y": 10.2,
+      "z": 9.88
+    },
+    "sceneObjectKey": "LAW-4-LawReview:object",
+    "bounds": {
+      "min": {
+        "x": -32,
+        "y": 10.2,
+        "z": 6.64
+      },
+      "max": {
+        "x": -28.400000000000002,
+        "y": 11.049999999999999,
+        "z": 13.12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-4-LawReview:access",
+        "nodeId": "LAW:4:cell:LAW-4-LawReview",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -30.2,
+          "y": 10.2,
+          "z": 9.88
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-4-Writing",
+    "buildingId": "LAW",
+    "floorId": "4",
+    "name": "Legal Writing Instruction",
+    "displayLabel": "LAW Legal Writing Instruction",
+    "roomNumber": null,
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW Legal Writing Instruction"
+    ],
+    "position": {
+      "x": -32.6,
+      "y": 10.2,
+      "z": -2.32
+    },
+    "sceneObjectKey": "LAW-4-Writing:object",
+    "bounds": {
+      "min": {
+        "x": -35.6,
+        "y": 10.2,
+        "z": -4.8
+      },
+      "max": {
+        "x": -29.6,
+        "y": 11.049999999999999,
+        "z": 0.16
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-4-Writing:access",
+        "nodeId": "LAW:4:cell:LAW-4-Writing",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -32.6,
+          "y": 10.2,
+          "z": -2.32
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-431",
+    "buildingId": "LAW",
+    "floorId": "4",
+    "name": "Dean's Conference Room",
+    "displayLabel": "LAW 431",
+    "roomNumber": "431",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LAW 431",
+      "LAW 431"
+    ],
+    "position": {
+      "x": 34.279999999999994,
+      "y": 10.2,
+      "z": 0
+    },
+    "sceneObjectKey": "LAW-431:object",
+    "bounds": {
+      "min": {
+        "x": 29.359999999999996,
+        "y": 10.2,
+        "z": -3.12
+      },
+      "max": {
+        "x": 39.199999999999996,
+        "y": 11.049999999999999,
+        "z": 3.12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-431:access",
+        "nodeId": "LAW:4:cell:LAW-431",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 34.279999999999994,
+          "y": 10.2,
+          "z": 0
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-4-restroom",
+    "buildingId": "LAW",
+    "floorId": "4",
+    "name": "Restrooms",
+    "displayLabel": "LAW restrooms, floor 4",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "LAW restrooms, floor 4"
+    ],
+    "position": {
+      "x": -25.279999999999998,
+      "y": 10.2,
+      "z": -4.2
+    },
+    "sceneObjectKey": "LAW-4-restroom:object",
+    "bounds": {
+      "min": {
+        "x": -28.959999999999997,
+        "y": 10.2,
+        "z": -8.4
+      },
+      "max": {
+        "x": -21.599999999999998,
+        "y": 11.049999999999999,
+        "z": 0
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-4-restroom:access",
+        "nodeId": "LAW:4:cell:LAW-4-restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -25.279999999999998,
+          "y": 10.2,
+          "z": -4.2
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-4-restroom-2",
+    "buildingId": "LAW",
+    "floorId": "4",
+    "name": "Restrooms",
+    "displayLabel": "LAW restrooms, floor 4",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "LAW restrooms, floor 4"
+    ],
+    "position": {
+      "x": 16.12,
+      "y": 10.2,
+      "z": -3.64
+    },
+    "sceneObjectKey": "LAW-4-restroom-2:object",
+    "bounds": {
+      "min": {
+        "x": 10.399999999999999,
+        "y": 10.2,
+        "z": -9.92
+      },
+      "max": {
+        "x": 21.84,
+        "y": 11.049999999999999,
+        "z": 2.64
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-4-restroom-2:access",
+        "nodeId": "LAW:4:cell:LAW-4-restroom-2",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 16.12,
+          "y": 10.2,
+          "z": -3.64
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-4-stairsNW",
+    "buildingId": "LAW",
+    "floorId": "4",
+    "name": "North-west stairs",
+    "displayLabel": "LAW north-west stairs, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW north-west stairs, floor 4"
+    ],
+    "position": {
+      "x": -24.999999999999996,
+      "y": 10.2,
+      "z": 17.799999999999997
+    },
+    "sceneObjectKey": "LAW-4-stairsNW:object",
+    "bounds": {
+      "min": {
+        "x": -27.999999999999996,
+        "y": 10.2,
+        "z": 16
+      },
+      "max": {
+        "x": -21.999999999999996,
+        "y": 11.049999999999999,
+        "z": 19.599999999999998
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-4-stairsNW:access",
+        "nodeId": "LAW:4:cell:LAW-4-stairsNW",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -24.999999999999996,
+          "y": 10.2,
+          "z": 17.799999999999997
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-4-stairsNE",
+    "buildingId": "LAW",
+    "floorId": "4",
+    "name": "North-east stairs",
+    "displayLabel": "LAW north-east stairs, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW north-east stairs, floor 4"
+    ],
+    "position": {
+      "x": -25.8,
+      "y": 10.2,
+      "z": -12.8
+    },
+    "sceneObjectKey": "LAW-4-stairsNE:object",
+    "bounds": {
+      "min": {
+        "x": -27.999999999999996,
+        "y": 10.2,
+        "z": -14.8
+      },
+      "max": {
+        "x": -23.6,
+        "y": 11.049999999999999,
+        "z": -10.799999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-4-stairsNE:access",
+        "nodeId": "LAW:4:cell:LAW-4-stairsNE",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -25.8,
+          "y": 10.2,
+          "z": -12.8
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-4-stairsSW",
+    "buildingId": "LAW",
+    "floorId": "4",
+    "name": "South-west stairs",
+    "displayLabel": "LAW south-west stairs, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW south-west stairs, floor 4"
+    ],
+    "position": {
+      "x": 26.72,
+      "y": 10.2,
+      "z": 8.36
+    },
+    "sceneObjectKey": "LAW-4-stairsSW:object",
+    "bounds": {
+      "min": {
+        "x": 24.8,
+        "y": 10.2,
+        "z": 4.96
+      },
+      "max": {
+        "x": 28.64,
+        "y": 11.049999999999999,
+        "z": 11.76
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-4-stairsSW:access",
+        "nodeId": "LAW:4:cell:LAW-4-stairsSW",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 26.72,
+          "y": 10.2,
+          "z": 8.36
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-4-stairsSE",
+    "buildingId": "LAW",
+    "floorId": "4",
+    "name": "South-east stairs",
+    "displayLabel": "LAW south-east stairs, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LAW south-east stairs, floor 4"
+    ],
+    "position": {
+      "x": 26.72,
+      "y": 10.2,
+      "z": -15
+    },
+    "sceneObjectKey": "LAW-4-stairsSE:object",
+    "bounds": {
+      "min": {
+        "x": 24.8,
+        "y": 10.2,
+        "z": -17.2
+      },
+      "max": {
+        "x": 28.64,
+        "y": 11.049999999999999,
+        "z": -12.799999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-4-stairsSE:access",
+        "nodeId": "LAW:4:cell:LAW-4-stairsSE",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 26.72,
+          "y": 10.2,
+          "z": -15
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-4-elevatorEC",
+    "buildingId": "LAW",
+    "floorId": "4",
+    "name": "Central elevators",
+    "displayLabel": "LAW central elevators, floor 4",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LAW central elevators, floor 4"
+    ],
+    "position": {
+      "x": -19.8,
+      "y": 10.2,
+      "z": 8.4
+    },
+    "sceneObjectKey": "LAW-4-elevatorEC:object",
+    "bounds": {
+      "min": {
+        "x": -21.599999999999998,
+        "y": 10.2,
+        "z": 6.8
+      },
+      "max": {
+        "x": -18,
+        "y": 11.049999999999999,
+        "z": 10
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-4-elevatorEC:access",
+        "nodeId": "LAW:4:cell:LAW-4-elevatorEC",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -19.8,
+          "y": 10.2,
+          "z": 8.4
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "LAW-4-elevatorES",
+    "buildingId": "LAW",
+    "floorId": "4",
+    "name": "South elevator",
+    "displayLabel": "LAW south elevator, floor 4",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LAW south elevator, floor 4"
+    ],
+    "position": {
+      "x": 27.319999999999997,
+      "y": 10.2,
+      "z": -7.72
+    },
+    "sceneObjectKey": "LAW-4-elevatorES:object",
+    "bounds": {
+      "min": {
+        "x": 25.599999999999998,
+        "y": 10.2,
+        "z": -9.2
+      },
+      "max": {
+        "x": 29.04,
+        "y": 11.049999999999999,
+        "z": -6.24
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LAW-4-elevatorES:access",
+        "nodeId": "LAW:4:cell:LAW-4-elevatorES",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 27.319999999999997,
+          "y": 10.2,
+          "z": -7.72
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  }
+]

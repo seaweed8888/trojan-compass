@@ -1,0 +1,29 @@
+[
+  {
+    "id": "KAP:SA",
+    "nodeIds": [
+      "KAP:1:stairs:A",
+      "KAP:2:stairs:A",
+      "KAP:3:stairs:A"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "KAP:E",
+    "nodeIds": [
+      "KAP:1:elevator",
+      "KAP:2:elevator",
+      "KAP:3:elevator"
+    ],
+    "kind": "elevator"
+  },
+  {
+    "id": "KAP:SB",
+    "nodeIds": [
+      "KAP:1:stairs:B",
+      "KAP:2:stairs:B",
+      "KAP:3:stairs:B"
+    ],
+    "kind": "stairs"
+  }
+]

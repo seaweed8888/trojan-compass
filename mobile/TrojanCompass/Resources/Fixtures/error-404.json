@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "RESOURCE_NOT_FOUND",
+    "message": "The requested resource does not exist.",
+    "requestId": "example-request"
+  }
+}

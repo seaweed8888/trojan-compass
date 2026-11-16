@@ -1,0 +1,5592 @@
+[
+  {
+    "id": "THH-B09",
+    "buildingId": "THH",
+    "floorId": "0",
+    "name": "Classroom",
+    "displayLabel": "THH B09",
+    "roomNumber": "B09",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH B09",
+      "THH B09"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": -3.4,
+      "z": -24.5
+    },
+    "sceneObjectKey": "THH-B09:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": -3.4,
+        "z": -40
+      },
+      "max": {
+        "x": -15,
+        "y": -2.55,
+        "z": -9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-B09:access",
+        "nodeId": "THH:0:cell:THH-B09",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": -3.4,
+          "z": -24.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-B10",
+    "buildingId": "THH",
+    "floorId": "0",
+    "name": "Classroom",
+    "displayLabel": "THH B10",
+    "roomNumber": "B10",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH B10",
+      "THH B10"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": -3.4,
+      "z": 6.5
+    },
+    "sceneObjectKey": "THH-B10:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": -3.4,
+        "z": -9
+      },
+      "max": {
+        "x": -15,
+        "y": -2.55,
+        "z": 22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-B10:access",
+        "nodeId": "THH:0:cell:THH-B10",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": -3.4,
+          "z": 6.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-B01",
+    "buildingId": "THH",
+    "floorId": "0",
+    "name": "Seminar room",
+    "displayLabel": "THH B01",
+    "roomNumber": "B01",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH B01",
+      "THH B01"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": -3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-B01:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": -3.4,
+        "z": 0
+      },
+      "max": {
+        "x": -6,
+        "y": -2.55,
+        "z": 14
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-B01:access",
+        "nodeId": "THH:0:cell:THH-B01",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": -3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-B02",
+    "buildingId": "THH",
+    "floorId": "0",
+    "name": "Seminar room",
+    "displayLabel": "THH B02",
+    "roomNumber": "B02",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH B02",
+      "THH B02"
+    ],
+    "position": {
+      "x": -0.25,
+      "y": -3.4,
+      "z": -51
+    },
+    "sceneObjectKey": "THH-B02:object",
+    "bounds": {
+      "min": {
+        "x": -4,
+        "y": -3.4,
+        "z": -58
+      },
+      "max": {
+        "x": 3.5,
+        "y": -2.55,
+        "z": -44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-B02:access",
+        "nodeId": "THH:0:cell:THH-B02",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -0.25,
+          "y": -3.4,
+          "z": -51
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-B03",
+    "buildingId": "THH",
+    "floorId": "0",
+    "name": "Seminar room",
+    "displayLabel": "THH B03",
+    "roomNumber": "B03",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH B03",
+      "THH B03"
+    ],
+    "position": {
+      "x": 7.25,
+      "y": -3.4,
+      "z": -51
+    },
+    "sceneObjectKey": "THH-B03:object",
+    "bounds": {
+      "min": {
+        "x": 3.5,
+        "y": -3.4,
+        "z": -58
+      },
+      "max": {
+        "x": 11,
+        "y": -2.55,
+        "z": -44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-B03:access",
+        "nodeId": "THH:0:cell:THH-B03",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.25,
+          "y": -3.4,
+          "z": -51
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-B04",
+    "buildingId": "THH",
+    "floorId": "0",
+    "name": "Seminar room",
+    "displayLabel": "THH B04",
+    "roomNumber": "B04",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH B04",
+      "THH B04"
+    ],
+    "position": {
+      "x": 3.5,
+      "y": -3.4,
+      "z": -37
+    },
+    "sceneObjectKey": "THH-B04:object",
+    "bounds": {
+      "min": {
+        "x": -4,
+        "y": -3.4,
+        "z": -40
+      },
+      "max": {
+        "x": 11,
+        "y": -2.55,
+        "z": -34
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-B04:access",
+        "nodeId": "THH:0:cell:THH-B04",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 3.5,
+          "y": -3.4,
+          "z": -37
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-B05",
+    "buildingId": "THH",
+    "floorId": "0",
+    "name": "Seminar room",
+    "displayLabel": "THH B05",
+    "roomNumber": "B05",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH B05",
+      "THH B05"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": -3.4,
+      "z": 30.5
+    },
+    "sceneObjectKey": "THH-B05:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": -3.4,
+        "z": 26
+      },
+      "max": {
+        "x": -2,
+        "y": -2.55,
+        "z": 35
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-B05:access",
+        "nodeId": "THH:0:cell:THH-B05",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": -3.4,
+          "z": 30.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-B06",
+    "buildingId": "THH",
+    "floorId": "0",
+    "name": "Seminar room",
+    "displayLabel": "THH B06",
+    "roomNumber": "B06",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH B06",
+      "THH B06"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": -3.4,
+      "z": 39.5
+    },
+    "sceneObjectKey": "THH-B06:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": -3.4,
+        "z": 35
+      },
+      "max": {
+        "x": -2,
+        "y": -2.55,
+        "z": 44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-B06:access",
+        "nodeId": "THH:0:cell:THH-B06",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": -3.4,
+          "z": 39.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-B07",
+    "buildingId": "THH",
+    "floorId": "0",
+    "name": "Seminar room",
+    "displayLabel": "THH B07",
+    "roomNumber": "B07",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH B07",
+      "THH B07"
+    ],
+    "position": {
+      "x": 7.3,
+      "y": -3.4,
+      "z": 33
+    },
+    "sceneObjectKey": "THH-B07:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": -3.4,
+        "z": 26
+      },
+      "max": {
+        "x": 12.6,
+        "y": -2.55,
+        "z": 40
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-B07:access",
+        "nodeId": "THH:0:cell:THH-B07",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.3,
+          "y": -3.4,
+          "z": 33
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-B08",
+    "buildingId": "THH",
+    "floorId": "0",
+    "name": "Seminar room",
+    "displayLabel": "THH B08",
+    "roomNumber": "B08",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH B08",
+      "THH B08"
+    ],
+    "position": {
+      "x": 7.3,
+      "y": -3.4,
+      "z": 47
+    },
+    "sceneObjectKey": "THH-B08:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": -3.4,
+        "z": 40
+      },
+      "max": {
+        "x": 12.6,
+        "y": -2.55,
+        "z": 54
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-B08:access",
+        "nodeId": "THH:0:cell:THH-B08",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.3,
+          "y": -3.4,
+          "z": 47
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-0-SA",
+    "buildingId": "THH",
+    "floorId": "0",
+    "name": "Spine stairs",
+    "displayLabel": "THH spine stairs, basement",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH spine stairs, basement"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": -3.4,
+      "z": -45
+    },
+    "sceneObjectKey": "THH-0-SA:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": -3.4,
+        "z": -48
+      },
+      "max": {
+        "x": -15,
+        "y": -2.55,
+        "z": -42
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-0-SA:access",
+        "nodeId": "THH:0:cell:THH-0-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": -3.4,
+          "z": -45
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-0-SB",
+    "buildingId": "THH",
+    "floorId": "0",
+    "name": "South stairs",
+    "displayLabel": "THH south stairs, basement",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH south stairs, basement"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": -3.4,
+      "z": 50
+    },
+    "sceneObjectKey": "THH-0-SB:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": -3.4,
+        "z": 46
+      },
+      "max": {
+        "x": -2,
+        "y": -2.55,
+        "z": 54
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-0-SB:access",
+        "nodeId": "THH:0:cell:THH-0-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": -3.4,
+          "z": 50
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-0-EL",
+    "buildingId": "THH",
+    "floorId": "0",
+    "name": "Spine elevator",
+    "displayLabel": "THH spine elevator, basement",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "THH spine elevator, basement"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": -3.4,
+      "z": -13
+    },
+    "sceneObjectKey": "THH-0-EL:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": -3.4,
+        "z": -16
+      },
+      "max": {
+        "x": -6,
+        "y": -2.55,
+        "z": -10
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-0-EL:access",
+        "nodeId": "THH:0:cell:THH-0-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": -3.4,
+          "z": -13
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-0-RR",
+    "buildingId": "THH",
+    "floorId": "0",
+    "name": "Restrooms",
+    "displayLabel": "THH restrooms, basement",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "THH restrooms, basement"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": -3.4,
+      "z": -5
+    },
+    "sceneObjectKey": "THH-0-RR:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": -3.4,
+        "z": -8
+      },
+      "max": {
+        "x": -6,
+        "y": -2.55,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-0-RR:access",
+        "nodeId": "THH:0:cell:THH-0-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": -3.4,
+          "z": -5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-101",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Auditorium",
+    "displayLabel": "THH 101",
+    "roomNumber": "101",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 101",
+      "THH 101"
+    ],
+    "position": {
+      "x": 7.3,
+      "y": 0,
+      "z": 40
+    },
+    "sceneObjectKey": "THH-101:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": 26
+      },
+      "max": {
+        "x": 12.6,
+        "y": 0.85,
+        "z": 54
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-101:access",
+        "nodeId": "THH:1:cell:THH-101",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.3,
+          "y": 0,
+          "z": 40
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-102",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Auditorium",
+    "displayLabel": "THH 102",
+    "roomNumber": "102",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 102",
+      "THH 102"
+    ],
+    "position": {
+      "x": 3.5,
+      "y": 0,
+      "z": -51
+    },
+    "sceneObjectKey": "THH-102:object",
+    "bounds": {
+      "min": {
+        "x": -4,
+        "y": 0,
+        "z": -58
+      },
+      "max": {
+        "x": 11,
+        "y": 0.85,
+        "z": -44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-102:access",
+        "nodeId": "THH:1:cell:THH-102",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 3.5,
+          "y": 0,
+          "z": -51
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-105",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 105",
+    "roomNumber": "105",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 105",
+      "THH 105"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 0,
+      "z": -35.609
+    },
+    "sceneObjectKey": "THH-105:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 0,
+        "z": -40
+      },
+      "max": {
+        "x": -15,
+        "y": 0.85,
+        "z": -31.218
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-105:access",
+        "nodeId": "THH:1:cell:THH-105",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 0,
+          "z": -35.609
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-106",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 106",
+    "roomNumber": "106",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 106",
+      "THH 106"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 0,
+      "z": -26.562
+    },
+    "sceneObjectKey": "THH-106:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 0,
+        "z": -31.218
+      },
+      "max": {
+        "x": -15,
+        "y": 0.85,
+        "z": -21.906000000000002
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-106:access",
+        "nodeId": "THH:1:cell:THH-106",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 0,
+          "z": -26.562
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-107",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 107",
+    "roomNumber": "107",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 107",
+      "THH 107"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 0,
+      "z": -17.515
+    },
+    "sceneObjectKey": "THH-107:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 0,
+        "z": -21.906000000000002
+      },
+      "max": {
+        "x": -15,
+        "y": 0.85,
+        "z": -13.124
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-107:access",
+        "nodeId": "THH:1:cell:THH-107",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 0,
+          "z": -17.515
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-108",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 108",
+    "roomNumber": "108",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 108",
+      "THH 108"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 0,
+      "z": -8.733999999999998
+    },
+    "sceneObjectKey": "THH-108:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 0,
+        "z": -13.124
+      },
+      "max": {
+        "x": -15,
+        "y": 0.85,
+        "z": -4.343999999999998
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-108:access",
+        "nodeId": "THH:1:cell:THH-108",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 0,
+          "z": -8.733999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-109",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 109",
+    "roomNumber": "109",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 109",
+      "THH 109"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 0,
+      "z": 0.04700000000000282
+    },
+    "sceneObjectKey": "THH-109:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 0,
+        "z": -4.343999999999998
+      },
+      "max": {
+        "x": -15,
+        "y": 0.85,
+        "z": 4.438000000000003
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-109:access",
+        "nodeId": "THH:1:cell:THH-109",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 0,
+          "z": 0.04700000000000282
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-110",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 110",
+    "roomNumber": "110",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 110",
+      "THH 110"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 0,
+      "z": 8.828000000000001
+    },
+    "sceneObjectKey": "THH-110:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 0,
+        "z": 4.438000000000003
+      },
+      "max": {
+        "x": -15,
+        "y": 0.85,
+        "z": 13.217999999999998
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-110:access",
+        "nodeId": "THH:1:cell:THH-110",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 0,
+          "z": 8.828000000000001
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-111",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 111",
+    "roomNumber": "111",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 111",
+      "THH 111"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 0,
+      "z": 17.608999999999998
+    },
+    "sceneObjectKey": "THH-111:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 0,
+        "z": 13.217999999999998
+      },
+      "max": {
+        "x": -15,
+        "y": 0.85,
+        "z": 22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-111:access",
+        "nodeId": "THH:1:cell:THH-111",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 0,
+          "z": 17.608999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-112",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 112",
+    "roomNumber": "112",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 112",
+      "THH 112"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": 0,
+      "z": -24.5
+    },
+    "sceneObjectKey": "THH-112:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": 0,
+        "z": -31
+      },
+      "max": {
+        "x": -6,
+        "y": 0.85,
+        "z": -18
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-112:access",
+        "nodeId": "THH:1:cell:THH-112",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": 0,
+          "z": -24.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-113",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 113",
+    "roomNumber": "113",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 113",
+      "THH 113"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": 0,
+      "z": 2.954
+    },
+    "sceneObjectKey": "THH-113:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": 0,
+        "z": 0
+      },
+      "max": {
+        "x": -6,
+        "y": 0.85,
+        "z": 5.908
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-113:access",
+        "nodeId": "THH:1:cell:THH-113",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": 0,
+          "z": 2.954
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-114",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 114",
+    "roomNumber": "114",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 114",
+      "THH 114"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": 0,
+      "z": 9.954
+    },
+    "sceneObjectKey": "THH-114:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": 0,
+        "z": 5.908
+      },
+      "max": {
+        "x": -6,
+        "y": 0.85,
+        "z": 14
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-114:access",
+        "nodeId": "THH:1:cell:THH-114",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": 0,
+          "z": 9.954
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-115",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 115",
+    "roomNumber": "115",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 115",
+      "THH 115"
+    ],
+    "position": {
+      "x": -0.8349999999999984,
+      "y": 0,
+      "z": -37
+    },
+    "sceneObjectKey": "THH-115:object",
+    "bounds": {
+      "min": {
+        "x": -4,
+        "y": 0,
+        "z": -40
+      },
+      "max": {
+        "x": 2.330000000000003,
+        "y": 0.85,
+        "z": -34
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-115:access",
+        "nodeId": "THH:1:cell:THH-115",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -0.8349999999999984,
+          "y": 0,
+          "z": -37
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-116",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 116",
+    "roomNumber": "116",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 116",
+      "THH 116"
+    ],
+    "position": {
+      "x": 6.665000000000002,
+      "y": 0,
+      "z": -37
+    },
+    "sceneObjectKey": "THH-116:object",
+    "bounds": {
+      "min": {
+        "x": 2.330000000000003,
+        "y": 0,
+        "z": -40
+      },
+      "max": {
+        "x": 11,
+        "y": 0.85,
+        "z": -34
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-116:access",
+        "nodeId": "THH:1:cell:THH-116",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.665000000000002,
+          "y": 0,
+          "z": -37
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-117",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 117",
+    "roomNumber": "117",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 117",
+      "THH 117"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": 0,
+      "z": 27.728
+    },
+    "sceneObjectKey": "THH-117:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": 0,
+        "z": 26
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 29.456000000000003
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-117:access",
+        "nodeId": "THH:1:cell:THH-117",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": 0,
+          "z": 27.728
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-118",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 118",
+    "roomNumber": "118",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 118",
+      "THH 118"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": 0,
+      "z": 31.388
+    },
+    "sceneObjectKey": "THH-118:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": 0,
+        "z": 29.456000000000003
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 33.32
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-118:access",
+        "nodeId": "THH:1:cell:THH-118",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": 0,
+          "z": 31.388
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-119",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 119",
+    "roomNumber": "119",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 119",
+      "THH 119"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": 0,
+      "z": 35.20399999999999
+    },
+    "sceneObjectKey": "THH-119:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": 0,
+        "z": 33.32
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 37.087999999999994
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-119:access",
+        "nodeId": "THH:1:cell:THH-119",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": 0,
+          "z": 35.20399999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-121",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 121",
+    "roomNumber": "121",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 121",
+      "THH 121"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": 0,
+      "z": 38.815999999999995
+    },
+    "sceneObjectKey": "THH-121:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": 0,
+        "z": 37.087999999999994
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 40.544
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-121:access",
+        "nodeId": "THH:1:cell:THH-121",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": 0,
+          "z": 38.815999999999995
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-103",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Seminar room",
+    "displayLabel": "THH 103",
+    "roomNumber": "103",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 103",
+      "THH 103"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": 0,
+      "z": 42.272
+    },
+    "sceneObjectKey": "THH-103:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": 0,
+        "z": 40.544
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-103:access",
+        "nodeId": "THH:1:cell:THH-103",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": 0,
+          "z": 42.272
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-104",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Seminar room",
+    "displayLabel": "THH 104",
+    "roomNumber": "104",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 104",
+      "THH 104"
+    ],
+    "position": {
+      "x": 7.3,
+      "y": 0,
+      "z": 19
+    },
+    "sceneObjectKey": "THH-104:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": 16
+      },
+      "max": {
+        "x": 12.6,
+        "y": 0.85,
+        "z": 22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-104:access",
+        "nodeId": "THH:1:cell:THH-104",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.3,
+          "y": 0,
+          "z": 19
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-1-SA",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Spine stairs",
+    "displayLabel": "THH spine stairs, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH spine stairs, floor 1"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 0,
+      "z": -45
+    },
+    "sceneObjectKey": "THH-1-SA:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 0,
+        "z": -48
+      },
+      "max": {
+        "x": -15,
+        "y": 0.85,
+        "z": -42
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-1-SA:access",
+        "nodeId": "THH:1:cell:THH-1-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 0,
+          "z": -45
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-1-SB",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "South stairs",
+    "displayLabel": "THH south stairs, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH south stairs, floor 1"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": 0,
+      "z": 50
+    },
+    "sceneObjectKey": "THH-1-SB:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": 0,
+        "z": 46
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 54
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-1-SB:access",
+        "nodeId": "THH:1:cell:THH-1-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": 0,
+          "z": 50
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-1-EL",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Spine elevator",
+    "displayLabel": "THH spine elevator, floor 1",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "THH spine elevator, floor 1"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": 0,
+      "z": -13
+    },
+    "sceneObjectKey": "THH-1-EL:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": 0,
+        "z": -16
+      },
+      "max": {
+        "x": -6,
+        "y": 0.85,
+        "z": -10
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-1-EL:access",
+        "nodeId": "THH:1:cell:THH-1-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": 0,
+          "z": -13
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-1-RR",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Restrooms",
+    "displayLabel": "THH restrooms, floor 1",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "THH restrooms, floor 1"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": 0,
+      "z": -5
+    },
+    "sceneObjectKey": "THH-1-RR:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": 0,
+        "z": -8
+      },
+      "max": {
+        "x": -6,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-1-RR:access",
+        "nodeId": "THH:1:cell:THH-1-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": 0,
+          "z": -5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-ENT",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "main entrance",
+    "displayLabel": "THH main entrance",
+    "roomNumber": null,
+    "kind": "entrance",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": -13,
+      "y": 0,
+      "z": -50
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "THH:1:entrance:access",
+        "nodeId": "THH:1:entrance",
+        "label": "main entrance",
+        "position": {
+          "x": -13,
+          "y": 0,
+          "z": -50
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Door location and step-free property inferred; not a verified accessible entrance or emergency exit. Sources: demos/usc-map/locations.json Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-EXIT-1-EXIT",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "secondary exit",
+    "displayLabel": "THH secondary exit",
+    "roomNumber": null,
+    "kind": "emergency_exit",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 55
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "THH:1:exit:access",
+        "nodeId": "THH:1:exit",
+        "label": "secondary exit",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 55
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": false,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Door location and step-free property inferred; not a verified accessible entrance or emergency exit. Sources: demos/usc-map/locations.json Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-201",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Auditorium",
+    "displayLabel": "THH 201",
+    "roomNumber": "201",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 201",
+      "THH 201"
+    ],
+    "position": {
+      "x": 7.3,
+      "y": 3.4,
+      "z": 40
+    },
+    "sceneObjectKey": "THH-201:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 3.4,
+        "z": 26
+      },
+      "max": {
+        "x": 12.6,
+        "y": 4.25,
+        "z": 54
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-201:access",
+        "nodeId": "THH:2:cell:THH-201",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.3,
+          "y": 3.4,
+          "z": 40
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-202",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Auditorium",
+    "displayLabel": "THH 202",
+    "roomNumber": "202",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 202",
+      "THH 202"
+    ],
+    "position": {
+      "x": 3.5,
+      "y": 3.4,
+      "z": -51
+    },
+    "sceneObjectKey": "THH-202:object",
+    "bounds": {
+      "min": {
+        "x": -4,
+        "y": 3.4,
+        "z": -58
+      },
+      "max": {
+        "x": 11,
+        "y": 4.25,
+        "z": -44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-202:access",
+        "nodeId": "THH:2:cell:THH-202",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 3.5,
+          "y": 3.4,
+          "z": -51
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-203",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "THH 203",
+    "roomNumber": "203",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 203",
+      "THH 203"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 3.4,
+      "z": -35.571000000000005
+    },
+    "sceneObjectKey": "THH-203:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 3.4,
+        "z": -40
+      },
+      "max": {
+        "x": -15,
+        "y": 4.25,
+        "z": -31.142000000000007
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-203:access",
+        "nodeId": "THH:2:cell:THH-203",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 3.4,
+          "z": -35.571000000000005
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-205",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "THH 205",
+    "roomNumber": "205",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 205",
+      "THH 205"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 3.4,
+      "z": -26.714000000000002
+    },
+    "sceneObjectKey": "THH-205:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 3.4,
+        "z": -31.142000000000007
+      },
+      "max": {
+        "x": -15,
+        "y": 4.25,
+        "z": -22.285999999999998
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-205:access",
+        "nodeId": "THH:2:cell:THH-205",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 3.4,
+          "z": -26.714000000000002
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-207",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "THH 207",
+    "roomNumber": "207",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 207",
+      "THH 207"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 3.4,
+      "z": -17.857
+    },
+    "sceneObjectKey": "THH-207:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 3.4,
+        "z": -22.285999999999998
+      },
+      "max": {
+        "x": -15,
+        "y": 4.25,
+        "z": -13.427999999999997
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-207:access",
+        "nodeId": "THH:2:cell:THH-207",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 3.4,
+          "z": -17.857
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-208",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "THH 208",
+    "roomNumber": "208",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 208",
+      "THH 208"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 3.4,
+      "z": -6.784999999999998
+    },
+    "sceneObjectKey": "THH-208:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 3.4,
+        "z": -13.427999999999997
+      },
+      "max": {
+        "x": -15,
+        "y": 4.25,
+        "z": -0.1419999999999997
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-208:access",
+        "nodeId": "THH:2:cell:THH-208",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 3.4,
+          "z": -6.784999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-209",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "THH 209",
+    "roomNumber": "209",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 209",
+      "THH 209"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 3.4,
+      "z": 4.286
+    },
+    "sceneObjectKey": "THH-209:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 3.4,
+        "z": -0.1419999999999997
+      },
+      "max": {
+        "x": -15,
+        "y": 4.25,
+        "z": 8.713999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-209:access",
+        "nodeId": "THH:2:cell:THH-209",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 3.4,
+          "z": 4.286
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-210",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "THH 210",
+    "roomNumber": "210",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 210",
+      "THH 210"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 3.4,
+      "z": 15.357
+    },
+    "sceneObjectKey": "THH-210:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 3.4,
+        "z": 8.713999999999999
+      },
+      "max": {
+        "x": -15,
+        "y": 4.25,
+        "z": 22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-210:access",
+        "nodeId": "THH:2:cell:THH-210",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 3.4,
+          "z": 15.357
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-211",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "THH 211",
+    "roomNumber": "211",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 211",
+      "THH 211"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": 3.4,
+      "z": -24.5
+    },
+    "sceneObjectKey": "THH-211:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": 3.4,
+        "z": -31
+      },
+      "max": {
+        "x": -6,
+        "y": 4.25,
+        "z": -18
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-211:access",
+        "nodeId": "THH:2:cell:THH-211",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": 3.4,
+          "z": -24.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-212",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "THH 212",
+    "roomNumber": "212",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 212",
+      "THH 212"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": 3.4,
+      "z": 4.2
+    },
+    "sceneObjectKey": "THH-212:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": 3.4,
+        "z": 0
+      },
+      "max": {
+        "x": -6,
+        "y": 4.25,
+        "z": 8.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-212:access",
+        "nodeId": "THH:2:cell:THH-212",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": 3.4,
+          "z": 4.2
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-213",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "THH 213",
+    "roomNumber": "213",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 213",
+      "THH 213"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": 3.4,
+      "z": 11.2
+    },
+    "sceneObjectKey": "THH-213:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": 3.4,
+        "z": 8.4
+      },
+      "max": {
+        "x": -6,
+        "y": 4.25,
+        "z": 14
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-213:access",
+        "nodeId": "THH:2:cell:THH-213",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": 3.4,
+          "z": 11.2
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-214",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "THH 214",
+    "roomNumber": "214",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 214",
+      "THH 214"
+    ],
+    "position": {
+      "x": -0.14000000000000146,
+      "y": 3.4,
+      "z": -37
+    },
+    "sceneObjectKey": "THH-214:object",
+    "bounds": {
+      "min": {
+        "x": -4,
+        "y": 3.4,
+        "z": -40
+      },
+      "max": {
+        "x": 3.719999999999997,
+        "y": 4.25,
+        "z": -34
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-214:access",
+        "nodeId": "THH:2:cell:THH-214",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -0.14000000000000146,
+          "y": 3.4,
+          "z": -37
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-215",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "THH 215",
+    "roomNumber": "215",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 215",
+      "THH 215"
+    ],
+    "position": {
+      "x": 7.3599999999999985,
+      "y": 3.4,
+      "z": -37
+    },
+    "sceneObjectKey": "THH-215:object",
+    "bounds": {
+      "min": {
+        "x": 3.719999999999997,
+        "y": 3.4,
+        "z": -40
+      },
+      "max": {
+        "x": 11,
+        "y": 4.25,
+        "z": -34
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-215:access",
+        "nodeId": "THH:2:cell:THH-215",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.3599999999999985,
+          "y": 3.4,
+          "z": -37
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-217",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "THH 217",
+    "roomNumber": "217",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 217",
+      "THH 217"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": 3.4,
+      "z": 28.25
+    },
+    "sceneObjectKey": "THH-217:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": 3.4,
+        "z": 26
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": 30.5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-217:access",
+        "nodeId": "THH:2:cell:THH-217",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": 3.4,
+          "z": 28.25
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-219",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "THH 219",
+    "roomNumber": "219",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 219",
+      "THH 219"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": 3.4,
+      "z": 32.75
+    },
+    "sceneObjectKey": "THH-219:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": 3.4,
+        "z": 30.5
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": 35
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-219:access",
+        "nodeId": "THH:2:cell:THH-219",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": 3.4,
+          "z": 32.75
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-221",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "THH 221",
+    "roomNumber": "221",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 221",
+      "THH 221"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": 3.4,
+      "z": 37.25
+    },
+    "sceneObjectKey": "THH-221:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": 3.4,
+        "z": 35
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": 39.5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-221:access",
+        "nodeId": "THH:2:cell:THH-221",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": 3.4,
+          "z": 37.25
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-204",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Seminar room",
+    "displayLabel": "THH 204",
+    "roomNumber": "204",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 204",
+      "THH 204"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": 3.4,
+      "z": 41.75
+    },
+    "sceneObjectKey": "THH-204:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": 3.4,
+        "z": 39.5
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": 44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-204:access",
+        "nodeId": "THH:2:cell:THH-204",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": 3.4,
+          "z": 41.75
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-206",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Seminar room",
+    "displayLabel": "THH 206",
+    "roomNumber": "206",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 206",
+      "THH 206"
+    ],
+    "position": {
+      "x": 7.3,
+      "y": 3.4,
+      "z": 19
+    },
+    "sceneObjectKey": "THH-206:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 3.4,
+        "z": 16
+      },
+      "max": {
+        "x": 12.6,
+        "y": 4.25,
+        "z": 22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-206:access",
+        "nodeId": "THH:2:cell:THH-206",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.3,
+          "y": 3.4,
+          "z": 19
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-2-SA",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Spine stairs",
+    "displayLabel": "THH spine stairs, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH spine stairs, floor 2"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 3.4,
+      "z": -45
+    },
+    "sceneObjectKey": "THH-2-SA:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 3.4,
+        "z": -48
+      },
+      "max": {
+        "x": -15,
+        "y": 4.25,
+        "z": -42
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-2-SA:access",
+        "nodeId": "THH:2:cell:THH-2-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 3.4,
+          "z": -45
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-2-SB",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "South stairs",
+    "displayLabel": "THH south stairs, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH south stairs, floor 2"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": 3.4,
+      "z": 50
+    },
+    "sceneObjectKey": "THH-2-SB:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": 3.4,
+        "z": 46
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": 54
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-2-SB:access",
+        "nodeId": "THH:2:cell:THH-2-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": 3.4,
+          "z": 50
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-2-EL",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Spine elevator",
+    "displayLabel": "THH spine elevator, floor 2",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "THH spine elevator, floor 2"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": 3.4,
+      "z": -13
+    },
+    "sceneObjectKey": "THH-2-EL:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": 3.4,
+        "z": -16
+      },
+      "max": {
+        "x": -6,
+        "y": 4.25,
+        "z": -10
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-2-EL:access",
+        "nodeId": "THH:2:cell:THH-2-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": 3.4,
+          "z": -13
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-2-RR",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Restrooms",
+    "displayLabel": "THH restrooms, floor 2",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "THH restrooms, floor 2"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": 3.4,
+      "z": -5
+    },
+    "sceneObjectKey": "THH-2-RR:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": 3.4,
+        "z": -8
+      },
+      "max": {
+        "x": -6,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-2-RR:access",
+        "nodeId": "THH:2:cell:THH-2-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": 3.4,
+          "z": -5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-301",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Auditorium",
+    "displayLabel": "THH 301",
+    "roomNumber": "301",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 301",
+      "THH 301"
+    ],
+    "position": {
+      "x": 7.3,
+      "y": 6.8,
+      "z": 40
+    },
+    "sceneObjectKey": "THH-301:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": 26
+      },
+      "max": {
+        "x": 12.6,
+        "y": 7.6499999999999995,
+        "z": 54
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-301:access",
+        "nodeId": "THH:3:cell:THH-301",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.3,
+          "y": 6.8,
+          "z": 40
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-309K",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "AIRE Conference Room",
+    "displayLabel": "THH 309K",
+    "roomNumber": "309K",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 309K",
+      "THH 309K"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 6.8,
+      "z": -28.884
+    },
+    "sceneObjectKey": "THH-309K:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 6.8,
+        "z": -40
+      },
+      "max": {
+        "x": -15,
+        "y": 7.6499999999999995,
+        "z": -17.767999999999997
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-309K:access",
+        "nodeId": "THH:3:cell:THH-309K",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 6.8,
+          "z": -28.884
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://dornsife.usc.edu/aire/roomreservations/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Sources: https://dornsife.usc.edu/aire/roomreservations/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-309H",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "AIRE Conference Room",
+    "displayLabel": "THH 309H",
+    "roomNumber": "309H",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 309H",
+      "THH 309H"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 6.8,
+      "z": -7.825999999999999
+    },
+    "sceneObjectKey": "THH-309H:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 6.8,
+        "z": -17.767999999999997
+      },
+      "max": {
+        "x": -15,
+        "y": 7.6499999999999995,
+        "z": 2.1160000000000005
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-309H:access",
+        "nodeId": "THH:3:cell:THH-309H",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 6.8,
+          "z": -7.825999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://dornsife.usc.edu/aire/roomreservations/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Sources: https://dornsife.usc.edu/aire/roomreservations/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-302",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "THH 302",
+    "roomNumber": "302",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 302",
+      "THH 302"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 6.8,
+      "z": 12.058
+    },
+    "sceneObjectKey": "THH-302:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 6.8,
+        "z": 2.1160000000000005
+      },
+      "max": {
+        "x": -15,
+        "y": 7.6499999999999995,
+        "z": 22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-302:access",
+        "nodeId": "THH:3:cell:THH-302",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 6.8,
+          "z": 12.058
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-303",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "THH 303",
+    "roomNumber": "303",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 303",
+      "THH 303"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": 6.8,
+      "z": -24.5
+    },
+    "sceneObjectKey": "THH-303:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": 6.8,
+        "z": -31
+      },
+      "max": {
+        "x": -6,
+        "y": 7.6499999999999995,
+        "z": -18
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-303:access",
+        "nodeId": "THH:3:cell:THH-303",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": 6.8,
+          "z": -24.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-304",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "THH 304",
+    "roomNumber": "304",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 304",
+      "THH 304"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-304:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": 6.8,
+        "z": 0
+      },
+      "max": {
+        "x": -6,
+        "y": 7.6499999999999995,
+        "z": 14
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-304:access",
+        "nodeId": "THH:3:cell:THH-304",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-305",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "THH 305",
+    "roomNumber": "305",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 305",
+      "THH 305"
+    ],
+    "position": {
+      "x": -0.25,
+      "y": 6.8,
+      "z": -51
+    },
+    "sceneObjectKey": "THH-305:object",
+    "bounds": {
+      "min": {
+        "x": -4,
+        "y": 6.8,
+        "z": -58
+      },
+      "max": {
+        "x": 3.5,
+        "y": 7.6499999999999995,
+        "z": -44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-305:access",
+        "nodeId": "THH:3:cell:THH-305",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -0.25,
+          "y": 6.8,
+          "z": -51
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-306",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "THH 306",
+    "roomNumber": "306",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 306",
+      "THH 306"
+    ],
+    "position": {
+      "x": 7.25,
+      "y": 6.8,
+      "z": -51
+    },
+    "sceneObjectKey": "THH-306:object",
+    "bounds": {
+      "min": {
+        "x": 3.5,
+        "y": 6.8,
+        "z": -58
+      },
+      "max": {
+        "x": 11,
+        "y": 7.6499999999999995,
+        "z": -44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-306:access",
+        "nodeId": "THH:3:cell:THH-306",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.25,
+          "y": 6.8,
+          "z": -51
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-307",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "THH 307",
+    "roomNumber": "307",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 307",
+      "THH 307"
+    ],
+    "position": {
+      "x": 3.5,
+      "y": 6.8,
+      "z": -37
+    },
+    "sceneObjectKey": "THH-307:object",
+    "bounds": {
+      "min": {
+        "x": -4,
+        "y": 6.8,
+        "z": -40
+      },
+      "max": {
+        "x": 11,
+        "y": 7.6499999999999995,
+        "z": -34
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-307:access",
+        "nodeId": "THH:3:cell:THH-307",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 3.5,
+          "y": 6.8,
+          "z": -37
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-308",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "THH 308",
+    "roomNumber": "308",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 308",
+      "THH 308"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": 6.8,
+      "z": 30.5
+    },
+    "sceneObjectKey": "THH-308:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": 6.8,
+        "z": 26
+      },
+      "max": {
+        "x": -2,
+        "y": 7.6499999999999995,
+        "z": 35
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-308:access",
+        "nodeId": "THH:3:cell:THH-308",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": 6.8,
+          "z": 30.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-309",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "THH 309",
+    "roomNumber": "309",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 309",
+      "THH 309"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": 6.8,
+      "z": 39.5
+    },
+    "sceneObjectKey": "THH-309:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": 6.8,
+        "z": 35
+      },
+      "max": {
+        "x": -2,
+        "y": 7.6499999999999995,
+        "z": 44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-309:access",
+        "nodeId": "THH:3:cell:THH-309",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": 6.8,
+          "z": 39.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-310",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "THH 310",
+    "roomNumber": "310",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 310",
+      "THH 310"
+    ],
+    "position": {
+      "x": 7.3,
+      "y": 6.8,
+      "z": 19
+    },
+    "sceneObjectKey": "THH-310:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": 16
+      },
+      "max": {
+        "x": 12.6,
+        "y": 7.6499999999999995,
+        "z": 22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-310:access",
+        "nodeId": "THH:3:cell:THH-310",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.3,
+          "y": 6.8,
+          "z": 19
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-3-SA",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Spine stairs",
+    "displayLabel": "THH spine stairs, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH spine stairs, floor 3"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 6.8,
+      "z": -45
+    },
+    "sceneObjectKey": "THH-3-SA:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 6.8,
+        "z": -48
+      },
+      "max": {
+        "x": -15,
+        "y": 7.6499999999999995,
+        "z": -42
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-3-SA:access",
+        "nodeId": "THH:3:cell:THH-3-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 6.8,
+          "z": -45
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-3-SB",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "South stairs",
+    "displayLabel": "THH south stairs, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH south stairs, floor 3"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": 6.8,
+      "z": 50
+    },
+    "sceneObjectKey": "THH-3-SB:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": 6.8,
+        "z": 46
+      },
+      "max": {
+        "x": -2,
+        "y": 7.6499999999999995,
+        "z": 54
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-3-SB:access",
+        "nodeId": "THH:3:cell:THH-3-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": 6.8,
+          "z": 50
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-3-EL",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Spine elevator",
+    "displayLabel": "THH spine elevator, floor 3",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "THH spine elevator, floor 3"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": 6.8,
+      "z": -13
+    },
+    "sceneObjectKey": "THH-3-EL:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": 6.8,
+        "z": -16
+      },
+      "max": {
+        "x": -6,
+        "y": 7.6499999999999995,
+        "z": -10
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-3-EL:access",
+        "nodeId": "THH:3:cell:THH-3-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": 6.8,
+          "z": -13
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-3-RR",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Restrooms",
+    "displayLabel": "THH restrooms, floor 3",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "THH restrooms, floor 3"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": 6.8,
+      "z": -5
+    },
+    "sceneObjectKey": "THH-3-RR:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": 6.8,
+        "z": -8
+      },
+      "max": {
+        "x": -6,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-3-RR:access",
+        "nodeId": "THH:3:cell:THH-3-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": 6.8,
+          "z": -5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-401",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Faculty office",
+    "displayLabel": "THH 401",
+    "roomNumber": "401",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 401",
+      "THH 401"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 10.2,
+      "z": -24.5
+    },
+    "sceneObjectKey": "THH-401:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 10.2,
+        "z": -40
+      },
+      "max": {
+        "x": -15,
+        "y": 11.049999999999999,
+        "z": -9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-401:access",
+        "nodeId": "THH:4:cell:THH-401",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 10.2,
+          "z": -24.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-402",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Faculty office",
+    "displayLabel": "THH 402",
+    "roomNumber": "402",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 402",
+      "THH 402"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 10.2,
+      "z": 6.5
+    },
+    "sceneObjectKey": "THH-402:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 10.2,
+        "z": -9
+      },
+      "max": {
+        "x": -15,
+        "y": 11.049999999999999,
+        "z": 22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-402:access",
+        "nodeId": "THH:4:cell:THH-402",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 10.2,
+          "z": 6.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-403",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Faculty office",
+    "displayLabel": "THH 403",
+    "roomNumber": "403",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 403",
+      "THH 403"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-403:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": 10.2,
+        "z": 0
+      },
+      "max": {
+        "x": -6,
+        "y": 11.049999999999999,
+        "z": 14
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-403:access",
+        "nodeId": "THH:4:cell:THH-403",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-404",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Faculty office",
+    "displayLabel": "THH 404",
+    "roomNumber": "404",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 404",
+      "THH 404"
+    ],
+    "position": {
+      "x": -0.25,
+      "y": 10.2,
+      "z": -51
+    },
+    "sceneObjectKey": "THH-404:object",
+    "bounds": {
+      "min": {
+        "x": -4,
+        "y": 10.2,
+        "z": -58
+      },
+      "max": {
+        "x": 3.5,
+        "y": 11.049999999999999,
+        "z": -44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-404:access",
+        "nodeId": "THH:4:cell:THH-404",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -0.25,
+          "y": 10.2,
+          "z": -51
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-405",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Faculty office",
+    "displayLabel": "THH 405",
+    "roomNumber": "405",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 405",
+      "THH 405"
+    ],
+    "position": {
+      "x": 7.25,
+      "y": 10.2,
+      "z": -51
+    },
+    "sceneObjectKey": "THH-405:object",
+    "bounds": {
+      "min": {
+        "x": 3.5,
+        "y": 10.2,
+        "z": -58
+      },
+      "max": {
+        "x": 11,
+        "y": 11.049999999999999,
+        "z": -44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-405:access",
+        "nodeId": "THH:4:cell:THH-405",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.25,
+          "y": 10.2,
+          "z": -51
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-406",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Faculty office",
+    "displayLabel": "THH 406",
+    "roomNumber": "406",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 406",
+      "THH 406"
+    ],
+    "position": {
+      "x": 3.5,
+      "y": 10.2,
+      "z": -37
+    },
+    "sceneObjectKey": "THH-406:object",
+    "bounds": {
+      "min": {
+        "x": -4,
+        "y": 10.2,
+        "z": -40
+      },
+      "max": {
+        "x": 11,
+        "y": 11.049999999999999,
+        "z": -34
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-406:access",
+        "nodeId": "THH:4:cell:THH-406",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 3.5,
+          "y": 10.2,
+          "z": -37
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-407",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Faculty office",
+    "displayLabel": "THH 407",
+    "roomNumber": "407",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 407",
+      "THH 407"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": 10.2,
+      "z": 30.5
+    },
+    "sceneObjectKey": "THH-407:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": 10.2,
+        "z": 26
+      },
+      "max": {
+        "x": -2,
+        "y": 11.049999999999999,
+        "z": 35
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-407:access",
+        "nodeId": "THH:4:cell:THH-407",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": 10.2,
+          "z": 30.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-408",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Faculty office",
+    "displayLabel": "THH 408",
+    "roomNumber": "408",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 408",
+      "THH 408"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": 10.2,
+      "z": 39.5
+    },
+    "sceneObjectKey": "THH-408:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": 10.2,
+        "z": 35
+      },
+      "max": {
+        "x": -2,
+        "y": 11.049999999999999,
+        "z": 44
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-408:access",
+        "nodeId": "THH:4:cell:THH-408",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": 10.2,
+          "z": 39.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-409",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Faculty office",
+    "displayLabel": "THH 409",
+    "roomNumber": "409",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 409",
+      "THH 409"
+    ],
+    "position": {
+      "x": 7.3,
+      "y": 10.2,
+      "z": 33
+    },
+    "sceneObjectKey": "THH-409:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 10.2,
+        "z": 26
+      },
+      "max": {
+        "x": 12.6,
+        "y": 11.049999999999999,
+        "z": 40
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-409:access",
+        "nodeId": "THH:4:cell:THH-409",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.3,
+          "y": 10.2,
+          "z": 33
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-410",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Faculty office",
+    "displayLabel": "THH 410",
+    "roomNumber": "410",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 410",
+      "THH 410"
+    ],
+    "position": {
+      "x": 7.3,
+      "y": 10.2,
+      "z": 47
+    },
+    "sceneObjectKey": "THH-410:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 10.2,
+        "z": 40
+      },
+      "max": {
+        "x": 12.6,
+        "y": 11.049999999999999,
+        "z": 54
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-410:access",
+        "nodeId": "THH:4:cell:THH-410",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.3,
+          "y": 10.2,
+          "z": 47
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-4-SA",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Spine stairs",
+    "displayLabel": "THH spine stairs, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH spine stairs, floor 4"
+    ],
+    "position": {
+      "x": -17.5,
+      "y": 10.2,
+      "z": -45
+    },
+    "sceneObjectKey": "THH-4-SA:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 10.2,
+        "z": -48
+      },
+      "max": {
+        "x": -15,
+        "y": 11.049999999999999,
+        "z": -42
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-4-SA:access",
+        "nodeId": "THH:4:cell:THH-4-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -17.5,
+          "y": 10.2,
+          "z": -45
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-4-SB",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "South stairs",
+    "displayLabel": "THH south stairs, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH south stairs, floor 4"
+    ],
+    "position": {
+      "x": -7.5,
+      "y": 10.2,
+      "z": 50
+    },
+    "sceneObjectKey": "THH-4-SB:object",
+    "bounds": {
+      "min": {
+        "x": -13,
+        "y": 10.2,
+        "z": 46
+      },
+      "max": {
+        "x": -2,
+        "y": 11.049999999999999,
+        "z": 54
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-4-SB:access",
+        "nodeId": "THH:4:cell:THH-4-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.5,
+          "y": 10.2,
+          "z": 50
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-4-EL",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Spine elevator",
+    "displayLabel": "THH spine elevator, floor 4",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "THH spine elevator, floor 4"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": 10.2,
+      "z": -13
+    },
+    "sceneObjectKey": "THH-4-EL:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": 10.2,
+        "z": -16
+      },
+      "max": {
+        "x": -6,
+        "y": 11.049999999999999,
+        "z": -10
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-4-EL:access",
+        "nodeId": "THH:4:cell:THH-4-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": 10.2,
+          "z": -13
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "THH-4-RR",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Restrooms",
+    "displayLabel": "THH restrooms, floor 4",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "THH restrooms, floor 4"
+    ],
+    "position": {
+      "x": -8.5,
+      "y": 10.2,
+      "z": -5
+    },
+    "sceneObjectKey": "THH-4-RR:object",
+    "bounds": {
+      "min": {
+        "x": -11,
+        "y": 10.2,
+        "z": -8
+      },
+      "max": {
+        "x": -6,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-4-RR:access",
+        "nodeId": "THH:4:cell:THH-4-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8.5,
+          "y": 10.2,
+          "z": -5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  }
+]

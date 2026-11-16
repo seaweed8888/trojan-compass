@@ -1,0 +1,215 @@
+{
+  "id": "LVL",
+  "code": "LVL",
+  "name": "Leavey Library",
+  "aliases": [
+    "Thomas and Dorothy Leavey Library"
+  ],
+  "location": null,
+  "coverage": "demo",
+  "capabilities": {
+    "interiorScene": true,
+    "navigation": true,
+    "verifiedStepFreeRouting": false,
+    "chatText": true,
+    "chatImages": false,
+    "events": false
+  },
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [
+      "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf",
+      "https://roomfinder.usc.edu/"
+    ],
+    "verifiedAt": null,
+    "note": "Reconstructed demo interior; all positions, boundaries, doors and circulation inferred. Estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Floor count confirmed: 2023 tour explicitly covers lower level and floors 1–4. https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf | Long reading plate, north projection and first-floor south pavilion from campus polygon. No numeric tour key is treated as a room number. Plan image pixels were unavailable. Navigation and access are unverified."
+  },
+  "description": "24-hour study commons, group rooms and tech support.",
+  "officialMapUrl": null,
+  "viewerUrl": "/?building=LVL",
+  "coordinateSystem": {
+    "id": "LVL:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -36.3,
+      "y": -3.6399999999999997,
+      "z": -20.3
+    },
+    "max": {
+      "x": 38.3,
+      "y": 11.7,
+      "z": 24.3
+    }
+  },
+  "floors": [
+    {
+      "id": "0",
+      "buildingId": "LVL",
+      "label": "Basement",
+      "sortOrder": 0,
+      "elevationMeters": -3.4,
+      "sceneObjectKey": "LVL:floor:0",
+      "bounds": {
+        "min": {
+          "x": -36.3,
+          "y": -3.6399999999999997,
+          "z": -20.3
+        },
+        "max": {
+          "x": 38.3,
+          "y": -1.9,
+          "z": 12.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Lower-level seven classrooms/auditorium preserved by identity; precise assignments to plan blocks inferred. Fourth-floor subdividing partitions inferred. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "1",
+      "buildingId": "LVL",
+      "label": "Floor 1",
+      "sortOrder": 1,
+      "elevationMeters": 0,
+      "sceneObjectKey": "LVL:floor:1",
+      "bounds": {
+        "min": {
+          "x": -36.3,
+          "y": -0.24,
+          "z": -20.3
+        },
+        "max": {
+          "x": 38.3,
+          "y": 1.5,
+          "z": 24.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Lower-level seven classrooms/auditorium preserved by identity; precise assignments to plan blocks inferred. Fourth-floor subdividing partitions inferred. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "2",
+      "buildingId": "LVL",
+      "label": "Floor 2",
+      "sortOrder": 2,
+      "elevationMeters": 3.4,
+      "sceneObjectKey": "LVL:floor:2",
+      "bounds": {
+        "min": {
+          "x": -36.3,
+          "y": 3.16,
+          "z": -20.3
+        },
+        "max": {
+          "x": 38.3,
+          "y": 4.9,
+          "z": 12.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Lower-level seven classrooms/auditorium preserved by identity; precise assignments to plan blocks inferred. Fourth-floor subdividing partitions inferred. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "3",
+      "buildingId": "LVL",
+      "label": "Floor 3",
+      "sortOrder": 3,
+      "elevationMeters": 6.8,
+      "sceneObjectKey": "LVL:floor:3",
+      "bounds": {
+        "min": {
+          "x": -36.3,
+          "y": 6.56,
+          "z": -20.3
+        },
+        "max": {
+          "x": 38.3,
+          "y": 8.3,
+          "z": 12.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Lower-level seven classrooms/auditorium preserved by identity; precise assignments to plan blocks inferred. Fourth-floor subdividing partitions inferred. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "4",
+      "buildingId": "LVL",
+      "label": "Floor 4",
+      "sortOrder": 4,
+      "elevationMeters": 10.2,
+      "sceneObjectKey": "LVL:floor:4",
+      "bounds": {
+        "min": {
+          "x": -36.3,
+          "y": 9.959999999999999,
+          "z": -20.3
+        },
+        "max": {
+          "x": 38.3,
+          "y": 11.7,
+          "z": 12.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Lower-level seven classrooms/auditorium preserved by identity; precise assignments to plan blocks inferred. Fourth-floor subdividing partitions inferred. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "LVL:source:0",
+      "title": "Leavey Library reconstruction reference 1",
+      "url": "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf",
+      "sourceDate": null,
+      "pageReference": null,
+      "note": "Identity or exterior reference; interior positions remain inferred. See docs/interiors/."
+    },
+    {
+      "id": "LVL:source:1",
+      "title": "Leavey Library reconstruction reference 2",
+      "url": "https://roomfinder.usc.edu/",
+      "sourceDate": null,
+      "pageReference": null,
+      "note": "Identity or exterior reference; interior positions remain inferred. See docs/interiors/."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "SGM:SA",
+    "nodeIds": [
+      "SGM:1:stairs:A",
+      "SGM:2:stairs:A",
+      "SGM:3:stairs:A",
+      "SGM:4:stairs:A",
+      "SGM:5:stairs:A"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "SGM:E",
+    "nodeIds": [
+      "SGM:1:elevator",
+      "SGM:2:elevator",
+      "SGM:3:elevator",
+      "SGM:4:elevator",
+      "SGM:5:elevator"
+    ],
+    "kind": "elevator"
+  },
+  {
+    "id": "SGM:SB",
+    "nodeIds": [
+      "SGM:1:stairs:B",
+      "SGM:2:stairs:B",
+      "SGM:3:stairs:B",
+      "SGM:4:stairs:B",
+      "SGM:5:stairs:B"
+    ],
+    "kind": "stairs"
+  }
+]

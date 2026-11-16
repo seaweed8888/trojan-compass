@@ -1,0 +1,7 @@
+{
+  "horizontalMetersPerSceneUnit": 2,
+  "verticalMetersPerSceneUnit": 1,
+  "floorSpacingMeters": 3.4,
+  "accuracy": "estimated",
+  "note": "Reconstructed demo interior; all positions, boundaries, doors and circulation inferred. Estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Floor count confirmed: Directory and meeting-room list support floors 1–4; basement entries belong to SKS. demos/usc-map/locations.json | Narrow north/south bar and wider end volumes follow supplied TCC polygon, not the old rectangle. Navigation and access are unverified."
+}

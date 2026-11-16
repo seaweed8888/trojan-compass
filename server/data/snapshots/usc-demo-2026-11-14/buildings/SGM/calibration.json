@@ -1,0 +1,7 @@
+{
+  "horizontalMetersPerSceneUnit": 2,
+  "verticalMetersPerSceneUnit": 1,
+  "floorSpacingMeters": 3.4,
+  "accuracy": "estimated",
+  "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+}

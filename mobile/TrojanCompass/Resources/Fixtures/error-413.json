@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "PAYLOAD_TOO_LARGE",
+    "message": "The request exceeds the documented size limit.",
+    "requestId": "example-request"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "horizontalMetersPerSceneUnit": 2,
+  "verticalMetersPerSceneUnit": 1,
+  "floorSpacingMeters": 3.4,
+  "accuracy": "estimated",
+  "note": "Reconstructed demo interior; all positions, boundaries, doors and circulation inferred. Estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Floor count confirmed: City historic report describes three stories over basement; supersedes original generic four stories. https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf | U-shaped occupied wings within campus DMC envelope. Courtyard proportions and wing widths inferred, tower excluded. Navigation and access are unverified."
+}

@@ -1,0 +1,30 @@
+{
+  "requestId": "example-request",
+  "dataVersion": "contract-demo-v1",
+  "items": [
+    {
+      "id": "example-event",
+      "title": "Example event for integration testing",
+      "description": "Invented event fixture. This is not a USC event announcement.",
+      "kind": "general",
+      "status": "scheduled",
+      "startsAt": "2026-11-15T00:00:00Z",
+      "endsAt": "2026-11-15T01:00:00Z",
+      "displayTimeZone": "America/Los_Angeles",
+      "destination": {
+        "kind": "place",
+        "buildingId": "LAW",
+        "placeId": "LAW-101"
+      },
+      "sourceUrl": null,
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [],
+        "verifiedAt": null,
+        "note": "Synthetic contract fixture. Coordinates, geometry, timing and access claims are not measured USC information."
+      }
+    }
+  ],
+  "nextCursor": null
+}

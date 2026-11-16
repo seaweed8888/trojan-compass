@@ -1,0 +1,1820 @@
+{
+  "buildingId": "SAL",
+  "floorId": "0",
+  "coordinateSystem": {
+    "id": "SAL:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -23.3,
+      "y": -3.6399999999999997,
+      "z": -17.3
+    },
+    "max": {
+      "x": 24.3,
+      "y": -1.7,
+      "z": 17.3
+    }
+  },
+  "objects": [
+    {
+      "kind": "box",
+      "objectKey": "SAL:0:slab:0",
+      "placeId": null,
+      "role": "slab",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 0.5,
+        "y": -3.52,
+        "z": 5
+      },
+      "size": {
+        "x": 47.6,
+        "y": 0.24,
+        "z": 18.6
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL:0:slab:1",
+      "placeId": null,
+      "role": "slab",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 1,
+        "y": -3.52,
+        "z": 15.5
+      },
+      "size": {
+        "x": 30.6,
+        "y": 0.24,
+        "z": 3.6
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL:0:slab:2",
+      "placeId": null,
+      "role": "slab",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 1,
+        "y": -3.52,
+        "z": -10.5
+      },
+      "size": {
+        "x": 40.6,
+        "y": 0.24,
+        "z": 13.6
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B01:object",
+      "placeId": "SAL-B01",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 1,
+        "y": -3.384,
+        "z": -11
+      },
+      "size": {
+        "x": 38,
+        "y": 0.025,
+        "z": 10
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B01:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 1,
+        "y": -2.55,
+        "z": -15.939
+      },
+      "size": {
+        "x": 37.996,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B01:wall:1:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -8.989,
+        "y": -2.55,
+        "z": -6.061
+      },
+      "size": {
+        "x": 18.018,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B01:wall:1:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 10.989,
+        "y": -2.55,
+        "z": -6.061
+      },
+      "size": {
+        "x": 18.018,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B01:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.939,
+        "y": -2.55,
+        "z": -11
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 9.995999999999999
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B01:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 19.939,
+        "y": -2.55,
+        "z": -11
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 9.995999999999999
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B02:object",
+      "placeId": "SAL-B02",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 5.25,
+        "y": -3.384,
+        "z": -0.5
+      },
+      "size": {
+        "x": 6.5,
+        "y": 0.025,
+        "z": 5
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B02:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 5.25,
+        "y": -2.55,
+        "z": -2.939
+      },
+      "size": {
+        "x": 6.4959999999999996,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B02:wall:1:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 3.136,
+        "y": -2.55,
+        "z": 1.939
+      },
+      "size": {
+        "x": 2.2680000000000007,
+        "y": 1.7,
+        "z": 0.1180000000000001
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B02:wall:1:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 7.363999999999999,
+        "y": -2.55,
+        "z": 1.939
+      },
+      "size": {
+        "x": 2.268,
+        "y": 1.7,
+        "z": 0.1180000000000001
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B02:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": -2.55,
+        "z": -0.5000000000000001
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 4.996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B02:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.439,
+        "y": -2.55,
+        "z": -0.5000000000000001
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 4.996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B03:object",
+      "placeId": "SAL-B03",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 11.75,
+        "y": -3.384,
+        "z": -0.5
+      },
+      "size": {
+        "x": 6.5,
+        "y": 0.025,
+        "z": 5
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B03:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 11.75,
+        "y": -2.55,
+        "z": -2.939
+      },
+      "size": {
+        "x": 6.495999999999999,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B03:wall:1:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 9.636,
+        "y": -2.55,
+        "z": 1.939
+      },
+      "size": {
+        "x": 2.267999999999999,
+        "y": 1.7,
+        "z": 0.1180000000000001
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B03:wall:1:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 13.864,
+        "y": -2.55,
+        "z": 1.939
+      },
+      "size": {
+        "x": 2.267999999999999,
+        "y": 1.7,
+        "z": 0.1180000000000001
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B03:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.561,
+        "y": -2.55,
+        "z": -0.5000000000000001
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 4.996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B03:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 14.939,
+        "y": -2.55,
+        "z": -0.5000000000000001
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 4.996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B04:object",
+      "placeId": "SAL-B04",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -18.786,
+        "y": -3.384,
+        "z": 9.5
+      },
+      "size": {
+        "x": 6.427999999999997,
+        "y": 0.025,
+        "z": 7
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B04:wall:0:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -20.882,
+        "y": -2.55,
+        "z": 6.061
+      },
+      "size": {
+        "x": 2.2319999999999993,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B04:wall:0:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -16.69,
+        "y": -2.55,
+        "z": 6.061
+      },
+      "size": {
+        "x": 2.2319999999999975,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B04:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -18.786,
+        "y": -2.55,
+        "z": 12.939
+      },
+      "size": {
+        "x": 6.423999999999998,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B04:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -21.939,
+        "y": -2.55,
+        "z": 9.5
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 6.9959999999999996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B04:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -15.633000000000003,
+        "y": -2.55,
+        "z": 9.5
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 6.9959999999999996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B05:object",
+      "placeId": "SAL-B05",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -12.357000000000001,
+        "y": -3.384,
+        "z": 9.5
+      },
+      "size": {
+        "x": 6.430000000000003,
+        "y": 0.025,
+        "z": 7
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B05:wall:0:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -14.453500000000002,
+        "y": -2.55,
+        "z": 6.061
+      },
+      "size": {
+        "x": 2.2330000000000005,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B05:wall:0:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -10.2605,
+        "y": -2.55,
+        "z": 6.061
+      },
+      "size": {
+        "x": 2.2330000000000005,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B05:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -12.357000000000001,
+        "y": -2.55,
+        "z": 12.939
+      },
+      "size": {
+        "x": 6.426000000000002,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B05:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -15.511000000000003,
+        "y": -2.55,
+        "z": 9.5
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 6.9959999999999996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B05:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.203,
+        "y": -2.55,
+        "z": 9.5
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 6.9959999999999996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B06:object",
+      "placeId": "SAL-B06",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -5.928000000000001,
+        "y": -3.384,
+        "z": 9.5
+      },
+      "size": {
+        "x": 6.427999999999997,
+        "y": 0.025,
+        "z": 7
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B06:wall:0:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -8.024,
+        "y": -2.55,
+        "z": 6.061
+      },
+      "size": {
+        "x": 2.2319999999999984,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B06:wall:0:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -3.8320000000000016,
+        "y": -2.55,
+        "z": 6.061
+      },
+      "size": {
+        "x": 2.231999999999999,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B06:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -5.928000000000001,
+        "y": -2.55,
+        "z": 12.939
+      },
+      "size": {
+        "x": 6.423999999999996,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B06:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.081,
+        "y": -2.55,
+        "z": 9.5
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 6.9959999999999996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B06:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.7750000000000026,
+        "y": -2.55,
+        "z": 9.5
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 6.9959999999999996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B07:object",
+      "placeId": "SAL-B07",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 0.5,
+        "y": -3.384,
+        "z": 9.5
+      },
+      "size": {
+        "x": 6.428000000000005,
+        "y": 0.025,
+        "z": 7
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B07:wall:0:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -1.5960000000000014,
+        "y": -2.55,
+        "z": 6.061
+      },
+      "size": {
+        "x": 2.232000000000003,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B07:wall:0:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.5960000000000014,
+        "y": -2.55,
+        "z": 6.061
+      },
+      "size": {
+        "x": 2.232000000000003,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B07:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 0.5,
+        "y": -2.55,
+        "z": 12.939
+      },
+      "size": {
+        "x": 6.424000000000006,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B07:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.6530000000000027,
+        "y": -2.55,
+        "z": 9.5
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 6.9959999999999996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B07:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 3.6530000000000027,
+        "y": -2.55,
+        "z": 9.5
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 6.9959999999999996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B08:object",
+      "placeId": "SAL-B08",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 6.928000000000004,
+        "y": -3.384,
+        "z": 9.5
+      },
+      "size": {
+        "x": 6.428000000000004,
+        "y": 0.025,
+        "z": 7
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B08:wall:0:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 4.832000000000003,
+        "y": -2.55,
+        "z": 6.061
+      },
+      "size": {
+        "x": 2.2320000000000024,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B08:wall:0:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 9.024000000000004,
+        "y": -2.55,
+        "z": 6.061
+      },
+      "size": {
+        "x": 2.232000000000002,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B08:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 6.928000000000004,
+        "y": -2.55,
+        "z": 12.939
+      },
+      "size": {
+        "x": 6.424000000000003,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B08:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 3.7750000000000026,
+        "y": -2.55,
+        "z": 9.5
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 6.9959999999999996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B08:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 10.081000000000007,
+        "y": -2.55,
+        "z": 9.5
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 6.9959999999999996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B09:object",
+      "placeId": "SAL-B09",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 13.357000000000001,
+        "y": -3.384,
+        "z": 9.5
+      },
+      "size": {
+        "x": 6.429999999999989,
+        "y": 0.025,
+        "z": 7
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B09:wall:0:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 11.260500000000004,
+        "y": -2.55,
+        "z": 6.061
+      },
+      "size": {
+        "x": 2.2329999999999934,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B09:wall:0:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 15.453499999999998,
+        "y": -2.55,
+        "z": 6.061
+      },
+      "size": {
+        "x": 2.232999999999995,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B09:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 13.357000000000003,
+        "y": -2.55,
+        "z": 12.939
+      },
+      "size": {
+        "x": 6.4259999999999895,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B09:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 10.203000000000007,
+        "y": -2.55,
+        "z": 9.5
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 6.9959999999999996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B09:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 16.510999999999996,
+        "y": -2.55,
+        "z": 9.5
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 6.9959999999999996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B10:object",
+      "placeId": "SAL-B10",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 19.785999999999998,
+        "y": -3.384,
+        "z": 9.5
+      },
+      "size": {
+        "x": 6.428000000000004,
+        "y": 0.025,
+        "z": 7
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B10:wall:0:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 17.689999999999998,
+        "y": -2.55,
+        "z": 6.061
+      },
+      "size": {
+        "x": 2.232000000000003,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B10:wall:0:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 21.881999999999998,
+        "y": -2.55,
+        "z": 6.061
+      },
+      "size": {
+        "x": 2.232000000000003,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B10:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 19.785999999999998,
+        "y": -2.55,
+        "z": 12.939
+      },
+      "size": {
+        "x": 6.424000000000007,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B10:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 16.632999999999996,
+        "y": -2.55,
+        "z": 9.5
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 6.9959999999999996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-B10:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 22.939,
+        "y": -2.55,
+        "z": 9.5
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 6.9959999999999996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-SA:object",
+      "placeId": "SAL-0-SA",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -19,
+        "y": -3.384,
+        "z": -0.5
+      },
+      "size": {
+        "x": 6,
+        "y": 0.025,
+        "z": 5
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-SA:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -19,
+        "y": -2.55,
+        "z": -2.939
+      },
+      "size": {
+        "x": 5.996000000000002,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-SA:wall:1:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -20.989,
+        "y": -2.55,
+        "z": 1.939
+      },
+      "size": {
+        "x": 2.0180000000000007,
+        "y": 1.7,
+        "z": 0.1180000000000001
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-SA:wall:1:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.011,
+        "y": -2.55,
+        "z": 1.939
+      },
+      "size": {
+        "x": 2.0180000000000007,
+        "y": 1.7,
+        "z": 0.1180000000000001
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-SA:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -21.939,
+        "y": -2.55,
+        "z": -0.5000000000000001
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 4.996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-SA:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -16.061,
+        "y": -2.55,
+        "z": -0.5000000000000001
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 4.996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-SB:object",
+      "placeId": "SAL-0-SB",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 19.5,
+        "y": -3.384,
+        "z": -0.5
+      },
+      "size": {
+        "x": 7,
+        "y": 0.025,
+        "z": 5
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-SB:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 19.5,
+        "y": -2.55,
+        "z": -2.939
+      },
+      "size": {
+        "x": 6.996000000000002,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-SB:wall:1:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 17.261,
+        "y": -2.55,
+        "z": 1.939
+      },
+      "size": {
+        "x": 2.5180000000000007,
+        "y": 1.7,
+        "z": 0.1180000000000001
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-SB:wall:1:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 21.739,
+        "y": -2.55,
+        "z": 1.939
+      },
+      "size": {
+        "x": 2.5180000000000007,
+        "y": 1.7,
+        "z": 0.1180000000000001
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-SB:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 16.061,
+        "y": -2.55,
+        "z": -0.5000000000000001
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 4.996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-SB:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 22.939,
+        "y": -2.55,
+        "z": -0.5000000000000001
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 4.996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-EL:object",
+      "placeId": "SAL-0-EL",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -10,
+        "y": -3.384,
+        "z": -0.5
+      },
+      "size": {
+        "x": 4,
+        "y": 0.025,
+        "z": 5
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-EL:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -10,
+        "y": -2.55,
+        "z": -2.939
+      },
+      "size": {
+        "x": 3.9959999999999987,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-EL:wall:1:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -11.539,
+        "y": -2.55,
+        "z": 1.939
+      },
+      "size": {
+        "x": 0.9179999999999993,
+        "y": 1.7,
+        "z": 0.1180000000000001
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-EL:wall:1:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -8.461,
+        "y": -2.55,
+        "z": 1.939
+      },
+      "size": {
+        "x": 0.9179999999999993,
+        "y": 1.7,
+        "z": 0.1180000000000001
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-EL:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -11.939,
+        "y": -2.55,
+        "z": -0.5000000000000001
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 4.996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-EL:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -8.061,
+        "y": -2.55,
+        "z": -0.5000000000000001
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 4.996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-RR:object",
+      "placeId": "SAL-0-RR",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -4,
+        "y": -3.384,
+        "z": -0.5
+      },
+      "size": {
+        "x": 4,
+        "y": 0.025,
+        "z": 5
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-RR:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -4,
+        "y": -2.55,
+        "z": -2.939
+      },
+      "size": {
+        "x": 3.9960000000000004,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-RR:wall:1:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -5.489,
+        "y": -2.55,
+        "z": 1.939
+      },
+      "size": {
+        "x": 1.0180000000000007,
+        "y": 1.7,
+        "z": 0.1180000000000001
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-RR:wall:1:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.511,
+        "y": -2.55,
+        "z": 1.939
+      },
+      "size": {
+        "x": 1.0180000000000002,
+        "y": 1.7,
+        "z": 0.1180000000000001
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-RR:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -5.939,
+        "y": -2.55,
+        "z": -0.5000000000000001
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 4.996
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "SAL-0-RR:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": -2.55,
+        "z": -0.5000000000000001
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 4.996
+      },
+      "yawRadians": 0
+    }
+  ],
+  "labels": [
+    {
+      "placeId": "SAL-B01",
+      "text": "SAL B01",
+      "position": {
+        "x": 1,
+        "y": -3.4,
+        "z": -11
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "SAL-B02",
+      "text": "SAL B02",
+      "position": {
+        "x": 5.25,
+        "y": -3.4,
+        "z": -0.5
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "SAL-B03",
+      "text": "SAL B03",
+      "position": {
+        "x": 11.75,
+        "y": -3.4,
+        "z": -0.5
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "SAL-B04",
+      "text": "SAL B04",
+      "position": {
+        "x": -18.786,
+        "y": -3.4,
+        "z": 9.5
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "SAL-B05",
+      "text": "SAL B05",
+      "position": {
+        "x": -12.357000000000001,
+        "y": -3.4,
+        "z": 9.5
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "SAL-B06",
+      "text": "SAL B06",
+      "position": {
+        "x": -5.928000000000001,
+        "y": -3.4,
+        "z": 9.5
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "SAL-B07",
+      "text": "SAL B07",
+      "position": {
+        "x": 0.5,
+        "y": -3.4,
+        "z": 9.5
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "SAL-B08",
+      "text": "SAL B08",
+      "position": {
+        "x": 6.928000000000004,
+        "y": -3.4,
+        "z": 9.5
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "SAL-B09",
+      "text": "SAL B09",
+      "position": {
+        "x": 13.357000000000001,
+        "y": -3.4,
+        "z": 9.5
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "SAL-B10",
+      "text": "SAL B10",
+      "position": {
+        "x": 19.785999999999998,
+        "y": -3.4,
+        "z": 9.5
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "SAL-0-SA",
+      "text": "SAL west stairs, basement",
+      "position": {
+        "x": -19,
+        "y": -3.4,
+        "z": -0.5
+      },
+      "priority": 0
+    },
+    {
+      "placeId": "SAL-0-SB",
+      "text": "SAL east stairs, basement",
+      "position": {
+        "x": 19.5,
+        "y": -3.4,
+        "z": -0.5
+      },
+      "priority": 0
+    },
+    {
+      "placeId": "SAL-0-EL",
+      "text": "SAL elevator, basement",
+      "position": {
+        "x": -10,
+        "y": -3.4,
+        "z": -0.5
+      },
+      "priority": 0
+    },
+    {
+      "placeId": "SAL-0-RR",
+      "text": "SAL restrooms, basement",
+      "position": {
+        "x": -4,
+        "y": -3.4,
+        "z": -0.5
+      },
+      "priority": 0
+    }
+  ]
+}

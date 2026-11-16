@@ -1,0 +1,2 @@
+export const INPUT = 'mt-1.5 w-full rounded-lg border border-neutral-300 bg-white px-3 py-2.5 text-[14px] font-normal outline-none transition placeholder:text-neutral-400 focus:border-cardinal focus:ring-2 focus:ring-cardinal/15'
+export const ACTION = 'flex w-full items-center justify-center gap-2 rounded-lg bg-cardinal px-3 py-2.5 text-[13px] font-bold text-white transition hover:bg-cardinal-dark focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-cardinal'

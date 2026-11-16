@@ -1,0 +1,76 @@
+{
+  "representation": "procedural",
+  "buildingId": "DML",
+  "coordinateSystem": {
+    "id": "DML:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -36.3,
+      "y": -3.6399999999999997,
+      "z": -27.3
+    },
+    "max": {
+      "x": 39.3,
+      "y": 8.5,
+      "z": 25.3
+    }
+  },
+  "rootObjectKey": "DML:root",
+  "viewerUrl": "/?building=DML",
+  "floors": [
+    {
+      "floorId": "0",
+      "label": "Basement",
+      "sceneObjectKey": "DML:floor:0",
+      "geometryUrl": "/api/buildings/DML/floors/0?dataVersion=usc-interiors-2026-11-15-walls"
+    },
+    {
+      "floorId": "1",
+      "label": "Ground floor",
+      "sceneObjectKey": "DML:floor:1",
+      "geometryUrl": "/api/buildings/DML/floors/1?dataVersion=usc-interiors-2026-11-15-walls"
+    },
+    {
+      "floorId": "2",
+      "label": "First floor",
+      "sceneObjectKey": "DML:floor:2",
+      "geometryUrl": "/api/buildings/DML/floors/2?dataVersion=usc-interiors-2026-11-15-walls"
+    },
+    {
+      "floorId": "3",
+      "label": "Second floor",
+      "sceneObjectKey": "DML:floor:3",
+      "geometryUrl": "/api/buildings/DML/floors/3?dataVersion=usc-interiors-2026-11-15-walls"
+    }
+  ],
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [
+      "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+    ],
+    "verifiedAt": null,
+    "note": "Reconstructed demo interior; all positions, boundaries, doors and circulation inferred. Estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Floor count confirmed: Tour names Basement, Ground, First, Second; stack mezzanines unresolved. https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf | Broad wings and west recess retained from campus polygon. All room positions inferred; PDF image pixels unavailable for tracing. Navigation and access are unverified."
+  },
+  "materials": [
+    {
+      "key": "floor",
+      "color": "#e9e9ec",
+      "opacity": 1,
+      "roughness": 0.9,
+      "metalness": 0
+    },
+    {
+      "key": "wall",
+      "color": "#c9c9ce",
+      "opacity": 1,
+      "roughness": 0.9,
+      "metalness": 0
+    }
+  ]
+}

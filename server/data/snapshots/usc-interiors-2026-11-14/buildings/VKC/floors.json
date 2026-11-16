@@ -1,0 +1,118 @@
+[
+  {
+    "id": "0",
+    "buildingId": "VKC",
+    "label": "Basement",
+    "sortOrder": 0,
+    "elevationMeters": -3.4,
+    "sceneObjectKey": "VKC:floor:0",
+    "bounds": {
+      "min": {
+        "x": -42.3,
+        "y": -3.6399999999999997,
+        "z": -27.3
+      },
+      "max": {
+        "x": 42.3,
+        "y": -1.9,
+        "z": 27.3
+      }
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. U-shaped wings retained; campus DMC path is only an outer envelope. Nonoccupied globe tower not modeled as an occupied floor. Old inferred fourth-floor rooms removed. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "1",
+    "buildingId": "VKC",
+    "label": "Floor 1",
+    "sortOrder": 1,
+    "elevationMeters": 0,
+    "sceneObjectKey": "VKC:floor:1",
+    "bounds": {
+      "min": {
+        "x": -42.3,
+        "y": -0.24,
+        "z": -27.3
+      },
+      "max": {
+        "x": 42.3,
+        "y": 1.5,
+        "z": 27.3
+      }
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. U-shaped wings retained; campus DMC path is only an outer envelope. Nonoccupied globe tower not modeled as an occupied floor. Old inferred fourth-floor rooms removed. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "2",
+    "buildingId": "VKC",
+    "label": "Floor 2",
+    "sortOrder": 2,
+    "elevationMeters": 3.4,
+    "sceneObjectKey": "VKC:floor:2",
+    "bounds": {
+      "min": {
+        "x": -42.3,
+        "y": 3.16,
+        "z": -27.3
+      },
+      "max": {
+        "x": 42.3,
+        "y": 4.9,
+        "z": 27.3
+      }
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. U-shaped wings retained; campus DMC path is only an outer envelope. Nonoccupied globe tower not modeled as an occupied floor. Old inferred fourth-floor rooms removed. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "3",
+    "buildingId": "VKC",
+    "label": "Floor 3",
+    "sortOrder": 3,
+    "elevationMeters": 6.8,
+    "sceneObjectKey": "VKC:floor:3",
+    "bounds": {
+      "min": {
+        "x": -42.3,
+        "y": 6.56,
+        "z": -27.3
+      },
+      "max": {
+        "x": 42.3,
+        "y": 8.3,
+        "z": 27.3
+      }
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. U-shaped wings retained; campus DMC path is only an outer envelope. Nonoccupied globe tower not modeled as an occupied floor. Old inferred fourth-floor rooms removed. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  }
+]

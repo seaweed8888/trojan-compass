@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-15",
+  "buildings": 8,
+  "floors": 41,
+  "cells": 672,
+  "confirmed_room_numbers": 137,
+  "inferred_room_numbers": 361,
+  "csv_rows": 2406,
+  "source_inventory_rows": 260,
+  "dependency_free_tests": {
+    "passed": 26,
+    "failed": 0
+  },
+  "geometry_review": "All 41 floors reviewed as static geometry plots; see qa/*.png",
+  "law_source_and_five_loaded_layout_hashes": "unchanged",
+  "duplicate_ids_and_room_numbers": "pass",
+  "room_overlap_and_slab_containment": "pass",
+  "courtyard_exclusion": "pass",
+  "corridor_and_door_connectivity": "pass",
+  "aligned_vertical_connections": "pass",
+  "all_destination_routes_in_three_modes": "pass",
+  "csv_model_coverage_and_status_fields": "pass",
+  "original_inputs_and_package_lock": "unchanged",
+  "workspace_typecheck": "blocked: dependencies unavailable",
+  "browser_individual_and_all_floors": "not run: Next unavailable after npm registry HTTP 403",
+  "graphify": "unavailable: executable absent; no input graph.json",
+  "full_build_and_React_Three_tests": "not run: dependencies unavailable"
+}

@@ -1,0 +1,118 @@
+[
+  {
+    "id": "0",
+    "buildingId": "SAL",
+    "label": "Basement",
+    "sortOrder": 0,
+    "elevationMeters": -3.4,
+    "sceneObjectKey": "SAL:floor:0",
+    "bounds": {
+      "min": {
+        "x": -23.3,
+        "y": -3.6399999999999997,
+        "z": -17.3
+      },
+      "max": {
+        "x": 24.3,
+        "y": -1.7,
+        "z": 17.3
+      }
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Three-story southern block plus one-story northern volume and basement supported by historic description. Auditorium placement in north block inferred. Sources: https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "1",
+    "buildingId": "SAL",
+    "label": "Floor 1",
+    "sortOrder": 1,
+    "elevationMeters": 0,
+    "sceneObjectKey": "SAL:floor:1",
+    "bounds": {
+      "min": {
+        "x": -23.3,
+        "y": -0.24,
+        "z": -17.3
+      },
+      "max": {
+        "x": 24.3,
+        "y": 1.7,
+        "z": 17.3
+      }
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Three-story southern block plus one-story northern volume and basement supported by historic description. Auditorium placement in north block inferred. Sources: https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "2",
+    "buildingId": "SAL",
+    "label": "Floor 2",
+    "sortOrder": 2,
+    "elevationMeters": 3.4,
+    "sceneObjectKey": "SAL:floor:2",
+    "bounds": {
+      "min": {
+        "x": -23.3,
+        "y": 3.16,
+        "z": -4.300000000000001
+      },
+      "max": {
+        "x": 24.3,
+        "y": 5.1,
+        "z": 17.3
+      }
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Three-story southern block plus one-story northern volume and basement supported by historic description. Auditorium placement in north block inferred. Sources: https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "3",
+    "buildingId": "SAL",
+    "label": "Floor 3",
+    "sortOrder": 3,
+    "elevationMeters": 6.8,
+    "sceneObjectKey": "SAL:floor:3",
+    "bounds": {
+      "min": {
+        "x": -23.3,
+        "y": 6.56,
+        "z": -4.300000000000001
+      },
+      "max": {
+        "x": 24.3,
+        "y": 8.5,
+        "z": 17.3
+      }
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Three-story southern block plus one-story northern volume and basement supported by historic description. Auditorium placement in north block inferred. Sources: https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf Navigation and accessibility are unverified."
+    }
+  }
+]

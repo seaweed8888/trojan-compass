@@ -1,0 +1,113 @@
+{
+  "representation": "procedural",
+  "buildingId": "SGM",
+  "coordinateSystem": {
+    "id": "SGM:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -26.3,
+      "y": -0.24,
+      "z": -42.3
+    },
+    "max": {
+      "x": 26.3,
+      "y": 32.099999999999994,
+      "z": 41.3
+    }
+  },
+  "rootObjectKey": "SGM:root",
+  "viewerUrl": "/?building=SGM",
+  "floors": [
+    {
+      "floorId": "1",
+      "label": "Floor 1",
+      "sceneObjectKey": "SGM:floor:1",
+      "geometryUrl": "/api/buildings/SGM/floors/1?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "2",
+      "label": "Floor 2",
+      "sceneObjectKey": "SGM:floor:2",
+      "geometryUrl": "/api/buildings/SGM/floors/2?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "3",
+      "label": "Floor 3",
+      "sceneObjectKey": "SGM:floor:3",
+      "geometryUrl": "/api/buildings/SGM/floors/3?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "4",
+      "label": "Floor 4",
+      "sceneObjectKey": "SGM:floor:4",
+      "geometryUrl": "/api/buildings/SGM/floors/4?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "5",
+      "label": "Floor 5",
+      "sceneObjectKey": "SGM:floor:5",
+      "geometryUrl": "/api/buildings/SGM/floors/5?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "6",
+      "label": "Floor 6",
+      "sceneObjectKey": "SGM:floor:6",
+      "geometryUrl": "/api/buildings/SGM/floors/6?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "7",
+      "label": "Floor 7",
+      "sceneObjectKey": "SGM:floor:7",
+      "geometryUrl": "/api/buildings/SGM/floors/7?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "8",
+      "label": "Floor 8",
+      "sceneObjectKey": "SGM:floor:8",
+      "geometryUrl": "/api/buildings/SGM/floors/8?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "9",
+      "label": "Floor 9",
+      "sceneObjectKey": "SGM:floor:9",
+      "geometryUrl": "/api/buildings/SGM/floors/9?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "10",
+      "label": "Floor 10",
+      "sceneObjectKey": "SGM:floor:10",
+      "geometryUrl": "/api/buildings/SGM/floors/10?dataVersion=usc-interiors-2026-11-14"
+    }
+  ],
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [
+      "https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/",
+      "https://roomfinder.usc.edu/"
+    ],
+    "verifiedAt": null,
+    "note": "Reconstructed demo interior; all positions, boundaries, doors and circulation inferred. Estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Floor count inferred: At least 10 floors evidenced by clinic directions. Exactly 10 modeled; total floor count not verified. demos/usc-map/locations.json | Irregular ground podium, narrow connector and southern wing retained. North tower setback at floor 3 is inferred. Navigation and access are unverified."
+  },
+  "materials": [
+    {
+      "key": "floor",
+      "color": "#e9e9ec",
+      "opacity": 1,
+      "roughness": 0.9,
+      "metalness": 0
+    },
+    {
+      "key": "wall",
+      "color": "#c9c9ce",
+      "opacity": 1,
+      "roughness": 0.9,
+      "metalness": 0
+    }
+  ]
+}

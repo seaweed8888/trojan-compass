@@ -1,0 +1,32 @@
+[
+  {
+    "id": "VKC:SA",
+    "nodeIds": [
+      "VKC:1:stairs:A",
+      "VKC:2:stairs:A",
+      "VKC:3:stairs:A",
+      "VKC:4:stairs:A"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "VKC:E",
+    "nodeIds": [
+      "VKC:1:elevator",
+      "VKC:2:elevator",
+      "VKC:3:elevator",
+      "VKC:4:elevator"
+    ],
+    "kind": "elevator"
+  },
+  {
+    "id": "VKC:SB",
+    "nodeIds": [
+      "VKC:1:stairs:B",
+      "VKC:2:stairs:B",
+      "VKC:3:stairs:B",
+      "VKC:4:stairs:B"
+    ],
+    "kind": "stairs"
+  }
+]

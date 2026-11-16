@@ -1,0 +1,10 @@
+{
+  "requestId": "example-request",
+  "clientRequestId": "11111111-1111-4111-8111-111111111111",
+  "dataVersion": "contract-demo-v1",
+  "status": "no_route",
+  "message": "A verified step-free route is unavailable for this dataset.",
+  "actions": [],
+  "clarification": null,
+  "citations": []
+}

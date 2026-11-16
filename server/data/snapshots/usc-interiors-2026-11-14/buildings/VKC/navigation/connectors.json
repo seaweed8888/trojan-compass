@@ -1,0 +1,32 @@
+[
+  {
+    "id": "VKC:A",
+    "nodeIds": [
+      "VKC:0:cell:VKC-0-SA",
+      "VKC:1:cell:VKC-1-SA",
+      "VKC:2:cell:VKC-2-SA",
+      "VKC:3:cell:VKC-3-SA"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "VKC:B",
+    "nodeIds": [
+      "VKC:0:cell:VKC-0-SB",
+      "VKC:1:cell:VKC-1-SB",
+      "VKC:2:cell:VKC-2-SB",
+      "VKC:3:cell:VKC-3-SB"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "VKC:E",
+    "nodeIds": [
+      "VKC:0:cell:VKC-0-EL",
+      "VKC:1:cell:VKC-1-EL",
+      "VKC:2:cell:VKC-2-EL",
+      "VKC:3:cell:VKC-3-EL"
+    ],
+    "kind": "elevator"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "requestId": "example-request",
+  "dataVersion": "contract-demo-v1",
+  "items": [
+    {
+      "id": "LAW",
+      "code": "LAW",
+      "name": "Gould School of Law",
+      "aliases": [
+        "law building",
+        "Musick Law Building"
+      ],
+      "location": null,
+      "coverage": "demo",
+      "capabilities": {
+        "interiorScene": true,
+        "navigation": true,
+        "verifiedStepFreeRouting": false,
+        "chatText": true,
+        "chatImages": false,
+        "events": false
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [],
+        "verifiedAt": null,
+        "note": "Synthetic contract fixture. Coordinates, geometry, timing and access claims are not measured USC information."
+      }
+    }
+  ],
+  "nextCursor": null
+}

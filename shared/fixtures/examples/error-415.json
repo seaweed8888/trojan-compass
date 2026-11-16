@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "UNSUPPORTED_MEDIA_TYPE",
+    "message": "Use a supported request content type.",
+    "requestId": "example-request"
+  }
+}

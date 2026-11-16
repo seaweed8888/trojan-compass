@@ -1,0 +1,73 @@
+{
+  "requestId": "example-request",
+  "dataVersion": "contract-demo-v1",
+  "scene": {
+    "representation": "procedural",
+    "buildingId": "LAW",
+    "coordinateSystem": {
+      "id": "LAW-local-meters-v1",
+      "units": "meters",
+      "upAxis": "Y",
+      "handedness": "right",
+      "accuracy": "illustrative"
+    },
+    "bounds": {
+      "min": {
+        "x": 0,
+        "y": -0.2,
+        "z": 0
+      },
+      "max": {
+        "x": 20,
+        "y": 6.4,
+        "z": 12
+      }
+    },
+    "rootObjectKey": "LAW:root",
+    "viewerUrl": "https://compass.example/map?building=LAW&floor=1",
+    "floors": [
+      {
+        "floorId": "1",
+        "label": "Floor 1",
+        "sceneObjectKey": "LAW:floor:1",
+        "geometryUrl": "https://api.compass.example/api/buildings/LAW/floors/1?dataVersion=contract-demo-v1"
+      },
+      {
+        "floorId": "2",
+        "label": "Floor 2",
+        "sceneObjectKey": "LAW:floor:2",
+        "geometryUrl": "https://api.compass.example/api/buildings/LAW/floors/2?dataVersion=contract-demo-v1"
+      }
+    ],
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Synthetic contract fixture. Coordinates, geometry, timing and access claims are not measured USC information."
+    },
+    "materials": [
+      {
+        "key": "slab",
+        "color": "#E4E4E7",
+        "opacity": 1,
+        "roughness": 0.8,
+        "metalness": 0
+      },
+      {
+        "key": "wall",
+        "color": "#C9C9CE",
+        "opacity": 1,
+        "roughness": 0.8,
+        "metalness": 0
+      },
+      {
+        "key": "room",
+        "color": "#990000",
+        "opacity": 0.15,
+        "roughness": 0.8,
+        "metalness": 0
+      }
+    ]
+  }
+}

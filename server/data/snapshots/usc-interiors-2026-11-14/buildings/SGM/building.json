@@ -1,0 +1,361 @@
+{
+  "id": "SGM",
+  "code": "SGM",
+  "name": "Seeley G. Mudd Building",
+  "aliases": [
+    "Seeley G. Mudd",
+    "SGM"
+  ],
+  "location": null,
+  "coverage": "demo",
+  "capabilities": {
+    "interiorScene": true,
+    "navigation": true,
+    "verifiedStepFreeRouting": false,
+    "chatText": true,
+    "chatImages": false,
+    "events": false
+  },
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [
+      "https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/",
+      "https://roomfinder.usc.edu/"
+    ],
+    "verifiedAt": null,
+    "note": "Reconstructed demo interior; all positions, boundaries, doors and circulation inferred. Estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Floor count inferred: At least 10 floors evidenced by clinic directions. Exactly 10 modeled; total floor count not verified. demos/usc-map/locations.json | Irregular ground podium, narrow connector and southern wing retained. North tower setback at floor 3 is inferred. Navigation and access are unverified."
+  },
+  "description": "Science labs and large STEM lecture rooms.",
+  "officialMapUrl": null,
+  "viewerUrl": "/?building=SGM",
+  "coordinateSystem": {
+    "id": "SGM:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -26.3,
+      "y": -0.24,
+      "z": -42.3
+    },
+    "max": {
+      "x": 26.3,
+      "y": 32.099999999999994,
+      "z": 41.3
+    }
+  },
+  "floors": [
+    {
+      "id": "1",
+      "buildingId": "SGM",
+      "label": "Floor 1",
+      "sortOrder": 1,
+      "elevationMeters": 0,
+      "sceneObjectKey": "SGM:floor:1",
+      "bounds": {
+        "min": {
+          "x": -26.3,
+          "y": -0.24,
+          "z": -42.3
+        },
+        "max": {
+          "x": 26.3,
+          "y": 1.5,
+          "z": 41.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Ten occupied levels implemented because USC identifies clinic on 10th floor. Tower/podium split at floor 3 inferred; highest occupied level, basement and mechanical levels unresolved. Sources: https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/ Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "2",
+      "buildingId": "SGM",
+      "label": "Floor 2",
+      "sortOrder": 2,
+      "elevationMeters": 3.4,
+      "sceneObjectKey": "SGM:floor:2",
+      "bounds": {
+        "min": {
+          "x": -26.3,
+          "y": 3.16,
+          "z": -42.3
+        },
+        "max": {
+          "x": 26.3,
+          "y": 4.9,
+          "z": 41.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Ten occupied levels implemented because USC identifies clinic on 10th floor. Tower/podium split at floor 3 inferred; highest occupied level, basement and mechanical levels unresolved. Sources: https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/ Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "3",
+      "buildingId": "SGM",
+      "label": "Floor 3",
+      "sortOrder": 3,
+      "elevationMeters": 6.8,
+      "sceneObjectKey": "SGM:floor:3",
+      "bounds": {
+        "min": {
+          "x": -24.3,
+          "y": 6.56,
+          "z": -42.3
+        },
+        "max": {
+          "x": 26.3,
+          "y": 8.3,
+          "z": 0.3000000000000007
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Ten occupied levels implemented because USC identifies clinic on 10th floor. Tower/podium split at floor 3 inferred; highest occupied level, basement and mechanical levels unresolved. Sources: https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/ Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "4",
+      "buildingId": "SGM",
+      "label": "Floor 4",
+      "sortOrder": 4,
+      "elevationMeters": 10.2,
+      "sceneObjectKey": "SGM:floor:4",
+      "bounds": {
+        "min": {
+          "x": -24.3,
+          "y": 9.959999999999999,
+          "z": -42.3
+        },
+        "max": {
+          "x": 26.3,
+          "y": 11.7,
+          "z": 0.3000000000000007
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Ten occupied levels implemented because USC identifies clinic on 10th floor. Tower/podium split at floor 3 inferred; highest occupied level, basement and mechanical levels unresolved. Sources: https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/ Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "5",
+      "buildingId": "SGM",
+      "label": "Floor 5",
+      "sortOrder": 5,
+      "elevationMeters": 13.6,
+      "sceneObjectKey": "SGM:floor:5",
+      "bounds": {
+        "min": {
+          "x": -24.3,
+          "y": 13.36,
+          "z": -42.3
+        },
+        "max": {
+          "x": 26.3,
+          "y": 15.1,
+          "z": 0.3000000000000007
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Ten occupied levels implemented because USC identifies clinic on 10th floor. Tower/podium split at floor 3 inferred; highest occupied level, basement and mechanical levels unresolved. Sources: https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/ Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "6",
+      "buildingId": "SGM",
+      "label": "Floor 6",
+      "sortOrder": 6,
+      "elevationMeters": 17,
+      "sceneObjectKey": "SGM:floor:6",
+      "bounds": {
+        "min": {
+          "x": -24.3,
+          "y": 16.76,
+          "z": -42.3
+        },
+        "max": {
+          "x": 26.3,
+          "y": 18.5,
+          "z": 0.3000000000000007
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Ten occupied levels implemented because USC identifies clinic on 10th floor. Tower/podium split at floor 3 inferred; highest occupied level, basement and mechanical levels unresolved. Sources: https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/ Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "7",
+      "buildingId": "SGM",
+      "label": "Floor 7",
+      "sortOrder": 7,
+      "elevationMeters": 20.4,
+      "sceneObjectKey": "SGM:floor:7",
+      "bounds": {
+        "min": {
+          "x": -24.3,
+          "y": 20.16,
+          "z": -42.3
+        },
+        "max": {
+          "x": 26.3,
+          "y": 21.9,
+          "z": 0.3000000000000007
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Ten occupied levels implemented because USC identifies clinic on 10th floor. Tower/podium split at floor 3 inferred; highest occupied level, basement and mechanical levels unresolved. Sources: https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/ Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "8",
+      "buildingId": "SGM",
+      "label": "Floor 8",
+      "sortOrder": 8,
+      "elevationMeters": 23.8,
+      "sceneObjectKey": "SGM:floor:8",
+      "bounds": {
+        "min": {
+          "x": -24.3,
+          "y": 23.560000000000002,
+          "z": -42.3
+        },
+        "max": {
+          "x": 26.3,
+          "y": 25.3,
+          "z": 0.3000000000000007
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Ten occupied levels implemented because USC identifies clinic on 10th floor. Tower/podium split at floor 3 inferred; highest occupied level, basement and mechanical levels unresolved. Sources: https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/ Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "9",
+      "buildingId": "SGM",
+      "label": "Floor 9",
+      "sortOrder": 9,
+      "elevationMeters": 27.2,
+      "sceneObjectKey": "SGM:floor:9",
+      "bounds": {
+        "min": {
+          "x": -24.3,
+          "y": 26.96,
+          "z": -42.3
+        },
+        "max": {
+          "x": 26.3,
+          "y": 28.7,
+          "z": 0.3000000000000007
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Ten occupied levels implemented because USC identifies clinic on 10th floor. Tower/podium split at floor 3 inferred; highest occupied level, basement and mechanical levels unresolved. Sources: https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/ Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "10",
+      "buildingId": "SGM",
+      "label": "Floor 10",
+      "sortOrder": 10,
+      "elevationMeters": 30.599999999999998,
+      "sceneObjectKey": "SGM:floor:10",
+      "bounds": {
+        "min": {
+          "x": -24.3,
+          "y": 30.36,
+          "z": -42.3
+        },
+        "max": {
+          "x": 26.3,
+          "y": 32.099999999999994,
+          "z": 0.3000000000000007
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Ten occupied levels implemented because USC identifies clinic on 10th floor. Tower/podium split at floor 3 inferred; highest occupied level, basement and mechanical levels unresolved. Sources: https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/ Navigation and accessibility are unverified."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "SGM:source:0",
+      "title": "Seeley G. Mudd Building reconstruction reference 1",
+      "url": "https://dornsife.usc.edu/usc-psc/client-hub/directions-to-sgm/",
+      "sourceDate": null,
+      "pageReference": null,
+      "note": "Identity or exterior reference; interior positions remain inferred. See docs/interiors/."
+    },
+    {
+      "id": "SGM:source:1",
+      "title": "Seeley G. Mudd Building reconstruction reference 2",
+      "url": "https://roomfinder.usc.edu/",
+      "sourceDate": null,
+      "pageReference": null,
+      "note": "Identity or exterior reference; interior positions remain inferred. See docs/interiors/."
+    }
+  ]
+}

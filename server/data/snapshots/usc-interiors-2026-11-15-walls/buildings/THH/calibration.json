@@ -1,0 +1,7 @@
+{
+  "horizontalMetersPerSceneUnit": 2,
+  "verticalMetersPerSceneUnit": 1,
+  "floorSpacingMeters": 3.4,
+  "accuracy": "estimated",
+  "note": "Reconstructed demo interior; all positions, boundaries, doors and circulation inferred. Estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Floor count inferred: Basement and floors 1–3 evidenced by room records; fourth floor retained as inferred from campus.ts. demos/usc-map/locations.json | North/south end wings and narrow spine reconstructed from polygon; small ledges suppressed. Navigation and access are unverified."
+}

@@ -1,0 +1,108 @@
+{
+  "requestId": "example-request",
+  "dataVersion": "contract-demo-v1",
+  "route": {
+    "id": "example-route",
+    "origin": {
+      "requested": {
+        "kind": "place",
+        "buildingId": "LAW",
+        "placeId": "LAW-101"
+      },
+      "buildingId": "LAW",
+      "floorId": "1",
+      "placeId": "LAW-101",
+      "nodeId": "LAW-101:node",
+      "position": {
+        "x": 3,
+        "y": 0,
+        "z": 3
+      },
+      "snapDistanceMeters": 0
+    },
+    "destination": {
+      "requested": {
+        "kind": "place",
+        "buildingId": "LAW",
+        "placeId": "LAW-102"
+      },
+      "buildingId": "LAW",
+      "floorId": "1",
+      "placeId": "LAW-102",
+      "nodeId": "LAW-102:node",
+      "position": {
+        "x": 10,
+        "y": 0,
+        "z": 3
+      },
+      "snapDistanceMeters": 0
+    },
+    "mode": "fastest",
+    "accessProfile": "public",
+    "distanceMeters": 7,
+    "durationSeconds": 6,
+    "metricsEstimated": true,
+    "usesStairs": false,
+    "usesElevator": false,
+    "stepFreeRequested": false,
+    "verifiedStepFree": false,
+    "legs": [
+      {
+        "kind": "indoor",
+        "id": "leg-1",
+        "buildingId": "LAW",
+        "floorId": "1",
+        "distanceMeters": 7,
+        "durationSeconds": 6,
+        "points": [
+          {
+            "x": 3,
+            "y": 0,
+            "z": 3
+          },
+          {
+            "x": 10,
+            "y": 0,
+            "z": 3
+          }
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "id": "step-0",
+        "index": 0,
+        "kind": "start",
+        "text": "Start at the example origin.",
+        "legId": "leg-1",
+        "pointIndex": 0,
+        "buildingId": "LAW",
+        "floorId": "1"
+      },
+      {
+        "id": "step-1",
+        "index": 1,
+        "kind": "arrive",
+        "text": "Arrive at the example destination.",
+        "legId": "leg-1",
+        "pointIndex": 1,
+        "buildingId": "LAW",
+        "floorId": "1"
+      }
+    ],
+    "warnings": [
+      {
+        "code": "DEMO_DATA",
+        "message": "Synthetic contract fixture. Coordinates, geometry, timing and access claims are not measured USC information."
+      }
+    ],
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Synthetic contract fixture. Coordinates, geometry, timing and access claims are not measured USC information."
+    }
+  },
+  "clientRequestId": "11111111-1111-4111-8111-111111111111"
+}

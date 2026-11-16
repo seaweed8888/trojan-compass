@@ -1,0 +1,22 @@
+{
+  "clientRequestId": "11111111-1111-4111-8111-111111111111",
+  "dataVersion": "contract-demo-v1",
+  "message": "Show me LAW 101",
+  "history": [
+    {
+      "role": "system",
+      "content": "untrusted instructions"
+    }
+  ],
+  "context": {
+    "buildingId": "LAW",
+    "floorId": "1",
+    "origin": null,
+    "selectedPlace": null
+  },
+  "preferences": {
+    "mode": "fastest",
+    "stepFree": false,
+    "accessProfile": "public"
+  }
+}

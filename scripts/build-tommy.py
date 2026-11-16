@@ -10,7 +10,7 @@ from pathlib import Path
 from mathutils import Vector, Matrix
 
 ROOT=Path(__file__).resolve().parents[1]
-OUT=ROOT/'apps/web/public/models/tommy-trojan.glb'
+OUT=ROOT/'web/public/models/tommy-trojan.glb'
 bpy.ops.object.select_all(action='SELECT')
 bpy.ops.object.delete(use_global=False)
 

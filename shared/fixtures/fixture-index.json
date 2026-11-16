@@ -1,0 +1,302 @@
+[
+  {
+    "file": "examples/health.json",
+    "schema": "Health",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/buildings.json",
+    "schema": "BuildingListResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/building-law.json",
+    "schema": "BuildingResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/scene-procedural.json",
+    "schema": "SceneResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/scene-model-usdz.json",
+    "schema": "SceneResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/floors.json",
+    "schema": "FloorListResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/floor-1.json",
+    "schema": "FloorResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/floor-2.json",
+    "schema": "FloorResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/places.json",
+    "schema": "PlaceListResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/place-law-101.json",
+    "schema": "PlaceResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/search-places.json",
+    "schema": "PlaceSearchResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/search-empty.json",
+    "schema": "PlaceSearchResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/route-request-place.json",
+    "schema": "RouteRequest",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/route-request-position.json",
+    "schema": "RouteRequest",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/route-success.json",
+    "schema": "RouteResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/route-cross-floor.json",
+    "schema": "RouteResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/route-same-place.json",
+    "schema": "RouteResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/chat-request.json",
+    "schema": "ChatTextRequest",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/chat-focus-place.json",
+    "schema": "ChatResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/chat-focus-building.json",
+    "schema": "ChatResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/chat-focus-floor.json",
+    "schema": "ChatResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/chat-route.json",
+    "schema": "ChatResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/chat-clarification.json",
+    "schema": "ChatResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/chat-not-found.json",
+    "schema": "ChatResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/chat-no-route.json",
+    "schema": "ChatResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/chat-unsupported.json",
+    "schema": "ChatResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/outdoor-leg.json",
+    "schema": "OutdoorLeg",
+    "valid": true,
+    "note": "Standalone geometry decoder fixture near 0,0, not a real USC route or georeference."
+  },
+  {
+    "file": "examples/geometry-mesh.json",
+    "schema": "MeshObject",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/events.json",
+    "schema": "EventListResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/event-detail.json",
+    "schema": "EventResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/graph.json",
+    "schema": "GraphResponse",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/error-400.json",
+    "schema": "APIError",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/error-404.json",
+    "schema": "APIError",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/error-406.json",
+    "schema": "APIError",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/error-409.json",
+    "schema": "APIError",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/error-410.json",
+    "schema": "APIError",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/error-413.json",
+    "schema": "APIError",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/error-415.json",
+    "schema": "APIError",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/error-422.json",
+    "schema": "APIError",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/error-429.json",
+    "schema": "APIError",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/error-501.json",
+    "schema": "APIError",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/error-500.json",
+    "schema": "APIError",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/error-503.json",
+    "schema": "APIError",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/error-504.json",
+    "schema": "APIError",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/error-unverified-accessibility.json",
+    "schema": "APIError",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/error-no-outdoor-graph.json",
+    "schema": "APIError",
+    "valid": true,
+    "note": ""
+  },
+  {
+    "file": "examples/invalid-location-kind.json",
+    "schema": "RouteRequest",
+    "valid": false,
+    "note": "An unresolved outside choice must be clarified or resolved to a specific entrance place."
+  },
+  {
+    "file": "examples/invalid-boolean-string.json",
+    "schema": "RouteRequest",
+    "valid": false,
+    "note": "Body booleans are JSON booleans."
+  },
+  {
+    "file": "examples/invalid-chat-no-message.json",
+    "schema": "ChatTextRequest",
+    "valid": false,
+    "note": "Text-only chat requires a nonempty message."
+  },
+  {
+    "file": "examples/invalid-history-role.json",
+    "schema": "ChatTextRequest",
+    "valid": false,
+    "note": "Clients submit only user/assistant history."
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "INVALID_REQUEST",
+    "message": "The request contains invalid fields.",
+    "requestId": "example-request"
+  }
+}

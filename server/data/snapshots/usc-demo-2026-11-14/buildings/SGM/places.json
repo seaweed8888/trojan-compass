@@ -1,0 +1,4294 @@
+[
+  {
+    "id": "SGM-1-SA",
+    "buildingId": "SGM",
+    "floorId": "1",
+    "name": "Stairwell A",
+    "displayLabel": "SGM stairwell a, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "SGM stairwell a, floor 1",
+      "SGM A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-1-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-1-SA:access",
+        "nodeId": "SGM:1:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-101",
+    "buildingId": "SGM",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "SGM 101",
+    "roomNumber": "101",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 101",
+      "SGM 101"
+    ],
+    "position": {
+      "x": -14,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-101:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-101:access",
+        "nodeId": "SGM:1:room:101",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-103",
+    "buildingId": "SGM",
+    "floorId": "1",
+    "name": "Lecture Hall",
+    "displayLabel": "SGM 103",
+    "roomNumber": "103",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 103",
+      "SGM 103"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-103:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-103:access",
+        "nodeId": "SGM:1:room:103",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-1-EL",
+    "buildingId": "SGM",
+    "floorId": "1",
+    "name": "Elevator",
+    "displayLabel": "SGM elevator, floor 1",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "SGM elevator, floor 1",
+      "SGM EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-1-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-1-EL:access",
+        "nodeId": "SGM:1:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-105",
+    "buildingId": "SGM",
+    "floorId": "1",
+    "name": "Faculty Offices",
+    "displayLabel": "SGM 105",
+    "roomNumber": "105",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 105",
+      "SGM 105"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-105:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-105:access",
+        "nodeId": "SGM:1:room:105",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-107",
+    "buildingId": "SGM",
+    "floorId": "1",
+    "name": "Lecture Hall",
+    "displayLabel": "SGM 107",
+    "roomNumber": "107",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 107",
+      "SGM 107"
+    ],
+    "position": {
+      "x": 14,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-107:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-107:access",
+        "nodeId": "SGM:1:room:107",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-109",
+    "buildingId": "SGM",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "SGM 109",
+    "roomNumber": "109",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 109",
+      "SGM 109"
+    ],
+    "position": {
+      "x": 21,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-109:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-109:access",
+        "nodeId": "SGM:1:room:109",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-102",
+    "buildingId": "SGM",
+    "floorId": "1",
+    "name": "Computer Lab",
+    "displayLabel": "SGM 102",
+    "roomNumber": "102",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 102",
+      "SGM 102"
+    ],
+    "position": {
+      "x": -21,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-102:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-102:access",
+        "nodeId": "SGM:1:room:102",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-104",
+    "buildingId": "SGM",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "SGM 104",
+    "roomNumber": "104",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 104",
+      "SGM 104"
+    ],
+    "position": {
+      "x": -14,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-104:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-104:access",
+        "nodeId": "SGM:1:room:104",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-106",
+    "buildingId": "SGM",
+    "floorId": "1",
+    "name": "Seminar Room",
+    "displayLabel": "SGM 106",
+    "roomNumber": "106",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 106",
+      "SGM 106"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-106:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-106:access",
+        "nodeId": "SGM:1:room:106",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-1-RR",
+    "buildingId": "SGM",
+    "floorId": "1",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "SGM restrooms, floor 1",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "SGM restrooms, floor 1",
+      "SGM RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-1-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-1-RR:access",
+        "nodeId": "SGM:1:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-108",
+    "buildingId": "SGM",
+    "floorId": "1",
+    "name": "Seminar Room",
+    "displayLabel": "SGM 108",
+    "roomNumber": "108",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 108",
+      "SGM 108"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-108:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-108:access",
+        "nodeId": "SGM:1:room:108",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-110",
+    "buildingId": "SGM",
+    "floorId": "1",
+    "name": "Study Lounge",
+    "displayLabel": "SGM 110",
+    "roomNumber": "110",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 110",
+      "SGM 110"
+    ],
+    "position": {
+      "x": 14,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-110:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-110:access",
+        "nodeId": "SGM:1:room:110",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-1-SB",
+    "buildingId": "SGM",
+    "floorId": "1",
+    "name": "Stairwell B",
+    "displayLabel": "SGM stairwell b, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "SGM stairwell b, floor 1",
+      "SGM B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-1-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-1-SB:access",
+        "nodeId": "SGM:1:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-ENT",
+    "buildingId": "SGM",
+    "floorId": "1",
+    "name": "main west entrance",
+    "displayLabel": "SGM main west entrance",
+    "roomNumber": null,
+    "kind": "entrance",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": -26,
+      "y": 0,
+      "z": 0
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "SGM:1:entrance:access",
+        "nodeId": "SGM:1:entrance",
+        "label": "main west entrance",
+        "position": {
+          "x": -26,
+          "y": 0,
+          "z": 0
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-EXIT-1-EXIT",
+    "buildingId": "SGM",
+    "floorId": "1",
+    "name": "east exit",
+    "displayLabel": "SGM east exit",
+    "roomNumber": null,
+    "kind": "emergency_exit",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": 26,
+      "y": 0,
+      "z": 0
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "SGM:1:exit:access",
+        "nodeId": "SGM:1:exit",
+        "label": "east exit",
+        "position": {
+          "x": 26,
+          "y": 0,
+          "z": 0
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": false,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-2-SA",
+    "buildingId": "SGM",
+    "floorId": "2",
+    "name": "Stairwell A",
+    "displayLabel": "SGM stairwell a, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "SGM stairwell a, floor 2",
+      "SGM A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-2-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-2-SA:access",
+        "nodeId": "SGM:2:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-201",
+    "buildingId": "SGM",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "SGM 201",
+    "roomNumber": "201",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 201",
+      "SGM 201"
+    ],
+    "position": {
+      "x": -14,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-201:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-201:access",
+        "nodeId": "SGM:2:room:201",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-203",
+    "buildingId": "SGM",
+    "floorId": "2",
+    "name": "Seminar Room",
+    "displayLabel": "SGM 203",
+    "roomNumber": "203",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 203",
+      "SGM 203"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-203:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-203:access",
+        "nodeId": "SGM:2:room:203",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-2-EL",
+    "buildingId": "SGM",
+    "floorId": "2",
+    "name": "Elevator",
+    "displayLabel": "SGM elevator, floor 2",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "SGM elevator, floor 2",
+      "SGM EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-2-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-2-EL:access",
+        "nodeId": "SGM:2:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-205",
+    "buildingId": "SGM",
+    "floorId": "2",
+    "name": "Seminar Room",
+    "displayLabel": "SGM 205",
+    "roomNumber": "205",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 205",
+      "SGM 205"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-205:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-205:access",
+        "nodeId": "SGM:2:room:205",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-207",
+    "buildingId": "SGM",
+    "floorId": "2",
+    "name": "Study Lounge",
+    "displayLabel": "SGM 207",
+    "roomNumber": "207",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 207",
+      "SGM 207"
+    ],
+    "position": {
+      "x": 14,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-207:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-207:access",
+        "nodeId": "SGM:2:room:207",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-209",
+    "buildingId": "SGM",
+    "floorId": "2",
+    "name": "Computer Lab",
+    "displayLabel": "SGM 209",
+    "roomNumber": "209",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 209",
+      "SGM 209"
+    ],
+    "position": {
+      "x": 21,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-209:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-209:access",
+        "nodeId": "SGM:2:room:209",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-202",
+    "buildingId": "SGM",
+    "floorId": "2",
+    "name": "Faculty Offices",
+    "displayLabel": "SGM 202",
+    "roomNumber": "202",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 202",
+      "SGM 202"
+    ],
+    "position": {
+      "x": -21,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-202:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-202:access",
+        "nodeId": "SGM:2:room:202",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-204",
+    "buildingId": "SGM",
+    "floorId": "2",
+    "name": "Lecture Hall",
+    "displayLabel": "SGM 204",
+    "roomNumber": "204",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 204",
+      "SGM 204"
+    ],
+    "position": {
+      "x": -14,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-204:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-204:access",
+        "nodeId": "SGM:2:room:204",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-206",
+    "buildingId": "SGM",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "SGM 206",
+    "roomNumber": "206",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 206",
+      "SGM 206"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-206:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-206:access",
+        "nodeId": "SGM:2:room:206",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-2-RR",
+    "buildingId": "SGM",
+    "floorId": "2",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "SGM restrooms, floor 2",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "SGM restrooms, floor 2",
+      "SGM RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-2-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-2-RR:access",
+        "nodeId": "SGM:2:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-208",
+    "buildingId": "SGM",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "SGM 208",
+    "roomNumber": "208",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 208",
+      "SGM 208"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-208:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-208:access",
+        "nodeId": "SGM:2:room:208",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-210",
+    "buildingId": "SGM",
+    "floorId": "2",
+    "name": "Lecture Hall",
+    "displayLabel": "SGM 210",
+    "roomNumber": "210",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 210",
+      "SGM 210"
+    ],
+    "position": {
+      "x": 14,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-210:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-210:access",
+        "nodeId": "SGM:2:room:210",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-2-SB",
+    "buildingId": "SGM",
+    "floorId": "2",
+    "name": "Stairwell B",
+    "displayLabel": "SGM stairwell b, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "SGM stairwell b, floor 2",
+      "SGM B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-2-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-2-SB:access",
+        "nodeId": "SGM:2:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-3-SA",
+    "buildingId": "SGM",
+    "floorId": "3",
+    "name": "Stairwell A",
+    "displayLabel": "SGM stairwell a, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "SGM stairwell a, floor 3",
+      "SGM A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-3-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-3-SA:access",
+        "nodeId": "SGM:3:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-301",
+    "buildingId": "SGM",
+    "floorId": "3",
+    "name": "Lecture Hall",
+    "displayLabel": "SGM 301",
+    "roomNumber": "301",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 301",
+      "SGM 301"
+    ],
+    "position": {
+      "x": -14,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-301:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-301:access",
+        "nodeId": "SGM:3:room:301",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-303",
+    "buildingId": "SGM",
+    "floorId": "3",
+    "name": "Classroom",
+    "displayLabel": "SGM 303",
+    "roomNumber": "303",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 303",
+      "SGM 303"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-303:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-303:access",
+        "nodeId": "SGM:3:room:303",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-3-EL",
+    "buildingId": "SGM",
+    "floorId": "3",
+    "name": "Elevator",
+    "displayLabel": "SGM elevator, floor 3",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "SGM elevator, floor 3",
+      "SGM EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-3-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-3-EL:access",
+        "nodeId": "SGM:3:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-305",
+    "buildingId": "SGM",
+    "floorId": "3",
+    "name": "Classroom",
+    "displayLabel": "SGM 305",
+    "roomNumber": "305",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 305",
+      "SGM 305"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-305:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-305:access",
+        "nodeId": "SGM:3:room:305",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-307",
+    "buildingId": "SGM",
+    "floorId": "3",
+    "name": "Lecture Hall",
+    "displayLabel": "SGM 307",
+    "roomNumber": "307",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 307",
+      "SGM 307"
+    ],
+    "position": {
+      "x": 14,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-307:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-307:access",
+        "nodeId": "SGM:3:room:307",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-309",
+    "buildingId": "SGM",
+    "floorId": "3",
+    "name": "Faculty Offices",
+    "displayLabel": "SGM 309",
+    "roomNumber": "309",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 309",
+      "SGM 309"
+    ],
+    "position": {
+      "x": 21,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-309:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-309:access",
+        "nodeId": "SGM:3:room:309",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-302",
+    "buildingId": "SGM",
+    "floorId": "3",
+    "name": "Seminar Room",
+    "displayLabel": "SGM 302",
+    "roomNumber": "302",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 302",
+      "SGM 302"
+    ],
+    "position": {
+      "x": -21,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-302:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-302:access",
+        "nodeId": "SGM:3:room:302",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-304",
+    "buildingId": "SGM",
+    "floorId": "3",
+    "name": "Study Lounge",
+    "displayLabel": "SGM 304",
+    "roomNumber": "304",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 304",
+      "SGM 304"
+    ],
+    "position": {
+      "x": -14,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-304:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-304:access",
+        "nodeId": "SGM:3:room:304",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-306",
+    "buildingId": "SGM",
+    "floorId": "3",
+    "name": "Computer Lab",
+    "displayLabel": "SGM 306",
+    "roomNumber": "306",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 306",
+      "SGM 306"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-306:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-306:access",
+        "nodeId": "SGM:3:room:306",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-3-RR",
+    "buildingId": "SGM",
+    "floorId": "3",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "SGM restrooms, floor 3",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "SGM restrooms, floor 3",
+      "SGM RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-3-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-3-RR:access",
+        "nodeId": "SGM:3:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-308",
+    "buildingId": "SGM",
+    "floorId": "3",
+    "name": "Classroom",
+    "displayLabel": "SGM 308",
+    "roomNumber": "308",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 308",
+      "SGM 308"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-308:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-308:access",
+        "nodeId": "SGM:3:room:308",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-310",
+    "buildingId": "SGM",
+    "floorId": "3",
+    "name": "Seminar Room",
+    "displayLabel": "SGM 310",
+    "roomNumber": "310",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 310",
+      "SGM 310"
+    ],
+    "position": {
+      "x": 14,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-310:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-310:access",
+        "nodeId": "SGM:3:room:310",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-3-SB",
+    "buildingId": "SGM",
+    "floorId": "3",
+    "name": "Stairwell B",
+    "displayLabel": "SGM stairwell b, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "SGM stairwell b, floor 3",
+      "SGM B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-3-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-3-SB:access",
+        "nodeId": "SGM:3:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-4-SA",
+    "buildingId": "SGM",
+    "floorId": "4",
+    "name": "Stairwell A",
+    "displayLabel": "SGM stairwell a, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "SGM stairwell a, floor 4",
+      "SGM A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-4-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-4-SA:access",
+        "nodeId": "SGM:4:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-401",
+    "buildingId": "SGM",
+    "floorId": "4",
+    "name": "Study Lounge",
+    "displayLabel": "SGM 401",
+    "roomNumber": "401",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 401",
+      "SGM 401"
+    ],
+    "position": {
+      "x": -14,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-401:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-401:access",
+        "nodeId": "SGM:4:room:401",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-403",
+    "buildingId": "SGM",
+    "floorId": "4",
+    "name": "Computer Lab",
+    "displayLabel": "SGM 403",
+    "roomNumber": "403",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 403",
+      "SGM 403"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-403:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-403:access",
+        "nodeId": "SGM:4:room:403",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-4-EL",
+    "buildingId": "SGM",
+    "floorId": "4",
+    "name": "Elevator",
+    "displayLabel": "SGM elevator, floor 4",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "SGM elevator, floor 4",
+      "SGM EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-4-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-4-EL:access",
+        "nodeId": "SGM:4:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-405",
+    "buildingId": "SGM",
+    "floorId": "4",
+    "name": "Classroom",
+    "displayLabel": "SGM 405",
+    "roomNumber": "405",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 405",
+      "SGM 405"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-405:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-405:access",
+        "nodeId": "SGM:4:room:405",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-407",
+    "buildingId": "SGM",
+    "floorId": "4",
+    "name": "Seminar Room",
+    "displayLabel": "SGM 407",
+    "roomNumber": "407",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 407",
+      "SGM 407"
+    ],
+    "position": {
+      "x": 14,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-407:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-407:access",
+        "nodeId": "SGM:4:room:407",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-409",
+    "buildingId": "SGM",
+    "floorId": "4",
+    "name": "Seminar Room",
+    "displayLabel": "SGM 409",
+    "roomNumber": "409",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 409",
+      "SGM 409"
+    ],
+    "position": {
+      "x": 21,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-409:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-409:access",
+        "nodeId": "SGM:4:room:409",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-402",
+    "buildingId": "SGM",
+    "floorId": "4",
+    "name": "Classroom",
+    "displayLabel": "SGM 402",
+    "roomNumber": "402",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 402",
+      "SGM 402"
+    ],
+    "position": {
+      "x": -21,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-402:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-402:access",
+        "nodeId": "SGM:4:room:402",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-404",
+    "buildingId": "SGM",
+    "floorId": "4",
+    "name": "Lecture Hall",
+    "displayLabel": "SGM 404",
+    "roomNumber": "404",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 404",
+      "SGM 404"
+    ],
+    "position": {
+      "x": -14,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-404:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-404:access",
+        "nodeId": "SGM:4:room:404",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-406",
+    "buildingId": "SGM",
+    "floorId": "4",
+    "name": "Faculty Offices",
+    "displayLabel": "SGM 406",
+    "roomNumber": "406",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 406",
+      "SGM 406"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-406:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-406:access",
+        "nodeId": "SGM:4:room:406",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-4-RR",
+    "buildingId": "SGM",
+    "floorId": "4",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "SGM restrooms, floor 4",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "SGM restrooms, floor 4",
+      "SGM RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-4-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-4-RR:access",
+        "nodeId": "SGM:4:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-408",
+    "buildingId": "SGM",
+    "floorId": "4",
+    "name": "Lecture Hall",
+    "displayLabel": "SGM 408",
+    "roomNumber": "408",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 408",
+      "SGM 408"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-408:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-408:access",
+        "nodeId": "SGM:4:room:408",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-410",
+    "buildingId": "SGM",
+    "floorId": "4",
+    "name": "Classroom",
+    "displayLabel": "SGM 410",
+    "roomNumber": "410",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 410",
+      "SGM 410"
+    ],
+    "position": {
+      "x": 14,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-410:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-410:access",
+        "nodeId": "SGM:4:room:410",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-4-SB",
+    "buildingId": "SGM",
+    "floorId": "4",
+    "name": "Stairwell B",
+    "displayLabel": "SGM stairwell b, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "SGM stairwell b, floor 4",
+      "SGM B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-4-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-4-SB:access",
+        "nodeId": "SGM:4:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-5-SA",
+    "buildingId": "SGM",
+    "floorId": "5",
+    "name": "Stairwell A",
+    "displayLabel": "SGM stairwell a, floor 5",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "SGM stairwell a, floor 5",
+      "SGM A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 13.6,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-5-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 13.6,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 14.45,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-5-SA:access",
+        "nodeId": "SGM:5:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 13.6,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-501",
+    "buildingId": "SGM",
+    "floorId": "5",
+    "name": "Lecture Hall",
+    "displayLabel": "SGM 501",
+    "roomNumber": "501",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 501",
+      "SGM 501"
+    ],
+    "position": {
+      "x": -14,
+      "y": 13.6,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-501:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 13.6,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 14.45,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-501:access",
+        "nodeId": "SGM:5:room:501",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 13.6,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-503",
+    "buildingId": "SGM",
+    "floorId": "5",
+    "name": "Faculty Offices",
+    "displayLabel": "SGM 503",
+    "roomNumber": "503",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 503",
+      "SGM 503"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 13.6,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-503:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 13.6,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 14.45,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-503:access",
+        "nodeId": "SGM:5:room:503",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 13.6,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-5-EL",
+    "buildingId": "SGM",
+    "floorId": "5",
+    "name": "Elevator",
+    "displayLabel": "SGM elevator, floor 5",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "SGM elevator, floor 5",
+      "SGM EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 13.6,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-5-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 13.6,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 14.45,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-5-EL:access",
+        "nodeId": "SGM:5:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 13.6,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-505",
+    "buildingId": "SGM",
+    "floorId": "5",
+    "name": "Lecture Hall",
+    "displayLabel": "SGM 505",
+    "roomNumber": "505",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 505",
+      "SGM 505"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 13.6,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-505:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 13.6,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 14.45,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-505:access",
+        "nodeId": "SGM:5:room:505",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 13.6,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-507",
+    "buildingId": "SGM",
+    "floorId": "5",
+    "name": "Classroom",
+    "displayLabel": "SGM 507",
+    "roomNumber": "507",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 507",
+      "SGM 507"
+    ],
+    "position": {
+      "x": 14,
+      "y": 13.6,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-507:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 13.6,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 14.45,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-507:access",
+        "nodeId": "SGM:5:room:507",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 13.6,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-509",
+    "buildingId": "SGM",
+    "floorId": "5",
+    "name": "Classroom",
+    "displayLabel": "SGM 509",
+    "roomNumber": "509",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 509",
+      "SGM 509"
+    ],
+    "position": {
+      "x": 21,
+      "y": 13.6,
+      "z": -7
+    },
+    "sceneObjectKey": "SGM-509:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 13.6,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 14.45,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-509:access",
+        "nodeId": "SGM:5:room:509",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 13.6,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-502",
+    "buildingId": "SGM",
+    "floorId": "5",
+    "name": "Classroom",
+    "displayLabel": "SGM 502",
+    "roomNumber": "502",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 502",
+      "SGM 502"
+    ],
+    "position": {
+      "x": -21,
+      "y": 13.6,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-502:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 13.6,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 14.45,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-502:access",
+        "nodeId": "SGM:5:room:502",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 13.6,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-504",
+    "buildingId": "SGM",
+    "floorId": "5",
+    "name": "Seminar Room",
+    "displayLabel": "SGM 504",
+    "roomNumber": "504",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 504",
+      "SGM 504"
+    ],
+    "position": {
+      "x": -14,
+      "y": 13.6,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-504:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 13.6,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 14.45,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-504:access",
+        "nodeId": "SGM:5:room:504",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 13.6,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-506",
+    "buildingId": "SGM",
+    "floorId": "5",
+    "name": "Seminar Room",
+    "displayLabel": "SGM 506",
+    "roomNumber": "506",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 506",
+      "SGM 506"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 13.6,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-506:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 13.6,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 14.45,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-506:access",
+        "nodeId": "SGM:5:room:506",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 13.6,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-5-RR",
+    "buildingId": "SGM",
+    "floorId": "5",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "SGM restrooms, floor 5",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "SGM restrooms, floor 5",
+      "SGM RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 13.6,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-5-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 13.6,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 14.45,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-5-RR:access",
+        "nodeId": "SGM:5:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 13.6,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-508",
+    "buildingId": "SGM",
+    "floorId": "5",
+    "name": "Study Lounge",
+    "displayLabel": "SGM 508",
+    "roomNumber": "508",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 508",
+      "SGM 508"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 13.6,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-508:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 13.6,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 14.45,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-508:access",
+        "nodeId": "SGM:5:room:508",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 13.6,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-510",
+    "buildingId": "SGM",
+    "floorId": "5",
+    "name": "Computer Lab",
+    "displayLabel": "SGM 510",
+    "roomNumber": "510",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "SGM 510",
+      "SGM 510"
+    ],
+    "position": {
+      "x": 14,
+      "y": 13.6,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-510:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 13.6,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 14.45,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-510:access",
+        "nodeId": "SGM:5:room:510",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 13.6,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "SGM-5-SB",
+    "buildingId": "SGM",
+    "floorId": "5",
+    "name": "Stairwell B",
+    "displayLabel": "SGM stairwell b, floor 5",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "SGM stairwell b, floor 5",
+      "SGM B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 13.6,
+      "z": 7
+    },
+    "sceneObjectKey": "SGM-5-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 13.6,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 14.45,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "SGM-5-SB:access",
+        "nodeId": "SGM:5:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 13.6,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  }
+]

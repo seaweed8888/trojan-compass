@@ -1,0 +1,199 @@
+{
+  "requestId": "example-request",
+  "dataVersion": "contract-demo-v1",
+  "items": [
+    {
+      "id": "LAW-101",
+      "buildingId": "LAW",
+      "floorId": "1",
+      "name": "Classroom 101",
+      "displayLabel": "LAW 101",
+      "roomNumber": "101",
+      "kind": "classroom",
+      "description": "Synthetic location for client contract tests.",
+      "aliases": [
+        "Classroom 101"
+      ],
+      "position": {
+        "x": 3,
+        "y": 0,
+        "z": 3
+      },
+      "sceneObjectKey": "LAW:room:101",
+      "bounds": null,
+      "accessPoints": [
+        {
+          "id": "LAW-101:access",
+          "nodeId": "LAW-101:node",
+          "label": "Example access point",
+          "position": {
+            "x": 3,
+            "y": 0,
+            "z": 3
+          },
+          "stepFreeAccess": "unknown"
+        }
+      ],
+      "access": {
+        "level": "public",
+        "stepFreeAccess": "unknown",
+        "isRamp": null,
+        "entryAllowed": true,
+        "exitAllowed": true,
+        "note": "Synthetic, unverified access data."
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [],
+        "verifiedAt": null,
+        "note": "Synthetic contract fixture. Coordinates, geometry, timing and access claims are not measured USC information."
+      }
+    },
+    {
+      "id": "LAW-102",
+      "buildingId": "LAW",
+      "floorId": "1",
+      "name": "Classroom 102",
+      "displayLabel": "LAW 102",
+      "roomNumber": "102",
+      "kind": "classroom",
+      "description": "Synthetic location for client contract tests.",
+      "aliases": [
+        "Classroom 102"
+      ],
+      "position": {
+        "x": 10,
+        "y": 0,
+        "z": 3
+      },
+      "sceneObjectKey": "LAW:room:102",
+      "bounds": null,
+      "accessPoints": [
+        {
+          "id": "LAW-102:access",
+          "nodeId": "LAW-102:node",
+          "label": "Example access point",
+          "position": {
+            "x": 10,
+            "y": 0,
+            "z": 3
+          },
+          "stepFreeAccess": "unknown"
+        }
+      ],
+      "access": {
+        "level": "public",
+        "stepFreeAccess": "unknown",
+        "isRamp": null,
+        "entryAllowed": true,
+        "exitAllowed": true,
+        "note": "Synthetic, unverified access data."
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [],
+        "verifiedAt": null,
+        "note": "Synthetic contract fixture. Coordinates, geometry, timing and access claims are not measured USC information."
+      }
+    },
+    {
+      "id": "LAW-204",
+      "buildingId": "LAW",
+      "floorId": "2",
+      "name": "Classroom 204",
+      "displayLabel": "LAW 204",
+      "roomNumber": "204",
+      "kind": "classroom",
+      "description": "Synthetic location for client contract tests.",
+      "aliases": [
+        "Classroom 204"
+      ],
+      "position": {
+        "x": 10,
+        "y": 3.4,
+        "z": 3
+      },
+      "sceneObjectKey": "LAW:room:204",
+      "bounds": null,
+      "accessPoints": [
+        {
+          "id": "LAW-204:access",
+          "nodeId": "LAW-204:node",
+          "label": "Example access point",
+          "position": {
+            "x": 10,
+            "y": 3.4,
+            "z": 3
+          },
+          "stepFreeAccess": "unknown"
+        }
+      ],
+      "access": {
+        "level": "public",
+        "stepFreeAccess": "unknown",
+        "isRamp": null,
+        "entryAllowed": true,
+        "exitAllowed": true,
+        "note": "Synthetic, unverified access data."
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [],
+        "verifiedAt": null,
+        "note": "Synthetic contract fixture. Coordinates, geometry, timing and access claims are not measured USC information."
+      }
+    },
+    {
+      "id": "LAW-ENT",
+      "buildingId": "LAW",
+      "floorId": "1",
+      "name": "Example entrance",
+      "displayLabel": "Example entrance",
+      "roomNumber": null,
+      "kind": "entrance",
+      "description": "Synthetic location for client contract tests.",
+      "aliases": [
+        "Example entrance"
+      ],
+      "position": {
+        "x": 1,
+        "y": 0,
+        "z": 6
+      },
+      "sceneObjectKey": "LAW:entrance:main",
+      "bounds": null,
+      "accessPoints": [
+        {
+          "id": "LAW-ENT:access",
+          "nodeId": "LAW-ENT:node",
+          "label": "Example access point",
+          "position": {
+            "x": 1,
+            "y": 0,
+            "z": 6
+          },
+          "stepFreeAccess": "unknown"
+        }
+      ],
+      "access": {
+        "level": "public",
+        "stepFreeAccess": "unknown",
+        "isRamp": null,
+        "entryAllowed": true,
+        "exitAllowed": true,
+        "note": "Synthetic, unverified access data."
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [],
+        "verifiedAt": null,
+        "note": "Synthetic contract fixture. Coordinates, geometry, timing and access claims are not measured USC information."
+      }
+    }
+  ],
+  "nextCursor": null
+}

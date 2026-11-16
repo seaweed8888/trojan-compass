@@ -1,0 +1,47 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {};
+	objectVersion = 56;
+	objects = {
+		A1C01A10C01A10C01A10C001 = { isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A1C01A10C01A10C01A10C002 = { isa = PBXBuildFile; fileRef = A1C01A10C01A10C01A10C001; };
+		FD2E79CC5B428BC16D874570 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Views/WebsiteReplica.swift"; sourceTree = "<group>"; };
+		8EA9F4F2E9E12BCECFEB8AFF = { isa = PBXBuildFile; fileRef = FD2E79CC5B428BC16D874570; };
+		D0057E78AE13F2AB497A1113 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Core/AppModels.swift"; sourceTree = "<group>"; };
+		63C18EF23604D076D9799A79 = { isa = PBXBuildFile; fileRef = D0057E78AE13F2AB497A1113; };
+		EE6FE8D74E3751A62C02387F = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Core/CompassAPIClient.swift"; sourceTree = "<group>"; };
+		A32D426544F94AEDF936BFBE = { isa = PBXBuildFile; fileRef = EE6FE8D74E3751A62C02387F; };
+		B8CE769F0EE611AA03323A49 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Core/CompassModels.swift"; sourceTree = "<group>"; };
+		954DF63BE4C315FF928D00E1 = { isa = PBXBuildFile; fileRef = B8CE769F0EE611AA03323A49; };
+		BCE355D140708732382E18E1 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Core/CompassStore.swift"; sourceTree = "<group>"; };
+		C6FEB97E5EC87DE2F3411E11 = { isa = PBXBuildFile; fileRef = BCE355D140708732382E18E1; };
+		B0DBFE8084587D25FD30952A = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TrojanCompassApp.swift"; sourceTree = "<group>"; };
+		E8E427935FBD18CA2C1C79E3 = { isa = PBXBuildFile; fileRef = B0DBFE8084587D25FD30952A; };
+		54309AB8E5DCBAD67A2DC0D2 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Views/CompassRoot.swift"; sourceTree = "<group>"; };
+		D288A96E5F0F497223418355 = { isa = PBXBuildFile; fileRef = 54309AB8E5DCBAD67A2DC0D2; };
+		D4877B9B115FAB6CC132D948 = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Views/InteriorViewer.swift"; sourceTree = "<group>"; };
+		A318CCE71D64395FA92A775D = { isa = PBXBuildFile; fileRef = D4877B9B115FAB6CC132D948; };
+		F3F8FB6B685226DADFD3961E = { isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Views/ToolPanel.swift"; sourceTree = "<group>"; };
+		9942F59A5B02F615D0CE8CC7 = { isa = PBXBuildFile; fileRef = F3F8FB6B685226DADFD3961E; };
+		71EFA36BC9775FD72DE8EC53 = { isa = PBXFileReference; lastKnownFileType = folder; path = Resources; sourceTree = "<group>"; };
+		DC62F6EDFCF365902C12F3A7 = { isa = PBXBuildFile; fileRef = 71EFA36BC9775FD72DE8EC53; };
+		0721DFFAE4ECE7B8740729E1 = { isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		38A007151ABE87CC01A5B6E9 = { isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrojanCompass.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3C3B0F03DC089F93B8457928 = { isa = PBXGroup; path = TrojanCompass; sourceTree = "<group>"; children = (FD2E79CC5B428BC16D874570,D0057E78AE13F2AB497A1113,EE6FE8D74E3751A62C02387F,B8CE769F0EE611AA03323A49,BCE355D140708732382E18E1,B0DBFE8084587D25FD30952A,54309AB8E5DCBAD67A2DC0D2,D4877B9B115FAB6CC132D948,F3F8FB6B685226DADFD3961E,A1C01A10C01A10C01A10C001,71EFA36BC9775FD72DE8EC53,0721DFFAE4ECE7B8740729E1,); };
+		FBDC4F23F93125BBEEAE800C = { isa = PBXGroup; name = Products; sourceTree = "<group>"; children = (38A007151ABE87CC01A5B6E9,); };
+		870B3294C0CBD48AF6BBCC1B = { isa = PBXGroup; sourceTree = "<group>"; children = (3C3B0F03DC089F93B8457928,FBDC4F23F93125BBEEAE800C,); };
+		BCE16DD0260827ECF338C787 = { isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (8EA9F4F2E9E12BCECFEB8AFF,63C18EF23604D076D9799A79,A32D426544F94AEDF936BFBE,954DF63BE4C315FF928D00E1,C6FEB97E5EC87DE2F3411E11,E8E427935FBD18CA2C1C79E3,D288A96E5F0F497223418355,A318CCE71D64395FA92A775D,9942F59A5B02F615D0CE8CC7,); runOnlyForDeploymentPostprocessing = 0; };
+		0189424A5A60FED329FA868E = { isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (DC62F6EDFCF365902C12F3A7,A1C01A10C01A10C01A10C002,); runOnlyForDeploymentPostprocessing = 0; };
+		7561BFB015D8F536760CB671 = { isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+		89E1FD6268CC0F221A2BE178 = { isa = XCBuildConfiguration; name = Debug; buildSettings = { CLANG_ENABLE_MODULES = YES; SDKROOT = iphoneos; IPHONEOS_DEPLOYMENT_TARGET = 17.0; SWIFT_VERSION = 5.0; SWIFT_OPTIMIZATION_LEVEL = "-Onone"; DEBUG_INFORMATION_FORMAT = dwarf; ENABLE_TESTABILITY = YES; }; };
+		E6DE6C99132752C914FEF632 = { isa = XCBuildConfiguration; name = Release; buildSettings = { CLANG_ENABLE_MODULES = YES; SDKROOT = iphoneos; IPHONEOS_DEPLOYMENT_TARGET = 17.0; SWIFT_VERSION = 5.0; SWIFT_OPTIMIZATION_LEVEL = "-O"; DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym"; }; };
+		862894B703A6DEDF96A9DD6C = { isa = XCConfigurationList; buildConfigurations = (89E1FD6268CC0F221A2BE178,E6DE6C99132752C914FEF632,); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+		7082CC0B6FC1282FCEABD07A = { isa = XCBuildConfiguration; name = Debug; buildSettings = { PRODUCT_NAME = "$(TARGET_NAME)"; PRODUCT_BUNDLE_IDENTIFIER = edu.usc.trojancompass; ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG; COMPASS_API_BASE_URL = "http://127.0.0.1:4000/api"; INFOPLIST_FILE = "TrojanCompass/Info-Debug.plist"; GENERATE_INFOPLIST_FILE = NO; CODE_SIGN_STYLE = Automatic; TARGETED_DEVICE_FAMILY = "1,2"; SUPPORTS_MACCATALYST = NO; MARKETING_VERSION = 0.1.0; CURRENT_PROJECT_VERSION = 1; SWIFT_EMIT_LOC_STRINGS = YES; LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks"; }; };
+		639A7CA24D39909E713B47F7 = { isa = XCBuildConfiguration; name = Release; buildSettings = { PRODUCT_NAME = "$(TARGET_NAME)"; PRODUCT_BUNDLE_IDENTIFIER = edu.usc.trojancompass; ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon; COMPASS_API_BASE_URL = ""; INFOPLIST_FILE = TrojanCompass/Info.plist; GENERATE_INFOPLIST_FILE = NO; CODE_SIGN_STYLE = Automatic; TARGETED_DEVICE_FAMILY = "1,2"; SUPPORTS_MACCATALYST = NO; MARKETING_VERSION = 0.1.0; CURRENT_PROJECT_VERSION = 1; SWIFT_EMIT_LOC_STRINGS = YES; LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks"; }; };
+		C57128001CE614BF8549D6BB = { isa = XCConfigurationList; buildConfigurations = (7082CC0B6FC1282FCEABD07A,639A7CA24D39909E713B47F7,); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+		0E8A3AD980EC179856012B7E = { isa = PBXNativeTarget; buildConfigurationList = C57128001CE614BF8549D6BB; buildPhases = (BCE16DD0260827ECF338C787,7561BFB015D8F536760CB671,0189424A5A60FED329FA868E,); buildRules = (); dependencies = (); name = TrojanCompass; productName = TrojanCompass; productReference = 38A007151ABE87CC01A5B6E9; productType = "com.apple.product-type.application"; };
+		98F54143AB4E86B28C3AFEE0 = { isa = PBXProject; attributes = { BuildIndependentTargetsInParallel = YES; LastUpgradeCheck = 1600; }; buildConfigurationList = 862894B703A6DEDF96A9DD6C; compatibilityVersion = "Xcode 14.0"; developmentRegion = en; hasScannedForEncodings = 0; knownRegions = (en,Base,); mainGroup = 870B3294C0CBD48AF6BBCC1B; productRefGroup = FBDC4F23F93125BBEEAE800C; projectDirPath = ""; projectRoot = ""; targets = (0E8A3AD980EC179856012B7E,); };
+	};
+	rootObject = 98F54143AB4E86B28C3AFEE0;
+}

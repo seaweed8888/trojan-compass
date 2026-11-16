@@ -1,0 +1,147 @@
+[
+  {
+    "id": "0",
+    "buildingId": "LAW",
+    "label": "B",
+    "sortOrder": 0,
+    "elevationMeters": -3.4,
+    "sceneObjectKey": "LAW:floor:0",
+    "bounds": {
+      "min": {
+        "x": -45.8,
+        "y": -3.6399999999999997,
+        "z": -27.159999999999997
+      },
+      "max": {
+        "x": 45.959999999999994,
+        "y": -1.3599999999999999,
+        "z": 15.96
+      }
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "1",
+    "buildingId": "LAW",
+    "label": "1",
+    "sortOrder": 1,
+    "elevationMeters": 0,
+    "sceneObjectKey": "LAW:floor:1",
+    "bounds": {
+      "min": {
+        "x": -31.959999999999997,
+        "y": -0.24,
+        "z": -14.600000000000001
+      },
+      "max": {
+        "x": 44.919999999999995,
+        "y": 2.04,
+        "z": 21
+      }
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "2",
+    "buildingId": "LAW",
+    "label": "2",
+    "sortOrder": 2,
+    "elevationMeters": 3.4,
+    "sceneObjectKey": "LAW:floor:2",
+    "bounds": {
+      "min": {
+        "x": -46.36,
+        "y": 3.16,
+        "z": -22.36
+      },
+      "max": {
+        "x": 45.16,
+        "y": 5.4399999999999995,
+        "z": 22.76
+      }
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "3",
+    "buildingId": "LAW",
+    "label": "3",
+    "sortOrder": 3,
+    "elevationMeters": 6.8,
+    "sceneObjectKey": "LAW:floor:3",
+    "bounds": {
+      "min": {
+        "x": -43.56,
+        "y": 6.56,
+        "z": -19.16
+      },
+      "max": {
+        "x": 45.160000000000004,
+        "y": 8.84,
+        "z": 24.36
+      }
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  },
+  {
+    "id": "4",
+    "buildingId": "LAW",
+    "label": "4",
+    "sortOrder": 4,
+    "elevationMeters": 10.2,
+    "sceneObjectKey": "LAW:floor:4",
+    "bounds": {
+      "min": {
+        "x": -44.76,
+        "y": 9.959999999999999,
+        "z": -17.560000000000002
+      },
+      "max": {
+        "x": 43.199999999999996,
+        "y": 12.239999999999998,
+        "z": 21.96
+      }
+    },
+    "provenance": {
+      "dataKind": "source_derived",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+    }
+  }
+]

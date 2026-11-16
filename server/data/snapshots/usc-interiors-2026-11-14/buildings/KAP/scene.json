@@ -1,0 +1,83 @@
+{
+  "representation": "procedural",
+  "buildingId": "KAP",
+  "coordinateSystem": {
+    "id": "KAP:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -18.7,
+      "y": -3.6399999999999997,
+      "z": -40.3
+    },
+    "max": {
+      "x": 16.900000000000002,
+      "y": 11.7,
+      "z": 40.3
+    }
+  },
+  "rootObjectKey": "KAP:root",
+  "viewerUrl": "/?building=KAP",
+  "floors": [
+    {
+      "floorId": "0",
+      "label": "Basement",
+      "sceneObjectKey": "KAP:floor:0",
+      "geometryUrl": "/api/buildings/KAP/floors/0?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "1",
+      "label": "Floor 1",
+      "sceneObjectKey": "KAP:floor:1",
+      "geometryUrl": "/api/buildings/KAP/floors/1?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "2",
+      "label": "Floor 2",
+      "sceneObjectKey": "KAP:floor:2",
+      "geometryUrl": "/api/buildings/KAP/floors/2?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "3",
+      "label": "Floor 3",
+      "sceneObjectKey": "KAP:floor:3",
+      "geometryUrl": "/api/buildings/KAP/floors/3?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "4",
+      "label": "Floor 4",
+      "sceneObjectKey": "KAP:floor:4",
+      "geometryUrl": "/api/buildings/KAP/floors/4?dataVersion=usc-interiors-2026-11-14"
+    }
+  ],
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [
+      "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf",
+      "https://roomfinder.usc.edu/"
+    ],
+    "verifiedAt": null,
+    "note": "Reconstructed demo interior; all positions, boundaries, doors and circulation inferred. Estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Floor count confirmed: 2013 USC report explicitly describes four stories and laboratory basement. https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf | Long north/south footprint and stepped end caps based on campus polygon. Structural figure pixels unavailable; detailed partition geometry inferred. Navigation and access are unverified."
+  },
+  "materials": [
+    {
+      "key": "floor",
+      "color": "#e9e9ec",
+      "opacity": 1,
+      "roughness": 0.9,
+      "metalness": 0
+    },
+    {
+      "key": "wall",
+      "color": "#c9c9ce",
+      "opacity": 1,
+      "roughness": 0.9,
+      "metalness": 0
+    }
+  ]
+}

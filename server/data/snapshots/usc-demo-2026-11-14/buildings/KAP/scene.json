@@ -1,0 +1,68 @@
+{
+  "representation": "procedural",
+  "buildingId": "KAP",
+  "coordinateSystem": {
+    "id": "KAP:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -24.900000000000002,
+      "y": -0.24,
+      "z": -12.9
+    },
+    "max": {
+      "x": 24.900000000000002,
+      "y": 8.3,
+      "z": 12.9
+    }
+  },
+  "rootObjectKey": "KAP:root",
+  "viewerUrl": "/?building=KAP",
+  "floors": [
+    {
+      "floorId": "1",
+      "label": "1",
+      "sceneObjectKey": "KAP:floor:1",
+      "geometryUrl": "/api/buildings/KAP/floors/1?dataVersion=usc-demo-2026-11-14"
+    },
+    {
+      "floorId": "2",
+      "label": "2",
+      "sceneObjectKey": "KAP:floor:2",
+      "geometryUrl": "/api/buildings/KAP/floors/2?dataVersion=usc-demo-2026-11-14"
+    },
+    {
+      "floorId": "3",
+      "label": "3",
+      "sceneObjectKey": "KAP:floor:3",
+      "geometryUrl": "/api/buildings/KAP/floors/3?dataVersion=usc-demo-2026-11-14"
+    }
+  ],
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [],
+    "verifiedAt": null,
+    "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+  },
+  "materials": [
+    {
+      "key": "floor",
+      "color": "#e9e9ec",
+      "opacity": 1,
+      "roughness": 0.9,
+      "metalness": 0
+    },
+    {
+      "key": "wall",
+      "color": "#c9c9ce",
+      "opacity": 1,
+      "roughness": 0.9,
+      "metalness": 0
+    }
+  ]
+}

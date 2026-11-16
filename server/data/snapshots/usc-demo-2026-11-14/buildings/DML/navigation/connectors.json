@@ -1,0 +1,29 @@
+[
+  {
+    "id": "DML:SA",
+    "nodeIds": [
+      "DML:1:stairs:A",
+      "DML:2:stairs:A",
+      "DML:3:stairs:A"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "DML:E",
+    "nodeIds": [
+      "DML:1:elevator",
+      "DML:2:elevator",
+      "DML:3:elevator"
+    ],
+    "kind": "elevator"
+  },
+  {
+    "id": "DML:SB",
+    "nodeIds": [
+      "DML:1:stairs:B",
+      "DML:2:stairs:B",
+      "DML:3:stairs:B"
+    ],
+    "kind": "stairs"
+  }
+]

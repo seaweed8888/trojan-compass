@@ -1,0 +1,4416 @@
+[
+  {
+    "id": "LVL-13",
+    "buildingId": "LVL",
+    "floorId": "0",
+    "name": "Classroom",
+    "displayLabel": "LVL 13",
+    "roomNumber": "13",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 13",
+      "LVL 13"
+    ],
+    "position": {
+      "x": -24.823,
+      "y": -3.4,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-13:object",
+    "bounds": {
+      "min": {
+        "x": -29,
+        "y": -3.4,
+        "z": -13
+      },
+      "max": {
+        "x": -20.646000000000004,
+        "y": -2.55,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-13:access",
+        "nodeId": "LVL:0:cell:LVL-13",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -24.823,
+          "y": -3.4,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/type/capacity confirmed by indexed Room Finder. Basement assignment inferred by matching the seven teaching rooms in the tour; position inferred. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-16",
+    "buildingId": "LVL",
+    "floorId": "0",
+    "name": "Classroom",
+    "displayLabel": "LVL 16",
+    "roomNumber": "16",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 16",
+      "LVL 16"
+    ],
+    "position": {
+      "x": -15.823000000000002,
+      "y": -3.4,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-16:object",
+    "bounds": {
+      "min": {
+        "x": -20.646000000000004,
+        "y": -3.4,
+        "z": -13
+      },
+      "max": {
+        "x": -11,
+        "y": -2.55,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-16:access",
+        "nodeId": "LVL:0:cell:LVL-16",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -15.823000000000002,
+          "y": -3.4,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/type/capacity confirmed by indexed Room Finder. Basement assignment inferred by matching the seven teaching rooms in the tour; position inferred. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-17",
+    "buildingId": "LVL",
+    "floorId": "0",
+    "name": "Auditorium",
+    "displayLabel": "LVL 17",
+    "roomNumber": "17",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 17",
+      "LVL 17"
+    ],
+    "position": {
+      "x": 15.047000000000002,
+      "y": -3.4,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-17:object",
+    "bounds": {
+      "min": {
+        "x": 9,
+        "y": -3.4,
+        "z": -13
+      },
+      "max": {
+        "x": 21.094000000000005,
+        "y": -2.55,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-17:access",
+        "nodeId": "LVL:0:cell:LVL-17",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 15.047000000000002,
+          "y": -3.4,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/type/capacity confirmed by indexed Room Finder. Basement assignment inferred by matching the seven teaching rooms in the tour; position inferred. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-3B",
+    "buildingId": "LVL",
+    "floorId": "0",
+    "name": "Classroom",
+    "displayLabel": "LVL 3B",
+    "roomNumber": "3B",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 3B",
+      "LVL 3B"
+    ],
+    "position": {
+      "x": 25.071000000000005,
+      "y": -3.4,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-3B:object",
+    "bounds": {
+      "min": {
+        "x": 21.094000000000005,
+        "y": -3.4,
+        "z": -13
+      },
+      "max": {
+        "x": 29.048000000000002,
+        "y": -2.55,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-3B:access",
+        "nodeId": "LVL:0:cell:LVL-3B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 25.071000000000005,
+          "y": -3.4,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/type/capacity confirmed by indexed Room Finder. Basement assignment inferred by matching the seven teaching rooms in the tour; position inferred. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-3C",
+    "buildingId": "LVL",
+    "floorId": "0",
+    "name": "Classroom",
+    "displayLabel": "LVL 3C",
+    "roomNumber": "3C",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 3C",
+      "LVL 3C"
+    ],
+    "position": {
+      "x": 33.024,
+      "y": -3.4,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-3C:object",
+    "bounds": {
+      "min": {
+        "x": 29.048000000000002,
+        "y": -3.4,
+        "z": -13
+      },
+      "max": {
+        "x": 37,
+        "y": -2.55,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-3C:access",
+        "nodeId": "LVL:0:cell:LVL-3C",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 33.024,
+          "y": -3.4,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/type/capacity confirmed by indexed Room Finder. Basement assignment inferred by matching the seven teaching rooms in the tour; position inferred. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-3V",
+    "buildingId": "LVL",
+    "floorId": "0",
+    "name": "Classroom",
+    "displayLabel": "LVL 3V",
+    "roomNumber": "3V",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 3V",
+      "LVL 3V"
+    ],
+    "position": {
+      "x": -26.75,
+      "y": -3.4,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-3V:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": -3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -18.5,
+        "y": -2.55,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-3V:access",
+        "nodeId": "LVL:0:cell:LVL-3V",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -26.75,
+          "y": -3.4,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/type/capacity confirmed by indexed Room Finder. Basement assignment inferred by matching the seven teaching rooms in the tour; position inferred. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-3Y",
+    "buildingId": "LVL",
+    "floorId": "0",
+    "name": "Classroom",
+    "displayLabel": "LVL 3Y",
+    "roomNumber": "3Y",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 3Y",
+      "LVL 3Y"
+    ],
+    "position": {
+      "x": -10.25,
+      "y": -3.4,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-3Y:object",
+    "bounds": {
+      "min": {
+        "x": -18.5,
+        "y": -3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -2,
+        "y": -2.55,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-3Y:access",
+        "nodeId": "LVL:0:cell:LVL-3Y",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -10.25,
+          "y": -3.4,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/type/capacity confirmed by indexed Room Finder. Basement assignment inferred by matching the seven teaching rooms in the tour; position inferred. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-B01",
+    "buildingId": "LVL",
+    "floorId": "0",
+    "name": "Ahmanson Information Commons",
+    "displayLabel": "LVL B01",
+    "roomNumber": "B01",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "LVL B01",
+      "LVL B01"
+    ],
+    "position": {
+      "x": 6.167,
+      "y": -3.4,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-B01:object",
+    "bounds": {
+      "min": {
+        "x": 0,
+        "y": -3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 12.334,
+        "y": -2.55,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-B01:access",
+        "nodeId": "LVL:0:cell:LVL-B01",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.167,
+          "y": -3.4,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 6 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-B02",
+    "buildingId": "LVL",
+    "floorId": "0",
+    "name": "Book collection",
+    "displayLabel": "LVL B02",
+    "roomNumber": "B02",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "LVL B02",
+      "LVL B02"
+    ],
+    "position": {
+      "x": 18.5,
+      "y": -3.4,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-B02:object",
+    "bounds": {
+      "min": {
+        "x": 12.334,
+        "y": -3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 24.666,
+        "y": -2.55,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-B02:access",
+        "nodeId": "LVL:0:cell:LVL-B02",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 18.5,
+          "y": -3.4,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 6 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-B03",
+    "buildingId": "LVL",
+    "floorId": "0",
+    "name": "Collaborative study",
+    "displayLabel": "LVL B03",
+    "roomNumber": "B03",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "LVL B03",
+      "LVL B03"
+    ],
+    "position": {
+      "x": 30.833,
+      "y": -3.4,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-B03:object",
+    "bounds": {
+      "min": {
+        "x": 24.666,
+        "y": -3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 37,
+        "y": -2.55,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-B03:access",
+        "nodeId": "LVL:0:cell:LVL-B03",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 30.833,
+          "y": -3.4,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 6 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-0-SA",
+    "buildingId": "LVL",
+    "floorId": "0",
+    "name": "West stairs",
+    "displayLabel": "LVL west stairs, basement",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LVL west stairs, basement"
+    ],
+    "position": {
+      "x": -32.5,
+      "y": -3.4,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-0-SA:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": -3.4,
+        "z": -13
+      },
+      "max": {
+        "x": -30,
+        "y": -2.55,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-0-SA:access",
+        "nodeId": "LVL:0:cell:LVL-0-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -32.5,
+          "y": -3.4,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-0-SB",
+    "buildingId": "LVL",
+    "floorId": "0",
+    "name": "North stairs",
+    "displayLabel": "LVL north stairs, basement",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LVL north stairs, basement"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": -3.4,
+      "z": -16.7
+    },
+    "sceneObjectKey": "LVL-0-SB:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": -3.4,
+        "z": -19
+      },
+      "max": {
+        "x": -3.4,
+        "y": -2.55,
+        "z": -14.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-0-SB:access",
+        "nodeId": "LVL:0:cell:LVL-0-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": -3.4,
+          "z": -16.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-0-EL",
+    "buildingId": "LVL",
+    "floorId": "0",
+    "name": "Elevator",
+    "displayLabel": "LVL elevator, basement",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LVL elevator, basement"
+    ],
+    "position": {
+      "x": 0,
+      "y": -3.4,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-0-EL:object",
+    "bounds": {
+      "min": {
+        "x": -2,
+        "y": -3.4,
+        "z": -13
+      },
+      "max": {
+        "x": 2,
+        "y": -2.55,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-0-EL:access",
+        "nodeId": "LVL:0:cell:LVL-0-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": -3.4,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-0-RR",
+    "buildingId": "LVL",
+    "floorId": "0",
+    "name": "Restrooms",
+    "displayLabel": "LVL restrooms, basement",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "LVL restrooms, basement"
+    ],
+    "position": {
+      "x": 5.5,
+      "y": -3.4,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-0-RR:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": -3.4,
+        "z": -13
+      },
+      "max": {
+        "x": 8,
+        "y": -2.55,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-0-RR:access",
+        "nodeId": "LVL:0:cell:LVL-0-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5.5,
+          "y": -3.4,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-101",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Circulation Desk",
+    "displayLabel": "LVL 101",
+    "roomNumber": "101",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 101",
+      "LVL 101"
+    ],
+    "position": {
+      "x": -24.5,
+      "y": 0,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-101:object",
+    "bounds": {
+      "min": {
+        "x": -29,
+        "y": 0,
+        "z": -13
+      },
+      "max": {
+        "x": -20,
+        "y": 0.85,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-101:access",
+        "nodeId": "LVL:1:cell:LVL-101",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -24.5,
+          "y": 0,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-102",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Weingart Reading Room",
+    "displayLabel": "LVL 102",
+    "roomNumber": "102",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "LVL 102",
+      "LVL 102"
+    ],
+    "position": {
+      "x": -15.5,
+      "y": 0,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-102:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 0,
+        "z": -13
+      },
+      "max": {
+        "x": -11,
+        "y": 0.85,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-102:access",
+        "nodeId": "LVL:1:cell:LVL-102",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -15.5,
+          "y": 0,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-103",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Wall of Scholars study area",
+    "displayLabel": "LVL 103",
+    "roomNumber": "103",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 103",
+      "LVL 103"
+    ],
+    "position": {
+      "x": 13.667,
+      "y": 0,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-103:object",
+    "bounds": {
+      "min": {
+        "x": 9,
+        "y": 0,
+        "z": -13
+      },
+      "max": {
+        "x": 18.334,
+        "y": 0.85,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-103:access",
+        "nodeId": "LVL:1:cell:LVL-103",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 13.667,
+          "y": 0,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-104",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Monitor study room",
+    "displayLabel": "LVL 104",
+    "roomNumber": "104",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 104",
+      "LVL 104"
+    ],
+    "position": {
+      "x": 23,
+      "y": 0,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-104:object",
+    "bounds": {
+      "min": {
+        "x": 18.334,
+        "y": 0,
+        "z": -13
+      },
+      "max": {
+        "x": 27.666,
+        "y": 0.85,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-104:access",
+        "nodeId": "LVL:1:cell:LVL-104",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 23,
+          "y": 0,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-105",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Periodicals and assistive technology lab",
+    "displayLabel": "LVL 105",
+    "roomNumber": "105",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 105",
+      "LVL 105"
+    ],
+    "position": {
+      "x": 32.333,
+      "y": 0,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-105:object",
+    "bounds": {
+      "min": {
+        "x": 27.666,
+        "y": 0,
+        "z": -13
+      },
+      "max": {
+        "x": 37,
+        "y": 0.85,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-105:access",
+        "nodeId": "LVL:1:cell:LVL-105",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 32.333,
+          "y": 0,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-106",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Library instruction room",
+    "displayLabel": "LVL 106",
+    "roomNumber": "106",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 106",
+      "LVL 106"
+    ],
+    "position": {
+      "x": -30.5,
+      "y": 0,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-106:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -26,
+        "y": 0.85,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-106:access",
+        "nodeId": "LVL:1:cell:LVL-106",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -30.5,
+          "y": 0,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-107",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Collaborative workroom",
+    "displayLabel": "LVL 107",
+    "roomNumber": "107",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 107",
+      "LVL 107"
+    ],
+    "position": {
+      "x": -12,
+      "y": 0,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-107:object",
+    "bounds": {
+      "min": {
+        "x": -22,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-107:access",
+        "nodeId": "LVL:1:cell:LVL-107",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12,
+          "y": 0,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-108",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Study room",
+    "displayLabel": "LVL 108",
+    "roomNumber": "108",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 108",
+      "LVL 108"
+    ],
+    "position": {
+      "x": 6.167,
+      "y": 0,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-108:object",
+    "bounds": {
+      "min": {
+        "x": 0,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 12.334,
+        "y": 0.85,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-108:access",
+        "nodeId": "LVL:1:cell:LVL-108",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.167,
+          "y": 0,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-109",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Study room",
+    "displayLabel": "LVL 109",
+    "roomNumber": "109",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 109",
+      "LVL 109"
+    ],
+    "position": {
+      "x": 18.5,
+      "y": 0,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-109:object",
+    "bounds": {
+      "min": {
+        "x": 12.334,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 24.666,
+        "y": 0.85,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-109:access",
+        "nodeId": "LVL:1:cell:LVL-109",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 18.5,
+          "y": 0,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-110",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Library support",
+    "displayLabel": "LVL 110",
+    "roomNumber": "110",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 110",
+      "LVL 110"
+    ],
+    "position": {
+      "x": 30.833,
+      "y": 0,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-110:object",
+    "bounds": {
+      "min": {
+        "x": 24.666,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 37,
+        "y": 0.85,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-110:access",
+        "nodeId": "LVL:1:cell:LVL-110",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 30.833,
+          "y": 0,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-1-SA",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "West stairs",
+    "displayLabel": "LVL west stairs, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LVL west stairs, floor 1"
+    ],
+    "position": {
+      "x": -32.5,
+      "y": 0,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-1-SA:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": 0,
+        "z": -13
+      },
+      "max": {
+        "x": -30,
+        "y": 0.85,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-1-SA:access",
+        "nodeId": "LVL:1:cell:LVL-1-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -32.5,
+          "y": 0,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-1-SB",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "North stairs",
+    "displayLabel": "LVL north stairs, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LVL north stairs, floor 1"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 0,
+      "z": -16.7
+    },
+    "sceneObjectKey": "LVL-1-SB:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 0,
+        "z": -19
+      },
+      "max": {
+        "x": -3.4,
+        "y": 0.85,
+        "z": -14.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-1-SB:access",
+        "nodeId": "LVL:1:cell:LVL-1-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 0,
+          "z": -16.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-1-EL",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Elevator",
+    "displayLabel": "LVL elevator, floor 1",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LVL elevator, floor 1"
+    ],
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-1-EL:object",
+    "bounds": {
+      "min": {
+        "x": -2,
+        "y": 0,
+        "z": -13
+      },
+      "max": {
+        "x": 2,
+        "y": 0.85,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-1-EL:access",
+        "nodeId": "LVL:1:cell:LVL-1-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-1-RR",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Restrooms",
+    "displayLabel": "LVL restrooms, floor 1",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "LVL restrooms, floor 1"
+    ],
+    "position": {
+      "x": 5.5,
+      "y": 0,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-1-RR:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 0,
+        "z": -13
+      },
+      "max": {
+        "x": 8,
+        "y": 0.85,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-1-RR:access",
+        "nodeId": "LVL:1:cell:LVL-1-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5.5,
+          "y": 0,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-ENT",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "entrance pavilion",
+    "displayLabel": "LVL entrance pavilion",
+    "roomNumber": null,
+    "kind": "entrance",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": -24,
+      "y": 0,
+      "z": 24
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "LVL:1:entrance:access",
+        "nodeId": "LVL:1:entrance",
+        "label": "entrance pavilion",
+        "position": {
+          "x": -24,
+          "y": 0,
+          "z": 24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity confirmed; position inferred. Position, boundary and door inferred. Entrance Pavilion identity confirmed by brochure. Exact door position and step-free property inferred. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-EXIT-1-EXIT",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "secondary exit",
+    "displayLabel": "LVL secondary exit",
+    "roomNumber": null,
+    "kind": "emergency_exit",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": 38,
+      "y": 0,
+      "z": -1
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "LVL:1:exit:access",
+        "nodeId": "LVL:1:exit",
+        "label": "secondary exit",
+        "position": {
+          "x": 38,
+          "y": 0,
+          "z": -1
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": false,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Door location and step-free property inferred; not a verified accessible entrance or emergency exit. Sources: demos/usc-map/locations.json Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-201",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "McNaughton collection",
+    "displayLabel": "LVL 201",
+    "roomNumber": "201",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "LVL 201",
+      "LVL 201"
+    ],
+    "position": {
+      "x": -24.5,
+      "y": 3.4,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-201:object",
+    "bounds": {
+      "min": {
+        "x": -29,
+        "y": 3.4,
+        "z": -13
+      },
+      "max": {
+        "x": -20,
+        "y": 4.25,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-201:access",
+        "nodeId": "LVL:2:cell:LVL-201",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -24.5,
+          "y": 3.4,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-202",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Student study space",
+    "displayLabel": "LVL 202",
+    "roomNumber": "202",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "LVL 202",
+      "LVL 202"
+    ],
+    "position": {
+      "x": -15.5,
+      "y": 3.4,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-202:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 3.4,
+        "z": -13
+      },
+      "max": {
+        "x": -11,
+        "y": 4.25,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-202:access",
+        "nodeId": "LVL:2:cell:LVL-202",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -15.5,
+          "y": 3.4,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-203",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Group study room",
+    "displayLabel": "LVL 203",
+    "roomNumber": "203",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 203",
+      "LVL 203"
+    ],
+    "position": {
+      "x": 13.667,
+      "y": 3.4,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-203:object",
+    "bounds": {
+      "min": {
+        "x": 9,
+        "y": 3.4,
+        "z": -13
+      },
+      "max": {
+        "x": 18.334,
+        "y": 4.25,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-203:access",
+        "nodeId": "LVL:2:cell:LVL-203",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 13.667,
+          "y": 3.4,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-204",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Group study room",
+    "displayLabel": "LVL 204",
+    "roomNumber": "204",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 204",
+      "LVL 204"
+    ],
+    "position": {
+      "x": 23,
+      "y": 3.4,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-204:object",
+    "bounds": {
+      "min": {
+        "x": 18.334,
+        "y": 3.4,
+        "z": -13
+      },
+      "max": {
+        "x": 27.666,
+        "y": 4.25,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-204:access",
+        "nodeId": "LVL:2:cell:LVL-204",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 23,
+          "y": 3.4,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-205",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Group study room",
+    "displayLabel": "LVL 205",
+    "roomNumber": "205",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 205",
+      "LVL 205"
+    ],
+    "position": {
+      "x": 32.333,
+      "y": 3.4,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-205:object",
+    "bounds": {
+      "min": {
+        "x": 27.666,
+        "y": 3.4,
+        "z": -13
+      },
+      "max": {
+        "x": 37,
+        "y": 4.25,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-205:access",
+        "nodeId": "LVL:2:cell:LVL-205",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 32.333,
+          "y": 3.4,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-206",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Group study room",
+    "displayLabel": "LVL 206",
+    "roomNumber": "206",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 206",
+      "LVL 206"
+    ],
+    "position": {
+      "x": -26.75,
+      "y": 3.4,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-206:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -18.5,
+        "y": 4.25,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-206:access",
+        "nodeId": "LVL:2:cell:LVL-206",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -26.75,
+          "y": 3.4,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-207",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Group study room",
+    "displayLabel": "LVL 207",
+    "roomNumber": "207",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 207",
+      "LVL 207"
+    ],
+    "position": {
+      "x": -10.25,
+      "y": 3.4,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-207:object",
+    "bounds": {
+      "min": {
+        "x": -18.5,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-207:access",
+        "nodeId": "LVL:2:cell:LVL-207",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -10.25,
+          "y": 3.4,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-208",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Group study room",
+    "displayLabel": "LVL 208",
+    "roomNumber": "208",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 208",
+      "LVL 208"
+    ],
+    "position": {
+      "x": 6.167,
+      "y": 3.4,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-208:object",
+    "bounds": {
+      "min": {
+        "x": 0,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 12.334,
+        "y": 4.25,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-208:access",
+        "nodeId": "LVL:2:cell:LVL-208",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.167,
+          "y": 3.4,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-209",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Group study room",
+    "displayLabel": "LVL 209",
+    "roomNumber": "209",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 209",
+      "LVL 209"
+    ],
+    "position": {
+      "x": 18.5,
+      "y": 3.4,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-209:object",
+    "bounds": {
+      "min": {
+        "x": 12.334,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 24.666,
+        "y": 4.25,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-209:access",
+        "nodeId": "LVL:2:cell:LVL-209",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 18.5,
+          "y": 3.4,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-210",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Group study room",
+    "displayLabel": "LVL 210",
+    "roomNumber": "210",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 210",
+      "LVL 210"
+    ],
+    "position": {
+      "x": 30.833,
+      "y": 3.4,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-210:object",
+    "bounds": {
+      "min": {
+        "x": 24.666,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 37,
+        "y": 4.25,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-210:access",
+        "nodeId": "LVL:2:cell:LVL-210",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 30.833,
+          "y": 3.4,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-2-SA",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "West stairs",
+    "displayLabel": "LVL west stairs, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LVL west stairs, floor 2"
+    ],
+    "position": {
+      "x": -32.5,
+      "y": 3.4,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-2-SA:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": 3.4,
+        "z": -13
+      },
+      "max": {
+        "x": -30,
+        "y": 4.25,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-2-SA:access",
+        "nodeId": "LVL:2:cell:LVL-2-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -32.5,
+          "y": 3.4,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-2-SB",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "North stairs",
+    "displayLabel": "LVL north stairs, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LVL north stairs, floor 2"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 3.4,
+      "z": -16.7
+    },
+    "sceneObjectKey": "LVL-2-SB:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 3.4,
+        "z": -19
+      },
+      "max": {
+        "x": -3.4,
+        "y": 4.25,
+        "z": -14.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-2-SB:access",
+        "nodeId": "LVL:2:cell:LVL-2-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 3.4,
+          "z": -16.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-2-EL",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Elevator",
+    "displayLabel": "LVL elevator, floor 2",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LVL elevator, floor 2"
+    ],
+    "position": {
+      "x": 0,
+      "y": 3.4,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-2-EL:object",
+    "bounds": {
+      "min": {
+        "x": -2,
+        "y": 3.4,
+        "z": -13
+      },
+      "max": {
+        "x": 2,
+        "y": 4.25,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-2-EL:access",
+        "nodeId": "LVL:2:cell:LVL-2-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 3.4,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-2-RR",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Restrooms",
+    "displayLabel": "LVL restrooms, floor 2",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "LVL restrooms, floor 2"
+    ],
+    "position": {
+      "x": 5.5,
+      "y": 3.4,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-2-RR:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 3.4,
+        "z": -13
+      },
+      "max": {
+        "x": 8,
+        "y": 4.25,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-2-RR:access",
+        "nodeId": "LVL:2:cell:LVL-2-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5.5,
+          "y": 3.4,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-301",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Ahmanson Lab",
+    "displayLabel": "LVL 301",
+    "roomNumber": "301",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 301",
+      "LVL 301"
+    ],
+    "position": {
+      "x": -24.5,
+      "y": 6.8,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-301:object",
+    "bounds": {
+      "min": {
+        "x": -29,
+        "y": 6.8,
+        "z": -13
+      },
+      "max": {
+        "x": -20,
+        "y": 7.6499999999999995,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-301:access",
+        "nodeId": "LVL:3:cell:LVL-301",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -24.5,
+          "y": 6.8,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-302",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Individual study space",
+    "displayLabel": "LVL 302",
+    "roomNumber": "302",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "LVL 302",
+      "LVL 302"
+    ],
+    "position": {
+      "x": -15.5,
+      "y": 6.8,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-302:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 6.8,
+        "z": -13
+      },
+      "max": {
+        "x": -11,
+        "y": 7.6499999999999995,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-302:access",
+        "nodeId": "LVL:3:cell:LVL-302",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -15.5,
+          "y": 6.8,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-303",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Collaborative workroom",
+    "displayLabel": "LVL 303",
+    "roomNumber": "303",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 303",
+      "LVL 303"
+    ],
+    "position": {
+      "x": 13.667,
+      "y": 6.8,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-303:object",
+    "bounds": {
+      "min": {
+        "x": 9,
+        "y": 6.8,
+        "z": -13
+      },
+      "max": {
+        "x": 18.334,
+        "y": 7.6499999999999995,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-303:access",
+        "nodeId": "LVL:3:cell:LVL-303",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 13.667,
+          "y": 6.8,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-304",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Collaborative workroom",
+    "displayLabel": "LVL 304",
+    "roomNumber": "304",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 304",
+      "LVL 304"
+    ],
+    "position": {
+      "x": 23,
+      "y": 6.8,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-304:object",
+    "bounds": {
+      "min": {
+        "x": 18.334,
+        "y": 6.8,
+        "z": -13
+      },
+      "max": {
+        "x": 27.666,
+        "y": 7.6499999999999995,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-304:access",
+        "nodeId": "LVL:3:cell:LVL-304",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 23,
+          "y": 6.8,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-305",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Collaborative workroom",
+    "displayLabel": "LVL 305",
+    "roomNumber": "305",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 305",
+      "LVL 305"
+    ],
+    "position": {
+      "x": 32.333,
+      "y": 6.8,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-305:object",
+    "bounds": {
+      "min": {
+        "x": 27.666,
+        "y": 6.8,
+        "z": -13
+      },
+      "max": {
+        "x": 37,
+        "y": 7.6499999999999995,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-305:access",
+        "nodeId": "LVL:3:cell:LVL-305",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 32.333,
+          "y": 6.8,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-306",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Collaborative workroom",
+    "displayLabel": "LVL 306",
+    "roomNumber": "306",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 306",
+      "LVL 306"
+    ],
+    "position": {
+      "x": -26.75,
+      "y": 6.8,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-306:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -18.5,
+        "y": 7.6499999999999995,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-306:access",
+        "nodeId": "LVL:3:cell:LVL-306",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -26.75,
+          "y": 6.8,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-307",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Collaborative workroom",
+    "displayLabel": "LVL 307",
+    "roomNumber": "307",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 307",
+      "LVL 307"
+    ],
+    "position": {
+      "x": -10.25,
+      "y": 6.8,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-307:object",
+    "bounds": {
+      "min": {
+        "x": -18.5,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -2,
+        "y": 7.6499999999999995,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-307:access",
+        "nodeId": "LVL:3:cell:LVL-307",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -10.25,
+          "y": 6.8,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-308",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Collaborative workroom",
+    "displayLabel": "LVL 308",
+    "roomNumber": "308",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 308",
+      "LVL 308"
+    ],
+    "position": {
+      "x": 6.167,
+      "y": 6.8,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-308:object",
+    "bounds": {
+      "min": {
+        "x": 0,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 12.334,
+        "y": 7.6499999999999995,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-308:access",
+        "nodeId": "LVL:3:cell:LVL-308",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.167,
+          "y": 6.8,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-309",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Collaborative workroom",
+    "displayLabel": "LVL 309",
+    "roomNumber": "309",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 309",
+      "LVL 309"
+    ],
+    "position": {
+      "x": 18.5,
+      "y": 6.8,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-309:object",
+    "bounds": {
+      "min": {
+        "x": 12.334,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 24.666,
+        "y": 7.6499999999999995,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-309:access",
+        "nodeId": "LVL:3:cell:LVL-309",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 18.5,
+          "y": 6.8,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-310",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Collaborative workroom",
+    "displayLabel": "LVL 310",
+    "roomNumber": "310",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 310",
+      "LVL 310"
+    ],
+    "position": {
+      "x": 30.833,
+      "y": 6.8,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-310:object",
+    "bounds": {
+      "min": {
+        "x": 24.666,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 37,
+        "y": 7.6499999999999995,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-310:access",
+        "nodeId": "LVL:3:cell:LVL-310",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 30.833,
+          "y": 6.8,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-3-SA",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "West stairs",
+    "displayLabel": "LVL west stairs, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LVL west stairs, floor 3"
+    ],
+    "position": {
+      "x": -32.5,
+      "y": 6.8,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-3-SA:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": 6.8,
+        "z": -13
+      },
+      "max": {
+        "x": -30,
+        "y": 7.6499999999999995,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-3-SA:access",
+        "nodeId": "LVL:3:cell:LVL-3-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -32.5,
+          "y": 6.8,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-3-SB",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "North stairs",
+    "displayLabel": "LVL north stairs, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LVL north stairs, floor 3"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 6.8,
+      "z": -16.7
+    },
+    "sceneObjectKey": "LVL-3-SB:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 6.8,
+        "z": -19
+      },
+      "max": {
+        "x": -3.4,
+        "y": 7.6499999999999995,
+        "z": -14.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-3-SB:access",
+        "nodeId": "LVL:3:cell:LVL-3-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 6.8,
+          "z": -16.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-3-EL",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Elevator",
+    "displayLabel": "LVL elevator, floor 3",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LVL elevator, floor 3"
+    ],
+    "position": {
+      "x": 0,
+      "y": 6.8,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-3-EL:object",
+    "bounds": {
+      "min": {
+        "x": -2,
+        "y": 6.8,
+        "z": -13
+      },
+      "max": {
+        "x": 2,
+        "y": 7.6499999999999995,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-3-EL:access",
+        "nodeId": "LVL:3:cell:LVL-3-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 6.8,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-3-RR",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Restrooms",
+    "displayLabel": "LVL restrooms, floor 3",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "LVL restrooms, floor 3"
+    ],
+    "position": {
+      "x": 5.5,
+      "y": 6.8,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-3-RR:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 6.8,
+        "z": -13
+      },
+      "max": {
+        "x": 8,
+        "y": 7.6499999999999995,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-3-RR:access",
+        "nodeId": "LVL:3:cell:LVL-3-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5.5,
+          "y": 6.8,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-401",
+    "buildingId": "LVL",
+    "floorId": "4",
+    "name": "Shoah Foundation suite",
+    "displayLabel": "LVL 401",
+    "roomNumber": "401",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 401",
+      "LVL 401"
+    ],
+    "position": {
+      "x": -24.5,
+      "y": 10.2,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-401:object",
+    "bounds": {
+      "min": {
+        "x": -29,
+        "y": 10.2,
+        "z": -13
+      },
+      "max": {
+        "x": -20,
+        "y": 11.049999999999999,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-401:access",
+        "nodeId": "LVL:4:cell:LVL-401",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -24.5,
+          "y": 10.2,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-402",
+    "buildingId": "LVL",
+    "floorId": "4",
+    "name": "Research workspace",
+    "displayLabel": "LVL 402",
+    "roomNumber": "402",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "LVL 402",
+      "LVL 402"
+    ],
+    "position": {
+      "x": -15.5,
+      "y": 10.2,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-402:object",
+    "bounds": {
+      "min": {
+        "x": -20,
+        "y": 10.2,
+        "z": -13
+      },
+      "max": {
+        "x": -11,
+        "y": 11.049999999999999,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-402:access",
+        "nodeId": "LVL:4:cell:LVL-402",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -15.5,
+          "y": 10.2,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-403",
+    "buildingId": "LVL",
+    "floorId": "4",
+    "name": "Interview workroom",
+    "displayLabel": "LVL 403",
+    "roomNumber": "403",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 403",
+      "LVL 403"
+    ],
+    "position": {
+      "x": 13.667,
+      "y": 10.2,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-403:object",
+    "bounds": {
+      "min": {
+        "x": 9,
+        "y": 10.2,
+        "z": -13
+      },
+      "max": {
+        "x": 18.334,
+        "y": 11.049999999999999,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-403:access",
+        "nodeId": "LVL:4:cell:LVL-403",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 13.667,
+          "y": 10.2,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-404",
+    "buildingId": "LVL",
+    "floorId": "4",
+    "name": "Archive support",
+    "displayLabel": "LVL 404",
+    "roomNumber": "404",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 404",
+      "LVL 404"
+    ],
+    "position": {
+      "x": 23,
+      "y": 10.2,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-404:object",
+    "bounds": {
+      "min": {
+        "x": 18.334,
+        "y": 10.2,
+        "z": -13
+      },
+      "max": {
+        "x": 27.666,
+        "y": 11.049999999999999,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-404:access",
+        "nodeId": "LVL:4:cell:LVL-404",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 23,
+          "y": 10.2,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-405",
+    "buildingId": "LVL",
+    "floorId": "4",
+    "name": "Office",
+    "displayLabel": "LVL 405",
+    "roomNumber": "405",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 405",
+      "LVL 405"
+    ],
+    "position": {
+      "x": 32.333,
+      "y": 10.2,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-405:object",
+    "bounds": {
+      "min": {
+        "x": 27.666,
+        "y": 10.2,
+        "z": -13
+      },
+      "max": {
+        "x": 37,
+        "y": 11.049999999999999,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-405:access",
+        "nodeId": "LVL:4:cell:LVL-405",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 32.333,
+          "y": 10.2,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-406",
+    "buildingId": "LVL",
+    "floorId": "4",
+    "name": "Office",
+    "displayLabel": "LVL 406",
+    "roomNumber": "406",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 406",
+      "LVL 406"
+    ],
+    "position": {
+      "x": -26.75,
+      "y": 10.2,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-406:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": -18.5,
+        "y": 11.049999999999999,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-406:access",
+        "nodeId": "LVL:4:cell:LVL-406",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -26.75,
+          "y": 10.2,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-407",
+    "buildingId": "LVL",
+    "floorId": "4",
+    "name": "Office",
+    "displayLabel": "LVL 407",
+    "roomNumber": "407",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 407",
+      "LVL 407"
+    ],
+    "position": {
+      "x": -10.25,
+      "y": 10.2,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-407:object",
+    "bounds": {
+      "min": {
+        "x": -18.5,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": -2,
+        "y": 11.049999999999999,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-407:access",
+        "nodeId": "LVL:4:cell:LVL-407",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -10.25,
+          "y": 10.2,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-408",
+    "buildingId": "LVL",
+    "floorId": "4",
+    "name": "Meeting room",
+    "displayLabel": "LVL 408",
+    "roomNumber": "408",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 408",
+      "LVL 408"
+    ],
+    "position": {
+      "x": 6.167,
+      "y": 10.2,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-408:object",
+    "bounds": {
+      "min": {
+        "x": 0,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": 12.334,
+        "y": 11.049999999999999,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-408:access",
+        "nodeId": "LVL:4:cell:LVL-408",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.167,
+          "y": 10.2,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-409",
+    "buildingId": "LVL",
+    "floorId": "4",
+    "name": "Staff workspace",
+    "displayLabel": "LVL 409",
+    "roomNumber": "409",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "LVL 409",
+      "LVL 409"
+    ],
+    "position": {
+      "x": 18.5,
+      "y": 10.2,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-409:object",
+    "bounds": {
+      "min": {
+        "x": 12.334,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": 24.666,
+        "y": 11.049999999999999,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-409:access",
+        "nodeId": "LVL:4:cell:LVL-409",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 18.5,
+          "y": 10.2,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-410",
+    "buildingId": "LVL",
+    "floorId": "4",
+    "name": "Research study",
+    "displayLabel": "LVL 410",
+    "roomNumber": "410",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 410",
+      "LVL 410"
+    ],
+    "position": {
+      "x": 30.833,
+      "y": 10.2,
+      "z": 5.5
+    },
+    "sceneObjectKey": "LVL-410:object",
+    "bounds": {
+      "min": {
+        "x": 24.666,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": 37,
+        "y": 11.049999999999999,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-410:access",
+        "nodeId": "LVL:4:cell:LVL-410",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 30.833,
+          "y": 10.2,
+          "z": 5.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Room number inferred, retaining demo IDs where available. Brochure service names are historical, not a current tenancy claim. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf p. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-4-SA",
+    "buildingId": "LVL",
+    "floorId": "4",
+    "name": "West stairs",
+    "displayLabel": "LVL west stairs, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LVL west stairs, floor 4"
+    ],
+    "position": {
+      "x": -32.5,
+      "y": 10.2,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-4-SA:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": 10.2,
+        "z": -13
+      },
+      "max": {
+        "x": -30,
+        "y": 11.049999999999999,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-4-SA:access",
+        "nodeId": "LVL:4:cell:LVL-4-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -32.5,
+          "y": 10.2,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-4-SB",
+    "buildingId": "LVL",
+    "floorId": "4",
+    "name": "North stairs",
+    "displayLabel": "LVL north stairs, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LVL north stairs, floor 4"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 10.2,
+      "z": -16.7
+    },
+    "sceneObjectKey": "LVL-4-SB:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 10.2,
+        "z": -19
+      },
+      "max": {
+        "x": -3.4,
+        "y": 11.049999999999999,
+        "z": -14.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-4-SB:access",
+        "nodeId": "LVL:4:cell:LVL-4-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 10.2,
+          "z": -16.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-4-EL",
+    "buildingId": "LVL",
+    "floorId": "4",
+    "name": "Elevator",
+    "displayLabel": "LVL elevator, floor 4",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LVL elevator, floor 4"
+    ],
+    "position": {
+      "x": 0,
+      "y": 10.2,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-4-EL:object",
+    "bounds": {
+      "min": {
+        "x": -2,
+        "y": 10.2,
+        "z": -13
+      },
+      "max": {
+        "x": 2,
+        "y": 11.049999999999999,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-4-EL:access",
+        "nodeId": "LVL:4:cell:LVL-4-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 10.2,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "LVL-4-RR",
+    "buildingId": "LVL",
+    "floorId": "4",
+    "name": "Restrooms",
+    "displayLabel": "LVL restrooms, floor 4",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "LVL restrooms, floor 4"
+    ],
+    "position": {
+      "x": 5.5,
+      "y": 10.2,
+      "z": -8.5
+    },
+    "sceneObjectKey": "LVL-4-RR:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 10.2,
+        "z": -13
+      },
+      "max": {
+        "x": 8,
+        "y": 11.049999999999999,
+        "z": -4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-4-RR:access",
+        "nodeId": "LVL:4:cell:LVL-4-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5.5,
+          "y": 10.2,
+          "z": -8.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf Navigation and accessibility are unverified."
+    }
+  }
+]

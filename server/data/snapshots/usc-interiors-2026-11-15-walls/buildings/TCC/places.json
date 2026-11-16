@@ -1,0 +1,4788 @@
+[
+  {
+    "id": "TCC-101",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Dining / student commons",
+    "displayLabel": "TCC 101",
+    "roomNumber": "101",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 101",
+      "TCC 101"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 0,
+      "z": -30.833
+    },
+    "sceneObjectKey": "TCC-101:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 0,
+        "z": -36
+      },
+      "max": {
+        "x": -2,
+        "y": 1.7,
+        "z": -25.666
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-101:access",
+        "nodeId": "TCC:1:cell:TCC-101",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 0,
+          "z": -30.833
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-102",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Dining / student commons",
+    "displayLabel": "TCC 102",
+    "roomNumber": "102",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 102",
+      "TCC 102"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 0,
+      "z": -20.5
+    },
+    "sceneObjectKey": "TCC-102:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 0,
+        "z": -25.666
+      },
+      "max": {
+        "x": -2,
+        "y": 1.7,
+        "z": -15.334
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-102:access",
+        "nodeId": "TCC:1:cell:TCC-102",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 0,
+          "z": -20.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-103",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Dining / student commons",
+    "displayLabel": "TCC 103",
+    "roomNumber": "103",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 103",
+      "TCC 103"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 0,
+      "z": -10.167
+    },
+    "sceneObjectKey": "TCC-103:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 0,
+        "z": -15.334
+      },
+      "max": {
+        "x": -2,
+        "y": 1.7,
+        "z": -5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-103:access",
+        "nodeId": "TCC:1:cell:TCC-103",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 0,
+          "z": -10.167
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-104",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Dining / student commons",
+    "displayLabel": "TCC 104",
+    "roomNumber": "104",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 104",
+      "TCC 104"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 0,
+      "z": 13.5
+    },
+    "sceneObjectKey": "TCC-104:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 0,
+        "z": 10
+      },
+      "max": {
+        "x": -2,
+        "y": 1.7,
+        "z": 17
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-104:access",
+        "nodeId": "TCC:1:cell:TCC-104",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 0,
+          "z": 13.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-105",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Dining / student commons",
+    "displayLabel": "TCC 105",
+    "roomNumber": "105",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 105",
+      "TCC 105"
+    ],
+    "position": {
+      "x": -7.8,
+      "y": 0,
+      "z": 23
+    },
+    "sceneObjectKey": "TCC-105:object",
+    "bounds": {
+      "min": {
+        "x": -13.6,
+        "y": 0,
+        "z": 19
+      },
+      "max": {
+        "x": -2,
+        "y": 1.7,
+        "z": 27
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-105:access",
+        "nodeId": "TCC:1:cell:TCC-105",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.8,
+          "y": 0,
+          "z": 23
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-106",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Dining / student commons",
+    "displayLabel": "TCC 106",
+    "roomNumber": "106",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 106",
+      "TCC 106"
+    ],
+    "position": {
+      "x": -7.8,
+      "y": 0,
+      "z": 31
+    },
+    "sceneObjectKey": "TCC-106:object",
+    "bounds": {
+      "min": {
+        "x": -13.6,
+        "y": 0,
+        "z": 27
+      },
+      "max": {
+        "x": -2,
+        "y": 1.7,
+        "z": 35
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-106:access",
+        "nodeId": "TCC:1:cell:TCC-106",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.8,
+          "y": 0,
+          "z": 31
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-107",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Dining / student commons",
+    "displayLabel": "TCC 107",
+    "roomNumber": "107",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 107",
+      "TCC 107"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 0,
+      "z": -35.8
+    },
+    "sceneObjectKey": "TCC-107:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": -42.6
+      },
+      "max": {
+        "x": 11,
+        "y": 1.7,
+        "z": -29
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-107:access",
+        "nodeId": "TCC:1:cell:TCC-107",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 0,
+          "z": -35.8
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-108",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Dining / student commons",
+    "displayLabel": "TCC 108",
+    "roomNumber": "108",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 108",
+      "TCC 108"
+    ],
+    "position": {
+      "x": 4,
+      "y": 0,
+      "z": -15.667
+    },
+    "sceneObjectKey": "TCC-108:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": -27
+      },
+      "max": {
+        "x": 6,
+        "y": 1.7,
+        "z": -4.334
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-108:access",
+        "nodeId": "TCC:1:cell:TCC-108",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 0,
+          "z": -15.667
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-109",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Dining / student commons",
+    "displayLabel": "TCC 109",
+    "roomNumber": "109",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 109",
+      "TCC 109"
+    ],
+    "position": {
+      "x": 4,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-109:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": -4.334
+      },
+      "max": {
+        "x": 6,
+        "y": 1.7,
+        "z": 18.334
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-109:access",
+        "nodeId": "TCC:1:cell:TCC-109",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-110",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Dining / student commons",
+    "displayLabel": "TCC 110",
+    "roomNumber": "110",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 110",
+      "TCC 110"
+    ],
+    "position": {
+      "x": 4,
+      "y": 0,
+      "z": 29.667
+    },
+    "sceneObjectKey": "TCC-110:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": 18.334
+      },
+      "max": {
+        "x": 6,
+        "y": 1.7,
+        "z": 41
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-110:access",
+        "nodeId": "TCC:1:cell:TCC-110",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 0,
+          "z": 29.667
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-1-SA",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "North stairs",
+    "displayLabel": "TCC north stairs, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "TCC north stairs, floor 1"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 0,
+      "z": -39.8
+    },
+    "sceneObjectKey": "TCC-1-SA:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 0,
+        "z": -42.6
+      },
+      "max": {
+        "x": -2,
+        "y": 1.7,
+        "z": -37
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-1-SA:access",
+        "nodeId": "TCC:1:cell:TCC-1-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 0,
+          "z": -39.8
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-1-SB",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "South stairs",
+    "displayLabel": "TCC south stairs, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "TCC south stairs, floor 1"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 0,
+      "z": 38.5
+    },
+    "sceneObjectKey": "TCC-1-SB:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 0,
+        "z": 36
+      },
+      "max": {
+        "x": -2,
+        "y": 1.7,
+        "z": 41
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-1-SB:access",
+        "nodeId": "TCC:1:cell:TCC-1-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 0,
+          "z": 38.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-1-EL",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Central elevator",
+    "displayLabel": "TCC central elevator, floor 1",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "TCC central elevator, floor 1"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 0,
+      "z": -1
+    },
+    "sceneObjectKey": "TCC-1-EL:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 0,
+        "z": -4
+      },
+      "max": {
+        "x": -2,
+        "y": 1.7,
+        "z": 2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-1-EL:access",
+        "nodeId": "TCC:1:cell:TCC-1-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 0,
+          "z": -1
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-1-RR",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Restrooms",
+    "displayLabel": "TCC restrooms, floor 1",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "TCC restrooms, floor 1"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 0,
+      "z": 6
+    },
+    "sceneObjectKey": "TCC-1-RR:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 0,
+        "z": 3
+      },
+      "max": {
+        "x": -2,
+        "y": 1.7,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-1-RR:access",
+        "nodeId": "TCC:1:cell:TCC-1-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 0,
+          "z": 6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-ENT",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "main entrance",
+    "displayLabel": "TCC main entrance",
+    "roomNumber": null,
+    "kind": "entrance",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": -43.6
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "TCC:1:entrance:access",
+        "nodeId": "TCC:1:entrance",
+        "label": "main entrance",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": -43.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Door location and step-free property inferred; not a verified accessible entrance or emergency exit. Sources: demos/usc-map/locations.json Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-EXIT-1-EXIT",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "secondary exit",
+    "displayLabel": "TCC secondary exit",
+    "roomNumber": null,
+    "kind": "emergency_exit",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 42
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "TCC:1:exit:access",
+        "nodeId": "TCC:1:exit",
+        "label": "secondary exit",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 42
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": false,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Door location and step-free property inferred; not a verified accessible entrance or emergency exit. Sources: demos/usc-map/locations.json Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-221",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Meeting room",
+    "displayLabel": "TCC 221",
+    "roomNumber": "221",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 221",
+      "TCC 221"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 3.4,
+      "z": -32.125
+    },
+    "sceneObjectKey": "TCC-221:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 3.4,
+        "z": -36
+      },
+      "max": {
+        "x": -2,
+        "y": 5.1,
+        "z": -28.25
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-221:access",
+        "nodeId": "TCC:2:cell:TCC-221",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 3.4,
+          "z": -32.125
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-224",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "First Generation Plus Success Center",
+    "displayLabel": "TCC 224",
+    "roomNumber": "224",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 224",
+      "TCC 224"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 3.4,
+      "z": -24.375
+    },
+    "sceneObjectKey": "TCC-224:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 3.4,
+        "z": -28.25
+      },
+      "max": {
+        "x": -2,
+        "y": 5.1,
+        "z": -20.5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-224:access",
+        "nodeId": "TCC:2:cell:TCC-224",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 3.4,
+          "z": -24.375
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-227",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Rosen Family Screening Room",
+    "displayLabel": "TCC 227",
+    "roomNumber": "227",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 227",
+      "TCC 227"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 3.4,
+      "z": -16.625
+    },
+    "sceneObjectKey": "TCC-227:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 3.4,
+        "z": -20.5
+      },
+      "max": {
+        "x": -2,
+        "y": 5.1,
+        "z": -12.75
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-227:access",
+        "nodeId": "TCC:2:cell:TCC-227",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 3.4,
+          "z": -16.625
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-232",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Meeting room",
+    "displayLabel": "TCC 232",
+    "roomNumber": "232",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 232",
+      "TCC 232"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 3.4,
+      "z": -8.875
+    },
+    "sceneObjectKey": "TCC-232:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 3.4,
+        "z": -12.75
+      },
+      "max": {
+        "x": -2,
+        "y": 5.1,
+        "z": -5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-232:access",
+        "nodeId": "TCC:2:cell:TCC-232",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 3.4,
+          "z": -8.875
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-201",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 201",
+    "roomNumber": "201",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 201",
+      "TCC 201"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 3.4,
+      "z": 13.5
+    },
+    "sceneObjectKey": "TCC-201:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 3.4,
+        "z": 10
+      },
+      "max": {
+        "x": -2,
+        "y": 5.1,
+        "z": 17
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-201:access",
+        "nodeId": "TCC:2:cell:TCC-201",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 3.4,
+          "z": 13.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-202",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 202",
+    "roomNumber": "202",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 202",
+      "TCC 202"
+    ],
+    "position": {
+      "x": -7.8,
+      "y": 3.4,
+      "z": 21.667
+    },
+    "sceneObjectKey": "TCC-202:object",
+    "bounds": {
+      "min": {
+        "x": -13.6,
+        "y": 3.4,
+        "z": 19
+      },
+      "max": {
+        "x": -2,
+        "y": 5.1,
+        "z": 24.334
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-202:access",
+        "nodeId": "TCC:2:cell:TCC-202",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.8,
+          "y": 3.4,
+          "z": 21.667
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-203",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 203",
+    "roomNumber": "203",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 203",
+      "TCC 203"
+    ],
+    "position": {
+      "x": -7.8,
+      "y": 3.4,
+      "z": 27
+    },
+    "sceneObjectKey": "TCC-203:object",
+    "bounds": {
+      "min": {
+        "x": -13.6,
+        "y": 3.4,
+        "z": 24.334
+      },
+      "max": {
+        "x": -2,
+        "y": 5.1,
+        "z": 29.666
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-203:access",
+        "nodeId": "TCC:2:cell:TCC-203",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.8,
+          "y": 3.4,
+          "z": 27
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-204",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 204",
+    "roomNumber": "204",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 204",
+      "TCC 204"
+    ],
+    "position": {
+      "x": -7.8,
+      "y": 3.4,
+      "z": 32.333
+    },
+    "sceneObjectKey": "TCC-204:object",
+    "bounds": {
+      "min": {
+        "x": -13.6,
+        "y": 3.4,
+        "z": 29.666
+      },
+      "max": {
+        "x": -2,
+        "y": 5.1,
+        "z": 35
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-204:access",
+        "nodeId": "TCC:2:cell:TCC-204",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.8,
+          "y": 3.4,
+          "z": 32.333
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-205",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 205",
+    "roomNumber": "205",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 205",
+      "TCC 205"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 3.4,
+      "z": -39.2
+    },
+    "sceneObjectKey": "TCC-205:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 3.4,
+        "z": -42.6
+      },
+      "max": {
+        "x": 11,
+        "y": 5.1,
+        "z": -35.8
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-205:access",
+        "nodeId": "TCC:2:cell:TCC-205",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 3.4,
+          "z": -39.2
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-206",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 206",
+    "roomNumber": "206",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 206",
+      "TCC 206"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 3.4,
+      "z": -32.4
+    },
+    "sceneObjectKey": "TCC-206:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 3.4,
+        "z": -35.8
+      },
+      "max": {
+        "x": 11,
+        "y": 5.1,
+        "z": -29
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-206:access",
+        "nodeId": "TCC:2:cell:TCC-206",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 3.4,
+          "z": -32.4
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-207",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 207",
+    "roomNumber": "207",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 207",
+      "TCC 207"
+    ],
+    "position": {
+      "x": 4,
+      "y": 3.4,
+      "z": -18.5
+    },
+    "sceneObjectKey": "TCC-207:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 3.4,
+        "z": -27
+      },
+      "max": {
+        "x": 6,
+        "y": 5.1,
+        "z": -10
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-207:access",
+        "nodeId": "TCC:2:cell:TCC-207",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 3.4,
+          "z": -18.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-208",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 208",
+    "roomNumber": "208",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 208",
+      "TCC 208"
+    ],
+    "position": {
+      "x": 4,
+      "y": 3.4,
+      "z": -1.5
+    },
+    "sceneObjectKey": "TCC-208:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 3.4,
+        "z": -10
+      },
+      "max": {
+        "x": 6,
+        "y": 5.1,
+        "z": 7
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-208:access",
+        "nodeId": "TCC:2:cell:TCC-208",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 3.4,
+          "z": -1.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-209",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 209",
+    "roomNumber": "209",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 209",
+      "TCC 209"
+    ],
+    "position": {
+      "x": 4,
+      "y": 3.4,
+      "z": 15.5
+    },
+    "sceneObjectKey": "TCC-209:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 3.4,
+        "z": 7
+      },
+      "max": {
+        "x": 6,
+        "y": 5.1,
+        "z": 24
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-209:access",
+        "nodeId": "TCC:2:cell:TCC-209",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 3.4,
+          "z": 15.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-210",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 210",
+    "roomNumber": "210",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 210",
+      "TCC 210"
+    ],
+    "position": {
+      "x": 4,
+      "y": 3.4,
+      "z": 32.5
+    },
+    "sceneObjectKey": "TCC-210:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 3.4,
+        "z": 24
+      },
+      "max": {
+        "x": 6,
+        "y": 5.1,
+        "z": 41
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-210:access",
+        "nodeId": "TCC:2:cell:TCC-210",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 3.4,
+          "z": 32.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-2-SA",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "North stairs",
+    "displayLabel": "TCC north stairs, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "TCC north stairs, floor 2"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 3.4,
+      "z": -39.8
+    },
+    "sceneObjectKey": "TCC-2-SA:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 3.4,
+        "z": -42.6
+      },
+      "max": {
+        "x": -2,
+        "y": 5.1,
+        "z": -37
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-2-SA:access",
+        "nodeId": "TCC:2:cell:TCC-2-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 3.4,
+          "z": -39.8
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-2-SB",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "South stairs",
+    "displayLabel": "TCC south stairs, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "TCC south stairs, floor 2"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 3.4,
+      "z": 38.5
+    },
+    "sceneObjectKey": "TCC-2-SB:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 3.4,
+        "z": 36
+      },
+      "max": {
+        "x": -2,
+        "y": 5.1,
+        "z": 41
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-2-SB:access",
+        "nodeId": "TCC:2:cell:TCC-2-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 3.4,
+          "z": 38.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-2-EL",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Central elevator",
+    "displayLabel": "TCC central elevator, floor 2",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "TCC central elevator, floor 2"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 3.4,
+      "z": -1
+    },
+    "sceneObjectKey": "TCC-2-EL:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 3.4,
+        "z": -4
+      },
+      "max": {
+        "x": -2,
+        "y": 5.1,
+        "z": 2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-2-EL:access",
+        "nodeId": "TCC:2:cell:TCC-2-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 3.4,
+          "z": -1
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-2-RR",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Restrooms",
+    "displayLabel": "TCC restrooms, floor 2",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "TCC restrooms, floor 2"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 3.4,
+      "z": 6
+    },
+    "sceneObjectKey": "TCC-2-RR:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 3.4,
+        "z": 3
+      },
+      "max": {
+        "x": -2,
+        "y": 5.1,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-2-RR:access",
+        "nodeId": "TCC:2:cell:TCC-2-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 3.4,
+          "z": 6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-315",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Lactation Room",
+    "displayLabel": "TCC 315",
+    "roomNumber": "315",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 315",
+      "TCC 315"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 6.8,
+      "z": -33.417
+    },
+    "sceneObjectKey": "TCC-315:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 6.8,
+        "z": -36
+      },
+      "max": {
+        "x": -2,
+        "y": 8.5,
+        "z": -30.834
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-315:access",
+        "nodeId": "TCC:3:cell:TCC-315",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 6.8,
+          "z": -33.417
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-320A",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "MAAA Cruz Family Board Room",
+    "displayLabel": "TCC 320A",
+    "roomNumber": "320A",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 320A",
+      "TCC 320A"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 6.8,
+      "z": -28.25
+    },
+    "sceneObjectKey": "TCC-320A:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 6.8,
+        "z": -30.834
+      },
+      "max": {
+        "x": -2,
+        "y": 8.5,
+        "z": -25.666
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-320A:access",
+        "nodeId": "TCC:3:cell:TCC-320A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 6.8,
+          "z": -28.25
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-320B",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Meeting room",
+    "displayLabel": "TCC 320B",
+    "roomNumber": "320B",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 320B",
+      "TCC 320B"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 6.8,
+      "z": -23.083
+    },
+    "sceneObjectKey": "TCC-320B:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 6.8,
+        "z": -25.666
+      },
+      "max": {
+        "x": -2,
+        "y": 8.5,
+        "z": -20.5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-320B:access",
+        "nodeId": "TCC:3:cell:TCC-320B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 6.8,
+          "z": -23.083
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-320C",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Hui Conference Room",
+    "displayLabel": "TCC 320C",
+    "roomNumber": "320C",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 320C",
+      "TCC 320C"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 6.8,
+      "z": -17.917
+    },
+    "sceneObjectKey": "TCC-320C:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 6.8,
+        "z": -20.5
+      },
+      "max": {
+        "x": -2,
+        "y": 8.5,
+        "z": -15.334
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-320C:access",
+        "nodeId": "TCC:3:cell:TCC-320C",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 6.8,
+          "z": -17.917
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-322",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Asian Pacific Alumni Association",
+    "displayLabel": "TCC 322",
+    "roomNumber": "322",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 322",
+      "TCC 322"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 6.8,
+      "z": -12.75
+    },
+    "sceneObjectKey": "TCC-322:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 6.8,
+        "z": -15.334
+      },
+      "max": {
+        "x": -2,
+        "y": 8.5,
+        "z": -10.166
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-322:access",
+        "nodeId": "TCC:3:cell:TCC-322",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 6.8,
+          "z": -12.75
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-323",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Black Alumni Association",
+    "displayLabel": "TCC 323",
+    "roomNumber": "323",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 323",
+      "TCC 323"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 6.8,
+      "z": -7.583
+    },
+    "sceneObjectKey": "TCC-323:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 6.8,
+        "z": -10.166
+      },
+      "max": {
+        "x": -2,
+        "y": 8.5,
+        "z": -5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-323:access",
+        "nodeId": "TCC:3:cell:TCC-323",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 6.8,
+          "z": -7.583
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-324",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Latino Alumni Association",
+    "displayLabel": "TCC 324",
+    "roomNumber": "324",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 324",
+      "TCC 324"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 6.8,
+      "z": 13.5
+    },
+    "sceneObjectKey": "TCC-324:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 6.8,
+        "z": 10
+      },
+      "max": {
+        "x": -2,
+        "y": 8.5,
+        "z": 17
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-324:access",
+        "nodeId": "TCC:3:cell:TCC-324",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 6.8,
+          "z": 13.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-330",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Fraternity & Sorority Leadership Development / Veterans Resource Center",
+    "displayLabel": "TCC 330",
+    "roomNumber": "330",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 330",
+      "TCC 330"
+    ],
+    "position": {
+      "x": -7.8,
+      "y": 6.8,
+      "z": 21
+    },
+    "sceneObjectKey": "TCC-330:object",
+    "bounds": {
+      "min": {
+        "x": -13.6,
+        "y": 6.8,
+        "z": 19
+      },
+      "max": {
+        "x": -2,
+        "y": 8.5,
+        "z": 23
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-330:access",
+        "nodeId": "TCC:3:cell:TCC-330",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.8,
+          "y": 6.8,
+          "z": 21
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Directory lists two occupants for 330; one room retained, tenancy unresolved. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-350",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Franklin Suite 350",
+    "displayLabel": "TCC 350",
+    "roomNumber": "350",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 350",
+      "TCC 350"
+    ],
+    "position": {
+      "x": -7.8,
+      "y": 6.8,
+      "z": 25
+    },
+    "sceneObjectKey": "TCC-350:object",
+    "bounds": {
+      "min": {
+        "x": -13.6,
+        "y": 6.8,
+        "z": 23
+      },
+      "max": {
+        "x": -2,
+        "y": 8.5,
+        "z": 27
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-350:access",
+        "nodeId": "TCC:3:cell:TCC-350",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.8,
+          "y": 6.8,
+          "z": 25
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Franklin suite subdivisions inferred. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-351",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Franklin Suite 351",
+    "displayLabel": "TCC 351",
+    "roomNumber": "351",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 351",
+      "TCC 351"
+    ],
+    "position": {
+      "x": -7.8,
+      "y": 6.8,
+      "z": 29
+    },
+    "sceneObjectKey": "TCC-351:object",
+    "bounds": {
+      "min": {
+        "x": -13.6,
+        "y": 6.8,
+        "z": 27
+      },
+      "max": {
+        "x": -2,
+        "y": 8.5,
+        "z": 31
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-351:access",
+        "nodeId": "TCC:3:cell:TCC-351",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.8,
+          "y": 6.8,
+          "z": 29
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Franklin suite subdivisions inferred. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-352",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Franklin Suite 352",
+    "displayLabel": "TCC 352",
+    "roomNumber": "352",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 352",
+      "TCC 352"
+    ],
+    "position": {
+      "x": -7.8,
+      "y": 6.8,
+      "z": 33
+    },
+    "sceneObjectKey": "TCC-352:object",
+    "bounds": {
+      "min": {
+        "x": -13.6,
+        "y": 6.8,
+        "z": 31
+      },
+      "max": {
+        "x": -2,
+        "y": 8.5,
+        "z": 35
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-352:access",
+        "nodeId": "TCC:3:cell:TCC-352",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.8,
+          "y": 6.8,
+          "z": 33
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Franklin suite subdivisions inferred. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-301",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 301",
+    "roomNumber": "301",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 301",
+      "TCC 301"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 6.8,
+      "z": -40.333
+    },
+    "sceneObjectKey": "TCC-301:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": -42.6
+      },
+      "max": {
+        "x": 11,
+        "y": 8.5,
+        "z": -38.066
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-301:access",
+        "nodeId": "TCC:3:cell:TCC-301",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 6.8,
+          "z": -40.333
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-302",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 302",
+    "roomNumber": "302",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 302",
+      "TCC 302"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 6.8,
+      "z": -35.8
+    },
+    "sceneObjectKey": "TCC-302:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": -38.066
+      },
+      "max": {
+        "x": 11,
+        "y": 8.5,
+        "z": -33.534
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-302:access",
+        "nodeId": "TCC:3:cell:TCC-302",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 6.8,
+          "z": -35.8
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-303",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 303",
+    "roomNumber": "303",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 303",
+      "TCC 303"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 6.8,
+      "z": -31.267
+    },
+    "sceneObjectKey": "TCC-303:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": -33.534
+      },
+      "max": {
+        "x": 11,
+        "y": 8.5,
+        "z": -29
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-303:access",
+        "nodeId": "TCC:3:cell:TCC-303",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 6.8,
+          "z": -31.267
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-304",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 304",
+    "roomNumber": "304",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 304",
+      "TCC 304"
+    ],
+    "position": {
+      "x": 4,
+      "y": 6.8,
+      "z": -22.143
+    },
+    "sceneObjectKey": "TCC-304:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": -27
+      },
+      "max": {
+        "x": 6,
+        "y": 8.5,
+        "z": -17.285999999999998
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-304:access",
+        "nodeId": "TCC:3:cell:TCC-304",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 6.8,
+          "z": -22.143
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-305",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 305",
+    "roomNumber": "305",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 305",
+      "TCC 305"
+    ],
+    "position": {
+      "x": 4,
+      "y": 6.8,
+      "z": -12.429
+    },
+    "sceneObjectKey": "TCC-305:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": -17.285999999999998
+      },
+      "max": {
+        "x": 6,
+        "y": 8.5,
+        "z": -7.572000000000003
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-305:access",
+        "nodeId": "TCC:3:cell:TCC-305",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 6.8,
+          "z": -12.429
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-306",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 306",
+    "roomNumber": "306",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 306",
+      "TCC 306"
+    ],
+    "position": {
+      "x": 4,
+      "y": 6.8,
+      "z": -2.7150000000000016
+    },
+    "sceneObjectKey": "TCC-306:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": -7.572000000000003
+      },
+      "max": {
+        "x": 6,
+        "y": 8.5,
+        "z": 2.142
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-306:access",
+        "nodeId": "TCC:3:cell:TCC-306",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 6.8,
+          "z": -2.7150000000000016
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-307",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 307",
+    "roomNumber": "307",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 307",
+      "TCC 307"
+    ],
+    "position": {
+      "x": 4,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-307:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": 2.142
+      },
+      "max": {
+        "x": 6,
+        "y": 8.5,
+        "z": 11.858
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-307:access",
+        "nodeId": "TCC:3:cell:TCC-307",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-308",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 308",
+    "roomNumber": "308",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 308",
+      "TCC 308"
+    ],
+    "position": {
+      "x": 4,
+      "y": 6.8,
+      "z": 16.715
+    },
+    "sceneObjectKey": "TCC-308:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": 11.858
+      },
+      "max": {
+        "x": 6,
+        "y": 8.5,
+        "z": 21.572
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-308:access",
+        "nodeId": "TCC:3:cell:TCC-308",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 6.8,
+          "z": 16.715
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-309",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 309",
+    "roomNumber": "309",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 309",
+      "TCC 309"
+    ],
+    "position": {
+      "x": 4,
+      "y": 6.8,
+      "z": 26.429
+    },
+    "sceneObjectKey": "TCC-309:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": 21.572
+      },
+      "max": {
+        "x": 6,
+        "y": 8.5,
+        "z": 31.285999999999998
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-309:access",
+        "nodeId": "TCC:3:cell:TCC-309",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 6.8,
+          "z": 26.429
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-310",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 310",
+    "roomNumber": "310",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 310",
+      "TCC 310"
+    ],
+    "position": {
+      "x": 4,
+      "y": 6.8,
+      "z": 36.143
+    },
+    "sceneObjectKey": "TCC-310:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": 31.285999999999998
+      },
+      "max": {
+        "x": 6,
+        "y": 8.5,
+        "z": 41
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-310:access",
+        "nodeId": "TCC:3:cell:TCC-310",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 6.8,
+          "z": 36.143
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-3-SA",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "North stairs",
+    "displayLabel": "TCC north stairs, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "TCC north stairs, floor 3"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 6.8,
+      "z": -39.8
+    },
+    "sceneObjectKey": "TCC-3-SA:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 6.8,
+        "z": -42.6
+      },
+      "max": {
+        "x": -2,
+        "y": 8.5,
+        "z": -37
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-3-SA:access",
+        "nodeId": "TCC:3:cell:TCC-3-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 6.8,
+          "z": -39.8
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-3-SB",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "South stairs",
+    "displayLabel": "TCC south stairs, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "TCC south stairs, floor 3"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 6.8,
+      "z": 38.5
+    },
+    "sceneObjectKey": "TCC-3-SB:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 6.8,
+        "z": 36
+      },
+      "max": {
+        "x": -2,
+        "y": 8.5,
+        "z": 41
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-3-SB:access",
+        "nodeId": "TCC:3:cell:TCC-3-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 6.8,
+          "z": 38.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-3-EL",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Central elevator",
+    "displayLabel": "TCC central elevator, floor 3",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "TCC central elevator, floor 3"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 6.8,
+      "z": -1
+    },
+    "sceneObjectKey": "TCC-3-EL:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 6.8,
+        "z": -4
+      },
+      "max": {
+        "x": -2,
+        "y": 8.5,
+        "z": 2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-3-EL:access",
+        "nodeId": "TCC:3:cell:TCC-3-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 6.8,
+          "z": -1
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-3-RR",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Restrooms",
+    "displayLabel": "TCC restrooms, floor 3",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "TCC restrooms, floor 3"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 6.8,
+      "z": 6
+    },
+    "sceneObjectKey": "TCC-3-RR:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 6.8,
+        "z": 3
+      },
+      "max": {
+        "x": -2,
+        "y": 8.5,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-3-RR:access",
+        "nodeId": "TCC:3:cell:TCC-3-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 6.8,
+          "z": 6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-450",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "The Forum",
+    "displayLabel": "TCC 450",
+    "roomNumber": "450",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 450",
+      "TCC 450"
+    ],
+    "position": {
+      "x": -7.8,
+      "y": 10.2,
+      "z": 27
+    },
+    "sceneObjectKey": "TCC-450:object",
+    "bounds": {
+      "min": {
+        "x": -13.6,
+        "y": 10.2,
+        "z": 19
+      },
+      "max": {
+        "x": -2,
+        "y": 11.899999999999999,
+        "z": 35
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-450:access",
+        "nodeId": "TCC:4:cell:TCC-450",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -7.8,
+          "y": 10.2,
+          "z": 27
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-421",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Campus Wellbeing & Crisis Intervention",
+    "displayLabel": "TCC 421",
+    "roomNumber": "421",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 421",
+      "TCC 421"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 10.2,
+      "z": -32.9
+    },
+    "sceneObjectKey": "TCC-421:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 10.2,
+        "z": -36
+      },
+      "max": {
+        "x": -2,
+        "y": 11.899999999999999,
+        "z": -29.8
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-421:access",
+        "nodeId": "TCC:4:cell:TCC-421",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 10.2,
+          "z": -32.9
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-425",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Trojan Event Services",
+    "displayLabel": "TCC 425",
+    "roomNumber": "425",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 425",
+      "TCC 425"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 10.2,
+      "z": -26.700000000000003
+    },
+    "sceneObjectKey": "TCC-425:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 10.2,
+        "z": -29.8
+      },
+      "max": {
+        "x": -2,
+        "y": 11.899999999999999,
+        "z": -23.6
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-425:access",
+        "nodeId": "TCC:4:cell:TCC-425",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 10.2,
+          "z": -26.700000000000003
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-432",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Gupta Meeting Room",
+    "displayLabel": "TCC 432",
+    "roomNumber": "432",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 432",
+      "TCC 432"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 10.2,
+      "z": -20.5
+    },
+    "sceneObjectKey": "TCC-432:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 10.2,
+        "z": -23.6
+      },
+      "max": {
+        "x": -2,
+        "y": 11.899999999999999,
+        "z": -17.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-432:access",
+        "nodeId": "TCC:4:cell:TCC-432",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 10.2,
+          "z": -20.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-433",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Meeting room",
+    "displayLabel": "TCC 433",
+    "roomNumber": "433",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 433",
+      "TCC 433"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 10.2,
+      "z": -14.299999999999999
+    },
+    "sceneObjectKey": "TCC-433:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 10.2,
+        "z": -17.4
+      },
+      "max": {
+        "x": -2,
+        "y": 11.899999999999999,
+        "z": -11.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-433:access",
+        "nodeId": "TCC:4:cell:TCC-433",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 10.2,
+          "z": -14.299999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-434",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Meeting room",
+    "displayLabel": "TCC 434",
+    "roomNumber": "434",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 434",
+      "TCC 434"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 10.2,
+      "z": -8.1
+    },
+    "sceneObjectKey": "TCC-434:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 10.2,
+        "z": -11.2
+      },
+      "max": {
+        "x": -2,
+        "y": 11.899999999999999,
+        "z": -5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-434:access",
+        "nodeId": "TCC:4:cell:TCC-434",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 10.2,
+          "z": -8.1
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room number/name confirmed by directory. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-401",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 401",
+    "roomNumber": "401",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 401",
+      "TCC 401"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 10.2,
+      "z": 13.5
+    },
+    "sceneObjectKey": "TCC-401:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 10.2,
+        "z": 10
+      },
+      "max": {
+        "x": -2,
+        "y": 11.899999999999999,
+        "z": 17
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-401:access",
+        "nodeId": "TCC:4:cell:TCC-401",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 10.2,
+          "z": 13.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-402",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 402",
+    "roomNumber": "402",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 402",
+      "TCC 402"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 10.2,
+      "z": -40.333
+    },
+    "sceneObjectKey": "TCC-402:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 10.2,
+        "z": -42.6
+      },
+      "max": {
+        "x": 11,
+        "y": 11.899999999999999,
+        "z": -38.066
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-402:access",
+        "nodeId": "TCC:4:cell:TCC-402",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 10.2,
+          "z": -40.333
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-403",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 403",
+    "roomNumber": "403",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 403",
+      "TCC 403"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 10.2,
+      "z": -35.8
+    },
+    "sceneObjectKey": "TCC-403:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 10.2,
+        "z": -38.066
+      },
+      "max": {
+        "x": 11,
+        "y": 11.899999999999999,
+        "z": -33.534
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-403:access",
+        "nodeId": "TCC:4:cell:TCC-403",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 10.2,
+          "z": -35.8
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-404",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 404",
+    "roomNumber": "404",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 404",
+      "TCC 404"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 10.2,
+      "z": -31.267
+    },
+    "sceneObjectKey": "TCC-404:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 10.2,
+        "z": -33.534
+      },
+      "max": {
+        "x": 11,
+        "y": 11.899999999999999,
+        "z": -29
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-404:access",
+        "nodeId": "TCC:4:cell:TCC-404",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 10.2,
+          "z": -31.267
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-405",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 405",
+    "roomNumber": "405",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 405",
+      "TCC 405"
+    ],
+    "position": {
+      "x": 4,
+      "y": 10.2,
+      "z": -21.333
+    },
+    "sceneObjectKey": "TCC-405:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 10.2,
+        "z": -27
+      },
+      "max": {
+        "x": 6,
+        "y": 11.899999999999999,
+        "z": -15.666
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-405:access",
+        "nodeId": "TCC:4:cell:TCC-405",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 10.2,
+          "z": -21.333
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-406",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 406",
+    "roomNumber": "406",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 406",
+      "TCC 406"
+    ],
+    "position": {
+      "x": 4,
+      "y": 10.2,
+      "z": -10
+    },
+    "sceneObjectKey": "TCC-406:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 10.2,
+        "z": -15.666
+      },
+      "max": {
+        "x": 6,
+        "y": 11.899999999999999,
+        "z": -4.334
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-406:access",
+        "nodeId": "TCC:4:cell:TCC-406",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 10.2,
+          "z": -10
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-407",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 407",
+    "roomNumber": "407",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 407",
+      "TCC 407"
+    ],
+    "position": {
+      "x": 4,
+      "y": 10.2,
+      "z": 1.3330000000000002
+    },
+    "sceneObjectKey": "TCC-407:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 10.2,
+        "z": -4.334
+      },
+      "max": {
+        "x": 6,
+        "y": 11.899999999999999,
+        "z": 7
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-407:access",
+        "nodeId": "TCC:4:cell:TCC-407",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 10.2,
+          "z": 1.3330000000000002
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-408",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 408",
+    "roomNumber": "408",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 408",
+      "TCC 408"
+    ],
+    "position": {
+      "x": 4,
+      "y": 10.2,
+      "z": 12.667
+    },
+    "sceneObjectKey": "TCC-408:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 10.2,
+        "z": 7
+      },
+      "max": {
+        "x": 6,
+        "y": 11.899999999999999,
+        "z": 18.334
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-408:access",
+        "nodeId": "TCC:4:cell:TCC-408",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 10.2,
+          "z": 12.667
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-409",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 409",
+    "roomNumber": "409",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 409",
+      "TCC 409"
+    ],
+    "position": {
+      "x": 4,
+      "y": 10.2,
+      "z": 24
+    },
+    "sceneObjectKey": "TCC-409:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 10.2,
+        "z": 18.334
+      },
+      "max": {
+        "x": 6,
+        "y": 11.899999999999999,
+        "z": 29.666
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-409:access",
+        "nodeId": "TCC:4:cell:TCC-409",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 10.2,
+          "z": 24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-410",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Office / meeting room",
+    "displayLabel": "TCC 410",
+    "roomNumber": "410",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 410",
+      "TCC 410"
+    ],
+    "position": {
+      "x": 4,
+      "y": 10.2,
+      "z": 35.333
+    },
+    "sceneObjectKey": "TCC-410:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 10.2,
+        "z": 29.666
+      },
+      "max": {
+        "x": 6,
+        "y": 11.899999999999999,
+        "z": 41
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-410:access",
+        "nodeId": "TCC:4:cell:TCC-410",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 10.2,
+          "z": 35.333
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-4-SA",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "North stairs",
+    "displayLabel": "TCC north stairs, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "TCC north stairs, floor 4"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 10.2,
+      "z": -39.8
+    },
+    "sceneObjectKey": "TCC-4-SA:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 10.2,
+        "z": -42.6
+      },
+      "max": {
+        "x": -2,
+        "y": 11.899999999999999,
+        "z": -37
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-4-SA:access",
+        "nodeId": "TCC:4:cell:TCC-4-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 10.2,
+          "z": -39.8
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-4-SB",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "South stairs",
+    "displayLabel": "TCC south stairs, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "TCC south stairs, floor 4"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 10.2,
+      "z": 38.5
+    },
+    "sceneObjectKey": "TCC-4-SB:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 10.2,
+        "z": 36
+      },
+      "max": {
+        "x": -2,
+        "y": 11.899999999999999,
+        "z": 41
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-4-SB:access",
+        "nodeId": "TCC:4:cell:TCC-4-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 10.2,
+          "z": 38.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-4-EL",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Central elevator",
+    "displayLabel": "TCC central elevator, floor 4",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "TCC central elevator, floor 4"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 10.2,
+      "z": -1
+    },
+    "sceneObjectKey": "TCC-4-EL:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 10.2,
+        "z": -4
+      },
+      "max": {
+        "x": -2,
+        "y": 11.899999999999999,
+        "z": 2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-4-EL:access",
+        "nodeId": "TCC:4:cell:TCC-4-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 10.2,
+          "z": -1
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "TCC-4-RR",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Restrooms",
+    "displayLabel": "TCC restrooms, floor 4",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "TCC restrooms, floor 4"
+    ],
+    "position": {
+      "x": -5.8,
+      "y": 10.2,
+      "z": 6
+    },
+    "sceneObjectKey": "TCC-4-RR:object",
+    "bounds": {
+      "min": {
+        "x": -9.6,
+        "y": 10.2,
+        "z": 3
+      },
+      "max": {
+        "x": -2,
+        "y": 11.899999999999999,
+        "z": 9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-4-RR:access",
+        "nodeId": "TCC:4:cell:TCC-4-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.8,
+          "y": 10.2,
+          "z": 6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+        "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+    }
+  }
+]

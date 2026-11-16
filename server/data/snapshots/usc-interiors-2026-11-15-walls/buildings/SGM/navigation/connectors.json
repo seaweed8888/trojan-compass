@@ -1,0 +1,50 @@
+[
+  {
+    "id": "SGM:A",
+    "nodeIds": [
+      "SGM:1:cell:SGM-1-SA",
+      "SGM:2:cell:SGM-2-SA",
+      "SGM:3:cell:SGM-3-SA",
+      "SGM:4:cell:SGM-4-SA",
+      "SGM:5:cell:SGM-5-SA",
+      "SGM:6:cell:SGM-6-SA",
+      "SGM:7:cell:SGM-7-SA",
+      "SGM:8:cell:SGM-8-SA",
+      "SGM:9:cell:SGM-9-SA",
+      "SGM:10:cell:SGM-10-SA"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "SGM:B",
+    "nodeIds": [
+      "SGM:1:cell:SGM-1-SB",
+      "SGM:2:cell:SGM-2-SB",
+      "SGM:3:cell:SGM-3-SB",
+      "SGM:4:cell:SGM-4-SB",
+      "SGM:5:cell:SGM-5-SB",
+      "SGM:6:cell:SGM-6-SB",
+      "SGM:7:cell:SGM-7-SB",
+      "SGM:8:cell:SGM-8-SB",
+      "SGM:9:cell:SGM-9-SB",
+      "SGM:10:cell:SGM-10-SB"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "SGM:E",
+    "nodeIds": [
+      "SGM:1:cell:SGM-1-EL",
+      "SGM:2:cell:SGM-2-EL",
+      "SGM:3:cell:SGM-3-EL",
+      "SGM:4:cell:SGM-4-EL",
+      "SGM:5:cell:SGM-5-EL",
+      "SGM:6:cell:SGM-6-EL",
+      "SGM:7:cell:SGM-7-EL",
+      "SGM:8:cell:SGM-8-EL",
+      "SGM:9:cell:SGM-9-EL",
+      "SGM:10:cell:SGM-10-EL"
+    ],
+    "kind": "elevator"
+  }
+]

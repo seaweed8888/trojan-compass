@@ -1,0 +1,4568 @@
+{
+  "buildingId": "KAP",
+  "floorId": "1",
+  "coordinateSystem": {
+    "id": "KAP:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -18.7,
+      "y": -0.24,
+      "z": -40.3
+    },
+    "max": {
+      "x": 16.900000000000002,
+      "y": 1.7,
+      "z": 40.3
+    }
+  },
+  "objects": [
+    {
+      "kind": "box",
+      "objectKey": "KAP:1:slab:0",
+      "placeId": null,
+      "role": "slab",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -0.8999999999999986,
+        "y": -0.12,
+        "z": -3
+      },
+      "size": {
+        "x": 35.6,
+        "y": 0.24,
+        "z": 62.6
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP:1:slab:1",
+      "placeId": null,
+      "role": "slab",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -3.7,
+        "y": -0.12,
+        "z": -37
+      },
+      "size": {
+        "x": 18,
+        "y": 0.24,
+        "z": 6.6
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP:1:slab:2",
+      "placeId": null,
+      "role": "slab",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -1.7999999999999998,
+        "y": -0.12,
+        "z": 34
+      },
+      "size": {
+        "x": 16.2,
+        "y": 0.24,
+        "z": 12.6
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-113:object",
+      "placeId": "KAP-113",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -9.7,
+        "y": 0.016,
+        "z": -31.580000000000005
+      },
+      "size": {
+        "x": 15.399999999999999,
+        "y": 0.025,
+        "z": 2.8399999999999928
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-113:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -32.939
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.117999999999995
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-113:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -30.221000000000007
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-113:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.339,
+        "y": 0.85,
+        "z": -31.580000000000002
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 2.8359999999999914
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-113:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -32.655
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.6859999999999928
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-113:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -30.50500000000001
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.6860000000000035
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-134:object",
+      "placeId": "KAP-134",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -9.7,
+        "y": 0.016,
+        "z": -28.741
+      },
+      "size": {
+        "x": 15.399999999999999,
+        "y": 0.025,
+        "z": 2.8380000000000116
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-134:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -30.099000000000007
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-134:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -27.382999999999996
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-134:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.339,
+        "y": 0.85,
+        "z": -28.741
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 2.834000000000014
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-134:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -29.815200000000004
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.6856000000000044
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-134:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -27.666799999999995
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.6856000000000009
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-137:object",
+      "placeId": "KAP-137",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -9.7,
+        "y": 0.016,
+        "z": -25.902
+      },
+      "size": {
+        "x": 15.399999999999999,
+        "y": 0.025,
+        "z": 2.8399999999999928
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-137:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -27.260999999999996
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-137:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -24.543000000000003
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-137:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.339,
+        "y": 0.85,
+        "z": -25.902
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 2.835999999999995
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-137:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -26.976999999999997
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.6859999999999999
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-137:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -24.827000000000005
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.6860000000000035
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-138:object",
+      "placeId": "KAP-138",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -9.7,
+        "y": 0.016,
+        "z": -23.063000000000002
+      },
+      "size": {
+        "x": 15.399999999999999,
+        "y": 0.025,
+        "z": 2.8380000000000045
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-138:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -24.421000000000003
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-138:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -21.705
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-138:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.339,
+        "y": 0.85,
+        "z": -23.063000000000002
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 2.8340000000000067
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-138:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -24.137200000000004
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.6856000000000009
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-138:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -21.988799999999998
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.6856000000000044
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-140:object",
+      "placeId": "KAP-140",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -9.7,
+        "y": 0.016,
+        "z": -20.223999999999997
+      },
+      "size": {
+        "x": 15.399999999999999,
+        "y": 0.025,
+        "z": 2.8400000000000034
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-140:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -21.583
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-140:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -18.864999999999995
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-140:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.339,
+        "y": 0.85,
+        "z": -20.223999999999997
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 2.8360000000000056
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-140:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -21.299
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.6860000000000035
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-140:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -19.148999999999994
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.6860000000000035
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-141:object",
+      "placeId": "KAP-141",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -9.7,
+        "y": 0.016,
+        "z": -17.384999999999998
+      },
+      "size": {
+        "x": 15.399999999999999,
+        "y": 0.025,
+        "z": 2.837999999999994
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-141:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -18.742999999999995
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-141:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -16.027
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-141:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.339,
+        "y": 0.85,
+        "z": -17.384999999999998
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 2.8339999999999943
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-141:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -18.459199999999996
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.6856000000000009
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-141:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -16.3108
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.6855999999999991
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-144:object",
+      "placeId": "KAP-144",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -9.7,
+        "y": 0.016,
+        "z": -14.227000000000002
+      },
+      "size": {
+        "x": 15.399999999999999,
+        "y": 0.025,
+        "z": 3.477999999999998
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-144:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -15.905000000000001
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-144:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -12.549000000000003
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-144:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.339,
+        "y": 0.85,
+        "z": -14.227000000000002
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 3.4739999999999966
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-144:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -15.557200000000002
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8135999999999974
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-144:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -12.896800000000002
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8135999999999974
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-145:object",
+      "placeId": "KAP-145",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -9.7,
+        "y": 0.016,
+        "z": -10.983
+      },
+      "size": {
+        "x": 15.399999999999999,
+        "y": 0.025,
+        "z": 3.010000000000005
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-145:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -12.427000000000003
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-145:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -9.538999999999998
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-145:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.339,
+        "y": 0.85,
+        "z": -10.983
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 3.006000000000004
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-145:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -12.126000000000003
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7199999999999989
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-145:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -9.839999999999998
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7199999999999989
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-146:object",
+      "placeId": "KAP-146",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -9.7,
+        "y": 0.016,
+        "z": -7.738999999999999
+      },
+      "size": {
+        "x": 15.399999999999999,
+        "y": 0.025,
+        "z": 3.477999999999998
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-146:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -9.416999999999998
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-146:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": -6.061
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-146:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.339,
+        "y": 0.85,
+        "z": -7.738999999999999
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 3.4739999999999975
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-146:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -9.069199999999999
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8135999999999974
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-146:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -6.408799999999999
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8136000000000001
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-147:object",
+      "placeId": "KAP-147",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -9.7,
+        "y": 0.016,
+        "z": 3.5290000000000004
+      },
+      "size": {
+        "x": 15.399999999999999,
+        "y": 0.025,
+        "z": 3.0580000000000007
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-147:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": 2.061
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-147:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": 4.997000000000001
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-147:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.339,
+        "y": 0.85,
+        "z": 3.5290000000000004
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 3.054000000000001
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-147:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 2.3668
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7296000000000005
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-147:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 4.6912
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7296000000000005
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-148:object",
+      "placeId": "KAP-148",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -9.7,
+        "y": 0.016,
+        "z": 6.586
+      },
+      "size": {
+        "x": 15.399999999999999,
+        "y": 0.025,
+        "z": 3.0559999999999983
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-148:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": 5.119000000000001
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-148:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": 8.052999999999999
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.11799999999999944
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-148:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.339,
+        "y": 0.85,
+        "z": 6.585999999999999
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 3.051999999999998
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-148:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 5.424600000000001
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7292000000000005
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-148:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 7.747399999999999
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7291999999999987
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-150:object",
+      "placeId": "KAP-150",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -9.7,
+        "y": 0.016,
+        "z": 9.576
+      },
+      "size": {
+        "x": 15.399999999999999,
+        "y": 0.025,
+        "z": 2.9240000000000013
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-150:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": 8.174999999999999
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-150:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": 10.977
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-150:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.339,
+        "y": 0.85,
+        "z": 9.576
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 2.92
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-150:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 8.4674
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7027999999999999
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-150:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 10.6846
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7027999999999981
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-156:object",
+      "placeId": "KAP-156",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -9.7,
+        "y": 0.016,
+        "z": 12.828
+      },
+      "size": {
+        "x": 15.399999999999999,
+        "y": 0.025,
+        "z": 3.5799999999999983
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-156:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": 11.099
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-156:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": 14.556999999999999
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-156:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.339,
+        "y": 0.85,
+        "z": 12.828
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 3.575999999999997
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-156:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 11.457
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8339999999999979
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-156:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 14.198999999999998
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8339999999999979
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-158:object",
+      "placeId": "KAP-158",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -9.7,
+        "y": 0.016,
+        "z": 16.252000000000002
+      },
+      "size": {
+        "x": 15.399999999999999,
+        "y": 0.025,
+        "z": 3.2680000000000042
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-158:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": 14.678999999999998
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-158:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": 17.825000000000003
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-158:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.339,
+        "y": 0.85,
+        "z": 16.252000000000002
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 3.2640000000000047
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-158:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 15.0058
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7716000000000012
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-158:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 17.498200000000004
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7715999999999994
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-159:object",
+      "placeId": "KAP-159",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -9.7,
+        "y": 0.016,
+        "z": 19.347
+      },
+      "size": {
+        "x": 15.399999999999999,
+        "y": 0.025,
+        "z": 2.921999999999997
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-159:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": 17.947000000000003
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-159:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": 20.747
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-159:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.339,
+        "y": 0.85,
+        "z": 19.347
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 2.9179999999999993
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-159:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 18.239200000000004
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7024000000000008
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-159:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 20.4548
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7024000000000008
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-163:object",
+      "placeId": "KAP-163",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -9.7,
+        "y": 0.016,
+        "z": 22.442
+      },
+      "size": {
+        "x": 15.399999999999999,
+        "y": 0.025,
+        "z": 3.2680000000000007
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-163:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": 20.869
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-163:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": 24.015
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-163:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.339,
+        "y": 0.85,
+        "z": 22.442
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 3.264000000000003
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-163:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 21.1958
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.771600000000003
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-163:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 23.688200000000002
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.771600000000003
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-164:object",
+      "placeId": "KAP-164",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -9.7,
+        "y": 0.016,
+        "z": 25.538
+      },
+      "size": {
+        "x": 15.399999999999999,
+        "y": 0.025,
+        "z": 2.9239999999999995
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-164:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": 24.137
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-164:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.7,
+        "y": 0.85,
+        "z": 26.939
+      },
+      "size": {
+        "x": 15.396,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-164:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -17.339,
+        "y": 0.85,
+        "z": 25.538
+      },
+      "size": {
+        "x": 0.1180000000000021,
+        "y": 1.7,
+        "z": 2.9200000000000017
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-164:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 24.4294
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7028000000000034
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-164:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 26.6466
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7028000000000034
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-165:object",
+      "placeId": "KAP-165",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 8.8,
+        "y": 0.016,
+        "z": -25.417
+      },
+      "size": {
+        "x": 13.6,
+        "y": 0.025,
+        "z": 3.1660000000000004
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-165:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": -26.939
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-165:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": -23.895
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-165:wall:2:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": -26.6224
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7512000000000008
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-165:wall:2:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": -24.2116
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7512000000000043
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-165:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 15.539,
+        "y": 0.85,
+        "z": -25.417
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 3.1620000000000026
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-166:object",
+      "placeId": "KAP-166",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 8.8,
+        "y": 0.016,
+        "z": -22.25
+      },
+      "size": {
+        "x": 13.6,
+        "y": 0.025,
+        "z": 3.1679999999999993
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-166:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": -23.773
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-166:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": -20.727
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-166:wall:2:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": -23.4562
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7516000000000034
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-166:wall:2:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": -21.0438
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7516000000000034
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-166:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 15.539,
+        "y": 0.85,
+        "z": -22.25
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 3.1640000000000015
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-167:object",
+      "placeId": "KAP-167",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 8.8,
+        "y": 0.016,
+        "z": -19.083
+      },
+      "size": {
+        "x": 13.6,
+        "y": 0.025,
+        "z": 3.1660000000000004
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-167:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": -20.605
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-167:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": -17.561
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-167:wall:2:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": -20.2884
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7512000000000043
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-167:wall:2:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": -17.8776
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7512000000000008
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-167:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 15.539,
+        "y": 0.85,
+        "z": -19.083
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 3.1620000000000026
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-101:object",
+      "placeId": "KAP-101",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 8.8,
+        "y": 0.016,
+        "z": -15.917
+      },
+      "size": {
+        "x": 13.6,
+        "y": 0.025,
+        "z": 3.1660000000000004
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-101:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": -17.439
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-101:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": -14.395
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-101:wall:2:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": -17.1224
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.7512000000000008
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-101:wall:2:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": -14.7116
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.751199999999999
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-101:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 15.539,
+        "y": 0.85,
+        "z": -15.917000000000002
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 3.162000000000001
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-102:object",
+      "placeId": "KAP-102",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 8.8,
+        "y": 0.016,
+        "z": -12.75
+      },
+      "size": {
+        "x": 13.6,
+        "y": 0.025,
+        "z": 3.1679999999999993
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-102:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": -14.273
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-102:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": -11.227
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-102:wall:2:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": -13.956199999999999
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.751599999999998
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-102:wall:2:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": -11.543800000000001
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.751599999999998
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-102:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 15.539,
+        "y": 0.85,
+        "z": -12.75
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 3.163999999999998
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-103:object",
+      "placeId": "KAP-103",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 8.8,
+        "y": 0.016,
+        "z": -9.583
+      },
+      "size": {
+        "x": 13.6,
+        "y": 0.025,
+        "z": 3.1660000000000004
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-103:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": -11.105
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-103:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": -8.061
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-103:wall:2:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": -10.7884
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.751199999999999
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-103:wall:2:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": -8.377600000000001
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.751199999999999
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-103:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 15.539,
+        "y": 0.85,
+        "z": -9.583
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 3.161999999999999
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-104:object",
+      "placeId": "KAP-104",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 8.8,
+        "y": 0.016,
+        "z": 3.7860000000000014
+      },
+      "size": {
+        "x": 13.6,
+        "y": 0.025,
+        "z": 3.5720000000000027
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-104:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": 2.061
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-104:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": 5.511000000000003
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-104:wall:2:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": 2.4182
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8324000000000007
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-104:wall:2:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": 5.153800000000002
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8324000000000007
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-104:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 15.539,
+        "y": 0.85,
+        "z": 3.7860000000000014
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 3.568000000000003
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-105:object",
+      "placeId": "KAP-105",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 8.8,
+        "y": 0.016,
+        "z": 7.357000000000001
+      },
+      "size": {
+        "x": 13.6,
+        "y": 0.025,
+        "z": 3.5699999999999967
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-105:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": 5.633000000000003
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-105:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": 9.081
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-105:wall:2:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": 5.990000000000002
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8319999999999999
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-105:wall:2:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": 8.724
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8319999999999972
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-105:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 15.539,
+        "y": 0.85,
+        "z": 7.357000000000001
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 3.5659999999999963
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-106:object",
+      "placeId": "KAP-106",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 8.8,
+        "y": 0.016,
+        "z": 10.927999999999999
+      },
+      "size": {
+        "x": 13.6,
+        "y": 0.025,
+        "z": 3.571999999999999
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-106:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": 9.203
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-106:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": 12.652999999999999
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-106:wall:2:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": 9.560199999999998
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.832399999999998
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-106:wall:2:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": 12.2958
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.832399999999998
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-106:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 15.539,
+        "y": 0.85,
+        "z": 10.927999999999999
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 3.567999999999998
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-107:object",
+      "placeId": "KAP-107",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 8.8,
+        "y": 0.016,
+        "z": 14.5
+      },
+      "size": {
+        "x": 13.6,
+        "y": 0.025,
+        "z": 3.5720000000000027
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-107:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": 12.774999999999999
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.11799999999999855
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-107:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": 16.225
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-107:wall:2:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": 13.1322
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8323999999999998
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-107:wall:2:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": 15.867800000000003
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8324000000000016
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-107:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 15.539,
+        "y": 0.85,
+        "z": 14.5
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 3.568000000000003
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-108:object",
+      "placeId": "KAP-108",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 8.8,
+        "y": 0.016,
+        "z": 18.072000000000003
+      },
+      "size": {
+        "x": 13.6,
+        "y": 0.025,
+        "z": 3.571999999999999
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-108:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": 16.347
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-108:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": 19.797
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-108:wall:2:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": 16.7042
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8324000000000034
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-108:wall:2:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": 19.4398
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8323999999999998
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-108:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 15.539,
+        "y": 0.85,
+        "z": 18.072000000000003
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 3.5680000000000014
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-109:object",
+      "placeId": "KAP-109",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 8.8,
+        "y": 0.016,
+        "z": 21.643
+      },
+      "size": {
+        "x": 13.6,
+        "y": 0.025,
+        "z": 3.5700000000000003
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-109:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": 19.919
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-109:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": 23.367
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-109:wall:2:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": 20.276
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8320000000000007
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-109:wall:2:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": 23.01
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8320000000000007
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-109:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 15.539,
+        "y": 0.85,
+        "z": 21.643
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 3.5660000000000025
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-110:object",
+      "placeId": "KAP-110",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 8.8,
+        "y": 0.016,
+        "z": 25.214
+      },
+      "size": {
+        "x": 13.6,
+        "y": 0.025,
+        "z": 3.571999999999999
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-110:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": 23.489
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-110:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 8.799999999999999,
+        "y": 0.85,
+        "z": 26.939
+      },
+      "size": {
+        "x": 13.596,
+        "y": 1.7,
+        "z": 0.1180000000000021
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-110:wall:2:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": 23.8462
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8323999999999998
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-110:wall:2:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": 26.5818
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 0.8324000000000034
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-110:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 15.539,
+        "y": 0.85,
+        "z": 25.214
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 3.5680000000000014
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-SA:object",
+      "placeId": "KAP-1-SA",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -6.8,
+        "y": 0.016,
+        "z": -37
+      },
+      "size": {
+        "x": 9.6,
+        "y": 0.025,
+        "z": 4
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-SA:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -6.799999999999999,
+        "y": 0.85,
+        "z": -38.939
+      },
+      "size": {
+        "x": 9.596,
+        "y": 1.7,
+        "z": 0.117999999999995
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-SA:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -6.799999999999999,
+        "y": 0.85,
+        "z": -35.061
+      },
+      "size": {
+        "x": 9.596,
+        "y": 1.7,
+        "z": 0.117999999999995
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-SA:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -11.539,
+        "y": 0.85,
+        "z": -37
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 3.995999999999995
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-SA:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -38.489000000000004
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 1.0179999999999936
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-SA:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -35.510999999999996
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 1.0179999999999936
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-SB:object",
+      "placeId": "KAP-1-SB",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -5.3,
+        "y": 0.016,
+        "z": 35.5
+      },
+      "size": {
+        "x": 6.6,
+        "y": 0.025,
+        "z": 7
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-SB:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -5.299999999999999,
+        "y": 0.85,
+        "z": 32.061
+      },
+      "size": {
+        "x": 6.595999999999999,
+        "y": 1.7,
+        "z": 0.117999999999995
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-SB:wall:1:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -5.299999999999999,
+        "y": 0.85,
+        "z": 38.939
+      },
+      "size": {
+        "x": 6.595999999999999,
+        "y": 1.7,
+        "z": 0.117999999999995
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-SB:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -8.539,
+        "y": 0.85,
+        "z": 35.5
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 6.995999999999995
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-SB:wall:3:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 33.260999999999996
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 2.5179999999999936
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-SB:wall:3:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": 37.739000000000004
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 2.5179999999999936
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL:object",
+      "placeId": "KAP-1-EL",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -12,
+        "y": 0.016,
+        "z": -2.6
+      },
+      "size": {
+        "x": 4,
+        "y": 0.025,
+        "z": 2.8
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -12,
+        "y": 0.85,
+        "z": -3.939
+      },
+      "size": {
+        "x": 3.9959999999999987,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL:wall:1:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -13.359,
+        "y": 0.85,
+        "z": -1.261
+      },
+      "size": {
+        "x": 1.2779999999999987,
+        "y": 1.7,
+        "z": 0.11799999999999988
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL:wall:1:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -10.641,
+        "y": 0.85,
+        "z": -1.261
+      },
+      "size": {
+        "x": 1.2779999999999987,
+        "y": 1.7,
+        "z": 0.11799999999999988
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -13.939,
+        "y": 0.85,
+        "z": -2.6
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 2.7960000000000003
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -10.061,
+        "y": 0.85,
+        "z": -2.6
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 2.7960000000000003
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL2:object",
+      "placeId": "KAP-1-EL2",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -8,
+        "y": 0.016,
+        "z": -2.6
+      },
+      "size": {
+        "x": 4,
+        "y": 0.025,
+        "z": 2.8
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL2:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -8,
+        "y": 0.85,
+        "z": -3.939
+      },
+      "size": {
+        "x": 3.9959999999999996,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL2:wall:1:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.359,
+        "y": 0.85,
+        "z": -1.261
+      },
+      "size": {
+        "x": 1.2779999999999987,
+        "y": 1.7,
+        "z": 0.11799999999999988
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL2:wall:1:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -6.641,
+        "y": 0.85,
+        "z": -1.261
+      },
+      "size": {
+        "x": 1.2780000000000005,
+        "y": 1.7,
+        "z": 0.11799999999999988
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL2:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -9.939,
+        "y": 0.85,
+        "z": -2.6
+      },
+      "size": {
+        "x": 0.11799999999999855,
+        "y": 1.7,
+        "z": 2.7960000000000003
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL2:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -6.061,
+        "y": 0.85,
+        "z": -2.6
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 2.7960000000000003
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL3:object",
+      "placeId": "KAP-1-EL3",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": -4,
+        "y": 0.016,
+        "z": -2.6
+      },
+      "size": {
+        "x": 4,
+        "y": 0.025,
+        "z": 2.8
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL3:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -4,
+        "y": 0.85,
+        "z": -3.939
+      },
+      "size": {
+        "x": 3.9960000000000004,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL3:wall:1:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -5.359,
+        "y": 0.85,
+        "z": -1.261
+      },
+      "size": {
+        "x": 1.2780000000000005,
+        "y": 1.7,
+        "z": 0.11799999999999988
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL3:wall:1:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.641,
+        "y": 0.85,
+        "z": -1.261
+      },
+      "size": {
+        "x": 1.2780000000000005,
+        "y": 1.7,
+        "z": 0.11799999999999988
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL3:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -5.939,
+        "y": 0.85,
+        "z": -2.6
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 2.7960000000000003
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-EL3:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": -2.061,
+        "y": 0.85,
+        "z": -2.6
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 2.7960000000000003
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-RR:object",
+      "placeId": "KAP-1-RR",
+      "role": "room_highlight",
+      "materialKey": "floor",
+      "pickable": true,
+      "center": {
+        "x": 5,
+        "y": 0.016,
+        "z": -4
+      },
+      "size": {
+        "x": 6,
+        "y": 0.025,
+        "z": 4
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-RR:wall:0:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 5,
+        "y": 0.85,
+        "z": -5.939
+      },
+      "size": {
+        "x": 5.996,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-RR:wall:1:a",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 3.0109999999999997,
+        "y": 0.85,
+        "z": -2.061
+      },
+      "size": {
+        "x": 2.018,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-RR:wall:1:b",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 6.989,
+        "y": 0.85,
+        "z": -2.061
+      },
+      "size": {
+        "x": 2.0180000000000007,
+        "y": 1.7,
+        "z": 0.11800000000000033
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-RR:wall:2:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 2.061,
+        "y": 0.85,
+        "z": -4
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 3.9960000000000004
+      },
+      "yawRadians": 0
+    },
+    {
+      "kind": "box",
+      "objectKey": "KAP-1-RR:wall:3:full",
+      "placeId": null,
+      "role": "wall",
+      "materialKey": "wall",
+      "pickable": false,
+      "center": {
+        "x": 7.939,
+        "y": 0.85,
+        "z": -4
+      },
+      "size": {
+        "x": 0.11800000000000033,
+        "y": 1.7,
+        "z": 3.9960000000000004
+      },
+      "yawRadians": 0
+    }
+  ],
+  "labels": [
+    {
+      "placeId": "KAP-113",
+      "text": "KAP 113",
+      "position": {
+        "x": -9.7,
+        "y": 0,
+        "z": -31.580000000000005
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-134",
+      "text": "KAP 134",
+      "position": {
+        "x": -9.7,
+        "y": 0,
+        "z": -28.741
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-137",
+      "text": "KAP 137",
+      "position": {
+        "x": -9.7,
+        "y": 0,
+        "z": -25.902
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-138",
+      "text": "KAP 138",
+      "position": {
+        "x": -9.7,
+        "y": 0,
+        "z": -23.063000000000002
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-140",
+      "text": "KAP 140",
+      "position": {
+        "x": -9.7,
+        "y": 0,
+        "z": -20.223999999999997
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-141",
+      "text": "KAP 141",
+      "position": {
+        "x": -9.7,
+        "y": 0,
+        "z": -17.384999999999998
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-144",
+      "text": "KAP 144",
+      "position": {
+        "x": -9.7,
+        "y": 0,
+        "z": -14.227000000000002
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-145",
+      "text": "KAP 145",
+      "position": {
+        "x": -9.7,
+        "y": 0,
+        "z": -10.983
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-146",
+      "text": "KAP 146",
+      "position": {
+        "x": -9.7,
+        "y": 0,
+        "z": -7.738999999999999
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-147",
+      "text": "KAP 147",
+      "position": {
+        "x": -9.7,
+        "y": 0,
+        "z": 3.5290000000000004
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-148",
+      "text": "KAP 148",
+      "position": {
+        "x": -9.7,
+        "y": 0,
+        "z": 6.586
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-150",
+      "text": "KAP 150",
+      "position": {
+        "x": -9.7,
+        "y": 0,
+        "z": 9.576
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-156",
+      "text": "KAP 156",
+      "position": {
+        "x": -9.7,
+        "y": 0,
+        "z": 12.828
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-158",
+      "text": "KAP 158",
+      "position": {
+        "x": -9.7,
+        "y": 0,
+        "z": 16.252000000000002
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-159",
+      "text": "KAP 159",
+      "position": {
+        "x": -9.7,
+        "y": 0,
+        "z": 19.347
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-163",
+      "text": "KAP 163",
+      "position": {
+        "x": -9.7,
+        "y": 0,
+        "z": 22.442
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-164",
+      "text": "KAP 164",
+      "position": {
+        "x": -9.7,
+        "y": 0,
+        "z": 25.538
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-165",
+      "text": "KAP 165",
+      "position": {
+        "x": 8.8,
+        "y": 0,
+        "z": -25.417
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-166",
+      "text": "KAP 166",
+      "position": {
+        "x": 8.8,
+        "y": 0,
+        "z": -22.25
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-167",
+      "text": "KAP 167",
+      "position": {
+        "x": 8.8,
+        "y": 0,
+        "z": -19.083
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-101",
+      "text": "KAP 101",
+      "position": {
+        "x": 8.8,
+        "y": 0,
+        "z": -15.917
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-102",
+      "text": "KAP 102",
+      "position": {
+        "x": 8.8,
+        "y": 0,
+        "z": -12.75
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-103",
+      "text": "KAP 103",
+      "position": {
+        "x": 8.8,
+        "y": 0,
+        "z": -9.583
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-104",
+      "text": "KAP 104",
+      "position": {
+        "x": 8.8,
+        "y": 0,
+        "z": 3.7860000000000014
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-105",
+      "text": "KAP 105",
+      "position": {
+        "x": 8.8,
+        "y": 0,
+        "z": 7.357000000000001
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-106",
+      "text": "KAP 106",
+      "position": {
+        "x": 8.8,
+        "y": 0,
+        "z": 10.927999999999999
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-107",
+      "text": "KAP 107",
+      "position": {
+        "x": 8.8,
+        "y": 0,
+        "z": 14.5
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-108",
+      "text": "KAP 108",
+      "position": {
+        "x": 8.8,
+        "y": 0,
+        "z": 18.072000000000003
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-109",
+      "text": "KAP 109",
+      "position": {
+        "x": 8.8,
+        "y": 0,
+        "z": 21.643
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-110",
+      "text": "KAP 110",
+      "position": {
+        "x": 8.8,
+        "y": 0,
+        "z": 25.214
+      },
+      "priority": 1
+    },
+    {
+      "placeId": "KAP-1-SA",
+      "text": "KAP north stairs, floor 1",
+      "position": {
+        "x": -6.8,
+        "y": 0,
+        "z": -37
+      },
+      "priority": 0
+    },
+    {
+      "placeId": "KAP-1-SB",
+      "text": "KAP south stairs, floor 1",
+      "position": {
+        "x": -5.3,
+        "y": 0,
+        "z": 35.5
+      },
+      "priority": 0
+    },
+    {
+      "placeId": "KAP-1-EL",
+      "text": "KAP elevator 1, floor 1",
+      "position": {
+        "x": -12,
+        "y": 0,
+        "z": -2.6
+      },
+      "priority": 0
+    },
+    {
+      "placeId": "KAP-1-EL2",
+      "text": "KAP elevator 2, floor 1",
+      "position": {
+        "x": -8,
+        "y": 0,
+        "z": -2.6
+      },
+      "priority": 0
+    },
+    {
+      "placeId": "KAP-1-EL3",
+      "text": "KAP elevator 3, floor 1",
+      "position": {
+        "x": -4,
+        "y": 0,
+        "z": -2.6
+      },
+      "priority": 0
+    },
+    {
+      "placeId": "KAP-1-RR",
+      "text": "KAP restrooms, floor 1",
+      "position": {
+        "x": 5,
+        "y": 0,
+        "z": -4
+      },
+      "priority": 0
+    },
+    {
+      "placeId": "KAP-ENT",
+      "text": "KAP main entrance",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": -40
+      },
+      "priority": 0
+    },
+    {
+      "placeId": "KAP-EXIT-1-EXIT",
+      "text": "KAP secondary exit",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 40
+      },
+      "priority": 0
+    }
+  ]
+}

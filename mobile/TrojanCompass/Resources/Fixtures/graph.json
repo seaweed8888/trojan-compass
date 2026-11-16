@@ -1,0 +1,48 @@
+{
+  "requestId": "example-request",
+  "dataVersion": "contract-demo-v1",
+  "buildingId": "LAW",
+  "nodes": [
+    {
+      "id": "LAW-101:node",
+      "buildingId": "LAW",
+      "floorId": "1",
+      "position": {
+        "x": 3,
+        "y": 0,
+        "z": 3
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LAW-102:node",
+      "buildingId": "LAW",
+      "floorId": "1",
+      "position": {
+        "x": 10,
+        "y": 0,
+        "z": 3
+      },
+      "kind": "room"
+    }
+  ],
+  "edges": [
+    {
+      "id": "example-edge",
+      "fromNodeId": "LAW-101:node",
+      "toNodeId": "LAW-102:node",
+      "lengthMeters": 7,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    }
+  ],
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [],
+    "verifiedAt": null,
+    "note": "Synthetic contract fixture. Coordinates, geometry, timing and access claims are not measured USC information."
+  }
+}

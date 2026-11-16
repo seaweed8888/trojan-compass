@@ -1,0 +1,61 @@
+{
+  "requestId": "example-request",
+  "dataVersion": "contract-demo-v1",
+  "items": [
+    {
+      "id": "1",
+      "buildingId": "LAW",
+      "label": "Floor 1",
+      "sortOrder": 1,
+      "elevationMeters": 0,
+      "sceneObjectKey": "LAW:floor:1",
+      "bounds": {
+        "min": {
+          "x": 0,
+          "y": -0.2,
+          "z": 0
+        },
+        "max": {
+          "x": 20,
+          "y": 3,
+          "z": 12
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [],
+        "verifiedAt": null,
+        "note": "Synthetic contract fixture. Coordinates, geometry, timing and access claims are not measured USC information."
+      }
+    },
+    {
+      "id": "2",
+      "buildingId": "LAW",
+      "label": "Floor 2",
+      "sortOrder": 2,
+      "elevationMeters": 3.4,
+      "sceneObjectKey": "LAW:floor:2",
+      "bounds": {
+        "min": {
+          "x": 0,
+          "y": 3.2,
+          "z": 0
+        },
+        "max": {
+          "x": 20,
+          "y": 6.4,
+          "z": 12
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [],
+        "verifiedAt": null,
+        "note": "Synthetic contract fixture. Coordinates, geometry, timing and access claims are not measured USC information."
+      }
+    }
+  ],
+  "nextCursor": null
+}

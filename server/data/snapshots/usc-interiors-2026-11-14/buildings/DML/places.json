@@ -1,0 +1,3600 @@
+[
+  {
+    "id": "DML-B01",
+    "buildingId": "DML",
+    "floorId": "0",
+    "name": "Holocaust and Genocide collection",
+    "displayLabel": "DML B01",
+    "roomNumber": "B01",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "DML B01",
+      "DML B01"
+    ],
+    "position": {
+      "x": 3.3000000000000007,
+      "y": -3.4,
+      "z": -24.5
+    },
+    "sceneObjectKey": "DML-B01:object",
+    "bounds": {
+      "min": {
+        "x": -27,
+        "y": -3.4,
+        "z": -26
+      },
+      "max": {
+        "x": 33.6,
+        "y": -2.55,
+        "z": -23
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-B01:access",
+        "nodeId": "DML:0:cell:DML-B01",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 3.3000000000000007,
+          "y": -3.4,
+          "z": -24.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-B02",
+    "buildingId": "DML",
+    "floorId": "0",
+    "name": "Research study",
+    "displayLabel": "DML B02",
+    "roomNumber": "B02",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML B02",
+      "DML B02"
+    ],
+    "position": {
+      "x": -12.3,
+      "y": -3.4,
+      "z": -12.933
+    },
+    "sceneObjectKey": "DML-B02:object",
+    "bounds": {
+      "min": {
+        "x": -22.6,
+        "y": -3.4,
+        "z": -19
+      },
+      "max": {
+        "x": -2,
+        "y": -2.55,
+        "z": -6.8660000000000005
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-B02:access",
+        "nodeId": "DML:0:cell:DML-B02",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12.3,
+          "y": -3.4,
+          "z": -12.933
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-B03",
+    "buildingId": "DML",
+    "floorId": "0",
+    "name": "Archive support",
+    "displayLabel": "DML B03",
+    "roomNumber": "B03",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML B03",
+      "DML B03"
+    ],
+    "position": {
+      "x": -12.3,
+      "y": -3.4,
+      "z": -0.7999999999999998
+    },
+    "sceneObjectKey": "DML-B03:object",
+    "bounds": {
+      "min": {
+        "x": -22.6,
+        "y": -3.4,
+        "z": -6.8660000000000005
+      },
+      "max": {
+        "x": -2,
+        "y": -2.55,
+        "z": 5.266000000000001
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-B03:access",
+        "nodeId": "DML:0:cell:DML-B03",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12.3,
+          "y": -3.4,
+          "z": -0.7999999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-B04",
+    "buildingId": "DML",
+    "floorId": "0",
+    "name": "Stacks",
+    "displayLabel": "DML B04",
+    "roomNumber": "B04",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML B04",
+      "DML B04"
+    ],
+    "position": {
+      "x": -12.3,
+      "y": -3.4,
+      "z": 11.333
+    },
+    "sceneObjectKey": "DML-B04:object",
+    "bounds": {
+      "min": {
+        "x": -22.6,
+        "y": -3.4,
+        "z": 5.266000000000001
+      },
+      "max": {
+        "x": -2,
+        "y": -2.55,
+        "z": 17.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-B04:access",
+        "nodeId": "DML:0:cell:DML-B04",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12.3,
+          "y": -3.4,
+          "z": 11.333
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-B05",
+    "buildingId": "DML",
+    "floorId": "0",
+    "name": "Reading area",
+    "displayLabel": "DML B05",
+    "roomNumber": "B05",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML B05",
+      "DML B05"
+    ],
+    "position": {
+      "x": 17.8,
+      "y": -3.4,
+      "z": -14.5
+    },
+    "sceneObjectKey": "DML-B05:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": -3.4,
+        "z": -19
+      },
+      "max": {
+        "x": 33.6,
+        "y": -2.55,
+        "z": -10
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-B05:access",
+        "nodeId": "DML:0:cell:DML-B05",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 17.8,
+          "y": -3.4,
+          "z": -14.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-B06",
+    "buildingId": "DML",
+    "floorId": "0",
+    "name": "Study room",
+    "displayLabel": "DML B06",
+    "roomNumber": "B06",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML B06",
+      "DML B06"
+    ],
+    "position": {
+      "x": 26.8,
+      "y": -3.4,
+      "z": -5
+    },
+    "sceneObjectKey": "DML-B06:object",
+    "bounds": {
+      "min": {
+        "x": 16,
+        "y": -3.4,
+        "z": -8
+      },
+      "max": {
+        "x": 37.6,
+        "y": -2.55,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-B06:access",
+        "nodeId": "DML:0:cell:DML-B06",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 26.8,
+          "y": -3.4,
+          "z": -5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-B07",
+    "buildingId": "DML",
+    "floorId": "0",
+    "name": "Collection storage",
+    "displayLabel": "DML B07",
+    "roomNumber": "B07",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML B07",
+      "DML B07"
+    ],
+    "position": {
+      "x": 7.933000000000001,
+      "y": -3.4,
+      "z": 9.7
+    },
+    "sceneObjectKey": "DML-B07:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": -3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 13.866000000000001,
+        "y": -2.55,
+        "z": 17.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-B07:access",
+        "nodeId": "DML:0:cell:DML-B07",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.933000000000001,
+          "y": -3.4,
+          "z": 9.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-B08",
+    "buildingId": "DML",
+    "floorId": "0",
+    "name": "Research office",
+    "displayLabel": "DML B08",
+    "roomNumber": "B08",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML B08",
+      "DML B08"
+    ],
+    "position": {
+      "x": 19.8,
+      "y": -3.4,
+      "z": 9.7
+    },
+    "sceneObjectKey": "DML-B08:object",
+    "bounds": {
+      "min": {
+        "x": 13.866000000000001,
+        "y": -3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 25.733999999999998,
+        "y": -2.55,
+        "z": 17.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-B08:access",
+        "nodeId": "DML:0:cell:DML-B08",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 19.8,
+          "y": -3.4,
+          "z": 9.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-B09",
+    "buildingId": "DML",
+    "floorId": "0",
+    "name": "Staff workroom",
+    "displayLabel": "DML B09",
+    "roomNumber": "B09",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML B09",
+      "DML B09"
+    ],
+    "position": {
+      "x": 31.667,
+      "y": -3.4,
+      "z": 9.7
+    },
+    "sceneObjectKey": "DML-B09:object",
+    "bounds": {
+      "min": {
+        "x": 25.733999999999998,
+        "y": -3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 37.6,
+        "y": -2.55,
+        "z": 17.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-B09:access",
+        "nodeId": "DML:0:cell:DML-B09",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 31.667,
+          "y": -3.4,
+          "z": 9.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-B10",
+    "buildingId": "DML",
+    "floorId": "0",
+    "name": "Services",
+    "displayLabel": "DML B10",
+    "roomNumber": "B10",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML B10",
+      "DML B10"
+    ],
+    "position": {
+      "x": 5.300000000000001,
+      "y": -3.4,
+      "z": 23
+    },
+    "sceneObjectKey": "DML-B10:object",
+    "bounds": {
+      "min": {
+        "x": -27,
+        "y": -3.4,
+        "z": 21.6
+      },
+      "max": {
+        "x": 37.6,
+        "y": -2.55,
+        "z": 24.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-B10:access",
+        "nodeId": "DML:0:cell:DML-B10",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5.300000000000001,
+          "y": -3.4,
+          "z": 23
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 2 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-0-SA",
+    "buildingId": "DML",
+    "floorId": "0",
+    "name": "West stairs",
+    "displayLabel": "DML west stairs, basement",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "DML west stairs, basement"
+    ],
+    "position": {
+      "x": -31.5,
+      "y": -3.4,
+      "z": -24.5
+    },
+    "sceneObjectKey": "DML-0-SA:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": -3.4,
+        "z": -26
+      },
+      "max": {
+        "x": -28,
+        "y": -2.55,
+        "z": -23
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-0-SA:access",
+        "nodeId": "DML:0:cell:DML-0-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -31.5,
+          "y": -3.4,
+          "z": -24.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-0-SB",
+    "buildingId": "DML",
+    "floorId": "0",
+    "name": "South stairs",
+    "displayLabel": "DML south stairs, basement",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "DML south stairs, basement"
+    ],
+    "position": {
+      "x": -31.5,
+      "y": -3.4,
+      "z": 23
+    },
+    "sceneObjectKey": "DML-0-SB:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": -3.4,
+        "z": 21.6
+      },
+      "max": {
+        "x": -28,
+        "y": -2.55,
+        "z": 24.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-0-SB:access",
+        "nodeId": "DML:0:cell:DML-0-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -31.5,
+          "y": -3.4,
+          "z": 23
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-0-EL",
+    "buildingId": "DML",
+    "floorId": "0",
+    "name": "Central elevator",
+    "displayLabel": "DML central elevator, basement",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "DML central elevator, basement"
+    ],
+    "position": {
+      "x": 4,
+      "y": -3.4,
+      "z": -5
+    },
+    "sceneObjectKey": "DML-0-EL:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": -3.4,
+        "z": -8
+      },
+      "max": {
+        "x": 6,
+        "y": -2.55,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-0-EL:access",
+        "nodeId": "DML:0:cell:DML-0-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": -3.4,
+          "z": -5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-0-RR",
+    "buildingId": "DML",
+    "floorId": "0",
+    "name": "Restrooms",
+    "displayLabel": "DML restrooms, basement",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "DML restrooms, basement"
+    ],
+    "position": {
+      "x": 11,
+      "y": -3.4,
+      "z": -5
+    },
+    "sceneObjectKey": "DML-0-RR:object",
+    "bounds": {
+      "min": {
+        "x": 8,
+        "y": -3.4,
+        "z": -8
+      },
+      "max": {
+        "x": 14,
+        "y": -2.55,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-0-RR:access",
+        "nodeId": "DML:0:cell:DML-0-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 11,
+          "y": -3.4,
+          "z": -5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-101",
+    "buildingId": "DML",
+    "floorId": "1",
+    "name": "Music Library",
+    "displayLabel": "DML 101",
+    "roomNumber": "101",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "DML 101",
+      "DML 101"
+    ],
+    "position": {
+      "x": 3.3000000000000007,
+      "y": 0,
+      "z": -24.5
+    },
+    "sceneObjectKey": "DML-101:object",
+    "bounds": {
+      "min": {
+        "x": -27,
+        "y": 0,
+        "z": -26
+      },
+      "max": {
+        "x": 33.6,
+        "y": 0.85,
+        "z": -23
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-101:access",
+        "nodeId": "DML:1:cell:DML-101",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 3.3000000000000007,
+          "y": 0,
+          "z": -24.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-102",
+    "buildingId": "DML",
+    "floorId": "1",
+    "name": "Ground-floor Rotunda",
+    "displayLabel": "DML 102",
+    "roomNumber": "102",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "DML 102",
+      "DML 102"
+    ],
+    "position": {
+      "x": -12.3,
+      "y": 0,
+      "z": -12.933
+    },
+    "sceneObjectKey": "DML-102:object",
+    "bounds": {
+      "min": {
+        "x": -22.6,
+        "y": 0,
+        "z": -19
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": -6.8660000000000005
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-102:access",
+        "nodeId": "DML:1:cell:DML-102",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12.3,
+          "y": 0,
+          "z": -12.933
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-103",
+    "buildingId": "DML",
+    "floorId": "1",
+    "name": "Cinematic Arts Library",
+    "displayLabel": "DML 103",
+    "roomNumber": "103",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "DML 103",
+      "DML 103"
+    ],
+    "position": {
+      "x": -12.3,
+      "y": 0,
+      "z": -0.7999999999999998
+    },
+    "sceneObjectKey": "DML-103:object",
+    "bounds": {
+      "min": {
+        "x": -22.6,
+        "y": 0,
+        "z": -6.8660000000000005
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 5.266000000000001
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-103:access",
+        "nodeId": "DML:1:cell:DML-103",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12.3,
+          "y": 0,
+          "z": -0.7999999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-104",
+    "buildingId": "DML",
+    "floorId": "1",
+    "name": "Nazarian Pavilion study area",
+    "displayLabel": "DML 104",
+    "roomNumber": "104",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "DML 104",
+      "DML 104"
+    ],
+    "position": {
+      "x": -12.3,
+      "y": 0,
+      "z": 11.333
+    },
+    "sceneObjectKey": "DML-104:object",
+    "bounds": {
+      "min": {
+        "x": -22.6,
+        "y": 0,
+        "z": 5.266000000000001
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 17.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-104:access",
+        "nodeId": "DML:1:cell:DML-104",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12.3,
+          "y": 0,
+          "z": 11.333
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-105",
+    "buildingId": "DML",
+    "floorId": "1",
+    "name": "LiteraTea study area",
+    "displayLabel": "DML 105",
+    "roomNumber": "105",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "DML 105",
+      "DML 105"
+    ],
+    "position": {
+      "x": 17.8,
+      "y": 0,
+      "z": -14.5
+    },
+    "sceneObjectKey": "DML-105:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": -19
+      },
+      "max": {
+        "x": 33.6,
+        "y": 0.85,
+        "z": -10
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-105:access",
+        "nodeId": "DML:1:cell:DML-105",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 17.8,
+          "y": 0,
+          "z": -14.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-106",
+    "buildingId": "DML",
+    "floorId": "1",
+    "name": "Research study",
+    "displayLabel": "DML 106",
+    "roomNumber": "106",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 106",
+      "DML 106"
+    ],
+    "position": {
+      "x": 26.8,
+      "y": 0,
+      "z": -5
+    },
+    "sceneObjectKey": "DML-106:object",
+    "bounds": {
+      "min": {
+        "x": 16,
+        "y": 0,
+        "z": -8
+      },
+      "max": {
+        "x": 37.6,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-106:access",
+        "nodeId": "DML:1:cell:DML-106",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 26.8,
+          "y": 0,
+          "z": -5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-107",
+    "buildingId": "DML",
+    "floorId": "1",
+    "name": "Staff workspace",
+    "displayLabel": "DML 107",
+    "roomNumber": "107",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 107",
+      "DML 107"
+    ],
+    "position": {
+      "x": 7.933000000000001,
+      "y": 0,
+      "z": 9.7
+    },
+    "sceneObjectKey": "DML-107:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 13.866000000000001,
+        "y": 0.85,
+        "z": 17.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-107:access",
+        "nodeId": "DML:1:cell:DML-107",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.933000000000001,
+          "y": 0,
+          "z": 9.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-108",
+    "buildingId": "DML",
+    "floorId": "1",
+    "name": "Seminar room",
+    "displayLabel": "DML 108",
+    "roomNumber": "108",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 108",
+      "DML 108"
+    ],
+    "position": {
+      "x": 19.8,
+      "y": 0,
+      "z": 9.7
+    },
+    "sceneObjectKey": "DML-108:object",
+    "bounds": {
+      "min": {
+        "x": 13.866000000000001,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 25.733999999999998,
+        "y": 0.85,
+        "z": 17.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-108:access",
+        "nodeId": "DML:1:cell:DML-108",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 19.8,
+          "y": 0,
+          "z": 9.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-109",
+    "buildingId": "DML",
+    "floorId": "1",
+    "name": "Collection support",
+    "displayLabel": "DML 109",
+    "roomNumber": "109",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 109",
+      "DML 109"
+    ],
+    "position": {
+      "x": 31.667,
+      "y": 0,
+      "z": 9.7
+    },
+    "sceneObjectKey": "DML-109:object",
+    "bounds": {
+      "min": {
+        "x": 25.733999999999998,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 37.6,
+        "y": 0.85,
+        "z": 17.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-109:access",
+        "nodeId": "DML:1:cell:DML-109",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 31.667,
+          "y": 0,
+          "z": 9.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-110",
+    "buildingId": "DML",
+    "floorId": "1",
+    "name": "Study room",
+    "displayLabel": "DML 110",
+    "roomNumber": "110",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 110",
+      "DML 110"
+    ],
+    "position": {
+      "x": 5.300000000000001,
+      "y": 0,
+      "z": 23
+    },
+    "sceneObjectKey": "DML-110:object",
+    "bounds": {
+      "min": {
+        "x": -27,
+        "y": 0,
+        "z": 21.6
+      },
+      "max": {
+        "x": 37.6,
+        "y": 0.85,
+        "z": 24.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-110:access",
+        "nodeId": "DML:1:cell:DML-110",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5.300000000000001,
+          "y": 0,
+          "z": 23
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-1-SA",
+    "buildingId": "DML",
+    "floorId": "1",
+    "name": "West stairs",
+    "displayLabel": "DML west stairs, ground floor",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "DML west stairs, ground floor"
+    ],
+    "position": {
+      "x": -31.5,
+      "y": 0,
+      "z": -24.5
+    },
+    "sceneObjectKey": "DML-1-SA:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": 0,
+        "z": -26
+      },
+      "max": {
+        "x": -28,
+        "y": 0.85,
+        "z": -23
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-1-SA:access",
+        "nodeId": "DML:1:cell:DML-1-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -31.5,
+          "y": 0,
+          "z": -24.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-1-SB",
+    "buildingId": "DML",
+    "floorId": "1",
+    "name": "South stairs",
+    "displayLabel": "DML south stairs, ground floor",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "DML south stairs, ground floor"
+    ],
+    "position": {
+      "x": -31.5,
+      "y": 0,
+      "z": 23
+    },
+    "sceneObjectKey": "DML-1-SB:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": 0,
+        "z": 21.6
+      },
+      "max": {
+        "x": -28,
+        "y": 0.85,
+        "z": 24.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-1-SB:access",
+        "nodeId": "DML:1:cell:DML-1-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -31.5,
+          "y": 0,
+          "z": 23
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-1-EL",
+    "buildingId": "DML",
+    "floorId": "1",
+    "name": "Central elevator",
+    "displayLabel": "DML central elevator, ground floor",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "DML central elevator, ground floor"
+    ],
+    "position": {
+      "x": 4,
+      "y": 0,
+      "z": -5
+    },
+    "sceneObjectKey": "DML-1-EL:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": -8
+      },
+      "max": {
+        "x": 6,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-1-EL:access",
+        "nodeId": "DML:1:cell:DML-1-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 0,
+          "z": -5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-1-RR",
+    "buildingId": "DML",
+    "floorId": "1",
+    "name": "Restrooms",
+    "displayLabel": "DML restrooms, ground floor",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "DML restrooms, ground floor"
+    ],
+    "position": {
+      "x": 11,
+      "y": 0,
+      "z": -5
+    },
+    "sceneObjectKey": "DML-1-RR:object",
+    "bounds": {
+      "min": {
+        "x": 8,
+        "y": 0,
+        "z": -8
+      },
+      "max": {
+        "x": 14,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-1-RR:access",
+        "nodeId": "DML:1:cell:DML-1-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 11,
+          "y": 0,
+          "z": -5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-ENT",
+    "buildingId": "DML",
+    "floorId": "1",
+    "name": "east entrance",
+    "displayLabel": "DML east entrance",
+    "roomNumber": null,
+    "kind": "entrance",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": 39,
+      "y": 0,
+      "z": 0
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "DML:1:entrance:access",
+        "nodeId": "DML:1:entrance",
+        "label": "east entrance",
+        "position": {
+          "x": 39,
+          "y": 0,
+          "z": 0
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity confirmed; position inferred. Position, boundary and door inferred. Ground-floor East Entrance identity confirmed by brochure. Exact door position and step-free property inferred. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-EXIT-1-EXIT",
+    "buildingId": "DML",
+    "floorId": "1",
+    "name": "secondary exit",
+    "displayLabel": "DML secondary exit",
+    "roomNumber": null,
+    "kind": "emergency_exit",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": 35,
+      "y": 0,
+      "z": -21
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "DML:1:exit:access",
+        "nodeId": "DML:1:exit",
+        "label": "secondary exit",
+        "position": {
+          "x": 35,
+          "y": 0,
+          "z": -21
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": false,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Door location and step-free property inferred; not a verified accessible entrance or emergency exit. Sources: demos/usc-map/locations.json Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-201",
+    "buildingId": "DML",
+    "floorId": "2",
+    "name": "Entrance Pavilion",
+    "displayLabel": "DML 201",
+    "roomNumber": "201",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "DML 201",
+      "DML 201"
+    ],
+    "position": {
+      "x": 3.3000000000000007,
+      "y": 3.4,
+      "z": -24.5
+    },
+    "sceneObjectKey": "DML-201:object",
+    "bounds": {
+      "min": {
+        "x": -27,
+        "y": 3.4,
+        "z": -26
+      },
+      "max": {
+        "x": 33.6,
+        "y": 4.25,
+        "z": -23
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-201:access",
+        "nodeId": "DML:2:cell:DML-201",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 3.3000000000000007,
+          "y": 3.4,
+          "z": -24.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-202",
+    "buildingId": "DML",
+    "floorId": "2",
+    "name": "Circulation and Bookstacks",
+    "displayLabel": "DML 202",
+    "roomNumber": "202",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "DML 202",
+      "DML 202"
+    ],
+    "position": {
+      "x": -12.3,
+      "y": 3.4,
+      "z": -12.933
+    },
+    "sceneObjectKey": "DML-202:object",
+    "bounds": {
+      "min": {
+        "x": -22.6,
+        "y": 3.4,
+        "z": -19
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": -6.8660000000000005
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-202:access",
+        "nodeId": "DML:2:cell:DML-202",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12.3,
+          "y": 3.4,
+          "z": -12.933
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-203",
+    "buildingId": "DML",
+    "floorId": "2",
+    "name": "Treasure Room",
+    "displayLabel": "DML 203",
+    "roomNumber": "203",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 203",
+      "DML 203"
+    ],
+    "position": {
+      "x": -12.3,
+      "y": 3.4,
+      "z": -0.7999999999999998
+    },
+    "sceneObjectKey": "DML-203:object",
+    "bounds": {
+      "min": {
+        "x": -22.6,
+        "y": 3.4,
+        "z": -6.8660000000000005
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": 5.266000000000001
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-203:access",
+        "nodeId": "DML:2:cell:DML-203",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12.3,
+          "y": 3.4,
+          "z": -0.7999999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-204",
+    "buildingId": "DML",
+    "floorId": "2",
+    "name": "Faculty Hall",
+    "displayLabel": "DML 204",
+    "roomNumber": "204",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 204",
+      "DML 204"
+    ],
+    "position": {
+      "x": -12.3,
+      "y": 3.4,
+      "z": 11.333
+    },
+    "sceneObjectKey": "DML-204:object",
+    "bounds": {
+      "min": {
+        "x": -22.6,
+        "y": 3.4,
+        "z": 5.266000000000001
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": 17.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-204:access",
+        "nodeId": "DML:2:cell:DML-204",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12.3,
+          "y": 3.4,
+          "z": 11.333
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-205",
+    "buildingId": "DML",
+    "floorId": "2",
+    "name": "Los Angeles Times Reference Room",
+    "displayLabel": "DML 205",
+    "roomNumber": "205",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 205",
+      "DML 205"
+    ],
+    "position": {
+      "x": 17.8,
+      "y": 3.4,
+      "z": -14.5
+    },
+    "sceneObjectKey": "DML-205:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 3.4,
+        "z": -19
+      },
+      "max": {
+        "x": 33.6,
+        "y": 4.25,
+        "z": -10
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-205:access",
+        "nodeId": "DML:2:cell:DML-205",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 17.8,
+          "y": 3.4,
+          "z": -14.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-206",
+    "buildingId": "DML",
+    "floorId": "2",
+    "name": "Hall of Honor",
+    "displayLabel": "DML 206",
+    "roomNumber": "206",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 206",
+      "DML 206"
+    ],
+    "position": {
+      "x": 26.8,
+      "y": 3.4,
+      "z": -5
+    },
+    "sceneObjectKey": "DML-206:object",
+    "bounds": {
+      "min": {
+        "x": 16,
+        "y": 3.4,
+        "z": -8
+      },
+      "max": {
+        "x": 37.6,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-206:access",
+        "nodeId": "DML:2:cell:DML-206",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 26.8,
+          "y": 3.4,
+          "z": -5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-207",
+    "buildingId": "DML",
+    "floorId": "2",
+    "name": "East Asian Library",
+    "displayLabel": "DML 207",
+    "roomNumber": "207",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "DML 207",
+      "DML 207"
+    ],
+    "position": {
+      "x": 7.933000000000001,
+      "y": 3.4,
+      "z": 9.7
+    },
+    "sceneObjectKey": "DML-207:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 13.866000000000001,
+        "y": 4.25,
+        "z": 17.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-207:access",
+        "nodeId": "DML:2:cell:DML-207",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.933000000000001,
+          "y": 3.4,
+          "z": 9.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-208",
+    "buildingId": "DML",
+    "floorId": "2",
+    "name": "Study room",
+    "displayLabel": "DML 208",
+    "roomNumber": "208",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 208",
+      "DML 208"
+    ],
+    "position": {
+      "x": 19.8,
+      "y": 3.4,
+      "z": 9.7
+    },
+    "sceneObjectKey": "DML-208:object",
+    "bounds": {
+      "min": {
+        "x": 13.866000000000001,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 25.733999999999998,
+        "y": 4.25,
+        "z": 17.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-208:access",
+        "nodeId": "DML:2:cell:DML-208",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 19.8,
+          "y": 3.4,
+          "z": 9.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-209",
+    "buildingId": "DML",
+    "floorId": "2",
+    "name": "Collection support",
+    "displayLabel": "DML 209",
+    "roomNumber": "209",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 209",
+      "DML 209"
+    ],
+    "position": {
+      "x": 31.667,
+      "y": 3.4,
+      "z": 9.7
+    },
+    "sceneObjectKey": "DML-209:object",
+    "bounds": {
+      "min": {
+        "x": 25.733999999999998,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 37.6,
+        "y": 4.25,
+        "z": 17.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-209:access",
+        "nodeId": "DML:2:cell:DML-209",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 31.667,
+          "y": 3.4,
+          "z": 9.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-210",
+    "buildingId": "DML",
+    "floorId": "2",
+    "name": "Staff workspace",
+    "displayLabel": "DML 210",
+    "roomNumber": "210",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 210",
+      "DML 210"
+    ],
+    "position": {
+      "x": 5.300000000000001,
+      "y": 3.4,
+      "z": 23
+    },
+    "sceneObjectKey": "DML-210:object",
+    "bounds": {
+      "min": {
+        "x": -27,
+        "y": 3.4,
+        "z": 21.6
+      },
+      "max": {
+        "x": 37.6,
+        "y": 4.25,
+        "z": 24.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-210:access",
+        "nodeId": "DML:2:cell:DML-210",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5.300000000000001,
+          "y": 3.4,
+          "z": 23
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-2-SA",
+    "buildingId": "DML",
+    "floorId": "2",
+    "name": "West stairs",
+    "displayLabel": "DML west stairs, first floor",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "DML west stairs, first floor"
+    ],
+    "position": {
+      "x": -31.5,
+      "y": 3.4,
+      "z": -24.5
+    },
+    "sceneObjectKey": "DML-2-SA:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": 3.4,
+        "z": -26
+      },
+      "max": {
+        "x": -28,
+        "y": 4.25,
+        "z": -23
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-2-SA:access",
+        "nodeId": "DML:2:cell:DML-2-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -31.5,
+          "y": 3.4,
+          "z": -24.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-2-SB",
+    "buildingId": "DML",
+    "floorId": "2",
+    "name": "South stairs",
+    "displayLabel": "DML south stairs, first floor",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "DML south stairs, first floor"
+    ],
+    "position": {
+      "x": -31.5,
+      "y": 3.4,
+      "z": 23
+    },
+    "sceneObjectKey": "DML-2-SB:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": 3.4,
+        "z": 21.6
+      },
+      "max": {
+        "x": -28,
+        "y": 4.25,
+        "z": 24.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-2-SB:access",
+        "nodeId": "DML:2:cell:DML-2-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -31.5,
+          "y": 3.4,
+          "z": 23
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-2-EL",
+    "buildingId": "DML",
+    "floorId": "2",
+    "name": "Central elevator",
+    "displayLabel": "DML central elevator, first floor",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "DML central elevator, first floor"
+    ],
+    "position": {
+      "x": 4,
+      "y": 3.4,
+      "z": -5
+    },
+    "sceneObjectKey": "DML-2-EL:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 3.4,
+        "z": -8
+      },
+      "max": {
+        "x": 6,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-2-EL:access",
+        "nodeId": "DML:2:cell:DML-2-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 3.4,
+          "z": -5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-2-RR",
+    "buildingId": "DML",
+    "floorId": "2",
+    "name": "Restrooms",
+    "displayLabel": "DML restrooms, first floor",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "DML restrooms, first floor"
+    ],
+    "position": {
+      "x": 11,
+      "y": 3.4,
+      "z": -5
+    },
+    "sceneObjectKey": "DML-2-RR:object",
+    "bounds": {
+      "min": {
+        "x": 8,
+        "y": 3.4,
+        "z": -8
+      },
+      "max": {
+        "x": 14,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-2-RR:access",
+        "nodeId": "DML:2:cell:DML-2-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 11,
+          "y": 3.4,
+          "z": -5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-ENT-NORTH-MAIN",
+    "buildingId": "DML",
+    "floorId": "2",
+    "name": "main entrance stairs",
+    "displayLabel": "DML main entrance stairs",
+    "roomNumber": null,
+    "kind": "entrance",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": -36,
+      "y": 3.4,
+      "z": -21
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "DML:2:north-main:access",
+        "nodeId": "DML:2:north-main",
+        "label": "main entrance stairs",
+        "position": {
+          "x": -36,
+          "y": 3.4,
+          "z": -21
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity confirmed; position inferred. Position, boundary and door inferred. First-floor main entrance stairs identified by brochure. Exact landing and door position inferred; no verified accessible or evacuation claim. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf p. 4 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-301",
+    "buildingId": "DML",
+    "floorId": "3",
+    "name": "Harman Academy for Polymathic Study",
+    "displayLabel": "DML 301",
+    "roomNumber": "301",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "DML 301",
+      "DML 301"
+    ],
+    "position": {
+      "x": 3.3000000000000007,
+      "y": 6.8,
+      "z": -24.5
+    },
+    "sceneObjectKey": "DML-301:object",
+    "bounds": {
+      "min": {
+        "x": -27,
+        "y": 6.8,
+        "z": -26
+      },
+      "max": {
+        "x": 33.6,
+        "y": 7.6499999999999995,
+        "z": -23
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-301:access",
+        "nodeId": "DML:3:cell:DML-301",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 3.3000000000000007,
+          "y": 6.8,
+          "z": -24.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-302",
+    "buildingId": "DML",
+    "floorId": "3",
+    "name": "Friends Lecture Hall",
+    "displayLabel": "DML 302",
+    "roomNumber": "302",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 302",
+      "DML 302"
+    ],
+    "position": {
+      "x": -12.3,
+      "y": 6.8,
+      "z": -12.933
+    },
+    "sceneObjectKey": "DML-302:object",
+    "bounds": {
+      "min": {
+        "x": -22.6,
+        "y": 6.8,
+        "z": -19
+      },
+      "max": {
+        "x": -2,
+        "y": 7.6499999999999995,
+        "z": -6.8660000000000005
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-302:access",
+        "nodeId": "DML:3:cell:DML-302",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12.3,
+          "y": 6.8,
+          "z": -12.933
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-303",
+    "buildingId": "DML",
+    "floorId": "3",
+    "name": "Intellectual Commons",
+    "displayLabel": "DML 303",
+    "roomNumber": "303",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "DML 303",
+      "DML 303"
+    ],
+    "position": {
+      "x": -12.3,
+      "y": 6.8,
+      "z": -0.7999999999999998
+    },
+    "sceneObjectKey": "DML-303:object",
+    "bounds": {
+      "min": {
+        "x": -22.6,
+        "y": 6.8,
+        "z": -6.8660000000000005
+      },
+      "max": {
+        "x": -2,
+        "y": 7.6499999999999995,
+        "z": 5.266000000000001
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-303:access",
+        "nodeId": "DML:3:cell:DML-303",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12.3,
+          "y": 6.8,
+          "z": -0.7999999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-304",
+    "buildingId": "DML",
+    "floorId": "3",
+    "name": "Feuchtwanger Memorial Library",
+    "displayLabel": "DML 304",
+    "roomNumber": "304",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "DML 304",
+      "DML 304"
+    ],
+    "position": {
+      "x": -12.3,
+      "y": 6.8,
+      "z": 11.333
+    },
+    "sceneObjectKey": "DML-304:object",
+    "bounds": {
+      "min": {
+        "x": -22.6,
+        "y": 6.8,
+        "z": 5.266000000000001
+      },
+      "max": {
+        "x": -2,
+        "y": 7.6499999999999995,
+        "z": 17.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-304:access",
+        "nodeId": "DML:3:cell:DML-304",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12.3,
+          "y": 6.8,
+          "z": 11.333
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-305",
+    "buildingId": "DML",
+    "floorId": "3",
+    "name": "Horton Rare Book Reading Room",
+    "displayLabel": "DML 305",
+    "roomNumber": "305",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 305",
+      "DML 305"
+    ],
+    "position": {
+      "x": 17.8,
+      "y": 6.8,
+      "z": -14.5
+    },
+    "sceneObjectKey": "DML-305:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": -19
+      },
+      "max": {
+        "x": 33.6,
+        "y": 7.6499999999999995,
+        "z": -10
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-305:access",
+        "nodeId": "DML:3:cell:DML-305",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 17.8,
+          "y": 6.8,
+          "z": -14.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-306",
+    "buildingId": "DML",
+    "floorId": "3",
+    "name": "Research office",
+    "displayLabel": "DML 306",
+    "roomNumber": "306",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 306",
+      "DML 306"
+    ],
+    "position": {
+      "x": 26.8,
+      "y": 6.8,
+      "z": -5
+    },
+    "sceneObjectKey": "DML-306:object",
+    "bounds": {
+      "min": {
+        "x": 16,
+        "y": 6.8,
+        "z": -8
+      },
+      "max": {
+        "x": 37.6,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-306:access",
+        "nodeId": "DML:3:cell:DML-306",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 26.8,
+          "y": 6.8,
+          "z": -5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-307",
+    "buildingId": "DML",
+    "floorId": "3",
+    "name": "Study room",
+    "displayLabel": "DML 307",
+    "roomNumber": "307",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 307",
+      "DML 307"
+    ],
+    "position": {
+      "x": 7.933000000000001,
+      "y": 6.8,
+      "z": 9.7
+    },
+    "sceneObjectKey": "DML-307:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 13.866000000000001,
+        "y": 7.6499999999999995,
+        "z": 17.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-307:access",
+        "nodeId": "DML:3:cell:DML-307",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 7.933000000000001,
+          "y": 6.8,
+          "z": 9.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-308",
+    "buildingId": "DML",
+    "floorId": "3",
+    "name": "Special Collections support",
+    "displayLabel": "DML 308",
+    "roomNumber": "308",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 308",
+      "DML 308"
+    ],
+    "position": {
+      "x": 19.8,
+      "y": 6.8,
+      "z": 9.7
+    },
+    "sceneObjectKey": "DML-308:object",
+    "bounds": {
+      "min": {
+        "x": 13.866000000000001,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 25.733999999999998,
+        "y": 7.6499999999999995,
+        "z": 17.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-308:access",
+        "nodeId": "DML:3:cell:DML-308",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 19.8,
+          "y": 6.8,
+          "z": 9.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-309",
+    "buildingId": "DML",
+    "floorId": "3",
+    "name": "Seminar room",
+    "displayLabel": "DML 309",
+    "roomNumber": "309",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 309",
+      "DML 309"
+    ],
+    "position": {
+      "x": 31.667,
+      "y": 6.8,
+      "z": 9.7
+    },
+    "sceneObjectKey": "DML-309:object",
+    "bounds": {
+      "min": {
+        "x": 25.733999999999998,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 37.6,
+        "y": 7.6499999999999995,
+        "z": 17.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-309:access",
+        "nodeId": "DML:3:cell:DML-309",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 31.667,
+          "y": 6.8,
+          "z": 9.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-310",
+    "buildingId": "DML",
+    "floorId": "3",
+    "name": "Staff workspace",
+    "displayLabel": "DML 310",
+    "roomNumber": "310",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "DML 310",
+      "DML 310"
+    ],
+    "position": {
+      "x": 5.300000000000001,
+      "y": 6.8,
+      "z": 23
+    },
+    "sceneObjectKey": "DML-310:object",
+    "bounds": {
+      "min": {
+        "x": -27,
+        "y": 6.8,
+        "z": 21.6
+      },
+      "max": {
+        "x": 37.6,
+        "y": 7.6499999999999995,
+        "z": 24.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-310:access",
+        "nodeId": "DML:3:cell:DML-310",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5.300000000000001,
+          "y": 6.8,
+          "z": 23
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Tour legend digits are NOT room numbers. Assigned demo number inferred. Named service identity is historical to brochure; current tenancy unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf pp. 5 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-3-SA",
+    "buildingId": "DML",
+    "floorId": "3",
+    "name": "West stairs",
+    "displayLabel": "DML west stairs, second floor",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "DML west stairs, second floor"
+    ],
+    "position": {
+      "x": -31.5,
+      "y": 6.8,
+      "z": -24.5
+    },
+    "sceneObjectKey": "DML-3-SA:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": 6.8,
+        "z": -26
+      },
+      "max": {
+        "x": -28,
+        "y": 7.6499999999999995,
+        "z": -23
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-3-SA:access",
+        "nodeId": "DML:3:cell:DML-3-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -31.5,
+          "y": 6.8,
+          "z": -24.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-3-SB",
+    "buildingId": "DML",
+    "floorId": "3",
+    "name": "South stairs",
+    "displayLabel": "DML south stairs, second floor",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "DML south stairs, second floor"
+    ],
+    "position": {
+      "x": -31.5,
+      "y": 6.8,
+      "z": 23
+    },
+    "sceneObjectKey": "DML-3-SB:object",
+    "bounds": {
+      "min": {
+        "x": -35,
+        "y": 6.8,
+        "z": 21.6
+      },
+      "max": {
+        "x": -28,
+        "y": 7.6499999999999995,
+        "z": 24.4
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-3-SB:access",
+        "nodeId": "DML:3:cell:DML-3-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -31.5,
+          "y": 6.8,
+          "z": 23
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-3-EL",
+    "buildingId": "DML",
+    "floorId": "3",
+    "name": "Central elevator",
+    "displayLabel": "DML central elevator, second floor",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "DML central elevator, second floor"
+    ],
+    "position": {
+      "x": 4,
+      "y": 6.8,
+      "z": -5
+    },
+    "sceneObjectKey": "DML-3-EL:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": -8
+      },
+      "max": {
+        "x": 6,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-3-EL:access",
+        "nodeId": "DML:3:cell:DML-3-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 4,
+          "y": 6.8,
+          "z": -5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "DML-3-RR",
+    "buildingId": "DML",
+    "floorId": "3",
+    "name": "Restrooms",
+    "displayLabel": "DML restrooms, second floor",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "DML restrooms, second floor"
+    ],
+    "position": {
+      "x": 11,
+      "y": 6.8,
+      "z": -5
+    },
+    "sceneObjectKey": "DML-3-RR:object",
+    "bounds": {
+      "min": {
+        "x": 8,
+        "y": 6.8,
+        "z": -8
+      },
+      "max": {
+        "x": 14,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "DML-3-RR:access",
+        "nodeId": "DML:3:cell:DML-3-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 11,
+          "y": 6.8,
+          "z": -5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  }
+]

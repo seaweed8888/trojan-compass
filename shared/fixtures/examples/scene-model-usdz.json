@@ -1,0 +1,113 @@
+{
+  "requestId": "example-request",
+  "dataVersion": "contract-demo-v1",
+  "scene": {
+    "buildingId": "LAW",
+    "coordinateSystem": {
+      "id": "LAW-local-meters-v1",
+      "units": "meters",
+      "upAxis": "Y",
+      "handedness": "right",
+      "accuracy": "illustrative"
+    },
+    "bounds": {
+      "min": {
+        "x": 0,
+        "y": -0.2,
+        "z": 0
+      },
+      "max": {
+        "x": 20,
+        "y": 6.4,
+        "z": 12
+      }
+    },
+    "rootObjectKey": "LAW:root",
+    "viewerUrl": "https://compass.example/map?building=LAW&floor=1",
+    "floors": [
+      {
+        "floorId": "1",
+        "label": "Floor 1",
+        "sceneObjectKey": "LAW:floor:1",
+        "geometryUrl": "https://api.compass.example/api/buildings/LAW/floors/1?dataVersion=contract-demo-v1"
+      },
+      {
+        "floorId": "2",
+        "label": "Floor 2",
+        "sceneObjectKey": "LAW:floor:2",
+        "geometryUrl": "https://api.compass.example/api/buildings/LAW/floors/2?dataVersion=contract-demo-v1"
+      }
+    ],
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Synthetic contract fixture. Coordinates, geometry, timing and access claims are not measured USC information."
+    },
+    "representation": "model",
+    "asset": {
+      "url": "https://assets.compass.example/contract-demo-v1/LAW.usdz",
+      "format": "usdz",
+      "sha256": null,
+      "byteLength": null,
+      "expiresAt": null
+    },
+    "assetToBuildingMatrix": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "nodeBindings": [
+      {
+        "objectKey": "LAW:floor:1",
+        "nodeName": "LAW_FLOOR_1",
+        "floorId": "1",
+        "placeId": null
+      },
+      {
+        "objectKey": "LAW:floor:2",
+        "nodeName": "LAW_FLOOR_2",
+        "floorId": "2",
+        "placeId": null
+      },
+      {
+        "objectKey": "LAW:room:101",
+        "nodeName": "LAW_room_101",
+        "floorId": "1",
+        "placeId": "LAW-101"
+      },
+      {
+        "objectKey": "LAW:room:102",
+        "nodeName": "LAW_room_102",
+        "floorId": "1",
+        "placeId": "LAW-102"
+      },
+      {
+        "objectKey": "LAW:room:204",
+        "nodeName": "LAW_room_204",
+        "floorId": "2",
+        "placeId": "LAW-204"
+      },
+      {
+        "objectKey": "LAW:entrance:main",
+        "nodeName": "LAW_entrance_main",
+        "floorId": "1",
+        "placeId": "LAW-ENT"
+      }
+    ]
+  }
+}

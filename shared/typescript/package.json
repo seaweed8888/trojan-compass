@@ -1,0 +1,15 @@
+{
+  "name": "@trojan-compass/shared",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./api": "./src/generated/api-types.ts",
+    "./legacy": "./src/legacy.ts"
+  },
+  "scripts": {
+    "build": "tsc --noEmit",
+    "typecheck": "tsc --noEmit"
+  }
+}

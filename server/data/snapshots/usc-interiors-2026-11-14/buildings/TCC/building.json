@@ -1,0 +1,190 @@
+{
+  "id": "TCC",
+  "code": "TCC",
+  "name": "Ronald Tutor Campus Center",
+  "aliases": [
+    "Tutor Campus Center"
+  ],
+  "location": null,
+  "coverage": "demo",
+  "capabilities": {
+    "interiorScene": true,
+    "navigation": true,
+    "verifiedStepFreeRouting": false,
+    "chatText": true,
+    "chatImages": false,
+    "events": false
+  },
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [
+      "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+      "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+    ],
+    "verifiedAt": null,
+    "note": "Reconstructed demo interior; all positions, boundaries, doors and circulation inferred. Estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Floor count confirmed: Directory and meeting-room list support floors 1–4; basement entries belong to SKS. demos/usc-map/locations.json | Narrow north/south bar and wider end volumes follow supplied TCC polygon, not the old rectangle. Navigation and access are unverified."
+  },
+  "description": "Student commons, meeting rooms and offices. Adjacent Sample Hall (SKS) is a separate building.",
+  "officialMapUrl": null,
+  "viewerUrl": "/?building=TCC",
+  "coordinateSystem": {
+    "id": "TCC:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -14.900000000000002,
+      "y": -0.24,
+      "z": -43.9
+    },
+    "max": {
+      "x": 12.3,
+      "y": 11.7,
+      "z": 42.3
+    }
+  },
+  "floors": [
+    {
+      "id": "1",
+      "buildingId": "TCC",
+      "label": "Floor 1",
+      "sortOrder": 1,
+      "elevationMeters": 0,
+      "sceneObjectKey": "TCC:floor:1",
+      "bounds": {
+        "min": {
+          "x": -14.900000000000002,
+          "y": -0.24,
+          "z": -43.9
+        },
+        "max": {
+          "x": 12.3,
+          "y": 1.5,
+          "z": 42.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+          "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. SKS B3/B4/B5/B41/B42, SKS 100/107/202/305/410 excluded. No TCC basement asserted. Room-number prefix sets floor; all boundaries inferred. Forum receives a larger inferred event-room volume. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "2",
+      "buildingId": "TCC",
+      "label": "Floor 2",
+      "sortOrder": 2,
+      "elevationMeters": 3.4,
+      "sceneObjectKey": "TCC:floor:2",
+      "bounds": {
+        "min": {
+          "x": -14.900000000000002,
+          "y": 3.16,
+          "z": -43.9
+        },
+        "max": {
+          "x": 12.3,
+          "y": 4.9,
+          "z": 42.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+          "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. SKS B3/B4/B5/B41/B42, SKS 100/107/202/305/410 excluded. No TCC basement asserted. Room-number prefix sets floor; all boundaries inferred. Forum receives a larger inferred event-room volume. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "3",
+      "buildingId": "TCC",
+      "label": "Floor 3",
+      "sortOrder": 3,
+      "elevationMeters": 6.8,
+      "sceneObjectKey": "TCC:floor:3",
+      "bounds": {
+        "min": {
+          "x": -14.900000000000002,
+          "y": 6.56,
+          "z": -43.9
+        },
+        "max": {
+          "x": 12.3,
+          "y": 8.3,
+          "z": 42.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+          "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. SKS B3/B4/B5/B41/B42, SKS 100/107/202/305/410 excluded. No TCC basement asserted. Room-number prefix sets floor; all boundaries inferred. Forum receives a larger inferred event-room volume. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "4",
+      "buildingId": "TCC",
+      "label": "Floor 4",
+      "sortOrder": 4,
+      "elevationMeters": 10.2,
+      "sceneObjectKey": "TCC:floor:4",
+      "bounds": {
+        "min": {
+          "x": -14.900000000000002,
+          "y": 9.959999999999999,
+          "z": -43.9
+        },
+        "max": {
+          "x": 12.3,
+          "y": 11.7,
+          "z": 42.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+          "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. SKS B3/B4/B5/B41/B42, SKS 100/107/202/305/410 excluded. No TCC basement asserted. Room-number prefix sets floor; all boundaries inferred. Forum receives a larger inferred event-room volume. Sources: https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/ | https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/ Navigation and accessibility are unverified."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "TCC:source:0",
+      "title": "Ronald Tutor Campus Center reconstruction reference 1",
+      "url": "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+      "sourceDate": null,
+      "pageReference": null,
+      "note": "Identity or exterior reference; interior positions remain inferred. See docs/interiors/."
+    },
+    {
+      "id": "TCC:source:1",
+      "title": "Ronald Tutor Campus Center reconstruction reference 2",
+      "url": "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/",
+      "sourceDate": null,
+      "pageReference": null,
+      "note": "Identity or exterior reference; interior positions remain inferred. See docs/interiors/."
+    }
+  ]
+}

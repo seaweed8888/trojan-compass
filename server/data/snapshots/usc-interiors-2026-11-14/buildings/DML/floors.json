@@ -1,0 +1,118 @@
+[
+  {
+    "id": "0",
+    "buildingId": "DML",
+    "label": "Basement",
+    "sortOrder": 0,
+    "elevationMeters": -3.4,
+    "sceneObjectKey": "DML:floor:0",
+    "bounds": {
+      "min": {
+        "x": -36.3,
+        "y": -3.6399999999999997,
+        "z": -27.3
+      },
+      "max": {
+        "x": 39.3,
+        "y": -1.9,
+        "z": 25.3
+      }
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Internal floor 1=Ground, 2=First, 3=Second. Stack mezzanines are not separately resolved. Pavilion and cafe footprints simplified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "1",
+    "buildingId": "DML",
+    "label": "Ground floor",
+    "sortOrder": 1,
+    "elevationMeters": 0,
+    "sceneObjectKey": "DML:floor:1",
+    "bounds": {
+      "min": {
+        "x": -36.3,
+        "y": -0.24,
+        "z": -27.3
+      },
+      "max": {
+        "x": 39.3,
+        "y": 1.5,
+        "z": 25.3
+      }
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Internal floor 1=Ground, 2=First, 3=Second. Stack mezzanines are not separately resolved. Pavilion and cafe footprints simplified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "2",
+    "buildingId": "DML",
+    "label": "First floor",
+    "sortOrder": 2,
+    "elevationMeters": 3.4,
+    "sceneObjectKey": "DML:floor:2",
+    "bounds": {
+      "min": {
+        "x": -36.3,
+        "y": 3.16,
+        "z": -27.3
+      },
+      "max": {
+        "x": 39.3,
+        "y": 4.9,
+        "z": 25.3
+      }
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Internal floor 1=Ground, 2=First, 3=Second. Stack mezzanines are not separately resolved. Pavilion and cafe footprints simplified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "3",
+    "buildingId": "DML",
+    "label": "Second floor",
+    "sortOrder": 3,
+    "elevationMeters": 6.8,
+    "sceneObjectKey": "DML:floor:3",
+    "bounds": {
+      "min": {
+        "x": -36.3,
+        "y": 6.56,
+        "z": -27.3
+      },
+      "max": {
+        "x": 39.3,
+        "y": 8.3,
+        "z": 25.3
+      }
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Internal floor 1=Ground, 2=First, 3=Second. Stack mezzanines are not separately resolved. Pavilion and cafe footprints simplified. Sources: https://libraries.usc.edu/sites/default/files/2021-09/Doheny%20Memorial%20Library%20self-guided%20tour%20brochure.pdf Navigation and accessibility are unverified."
+    }
+  }
+]

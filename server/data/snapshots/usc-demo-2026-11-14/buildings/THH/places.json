@@ -1,0 +1,3454 @@
+[
+  {
+    "id": "THH-1-SA",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Stairwell A",
+    "displayLabel": "THH stairwell a, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH stairwell a, floor 1",
+      "THH A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-1-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-1-SA:access",
+        "nodeId": "THH:1:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-101",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Seminar Room",
+    "displayLabel": "THH 101",
+    "roomNumber": "101",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 101",
+      "THH 101"
+    ],
+    "position": {
+      "x": -14,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-101:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-101:access",
+        "nodeId": "THH:1:room:101",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-103",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Study Lounge",
+    "displayLabel": "THH 103",
+    "roomNumber": "103",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 103",
+      "THH 103"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-103:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-103:access",
+        "nodeId": "THH:1:room:103",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-1-EL",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Elevator",
+    "displayLabel": "THH elevator, floor 1",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "THH elevator, floor 1",
+      "THH EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-1-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-1-EL:access",
+        "nodeId": "THH:1:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-105",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Computer Lab",
+    "displayLabel": "THH 105",
+    "roomNumber": "105",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 105",
+      "THH 105"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-105:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-105:access",
+        "nodeId": "THH:1:room:105",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-107",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 107",
+    "roomNumber": "107",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 107",
+      "THH 107"
+    ],
+    "position": {
+      "x": 14,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-107:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-107:access",
+        "nodeId": "THH:1:room:107",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-109",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Seminar Room",
+    "displayLabel": "THH 109",
+    "roomNumber": "109",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 109",
+      "THH 109"
+    ],
+    "position": {
+      "x": 21,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-109:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-109:access",
+        "nodeId": "THH:1:room:109",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-102",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 102",
+    "roomNumber": "102",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 102",
+      "THH 102"
+    ],
+    "position": {
+      "x": -21,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-102:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-102:access",
+        "nodeId": "THH:1:room:102",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-104",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "THH 104",
+    "roomNumber": "104",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 104",
+      "THH 104"
+    ],
+    "position": {
+      "x": -14,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-104:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-104:access",
+        "nodeId": "THH:1:room:104",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-106",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Lecture Hall",
+    "displayLabel": "THH 106",
+    "roomNumber": "106",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 106",
+      "THH 106"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-106:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-106:access",
+        "nodeId": "THH:1:room:106",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-1-RR",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "THH restrooms, floor 1",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "THH restrooms, floor 1",
+      "THH RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-1-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-1-RR:access",
+        "nodeId": "THH:1:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-108",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Faculty Offices",
+    "displayLabel": "THH 108",
+    "roomNumber": "108",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 108",
+      "THH 108"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-108:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-108:access",
+        "nodeId": "THH:1:room:108",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-110",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Lecture Hall",
+    "displayLabel": "THH 110",
+    "roomNumber": "110",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 110",
+      "THH 110"
+    ],
+    "position": {
+      "x": 14,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-110:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-110:access",
+        "nodeId": "THH:1:room:110",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-1-SB",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "Stairwell B",
+    "displayLabel": "THH stairwell b, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH stairwell b, floor 1",
+      "THH B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-1-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-1-SB:access",
+        "nodeId": "THH:1:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-ENT",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "main west entrance",
+    "displayLabel": "THH main west entrance",
+    "roomNumber": null,
+    "kind": "entrance",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": -26,
+      "y": 0,
+      "z": 0
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "THH:1:entrance:access",
+        "nodeId": "THH:1:entrance",
+        "label": "main west entrance",
+        "position": {
+          "x": -26,
+          "y": 0,
+          "z": 0
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-EXIT-1-EXIT",
+    "buildingId": "THH",
+    "floorId": "1",
+    "name": "east exit",
+    "displayLabel": "THH east exit",
+    "roomNumber": null,
+    "kind": "emergency_exit",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": 26,
+      "y": 0,
+      "z": 0
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "THH:1:exit:access",
+        "nodeId": "THH:1:exit",
+        "label": "east exit",
+        "position": {
+          "x": 26,
+          "y": 0,
+          "z": 0
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": false,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-2-SA",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Stairwell A",
+    "displayLabel": "THH stairwell a, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH stairwell a, floor 2",
+      "THH A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-2-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-2-SA:access",
+        "nodeId": "THH:2:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-201",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "THH 201",
+    "roomNumber": "201",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 201",
+      "THH 201"
+    ],
+    "position": {
+      "x": -14,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-201:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-201:access",
+        "nodeId": "THH:2:room:201",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-203",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Lecture Hall",
+    "displayLabel": "THH 203",
+    "roomNumber": "203",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 203",
+      "THH 203"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-203:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-203:access",
+        "nodeId": "THH:2:room:203",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-2-EL",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Elevator",
+    "displayLabel": "THH elevator, floor 2",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "THH elevator, floor 2",
+      "THH EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-2-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-2-EL:access",
+        "nodeId": "THH:2:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-205",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Faculty Offices",
+    "displayLabel": "THH 205",
+    "roomNumber": "205",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 205",
+      "THH 205"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-205:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-205:access",
+        "nodeId": "THH:2:room:205",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-207",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Lecture Hall",
+    "displayLabel": "THH 207",
+    "roomNumber": "207",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 207",
+      "THH 207"
+    ],
+    "position": {
+      "x": 14,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-207:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-207:access",
+        "nodeId": "THH:2:room:207",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-209",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "THH 209",
+    "roomNumber": "209",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 209",
+      "THH 209"
+    ],
+    "position": {
+      "x": 21,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-209:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-209:access",
+        "nodeId": "THH:2:room:209",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-202",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Computer Lab",
+    "displayLabel": "THH 202",
+    "roomNumber": "202",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 202",
+      "THH 202"
+    ],
+    "position": {
+      "x": -21,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-202:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-202:access",
+        "nodeId": "THH:2:room:202",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-204",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "THH 204",
+    "roomNumber": "204",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 204",
+      "THH 204"
+    ],
+    "position": {
+      "x": -14,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-204:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-204:access",
+        "nodeId": "THH:2:room:204",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-206",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Seminar Room",
+    "displayLabel": "THH 206",
+    "roomNumber": "206",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 206",
+      "THH 206"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-206:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-206:access",
+        "nodeId": "THH:2:room:206",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-2-RR",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "THH restrooms, floor 2",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "THH restrooms, floor 2",
+      "THH RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-2-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-2-RR:access",
+        "nodeId": "THH:2:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-208",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Seminar Room",
+    "displayLabel": "THH 208",
+    "roomNumber": "208",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 208",
+      "THH 208"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-208:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-208:access",
+        "nodeId": "THH:2:room:208",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-210",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Study Lounge",
+    "displayLabel": "THH 210",
+    "roomNumber": "210",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 210",
+      "THH 210"
+    ],
+    "position": {
+      "x": 14,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-210:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-210:access",
+        "nodeId": "THH:2:room:210",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-2-SB",
+    "buildingId": "THH",
+    "floorId": "2",
+    "name": "Stairwell B",
+    "displayLabel": "THH stairwell b, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH stairwell b, floor 2",
+      "THH B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-2-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-2-SB:access",
+        "nodeId": "THH:2:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-3-SA",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Stairwell A",
+    "displayLabel": "THH stairwell a, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH stairwell a, floor 3",
+      "THH A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-3-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-3-SA:access",
+        "nodeId": "THH:3:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-301",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Classroom",
+    "displayLabel": "THH 301",
+    "roomNumber": "301",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 301",
+      "THH 301"
+    ],
+    "position": {
+      "x": -14,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-301:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-301:access",
+        "nodeId": "THH:3:room:301",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-303",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Seminar Room",
+    "displayLabel": "THH 303",
+    "roomNumber": "303",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 303",
+      "THH 303"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-303:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-303:access",
+        "nodeId": "THH:3:room:303",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-3-EL",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Elevator",
+    "displayLabel": "THH elevator, floor 3",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "THH elevator, floor 3",
+      "THH EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-3-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-3-EL:access",
+        "nodeId": "THH:3:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-305",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Seminar Room",
+    "displayLabel": "THH 305",
+    "roomNumber": "305",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 305",
+      "THH 305"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-305:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-305:access",
+        "nodeId": "THH:3:room:305",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-307",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Study Lounge",
+    "displayLabel": "THH 307",
+    "roomNumber": "307",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 307",
+      "THH 307"
+    ],
+    "position": {
+      "x": 14,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-307:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-307:access",
+        "nodeId": "THH:3:room:307",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-309",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Computer Lab",
+    "displayLabel": "THH 309",
+    "roomNumber": "309",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 309",
+      "THH 309"
+    ],
+    "position": {
+      "x": 21,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-309:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-309:access",
+        "nodeId": "THH:3:room:309",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-302",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Faculty Offices",
+    "displayLabel": "THH 302",
+    "roomNumber": "302",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 302",
+      "THH 302"
+    ],
+    "position": {
+      "x": -21,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-302:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-302:access",
+        "nodeId": "THH:3:room:302",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-304",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Lecture Hall",
+    "displayLabel": "THH 304",
+    "roomNumber": "304",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 304",
+      "THH 304"
+    ],
+    "position": {
+      "x": -14,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-304:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-304:access",
+        "nodeId": "THH:3:room:304",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-306",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Classroom",
+    "displayLabel": "THH 306",
+    "roomNumber": "306",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 306",
+      "THH 306"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-306:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-306:access",
+        "nodeId": "THH:3:room:306",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-3-RR",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "THH restrooms, floor 3",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "THH restrooms, floor 3",
+      "THH RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-3-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-3-RR:access",
+        "nodeId": "THH:3:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-308",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Classroom",
+    "displayLabel": "THH 308",
+    "roomNumber": "308",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 308",
+      "THH 308"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-308:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-308:access",
+        "nodeId": "THH:3:room:308",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-310",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Lecture Hall",
+    "displayLabel": "THH 310",
+    "roomNumber": "310",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 310",
+      "THH 310"
+    ],
+    "position": {
+      "x": 14,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-310:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-310:access",
+        "nodeId": "THH:3:room:310",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-3-SB",
+    "buildingId": "THH",
+    "floorId": "3",
+    "name": "Stairwell B",
+    "displayLabel": "THH stairwell b, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH stairwell b, floor 3",
+      "THH B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-3-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-3-SB:access",
+        "nodeId": "THH:3:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-4-SA",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Stairwell A",
+    "displayLabel": "THH stairwell a, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH stairwell a, floor 4",
+      "THH A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-4-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-4-SA:access",
+        "nodeId": "THH:4:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-401",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Lecture Hall",
+    "displayLabel": "THH 401",
+    "roomNumber": "401",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 401",
+      "THH 401"
+    ],
+    "position": {
+      "x": -14,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-401:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-401:access",
+        "nodeId": "THH:4:room:401",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-403",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Classroom",
+    "displayLabel": "THH 403",
+    "roomNumber": "403",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 403",
+      "THH 403"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-403:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-403:access",
+        "nodeId": "THH:4:room:403",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-4-EL",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Elevator",
+    "displayLabel": "THH elevator, floor 4",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "THH elevator, floor 4",
+      "THH EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-4-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-4-EL:access",
+        "nodeId": "THH:4:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-405",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Classroom",
+    "displayLabel": "THH 405",
+    "roomNumber": "405",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 405",
+      "THH 405"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-405:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-405:access",
+        "nodeId": "THH:4:room:405",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-407",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Lecture Hall",
+    "displayLabel": "THH 407",
+    "roomNumber": "407",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 407",
+      "THH 407"
+    ],
+    "position": {
+      "x": 14,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-407:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-407:access",
+        "nodeId": "THH:4:room:407",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-409",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Faculty Offices",
+    "displayLabel": "THH 409",
+    "roomNumber": "409",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 409",
+      "THH 409"
+    ],
+    "position": {
+      "x": 21,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "THH-409:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-409:access",
+        "nodeId": "THH:4:room:409",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-402",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Seminar Room",
+    "displayLabel": "THH 402",
+    "roomNumber": "402",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 402",
+      "THH 402"
+    ],
+    "position": {
+      "x": -21,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-402:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-402:access",
+        "nodeId": "THH:4:room:402",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-404",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Study Lounge",
+    "displayLabel": "THH 404",
+    "roomNumber": "404",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 404",
+      "THH 404"
+    ],
+    "position": {
+      "x": -14,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-404:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-404:access",
+        "nodeId": "THH:4:room:404",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-406",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Computer Lab",
+    "displayLabel": "THH 406",
+    "roomNumber": "406",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 406",
+      "THH 406"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-406:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-406:access",
+        "nodeId": "THH:4:room:406",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-4-RR",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "THH restrooms, floor 4",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "THH restrooms, floor 4",
+      "THH RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-4-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-4-RR:access",
+        "nodeId": "THH:4:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-408",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Classroom",
+    "displayLabel": "THH 408",
+    "roomNumber": "408",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 408",
+      "THH 408"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-408:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-408:access",
+        "nodeId": "THH:4:room:408",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-410",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Seminar Room",
+    "displayLabel": "THH 410",
+    "roomNumber": "410",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "THH 410",
+      "THH 410"
+    ],
+    "position": {
+      "x": 14,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-410:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-410:access",
+        "nodeId": "THH:4:room:410",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "THH-4-SB",
+    "buildingId": "THH",
+    "floorId": "4",
+    "name": "Stairwell B",
+    "displayLabel": "THH stairwell b, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "THH stairwell b, floor 4",
+      "THH B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "THH-4-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "THH-4-SB:access",
+        "nodeId": "THH:4:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  }
+]

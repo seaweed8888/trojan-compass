@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "OUTDOOR_NETWORK_UNAVAILABLE",
+    "message": "A supported outdoor connection is unavailable.",
+    "requestId": "example-request"
+  }
+}

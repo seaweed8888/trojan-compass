@@ -1,0 +1,8 @@
+#header .logo .compass-brand { display: flex; align-items: center; gap: 16px; text-decoration: none; }
+#header .logo .compass-brand img { width: 64px !important; height: auto !important; }
+#header .logo .campus-brand-divider { width: 1px; height: 28px; background: #ffffff4d; }
+#header .logo .compass-wordmark { color: white; font: 600 18px/1.1 Arial, sans-serif; white-space: nowrap; }
+#header .logo .compass-wordmark > span { color: #ffcc00; }
+@media (max-width: 600px) {
+  #header .logo .compass-wordmark { font-size: 13px; white-space: normal; max-width: 65px; }
+}

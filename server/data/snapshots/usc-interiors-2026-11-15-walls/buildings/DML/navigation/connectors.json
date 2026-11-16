@@ -1,0 +1,32 @@
+[
+  {
+    "id": "DML:A",
+    "nodeIds": [
+      "DML:0:cell:DML-0-SA",
+      "DML:1:cell:DML-1-SA",
+      "DML:2:cell:DML-2-SA",
+      "DML:3:cell:DML-3-SA"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "DML:B",
+    "nodeIds": [
+      "DML:0:cell:DML-0-SB",
+      "DML:1:cell:DML-1-SB",
+      "DML:2:cell:DML-2-SB",
+      "DML:3:cell:DML-3-SB"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "DML:E",
+    "nodeIds": [
+      "DML:0:cell:DML-0-EL",
+      "DML:1:cell:DML-1-EL",
+      "DML:2:cell:DML-2-EL",
+      "DML:3:cell:DML-3-EL"
+    ],
+    "kind": "elevator"
+  }
+]

@@ -2,21 +2,40 @@
   "name": "trojan-compass",
   "version": "0.1.0",
   "private": true,
-  "workspaces": ["apps/*", "packages/*"],
-  "engines": { "node": ">=22.9.0" },
+  "workspaces": [
+    "web",
+    "server",
+    "shared/typescript",
+    "demos/usc-map"
+  ],
+  "engines": {
+    "node": ">=22.9.0"
+  },
   "scripts": {
     "dev": "concurrently -k -n web,api \"npm run dev:web\" \"npm run dev:api\"",
     "dev:web": "npm run dev --workspace=@trojan-compass/web",
     "dev:campus": "npm run dev --workspace=@trojan-compass/campus-demo",
-    "dev:demo": "concurrently -k -n campus,interiors \"npm run dev:campus\" \"npm run dev:web\"",
+    "dev:demo": "concurrently -k -n campus,ios,interiors,api \"npm run dev:campus\" \"npm run dev:ios\" \"npm run dev:web\" \"npm run dev:api\"",
     "dev:api": "npm run dev --workspace=@trojan-compass/api",
-    "test": "npm run test --workspaces --if-present",
+    "test": "npm run contract:check && npm run test --workspaces --if-present",
+    "contract:generate": "node scripts/contract.mjs --generate",
+    "contract:check": "node scripts/contract.mjs",
+    "smoke": "node scripts/smoke.mjs",
+    "data:extract": "npm run build --workspace=@trojan-compass/api && node server/dist/infrastructure/datasets/export-snapshot.js",
     "typecheck": "npm run typecheck --workspaces --if-present",
-    "build": "npm run build --workspace=@trojan-compass/shared && npm run build --workspace=@trojan-compass/api && npm run build --workspace=@trojan-compass/web"
+    "build": "npm run build --workspace=@trojan-compass/shared && npm run build --workspace=@trojan-compass/api && npm run build --workspace=@trojan-compass/web",
+    "dev:server": "npm run dev --workspace=@trojan-compass/api",
+    "build:mobile-viewer": "node mobile/Viewer/build.mjs",
+    "build:mobile-replica": "node mobile/Replica/build.mjs",
+    "check:mobile": "node scripts/check-mobile-replica.mjs && node --test mobile/Replica/api-bridge.test.mjs",
+    "dev:ios": "python -m http.server 3101 --bind :: --directory demos/usc-map"
   },
   "devDependencies": {
     "@types/node": "^24.0.0",
     "concurrently": "^9.2.1",
-    "typescript": "^5.9.3"
+    "prettier": "^3.10.1",
+    "typescript": "^5.9.3",
+    "esbuild": "^0.28.2",
+    "@tailwindcss/cli": "^4.3.5"
   }
 }

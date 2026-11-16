@@ -1,0 +1,16 @@
+{
+  "requestId": "example-request",
+  "clientRequestId": "11111111-1111-4111-8111-111111111111",
+  "dataVersion": "contract-demo-v1",
+  "status": "resolved",
+  "message": "Showing LAW 101 in the demonstration dataset.",
+  "actions": [
+    {
+      "type": "focus_floor",
+      "buildingId": "LAW",
+      "floorId": "2"
+    }
+  ],
+  "clarification": null,
+  "citations": []
+}

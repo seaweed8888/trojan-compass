@@ -1,0 +1,215 @@
+{
+  "id": "KAP",
+  "code": "KAP",
+  "name": "Kaprielian Hall",
+  "aliases": [
+    "Kaprielian"
+  ],
+  "location": null,
+  "coverage": "demo",
+  "capabilities": {
+    "interiorScene": true,
+    "navigation": true,
+    "verifiedStepFreeRouting": false,
+    "chatText": true,
+    "chatImages": false,
+    "events": false
+  },
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [
+      "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf",
+      "https://roomfinder.usc.edu/"
+    ],
+    "verifiedAt": null,
+    "note": "Reconstructed demo interior; all positions, boundaries, doors and circulation inferred. Estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Floor count confirmed: 2013 USC report explicitly describes four stories and laboratory basement. https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf | Long north/south footprint and stepped end caps based on campus polygon. Structural figure pixels unavailable; detailed partition geometry inferred. Navigation and access are unverified."
+  },
+  "description": "Engineering classrooms and research groups.",
+  "officialMapUrl": null,
+  "viewerUrl": "/?building=KAP",
+  "coordinateSystem": {
+    "id": "KAP:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -18.7,
+      "y": -3.6399999999999997,
+      "z": -40.3
+    },
+    "max": {
+      "x": 16.900000000000002,
+      "y": 11.899999999999999,
+      "z": 40.3
+    }
+  },
+  "floors": [
+    {
+      "id": "0",
+      "buildingId": "KAP",
+      "label": "Basement",
+      "sortOrder": 0,
+      "elevationMeters": -3.4,
+      "sceneObjectKey": "KAP:floor:0",
+      "bounds": {
+        "min": {
+          "x": -18.7,
+          "y": -3.6399999999999997,
+          "z": -40.3
+        },
+        "max": {
+          "x": 16.900000000000002,
+          "y": -1.7,
+          "z": 40.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Four stories and basement, classrooms on first, offices above, labs below, three central elevators supported by 2013 structural report. Individual core boxes and partitions inferred. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "1",
+      "buildingId": "KAP",
+      "label": "Floor 1",
+      "sortOrder": 1,
+      "elevationMeters": 0,
+      "sceneObjectKey": "KAP:floor:1",
+      "bounds": {
+        "min": {
+          "x": -18.7,
+          "y": -0.24,
+          "z": -40.3
+        },
+        "max": {
+          "x": 16.900000000000002,
+          "y": 1.7,
+          "z": 40.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Four stories and basement, classrooms on first, offices above, labs below, three central elevators supported by 2013 structural report. Individual core boxes and partitions inferred. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "2",
+      "buildingId": "KAP",
+      "label": "Floor 2",
+      "sortOrder": 2,
+      "elevationMeters": 3.4,
+      "sceneObjectKey": "KAP:floor:2",
+      "bounds": {
+        "min": {
+          "x": -18.7,
+          "y": 3.16,
+          "z": -40.3
+        },
+        "max": {
+          "x": 16.900000000000002,
+          "y": 5.1,
+          "z": 40.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Four stories and basement, classrooms on first, offices above, labs below, three central elevators supported by 2013 structural report. Individual core boxes and partitions inferred. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "3",
+      "buildingId": "KAP",
+      "label": "Floor 3",
+      "sortOrder": 3,
+      "elevationMeters": 6.8,
+      "sceneObjectKey": "KAP:floor:3",
+      "bounds": {
+        "min": {
+          "x": -18.7,
+          "y": 6.56,
+          "z": -40.3
+        },
+        "max": {
+          "x": 16.900000000000002,
+          "y": 8.5,
+          "z": 40.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Four stories and basement, classrooms on first, offices above, labs below, three central elevators supported by 2013 structural report. Individual core boxes and partitions inferred. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "4",
+      "buildingId": "KAP",
+      "label": "Floor 4",
+      "sortOrder": 4,
+      "elevationMeters": 10.2,
+      "sceneObjectKey": "KAP:floor:4",
+      "bounds": {
+        "min": {
+          "x": -18.7,
+          "y": 9.959999999999999,
+          "z": -40.3
+        },
+        "max": {
+          "x": 16.900000000000002,
+          "y": 11.899999999999999,
+          "z": 40.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Four stories and basement, classrooms on first, offices above, labs below, three central elevators supported by 2013 structural report. Individual core boxes and partitions inferred. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "KAP:source:0",
+      "title": "Kaprielian Hall reconstruction reference 1",
+      "url": "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf",
+      "sourceDate": null,
+      "pageReference": null,
+      "note": "Identity or exterior reference; interior positions remain inferred. See docs/interiors/."
+    },
+    {
+      "id": "KAP:source:1",
+      "title": "Kaprielian Hall reconstruction reference 2",
+      "url": "https://roomfinder.usc.edu/",
+      "sourceDate": null,
+      "pageReference": null,
+      "note": "Identity or exterior reference; interior positions remain inferred. See docs/interiors/."
+    }
+  ]
+}

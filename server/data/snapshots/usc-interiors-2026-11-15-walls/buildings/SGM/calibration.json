@@ -1,0 +1,7 @@
+{
+  "horizontalMetersPerSceneUnit": 2,
+  "verticalMetersPerSceneUnit": 1,
+  "floorSpacingMeters": 3.4,
+  "accuracy": "estimated",
+  "note": "Reconstructed demo interior; all positions, boundaries, doors and circulation inferred. Estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Floor count inferred: At least 10 floors evidenced by clinic directions. Exactly 10 modeled; total floor count not verified. demos/usc-map/locations.json | Irregular ground podium, narrow connector and southern wing retained. North tower setback at floor 3 is inferred. Navigation and access are unverified."
+}

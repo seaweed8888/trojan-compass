@@ -6,8 +6,12 @@
 
 ### VS Code ###
 .vscode/
+
+### Local agent and Graphify files ###
 /graphify-out/
 /.agents/
+/AGENTS.md
+/.graphifyignore
 
 ### Node / build output ###
 node_modules/
@@ -23,3 +27,15 @@ coverage/
 .env.*
 !.env.example
 .DS_Store
+
+### Derived routing and mobile local state ###
+server/.cache/
+mobile/**/DerivedData/
+mobile/**/xcuserdata/
+
+### Swift / Xcode ###
+.build/
+.swiftpm/
+DerivedData/
+xcuserdata/
+*.xcuserstate

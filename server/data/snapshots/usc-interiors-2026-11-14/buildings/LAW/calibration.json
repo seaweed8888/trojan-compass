@@ -1,0 +1,7 @@
+{
+  "horizontalMetersPerSceneUnit": 2.4,
+  "verticalMetersPerSceneUnit": 1,
+  "floorSpacingMeters": 3.4,
+  "accuracy": "estimated",
+  "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+}

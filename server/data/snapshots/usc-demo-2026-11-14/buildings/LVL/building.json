@@ -1,0 +1,129 @@
+{
+  "id": "LVL",
+  "code": "LVL",
+  "name": "Leavey Library",
+  "aliases": [],
+  "location": null,
+  "coverage": "demo",
+  "capabilities": {
+    "interiorScene": true,
+    "navigation": true,
+    "verifiedStepFreeRouting": false,
+    "chatText": true,
+    "chatImages": false,
+    "events": false
+  },
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [],
+    "verifiedAt": null,
+    "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+  },
+  "description": "24-hour study commons, group rooms and tech support.",
+  "officialMapUrl": null,
+  "viewerUrl": "/?building=LVL",
+  "coordinateSystem": {
+    "id": "LVL:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -24.900000000000002,
+      "y": -0.24,
+      "z": -12.9
+    },
+    "max": {
+      "x": 24.900000000000002,
+      "y": 8.3,
+      "z": 12.9
+    }
+  },
+  "floors": [
+    {
+      "id": "1",
+      "buildingId": "LVL",
+      "label": "1",
+      "sortOrder": 1,
+      "elevationMeters": 0,
+      "sceneObjectKey": "LVL:floor:1",
+      "bounds": {
+        "min": {
+          "x": -24.900000000000002,
+          "y": -0.24,
+          "z": -12.9
+        },
+        "max": {
+          "x": 24.900000000000002,
+          "y": 1.5,
+          "z": 12.9
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [],
+        "verifiedAt": null,
+        "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+      }
+    },
+    {
+      "id": "2",
+      "buildingId": "LVL",
+      "label": "2",
+      "sortOrder": 2,
+      "elevationMeters": 3.4,
+      "sceneObjectKey": "LVL:floor:2",
+      "bounds": {
+        "min": {
+          "x": -24.900000000000002,
+          "y": 3.16,
+          "z": -12.9
+        },
+        "max": {
+          "x": 24.900000000000002,
+          "y": 4.9,
+          "z": 12.9
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [],
+        "verifiedAt": null,
+        "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+      }
+    },
+    {
+      "id": "3",
+      "buildingId": "LVL",
+      "label": "3",
+      "sortOrder": 3,
+      "elevationMeters": 6.8,
+      "sceneObjectKey": "LVL:floor:3",
+      "bounds": {
+        "min": {
+          "x": -24.900000000000002,
+          "y": 6.56,
+          "z": -12.9
+        },
+        "max": {
+          "x": 24.900000000000002,
+          "y": 8.3,
+          "z": 12.9
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [],
+        "verifiedAt": null,
+        "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+      }
+    }
+  ],
+  "sources": []
+}

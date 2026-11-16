@@ -1,0 +1,3454 @@
+[
+  {
+    "id": "TCC-1-SA",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Stairwell A",
+    "displayLabel": "TCC stairwell a, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "TCC stairwell a, floor 1",
+      "TCC A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-1-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-1-SA:access",
+        "nodeId": "TCC:1:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-101",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Seminar Room",
+    "displayLabel": "TCC 101",
+    "roomNumber": "101",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 101",
+      "TCC 101"
+    ],
+    "position": {
+      "x": -14,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-101:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-101:access",
+        "nodeId": "TCC:1:room:101",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-103",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Study Lounge",
+    "displayLabel": "TCC 103",
+    "roomNumber": "103",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 103",
+      "TCC 103"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-103:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-103:access",
+        "nodeId": "TCC:1:room:103",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-1-EL",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Elevator",
+    "displayLabel": "TCC elevator, floor 1",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "TCC elevator, floor 1",
+      "TCC EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-1-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-1-EL:access",
+        "nodeId": "TCC:1:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-105",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Computer Lab",
+    "displayLabel": "TCC 105",
+    "roomNumber": "105",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 105",
+      "TCC 105"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-105:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-105:access",
+        "nodeId": "TCC:1:room:105",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-107",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "TCC 107",
+    "roomNumber": "107",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 107",
+      "TCC 107"
+    ],
+    "position": {
+      "x": 14,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-107:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-107:access",
+        "nodeId": "TCC:1:room:107",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-109",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Seminar Room",
+    "displayLabel": "TCC 109",
+    "roomNumber": "109",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 109",
+      "TCC 109"
+    ],
+    "position": {
+      "x": 21,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-109:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-109:access",
+        "nodeId": "TCC:1:room:109",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-102",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "TCC 102",
+    "roomNumber": "102",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 102",
+      "TCC 102"
+    ],
+    "position": {
+      "x": -21,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-102:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-102:access",
+        "nodeId": "TCC:1:room:102",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-104",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "TCC 104",
+    "roomNumber": "104",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 104",
+      "TCC 104"
+    ],
+    "position": {
+      "x": -14,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-104:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-104:access",
+        "nodeId": "TCC:1:room:104",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-106",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Lecture Hall",
+    "displayLabel": "TCC 106",
+    "roomNumber": "106",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 106",
+      "TCC 106"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-106:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-106:access",
+        "nodeId": "TCC:1:room:106",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-1-RR",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "TCC restrooms, floor 1",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "TCC restrooms, floor 1",
+      "TCC RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-1-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-1-RR:access",
+        "nodeId": "TCC:1:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-108",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Faculty Offices",
+    "displayLabel": "TCC 108",
+    "roomNumber": "108",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 108",
+      "TCC 108"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-108:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-108:access",
+        "nodeId": "TCC:1:room:108",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-110",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Lecture Hall",
+    "displayLabel": "TCC 110",
+    "roomNumber": "110",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 110",
+      "TCC 110"
+    ],
+    "position": {
+      "x": 14,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-110:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-110:access",
+        "nodeId": "TCC:1:room:110",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-1-SB",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "Stairwell B",
+    "displayLabel": "TCC stairwell b, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "TCC stairwell b, floor 1",
+      "TCC B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-1-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-1-SB:access",
+        "nodeId": "TCC:1:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-ENT",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "main west entrance",
+    "displayLabel": "TCC main west entrance",
+    "roomNumber": null,
+    "kind": "entrance",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": -26,
+      "y": 0,
+      "z": 0
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "TCC:1:entrance:access",
+        "nodeId": "TCC:1:entrance",
+        "label": "main west entrance",
+        "position": {
+          "x": -26,
+          "y": 0,
+          "z": 0
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-EXIT-1-EXIT",
+    "buildingId": "TCC",
+    "floorId": "1",
+    "name": "east exit",
+    "displayLabel": "TCC east exit",
+    "roomNumber": null,
+    "kind": "emergency_exit",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": 26,
+      "y": 0,
+      "z": 0
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "TCC:1:exit:access",
+        "nodeId": "TCC:1:exit",
+        "label": "east exit",
+        "position": {
+          "x": 26,
+          "y": 0,
+          "z": 0
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": false,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-2-SA",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Stairwell A",
+    "displayLabel": "TCC stairwell a, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "TCC stairwell a, floor 2",
+      "TCC A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-2-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-2-SA:access",
+        "nodeId": "TCC:2:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-201",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "TCC 201",
+    "roomNumber": "201",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 201",
+      "TCC 201"
+    ],
+    "position": {
+      "x": -14,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-201:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-201:access",
+        "nodeId": "TCC:2:room:201",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-203",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Lecture Hall",
+    "displayLabel": "TCC 203",
+    "roomNumber": "203",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 203",
+      "TCC 203"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-203:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-203:access",
+        "nodeId": "TCC:2:room:203",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-2-EL",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Elevator",
+    "displayLabel": "TCC elevator, floor 2",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "TCC elevator, floor 2",
+      "TCC EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-2-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-2-EL:access",
+        "nodeId": "TCC:2:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-205",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Faculty Offices",
+    "displayLabel": "TCC 205",
+    "roomNumber": "205",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 205",
+      "TCC 205"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-205:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-205:access",
+        "nodeId": "TCC:2:room:205",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-207",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Lecture Hall",
+    "displayLabel": "TCC 207",
+    "roomNumber": "207",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 207",
+      "TCC 207"
+    ],
+    "position": {
+      "x": 14,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-207:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-207:access",
+        "nodeId": "TCC:2:room:207",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-209",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "TCC 209",
+    "roomNumber": "209",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 209",
+      "TCC 209"
+    ],
+    "position": {
+      "x": 21,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-209:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-209:access",
+        "nodeId": "TCC:2:room:209",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-202",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Computer Lab",
+    "displayLabel": "TCC 202",
+    "roomNumber": "202",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 202",
+      "TCC 202"
+    ],
+    "position": {
+      "x": -21,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-202:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-202:access",
+        "nodeId": "TCC:2:room:202",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-204",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "TCC 204",
+    "roomNumber": "204",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 204",
+      "TCC 204"
+    ],
+    "position": {
+      "x": -14,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-204:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-204:access",
+        "nodeId": "TCC:2:room:204",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-206",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Seminar Room",
+    "displayLabel": "TCC 206",
+    "roomNumber": "206",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 206",
+      "TCC 206"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-206:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-206:access",
+        "nodeId": "TCC:2:room:206",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-2-RR",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "TCC restrooms, floor 2",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "TCC restrooms, floor 2",
+      "TCC RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-2-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-2-RR:access",
+        "nodeId": "TCC:2:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-208",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Seminar Room",
+    "displayLabel": "TCC 208",
+    "roomNumber": "208",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 208",
+      "TCC 208"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-208:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-208:access",
+        "nodeId": "TCC:2:room:208",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-210",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Study Lounge",
+    "displayLabel": "TCC 210",
+    "roomNumber": "210",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 210",
+      "TCC 210"
+    ],
+    "position": {
+      "x": 14,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-210:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-210:access",
+        "nodeId": "TCC:2:room:210",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-2-SB",
+    "buildingId": "TCC",
+    "floorId": "2",
+    "name": "Stairwell B",
+    "displayLabel": "TCC stairwell b, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "TCC stairwell b, floor 2",
+      "TCC B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-2-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-2-SB:access",
+        "nodeId": "TCC:2:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-3-SA",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Stairwell A",
+    "displayLabel": "TCC stairwell a, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "TCC stairwell a, floor 3",
+      "TCC A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-3-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-3-SA:access",
+        "nodeId": "TCC:3:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-301",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Classroom",
+    "displayLabel": "TCC 301",
+    "roomNumber": "301",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 301",
+      "TCC 301"
+    ],
+    "position": {
+      "x": -14,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-301:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-301:access",
+        "nodeId": "TCC:3:room:301",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-303",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Seminar Room",
+    "displayLabel": "TCC 303",
+    "roomNumber": "303",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 303",
+      "TCC 303"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-303:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-303:access",
+        "nodeId": "TCC:3:room:303",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-3-EL",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Elevator",
+    "displayLabel": "TCC elevator, floor 3",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "TCC elevator, floor 3",
+      "TCC EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-3-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-3-EL:access",
+        "nodeId": "TCC:3:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-305",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Seminar Room",
+    "displayLabel": "TCC 305",
+    "roomNumber": "305",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 305",
+      "TCC 305"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-305:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-305:access",
+        "nodeId": "TCC:3:room:305",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-307",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Study Lounge",
+    "displayLabel": "TCC 307",
+    "roomNumber": "307",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 307",
+      "TCC 307"
+    ],
+    "position": {
+      "x": 14,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-307:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-307:access",
+        "nodeId": "TCC:3:room:307",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-309",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Computer Lab",
+    "displayLabel": "TCC 309",
+    "roomNumber": "309",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 309",
+      "TCC 309"
+    ],
+    "position": {
+      "x": 21,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-309:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-309:access",
+        "nodeId": "TCC:3:room:309",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-302",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Faculty Offices",
+    "displayLabel": "TCC 302",
+    "roomNumber": "302",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 302",
+      "TCC 302"
+    ],
+    "position": {
+      "x": -21,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-302:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-302:access",
+        "nodeId": "TCC:3:room:302",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-304",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Lecture Hall",
+    "displayLabel": "TCC 304",
+    "roomNumber": "304",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 304",
+      "TCC 304"
+    ],
+    "position": {
+      "x": -14,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-304:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-304:access",
+        "nodeId": "TCC:3:room:304",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-306",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Classroom",
+    "displayLabel": "TCC 306",
+    "roomNumber": "306",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 306",
+      "TCC 306"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-306:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-306:access",
+        "nodeId": "TCC:3:room:306",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-3-RR",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "TCC restrooms, floor 3",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "TCC restrooms, floor 3",
+      "TCC RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-3-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-3-RR:access",
+        "nodeId": "TCC:3:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-308",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Classroom",
+    "displayLabel": "TCC 308",
+    "roomNumber": "308",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 308",
+      "TCC 308"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-308:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-308:access",
+        "nodeId": "TCC:3:room:308",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-310",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Lecture Hall",
+    "displayLabel": "TCC 310",
+    "roomNumber": "310",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 310",
+      "TCC 310"
+    ],
+    "position": {
+      "x": 14,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-310:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-310:access",
+        "nodeId": "TCC:3:room:310",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-3-SB",
+    "buildingId": "TCC",
+    "floorId": "3",
+    "name": "Stairwell B",
+    "displayLabel": "TCC stairwell b, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "TCC stairwell b, floor 3",
+      "TCC B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-3-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-3-SB:access",
+        "nodeId": "TCC:3:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-4-SA",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Stairwell A",
+    "displayLabel": "TCC stairwell a, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "TCC stairwell a, floor 4",
+      "TCC A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-4-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-4-SA:access",
+        "nodeId": "TCC:4:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-401",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Lecture Hall",
+    "displayLabel": "TCC 401",
+    "roomNumber": "401",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 401",
+      "TCC 401"
+    ],
+    "position": {
+      "x": -14,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-401:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-401:access",
+        "nodeId": "TCC:4:room:401",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-403",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Classroom",
+    "displayLabel": "TCC 403",
+    "roomNumber": "403",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 403",
+      "TCC 403"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-403:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-403:access",
+        "nodeId": "TCC:4:room:403",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-4-EL",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Elevator",
+    "displayLabel": "TCC elevator, floor 4",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "TCC elevator, floor 4",
+      "TCC EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-4-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-4-EL:access",
+        "nodeId": "TCC:4:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-405",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Classroom",
+    "displayLabel": "TCC 405",
+    "roomNumber": "405",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 405",
+      "TCC 405"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-405:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-405:access",
+        "nodeId": "TCC:4:room:405",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-407",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Lecture Hall",
+    "displayLabel": "TCC 407",
+    "roomNumber": "407",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 407",
+      "TCC 407"
+    ],
+    "position": {
+      "x": 14,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-407:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-407:access",
+        "nodeId": "TCC:4:room:407",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-409",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Faculty Offices",
+    "displayLabel": "TCC 409",
+    "roomNumber": "409",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 409",
+      "TCC 409"
+    ],
+    "position": {
+      "x": 21,
+      "y": 10.2,
+      "z": -7
+    },
+    "sceneObjectKey": "TCC-409:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 10.2,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-409:access",
+        "nodeId": "TCC:4:room:409",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 10.2,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-402",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Seminar Room",
+    "displayLabel": "TCC 402",
+    "roomNumber": "402",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 402",
+      "TCC 402"
+    ],
+    "position": {
+      "x": -21,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-402:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-402:access",
+        "nodeId": "TCC:4:room:402",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-404",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Study Lounge",
+    "displayLabel": "TCC 404",
+    "roomNumber": "404",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 404",
+      "TCC 404"
+    ],
+    "position": {
+      "x": -14,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-404:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-404:access",
+        "nodeId": "TCC:4:room:404",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-406",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Computer Lab",
+    "displayLabel": "TCC 406",
+    "roomNumber": "406",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 406",
+      "TCC 406"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-406:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-406:access",
+        "nodeId": "TCC:4:room:406",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-4-RR",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "TCC restrooms, floor 4",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "TCC restrooms, floor 4",
+      "TCC RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-4-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-4-RR:access",
+        "nodeId": "TCC:4:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-408",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Classroom",
+    "displayLabel": "TCC 408",
+    "roomNumber": "408",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 408",
+      "TCC 408"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-408:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-408:access",
+        "nodeId": "TCC:4:room:408",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-410",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Seminar Room",
+    "displayLabel": "TCC 410",
+    "roomNumber": "410",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "TCC 410",
+      "TCC 410"
+    ],
+    "position": {
+      "x": 14,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-410:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-410:access",
+        "nodeId": "TCC:4:room:410",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "TCC-4-SB",
+    "buildingId": "TCC",
+    "floorId": "4",
+    "name": "Stairwell B",
+    "displayLabel": "TCC stairwell b, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "TCC stairwell b, floor 4",
+      "TCC B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 10.2,
+      "z": 7
+    },
+    "sceneObjectKey": "TCC-4-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 11.049999999999999,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "TCC-4-SB:access",
+        "nodeId": "TCC:4:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 10.2,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  }
+]

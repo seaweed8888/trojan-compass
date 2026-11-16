@@ -1,0 +1,2614 @@
+[
+  {
+    "id": "KAP-1-SA",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Stairwell A",
+    "displayLabel": "KAP stairwell a, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "KAP stairwell a, floor 1",
+      "KAP A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-1-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-1-SA:access",
+        "nodeId": "KAP:1:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-101",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Study Lounge",
+    "displayLabel": "KAP 101",
+    "roomNumber": "101",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 101",
+      "KAP 101"
+    ],
+    "position": {
+      "x": -14,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-101:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-101:access",
+        "nodeId": "KAP:1:room:101",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-103",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Computer Lab",
+    "displayLabel": "KAP 103",
+    "roomNumber": "103",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 103",
+      "KAP 103"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-103:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-103:access",
+        "nodeId": "KAP:1:room:103",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-1-EL",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Elevator",
+    "displayLabel": "KAP elevator, floor 1",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator, floor 1",
+      "KAP EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-1-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-1-EL:access",
+        "nodeId": "KAP:1:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-105",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 105",
+    "roomNumber": "105",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 105",
+      "KAP 105"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-105:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-105:access",
+        "nodeId": "KAP:1:room:105",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-107",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Seminar Room",
+    "displayLabel": "KAP 107",
+    "roomNumber": "107",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 107",
+      "KAP 107"
+    ],
+    "position": {
+      "x": 14,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-107:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-107:access",
+        "nodeId": "KAP:1:room:107",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-109",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Seminar Room",
+    "displayLabel": "KAP 109",
+    "roomNumber": "109",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 109",
+      "KAP 109"
+    ],
+    "position": {
+      "x": 21,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-109:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-109:access",
+        "nodeId": "KAP:1:room:109",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-102",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 102",
+    "roomNumber": "102",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 102",
+      "KAP 102"
+    ],
+    "position": {
+      "x": -21,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-102:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-102:access",
+        "nodeId": "KAP:1:room:102",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-104",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Lecture Hall",
+    "displayLabel": "KAP 104",
+    "roomNumber": "104",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 104",
+      "KAP 104"
+    ],
+    "position": {
+      "x": -14,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-104:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-104:access",
+        "nodeId": "KAP:1:room:104",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-106",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Faculty Offices",
+    "displayLabel": "KAP 106",
+    "roomNumber": "106",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 106",
+      "KAP 106"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-106:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-106:access",
+        "nodeId": "KAP:1:room:106",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-1-RR",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "KAP restrooms, floor 1",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "KAP restrooms, floor 1",
+      "KAP RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-1-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-1-RR:access",
+        "nodeId": "KAP:1:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-108",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Lecture Hall",
+    "displayLabel": "KAP 108",
+    "roomNumber": "108",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 108",
+      "KAP 108"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-108:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-108:access",
+        "nodeId": "KAP:1:room:108",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-110",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 110",
+    "roomNumber": "110",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 110",
+      "KAP 110"
+    ],
+    "position": {
+      "x": 14,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-110:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-110:access",
+        "nodeId": "KAP:1:room:110",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-1-SB",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Stairwell B",
+    "displayLabel": "KAP stairwell b, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "KAP stairwell b, floor 1",
+      "KAP B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-1-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-1-SB:access",
+        "nodeId": "KAP:1:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-ENT",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "main west entrance",
+    "displayLabel": "KAP main west entrance",
+    "roomNumber": null,
+    "kind": "entrance",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": -26,
+      "y": 0,
+      "z": 0
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "KAP:1:entrance:access",
+        "nodeId": "KAP:1:entrance",
+        "label": "main west entrance",
+        "position": {
+          "x": -26,
+          "y": 0,
+          "z": 0
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-EXIT-1-EXIT",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "east exit",
+    "displayLabel": "KAP east exit",
+    "roomNumber": null,
+    "kind": "emergency_exit",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": 26,
+      "y": 0,
+      "z": 0
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "KAP:1:exit:access",
+        "nodeId": "KAP:1:exit",
+        "label": "east exit",
+        "position": {
+          "x": 26,
+          "y": 0,
+          "z": 0
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": false,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-2-SA",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Stairwell A",
+    "displayLabel": "KAP stairwell a, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "KAP stairwell a, floor 2",
+      "KAP A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-2-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-2-SA:access",
+        "nodeId": "KAP:2:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-201",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Lecture Hall",
+    "displayLabel": "KAP 201",
+    "roomNumber": "201",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 201",
+      "KAP 201"
+    ],
+    "position": {
+      "x": -14,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-201:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-201:access",
+        "nodeId": "KAP:2:room:201",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-203",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Faculty Offices",
+    "displayLabel": "KAP 203",
+    "roomNumber": "203",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 203",
+      "KAP 203"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-203:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-203:access",
+        "nodeId": "KAP:2:room:203",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-2-EL",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Elevator",
+    "displayLabel": "KAP elevator, floor 2",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator, floor 2",
+      "KAP EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-2-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-2-EL:access",
+        "nodeId": "KAP:2:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-205",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Lecture Hall",
+    "displayLabel": "KAP 205",
+    "roomNumber": "205",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 205",
+      "KAP 205"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-205:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-205:access",
+        "nodeId": "KAP:2:room:205",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-207",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "KAP 207",
+    "roomNumber": "207",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 207",
+      "KAP 207"
+    ],
+    "position": {
+      "x": 14,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-207:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-207:access",
+        "nodeId": "KAP:2:room:207",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-209",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "KAP 209",
+    "roomNumber": "209",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 209",
+      "KAP 209"
+    ],
+    "position": {
+      "x": 21,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-209:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-209:access",
+        "nodeId": "KAP:2:room:209",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-202",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "KAP 202",
+    "roomNumber": "202",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 202",
+      "KAP 202"
+    ],
+    "position": {
+      "x": -21,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-202:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-202:access",
+        "nodeId": "KAP:2:room:202",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-204",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Seminar Room",
+    "displayLabel": "KAP 204",
+    "roomNumber": "204",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 204",
+      "KAP 204"
+    ],
+    "position": {
+      "x": -14,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-204:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-204:access",
+        "nodeId": "KAP:2:room:204",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-206",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Seminar Room",
+    "displayLabel": "KAP 206",
+    "roomNumber": "206",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 206",
+      "KAP 206"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-206:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-206:access",
+        "nodeId": "KAP:2:room:206",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-2-RR",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "KAP restrooms, floor 2",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "KAP restrooms, floor 2",
+      "KAP RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-2-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-2-RR:access",
+        "nodeId": "KAP:2:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-208",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Study Lounge",
+    "displayLabel": "KAP 208",
+    "roomNumber": "208",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 208",
+      "KAP 208"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-208:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-208:access",
+        "nodeId": "KAP:2:room:208",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-210",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Computer Lab",
+    "displayLabel": "KAP 210",
+    "roomNumber": "210",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 210",
+      "KAP 210"
+    ],
+    "position": {
+      "x": 14,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-210:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-210:access",
+        "nodeId": "KAP:2:room:210",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-2-SB",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Stairwell B",
+    "displayLabel": "KAP stairwell b, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "KAP stairwell b, floor 2",
+      "KAP B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-2-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-2-SB:access",
+        "nodeId": "KAP:2:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-3-SA",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Stairwell A",
+    "displayLabel": "KAP stairwell a, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "KAP stairwell a, floor 3",
+      "KAP A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-3-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-3-SA:access",
+        "nodeId": "KAP:3:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-301",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Seminar Room",
+    "displayLabel": "KAP 301",
+    "roomNumber": "301",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 301",
+      "KAP 301"
+    ],
+    "position": {
+      "x": -14,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-301:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-301:access",
+        "nodeId": "KAP:3:room:301",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-303",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Seminar Room",
+    "displayLabel": "KAP 303",
+    "roomNumber": "303",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 303",
+      "KAP 303"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-303:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-303:access",
+        "nodeId": "KAP:3:room:303",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-3-EL",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Elevator",
+    "displayLabel": "KAP elevator, floor 3",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator, floor 3",
+      "KAP EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-3-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-3-EL:access",
+        "nodeId": "KAP:3:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-305",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Study Lounge",
+    "displayLabel": "KAP 305",
+    "roomNumber": "305",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 305",
+      "KAP 305"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-305:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-305:access",
+        "nodeId": "KAP:3:room:305",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-307",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Computer Lab",
+    "displayLabel": "KAP 307",
+    "roomNumber": "307",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 307",
+      "KAP 307"
+    ],
+    "position": {
+      "x": 14,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-307:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-307:access",
+        "nodeId": "KAP:3:room:307",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-309",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Classroom",
+    "displayLabel": "KAP 309",
+    "roomNumber": "309",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 309",
+      "KAP 309"
+    ],
+    "position": {
+      "x": 21,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "KAP-309:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-309:access",
+        "nodeId": "KAP:3:room:309",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-302",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Lecture Hall",
+    "displayLabel": "KAP 302",
+    "roomNumber": "302",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 302",
+      "KAP 302"
+    ],
+    "position": {
+      "x": -21,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-302:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-302:access",
+        "nodeId": "KAP:3:room:302",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-304",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Classroom",
+    "displayLabel": "KAP 304",
+    "roomNumber": "304",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 304",
+      "KAP 304"
+    ],
+    "position": {
+      "x": -14,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-304:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-304:access",
+        "nodeId": "KAP:3:room:304",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-306",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Classroom",
+    "displayLabel": "KAP 306",
+    "roomNumber": "306",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 306",
+      "KAP 306"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-306:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-306:access",
+        "nodeId": "KAP:3:room:306",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-3-RR",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "KAP restrooms, floor 3",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "KAP restrooms, floor 3",
+      "KAP RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-3-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-3-RR:access",
+        "nodeId": "KAP:3:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-308",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Lecture Hall",
+    "displayLabel": "KAP 308",
+    "roomNumber": "308",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 308",
+      "KAP 308"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-308:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-308:access",
+        "nodeId": "KAP:3:room:308",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-310",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Faculty Offices",
+    "displayLabel": "KAP 310",
+    "roomNumber": "310",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 310",
+      "KAP 310"
+    ],
+    "position": {
+      "x": 14,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-310:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-310:access",
+        "nodeId": "KAP:3:room:310",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "KAP-3-SB",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Stairwell B",
+    "displayLabel": "KAP stairwell b, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "KAP stairwell b, floor 3",
+      "KAP B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "KAP-3-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-3-SB:access",
+        "nodeId": "KAP:3:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  }
+]

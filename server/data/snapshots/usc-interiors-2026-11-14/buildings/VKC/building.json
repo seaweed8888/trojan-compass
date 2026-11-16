@@ -1,0 +1,190 @@
+{
+  "id": "VKC",
+  "code": "VKC",
+  "name": "Dr. Joseph Medicine Crow Center for International and Public Affairs",
+  "aliases": [
+    "DMC",
+    "VKC",
+    "Von KleinSmid Center",
+    "Medicine Crow",
+    "Dr. Joseph Medicine Crow Center"
+  ],
+  "location": null,
+  "coverage": "demo",
+  "capabilities": {
+    "interiorScene": true,
+    "navigation": true,
+    "verifiedStepFreeRouting": false,
+    "chatText": true,
+    "chatImages": false,
+    "events": false
+  },
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [
+      "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf",
+      "https://roomfinder.usc.edu/"
+    ],
+    "verifiedAt": null,
+    "note": "Reconstructed demo interior; all positions, boundaries, doors and circulation inferred. Estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Floor count confirmed: City historic report describes three stories over basement; supersedes original generic four stories. https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf | U-shaped occupied wings within campus DMC envelope. Courtyard proportions and wing widths inferred, tower excluded. Navigation and access are unverified."
+  },
+  "description": "Medicine Crow Center (legacy code VKC): classrooms, offices and a lower-level library around an open courtyard.",
+  "officialMapUrl": null,
+  "viewerUrl": "/?building=VKC",
+  "coordinateSystem": {
+    "id": "VKC:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -42.3,
+      "y": -3.6399999999999997,
+      "z": -27.3
+    },
+    "max": {
+      "x": 42.3,
+      "y": 8.3,
+      "z": 27.3
+    }
+  },
+  "floors": [
+    {
+      "id": "0",
+      "buildingId": "VKC",
+      "label": "Basement",
+      "sortOrder": 0,
+      "elevationMeters": -3.4,
+      "sceneObjectKey": "VKC:floor:0",
+      "bounds": {
+        "min": {
+          "x": -42.3,
+          "y": -3.6399999999999997,
+          "z": -27.3
+        },
+        "max": {
+          "x": 42.3,
+          "y": -1.9,
+          "z": 27.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. U-shaped wings retained; campus DMC path is only an outer envelope. Nonoccupied globe tower not modeled as an occupied floor. Old inferred fourth-floor rooms removed. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "1",
+      "buildingId": "VKC",
+      "label": "Floor 1",
+      "sortOrder": 1,
+      "elevationMeters": 0,
+      "sceneObjectKey": "VKC:floor:1",
+      "bounds": {
+        "min": {
+          "x": -42.3,
+          "y": -0.24,
+          "z": -27.3
+        },
+        "max": {
+          "x": 42.3,
+          "y": 1.5,
+          "z": 27.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. U-shaped wings retained; campus DMC path is only an outer envelope. Nonoccupied globe tower not modeled as an occupied floor. Old inferred fourth-floor rooms removed. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "2",
+      "buildingId": "VKC",
+      "label": "Floor 2",
+      "sortOrder": 2,
+      "elevationMeters": 3.4,
+      "sceneObjectKey": "VKC:floor:2",
+      "bounds": {
+        "min": {
+          "x": -42.3,
+          "y": 3.16,
+          "z": -27.3
+        },
+        "max": {
+          "x": 42.3,
+          "y": 4.9,
+          "z": 27.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. U-shaped wings retained; campus DMC path is only an outer envelope. Nonoccupied globe tower not modeled as an occupied floor. Old inferred fourth-floor rooms removed. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "3",
+      "buildingId": "VKC",
+      "label": "Floor 3",
+      "sortOrder": 3,
+      "elevationMeters": 6.8,
+      "sceneObjectKey": "VKC:floor:3",
+      "bounds": {
+        "min": {
+          "x": -42.3,
+          "y": 6.56,
+          "z": -27.3
+        },
+        "max": {
+          "x": 42.3,
+          "y": 8.3,
+          "z": 27.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. U-shaped wings retained; campus DMC path is only an outer envelope. Nonoccupied globe tower not modeled as an occupied floor. Old inferred fourth-floor rooms removed. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "VKC:source:0",
+      "title": "Dr. Joseph Medicine Crow Center for International and Public Affairs reconstruction reference 1",
+      "url": "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf",
+      "sourceDate": null,
+      "pageReference": null,
+      "note": "Identity or exterior reference; interior positions remain inferred. See docs/interiors/."
+    },
+    {
+      "id": "VKC:source:1",
+      "title": "Dr. Joseph Medicine Crow Center for International and Public Affairs reconstruction reference 2",
+      "url": "https://roomfinder.usc.edu/",
+      "sourceDate": null,
+      "pageReference": null,
+      "note": "Identity or exterior reference; interior positions remain inferred. See docs/interiors/."
+    }
+  ]
+}

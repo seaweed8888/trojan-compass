@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "FEATURE_DISABLED",
+    "message": "This optional feature is not enabled.",
+    "requestId": "example-request"
+  }
+}

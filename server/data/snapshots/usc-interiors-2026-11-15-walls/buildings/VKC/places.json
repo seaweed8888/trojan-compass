@@ -1,0 +1,5000 @@
+[
+  {
+    "id": "VKC-B01",
+    "buildingId": "VKC",
+    "floorId": "0",
+    "name": "Library for International and Public Affairs",
+    "displayLabel": "VKC B01",
+    "roomNumber": "B01",
+    "kind": "classroom",
+    "description": "Open area",
+    "aliases": [
+      "VKC B01",
+      "VKC B01"
+    ],
+    "position": {
+      "x": -19,
+      "y": -3.4,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-B01:object",
+    "bounds": {
+      "min": {
+        "x": -32,
+        "y": -3.4,
+        "z": -26
+      },
+      "max": {
+        "x": -6,
+        "y": -1.7,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-B01:access",
+        "nodeId": "VKC:0:cell:VKC-B01",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -19,
+          "y": -3.4,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number inferred; identity confirmed; position inferred. Position, boundary and door inferred. Number inferred; lower-level library existence confirmed. Legacy generic floor 0 did not exist. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-B02",
+    "buildingId": "VKC",
+    "floorId": "0",
+    "name": "Library study area",
+    "displayLabel": "VKC B02",
+    "roomNumber": "B02",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC B02",
+      "VKC B02"
+    ],
+    "position": {
+      "x": 21,
+      "y": -3.4,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-B02:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": -3.4,
+        "z": -26
+      },
+      "max": {
+        "x": 32,
+        "y": -1.7,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-B02:access",
+        "nodeId": "VKC:0:cell:VKC-B02",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": -3.4,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-B03",
+    "buildingId": "VKC",
+    "floorId": "0",
+    "name": "Library study area",
+    "displayLabel": "VKC B03",
+    "roomNumber": "B03",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC B03",
+      "VKC B03"
+    ],
+    "position": {
+      "x": 0,
+      "y": -3.4,
+      "z": -16.5
+    },
+    "sceneObjectKey": "VKC-B03:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": -3.4,
+        "z": -18
+      },
+      "max": {
+        "x": 24,
+        "y": -1.7,
+        "z": -15
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-B03:access",
+        "nodeId": "VKC:0:cell:VKC-B03",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": -3.4,
+          "z": -16.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-B04",
+    "buildingId": "VKC",
+    "floorId": "0",
+    "name": "Library study area",
+    "displayLabel": "VKC B04",
+    "roomNumber": "B04",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC B04",
+      "VKC B04"
+    ],
+    "position": {
+      "x": -38.5,
+      "y": -3.4,
+      "z": -2.5
+    },
+    "sceneObjectKey": "VKC-B04:object",
+    "bounds": {
+      "min": {
+        "x": -41,
+        "y": -3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -36,
+        "y": -1.7,
+        "z": 7
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-B04:access",
+        "nodeId": "VKC:0:cell:VKC-B04",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -38.5,
+          "y": -3.4,
+          "z": -2.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-B05",
+    "buildingId": "VKC",
+    "floorId": "0",
+    "name": "Library study area",
+    "displayLabel": "VKC B05",
+    "roomNumber": "B05",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC B05",
+      "VKC B05"
+    ],
+    "position": {
+      "x": -38.5,
+      "y": -3.4,
+      "z": 16.5
+    },
+    "sceneObjectKey": "VKC-B05:object",
+    "bounds": {
+      "min": {
+        "x": -41,
+        "y": -3.4,
+        "z": 7
+      },
+      "max": {
+        "x": -36,
+        "y": -1.7,
+        "z": 26
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-B05:access",
+        "nodeId": "VKC:0:cell:VKC-B05",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -38.5,
+          "y": -3.4,
+          "z": 16.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-B06",
+    "buildingId": "VKC",
+    "floorId": "0",
+    "name": "Library study area",
+    "displayLabel": "VKC B06",
+    "roomNumber": "B06",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC B06",
+      "VKC B06"
+    ],
+    "position": {
+      "x": -29.5,
+      "y": -3.4,
+      "z": -2.5
+    },
+    "sceneObjectKey": "VKC-B06:object",
+    "bounds": {
+      "min": {
+        "x": -32,
+        "y": -3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -27,
+        "y": -1.7,
+        "z": 7
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-B06:access",
+        "nodeId": "VKC:0:cell:VKC-B06",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -29.5,
+          "y": -3.4,
+          "z": -2.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-B07",
+    "buildingId": "VKC",
+    "floorId": "0",
+    "name": "Library study area",
+    "displayLabel": "VKC B07",
+    "roomNumber": "B07",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC B07",
+      "VKC B07"
+    ],
+    "position": {
+      "x": -29.5,
+      "y": -3.4,
+      "z": 16.5
+    },
+    "sceneObjectKey": "VKC-B07:object",
+    "bounds": {
+      "min": {
+        "x": -32,
+        "y": -3.4,
+        "z": 7
+      },
+      "max": {
+        "x": -27,
+        "y": -1.7,
+        "z": 26
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-B07:access",
+        "nodeId": "VKC:0:cell:VKC-B07",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -29.5,
+          "y": -3.4,
+          "z": 16.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-B08",
+    "buildingId": "VKC",
+    "floorId": "0",
+    "name": "Library study area",
+    "displayLabel": "VKC B08",
+    "roomNumber": "B08",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC B08",
+      "VKC B08"
+    ],
+    "position": {
+      "x": 29.5,
+      "y": -3.4,
+      "z": -2.5
+    },
+    "sceneObjectKey": "VKC-B08:object",
+    "bounds": {
+      "min": {
+        "x": 27,
+        "y": -3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 32,
+        "y": -1.7,
+        "z": 7
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-B08:access",
+        "nodeId": "VKC:0:cell:VKC-B08",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 29.5,
+          "y": -3.4,
+          "z": -2.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-B09",
+    "buildingId": "VKC",
+    "floorId": "0",
+    "name": "Library study area",
+    "displayLabel": "VKC B09",
+    "roomNumber": "B09",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC B09",
+      "VKC B09"
+    ],
+    "position": {
+      "x": 29.5,
+      "y": -3.4,
+      "z": 16.5
+    },
+    "sceneObjectKey": "VKC-B09:object",
+    "bounds": {
+      "min": {
+        "x": 27,
+        "y": -3.4,
+        "z": 7
+      },
+      "max": {
+        "x": 32,
+        "y": -1.7,
+        "z": 26
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-B09:access",
+        "nodeId": "VKC:0:cell:VKC-B09",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 29.5,
+          "y": -3.4,
+          "z": 16.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-B10",
+    "buildingId": "VKC",
+    "floorId": "0",
+    "name": "Library study area",
+    "displayLabel": "VKC B10",
+    "roomNumber": "B10",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC B10",
+      "VKC B10"
+    ],
+    "position": {
+      "x": 38.5,
+      "y": -3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "VKC-B10:object",
+    "bounds": {
+      "min": {
+        "x": 36,
+        "y": -3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 41,
+        "y": -1.7,
+        "z": 26
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-B10:access",
+        "nodeId": "VKC:0:cell:VKC-B10",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 38.5,
+          "y": -3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-0-SA",
+    "buildingId": "VKC",
+    "floorId": "0",
+    "name": "West stairs",
+    "displayLabel": "VKC west stairs, basement",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "VKC west stairs, basement"
+    ],
+    "position": {
+      "x": -38.5,
+      "y": -3.4,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-0-SA:object",
+    "bounds": {
+      "min": {
+        "x": -41,
+        "y": -3.4,
+        "z": -26
+      },
+      "max": {
+        "x": -36,
+        "y": -1.7,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-0-SA:access",
+        "nodeId": "VKC:0:cell:VKC-0-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -38.5,
+          "y": -3.4,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-0-SB",
+    "buildingId": "VKC",
+    "floorId": "0",
+    "name": "East stairs",
+    "displayLabel": "VKC east stairs, basement",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "VKC east stairs, basement"
+    ],
+    "position": {
+      "x": 38.5,
+      "y": -3.4,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-0-SB:object",
+    "bounds": {
+      "min": {
+        "x": 36,
+        "y": -3.4,
+        "z": -26
+      },
+      "max": {
+        "x": 41,
+        "y": -1.7,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-0-SB:access",
+        "nodeId": "VKC:0:cell:VKC-0-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 38.5,
+          "y": -3.4,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-0-EL",
+    "buildingId": "VKC",
+    "floorId": "0",
+    "name": "Central elevator",
+    "displayLabel": "VKC central elevator, basement",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "VKC central elevator, basement"
+    ],
+    "position": {
+      "x": -2,
+      "y": -3.4,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-0-EL:object",
+    "bounds": {
+      "min": {
+        "x": -4,
+        "y": -3.4,
+        "z": -26
+      },
+      "max": {
+        "x": 0,
+        "y": -1.7,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-0-EL:access",
+        "nodeId": "VKC:0:cell:VKC-0-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -2,
+          "y": -3.4,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-0-RR",
+    "buildingId": "VKC",
+    "floorId": "0",
+    "name": "Restrooms",
+    "displayLabel": "VKC restrooms, basement",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "VKC restrooms, basement"
+    ],
+    "position": {
+      "x": 5,
+      "y": -3.4,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-0-RR:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": -3.4,
+        "z": -26
+      },
+      "max": {
+        "x": 8,
+        "y": -1.7,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-0-RR:access",
+        "nodeId": "VKC:0:cell:VKC-0-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5,
+          "y": -3.4,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-100",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 100",
+    "roomNumber": "100",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 100",
+      "VKC 100"
+    ],
+    "position": {
+      "x": -24.898000000000003,
+      "y": 0,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-100:object",
+    "bounds": {
+      "min": {
+        "x": -32,
+        "y": 0,
+        "z": -26
+      },
+      "max": {
+        "x": -17.796000000000003,
+        "y": 1.7,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-100:access",
+        "nodeId": "VKC:1:cell:VKC-100",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -24.898000000000003,
+          "y": 0,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-101",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 101",
+    "roomNumber": "101",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 101",
+      "VKC 101"
+    ],
+    "position": {
+      "x": -11.898000000000001,
+      "y": 0,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-101:object",
+    "bounds": {
+      "min": {
+        "x": -17.796000000000003,
+        "y": 0,
+        "z": -26
+      },
+      "max": {
+        "x": -6,
+        "y": 1.7,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-101:access",
+        "nodeId": "VKC:1:cell:VKC-101",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -11.898000000000001,
+          "y": 0,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-102",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 102",
+    "roomNumber": "102",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 102",
+      "VKC 102"
+    ],
+    "position": {
+      "x": 16.110999999999997,
+      "y": 0,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-102:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 0,
+        "z": -26
+      },
+      "max": {
+        "x": 22.221999999999994,
+        "y": 1.7,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-102:access",
+        "nodeId": "VKC:1:cell:VKC-102",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 16.110999999999997,
+          "y": 0,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-103",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 103",
+    "roomNumber": "103",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 103",
+      "VKC 103"
+    ],
+    "position": {
+      "x": 27.110999999999997,
+      "y": 0,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-103:object",
+    "bounds": {
+      "min": {
+        "x": 22.221999999999994,
+        "y": 0,
+        "z": -26
+      },
+      "max": {
+        "x": 32,
+        "y": 1.7,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-103:access",
+        "nodeId": "VKC:1:cell:VKC-103",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 27.110999999999997,
+          "y": 0,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-104",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 104",
+    "roomNumber": "104",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 104",
+      "VKC 104"
+    ],
+    "position": {
+      "x": -16,
+      "y": 0,
+      "z": -16.5
+    },
+    "sceneObjectKey": "VKC-104:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 0,
+        "z": -18
+      },
+      "max": {
+        "x": -8,
+        "y": 1.7,
+        "z": -15
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-104:access",
+        "nodeId": "VKC:1:cell:VKC-104",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -16,
+          "y": 0,
+          "z": -16.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-105",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 105",
+    "roomNumber": "105",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 105",
+      "VKC 105"
+    ],
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": -16.5
+    },
+    "sceneObjectKey": "VKC-105:object",
+    "bounds": {
+      "min": {
+        "x": -8,
+        "y": 0,
+        "z": -18
+      },
+      "max": {
+        "x": 8,
+        "y": 1.7,
+        "z": -15
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-105:access",
+        "nodeId": "VKC:1:cell:VKC-105",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": -16.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-106",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 106",
+    "roomNumber": "106",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 106",
+      "VKC 106"
+    ],
+    "position": {
+      "x": 16,
+      "y": 0,
+      "z": -16.5
+    },
+    "sceneObjectKey": "VKC-106:object",
+    "bounds": {
+      "min": {
+        "x": 8,
+        "y": 0,
+        "z": -18
+      },
+      "max": {
+        "x": 24,
+        "y": 1.7,
+        "z": -15
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-106:access",
+        "nodeId": "VKC:1:cell:VKC-106",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 16,
+          "y": 0,
+          "z": -16.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-107",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 107",
+    "roomNumber": "107",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 107",
+      "VKC 107"
+    ],
+    "position": {
+      "x": -38.5,
+      "y": 0,
+      "z": -7.25
+    },
+    "sceneObjectKey": "VKC-107:object",
+    "bounds": {
+      "min": {
+        "x": -41,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -36,
+        "y": 1.7,
+        "z": -2.5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-107:access",
+        "nodeId": "VKC:1:cell:VKC-107",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -38.5,
+          "y": 0,
+          "z": -7.25
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-108",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 108",
+    "roomNumber": "108",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 108",
+      "VKC 108"
+    ],
+    "position": {
+      "x": -38.5,
+      "y": 0,
+      "z": 2.25
+    },
+    "sceneObjectKey": "VKC-108:object",
+    "bounds": {
+      "min": {
+        "x": -41,
+        "y": 0,
+        "z": -2.5
+      },
+      "max": {
+        "x": -36,
+        "y": 1.7,
+        "z": 7
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-108:access",
+        "nodeId": "VKC:1:cell:VKC-108",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -38.5,
+          "y": 0,
+          "z": 2.25
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-109",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 109",
+    "roomNumber": "109",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 109",
+      "VKC 109"
+    ],
+    "position": {
+      "x": -38.5,
+      "y": 0,
+      "z": 11.75
+    },
+    "sceneObjectKey": "VKC-109:object",
+    "bounds": {
+      "min": {
+        "x": -41,
+        "y": 0,
+        "z": 7
+      },
+      "max": {
+        "x": -36,
+        "y": 1.7,
+        "z": 16.5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-109:access",
+        "nodeId": "VKC:1:cell:VKC-109",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -38.5,
+          "y": 0,
+          "z": 11.75
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-110",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 110",
+    "roomNumber": "110",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 110",
+      "VKC 110"
+    ],
+    "position": {
+      "x": -38.5,
+      "y": 0,
+      "z": 21.25
+    },
+    "sceneObjectKey": "VKC-110:object",
+    "bounds": {
+      "min": {
+        "x": -41,
+        "y": 0,
+        "z": 16.5
+      },
+      "max": {
+        "x": -36,
+        "y": 1.7,
+        "z": 26
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-110:access",
+        "nodeId": "VKC:1:cell:VKC-110",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -38.5,
+          "y": 0,
+          "z": 21.25
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-111",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 111",
+    "roomNumber": "111",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 111",
+      "VKC 111"
+    ],
+    "position": {
+      "x": -29.5,
+      "y": 0,
+      "z": -7.876999999999998
+    },
+    "sceneObjectKey": "VKC-111:object",
+    "bounds": {
+      "min": {
+        "x": -32,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -27,
+        "y": 1.7,
+        "z": -3.7539999999999965
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-111:access",
+        "nodeId": "VKC:1:cell:VKC-111",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -29.5,
+          "y": 0,
+          "z": -7.876999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-150",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 150",
+    "roomNumber": "150",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 150",
+      "VKC 150"
+    ],
+    "position": {
+      "x": -29.5,
+      "y": 0,
+      "z": 1.7
+    },
+    "sceneObjectKey": "VKC-150:object",
+    "bounds": {
+      "min": {
+        "x": -32,
+        "y": 0,
+        "z": -3.7539999999999965
+      },
+      "max": {
+        "x": -27,
+        "y": 1.7,
+        "z": 7.153999999999996
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-150:access",
+        "nodeId": "VKC:1:cell:VKC-150",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -29.5,
+          "y": 0,
+          "z": 1.7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-151",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 151",
+    "roomNumber": "151",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 151",
+      "VKC 151"
+    ],
+    "position": {
+      "x": -29.5,
+      "y": 0,
+      "z": 11.526999999999997
+    },
+    "sceneObjectKey": "VKC-151:object",
+    "bounds": {
+      "min": {
+        "x": -32,
+        "y": 0,
+        "z": 7.153999999999996
+      },
+      "max": {
+        "x": -27,
+        "y": 1.7,
+        "z": 15.9
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-151:access",
+        "nodeId": "VKC:1:cell:VKC-151",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -29.5,
+          "y": 0,
+          "z": 11.526999999999997
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-152",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 152",
+    "roomNumber": "152",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 152",
+      "VKC 152"
+    ],
+    "position": {
+      "x": -29.5,
+      "y": 0,
+      "z": 20.95
+    },
+    "sceneObjectKey": "VKC-152:object",
+    "bounds": {
+      "min": {
+        "x": -32,
+        "y": 0,
+        "z": 15.9
+      },
+      "max": {
+        "x": -27,
+        "y": 1.7,
+        "z": 26
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-152:access",
+        "nodeId": "VKC:1:cell:VKC-152",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -29.5,
+          "y": 0,
+          "z": 20.95
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-153",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 153",
+    "roomNumber": "153",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 153",
+      "VKC 153"
+    ],
+    "position": {
+      "x": 29.5,
+      "y": 0,
+      "z": -7.650999999999999
+    },
+    "sceneObjectKey": "VKC-153:object",
+    "bounds": {
+      "min": {
+        "x": 27,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 32,
+        "y": 1.7,
+        "z": -3.3019999999999983
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-153:access",
+        "nodeId": "VKC:1:cell:VKC-153",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 29.5,
+          "y": 0,
+          "z": -7.650999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-154",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 154",
+    "roomNumber": "154",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 154",
+      "VKC 154"
+    ],
+    "position": {
+      "x": 29.5,
+      "y": 0,
+      "z": 1.0459999999999996
+    },
+    "sceneObjectKey": "VKC-154:object",
+    "bounds": {
+      "min": {
+        "x": 27,
+        "y": 0,
+        "z": -3.3019999999999983
+      },
+      "max": {
+        "x": 32,
+        "y": 1.7,
+        "z": 5.3939999999999975
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-154:access",
+        "nodeId": "VKC:1:cell:VKC-154",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 29.5,
+          "y": 0,
+          "z": 1.0459999999999996
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-155",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 155",
+    "roomNumber": "155",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 155",
+      "VKC 155"
+    ],
+    "position": {
+      "x": 29.5,
+      "y": 0,
+      "z": 9.742999999999999
+    },
+    "sceneObjectKey": "VKC-155:object",
+    "bounds": {
+      "min": {
+        "x": 27,
+        "y": 0,
+        "z": 5.3939999999999975
+      },
+      "max": {
+        "x": 32,
+        "y": 1.7,
+        "z": 14.092
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-155:access",
+        "nodeId": "VKC:1:cell:VKC-155",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 29.5,
+          "y": 0,
+          "z": 9.742999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-156",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 156",
+    "roomNumber": "156",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 156",
+      "VKC 156"
+    ],
+    "position": {
+      "x": 29.5,
+      "y": 0,
+      "z": 20.046
+    },
+    "sceneObjectKey": "VKC-156:object",
+    "bounds": {
+      "min": {
+        "x": 27,
+        "y": 0,
+        "z": 14.092
+      },
+      "max": {
+        "x": 32,
+        "y": 1.7,
+        "z": 26
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-156:access",
+        "nodeId": "VKC:1:cell:VKC-156",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 29.5,
+          "y": 0,
+          "z": 20.046
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-157",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 157",
+    "roomNumber": "157",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 157",
+      "VKC 157"
+    ],
+    "position": {
+      "x": 38.5,
+      "y": 0,
+      "z": -7.037000000000001
+    },
+    "sceneObjectKey": "VKC-157:object",
+    "bounds": {
+      "min": {
+        "x": 36,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 41,
+        "y": 1.7,
+        "z": -2.0740000000000007
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-157:access",
+        "nodeId": "VKC:1:cell:VKC-157",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 38.5,
+          "y": 0,
+          "z": -7.037000000000001
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-158",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 158",
+    "roomNumber": "158",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 158",
+      "VKC 158"
+    ],
+    "position": {
+      "x": 38.5,
+      "y": 0,
+      "z": 2.6049999999999995
+    },
+    "sceneObjectKey": "VKC-158:object",
+    "bounds": {
+      "min": {
+        "x": 36,
+        "y": 0,
+        "z": -2.0740000000000007
+      },
+      "max": {
+        "x": 41,
+        "y": 1.7,
+        "z": 7.284
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-158:access",
+        "nodeId": "VKC:1:cell:VKC-158",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 38.5,
+          "y": 0,
+          "z": 2.6049999999999995
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-160",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 160",
+    "roomNumber": "160",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 160",
+      "VKC 160"
+    ],
+    "position": {
+      "x": 38.5,
+      "y": 0,
+      "z": 11.963
+    },
+    "sceneObjectKey": "VKC-160:object",
+    "bounds": {
+      "min": {
+        "x": 36,
+        "y": 0,
+        "z": 7.284
+      },
+      "max": {
+        "x": 41,
+        "y": 1.7,
+        "z": 16.642
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-160:access",
+        "nodeId": "VKC:1:cell:VKC-160",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 38.5,
+          "y": 0,
+          "z": 11.963
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-161",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "VKC 161",
+    "roomNumber": "161",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 161",
+      "VKC 161"
+    ],
+    "position": {
+      "x": 38.5,
+      "y": 0,
+      "z": 21.320999999999998
+    },
+    "sceneObjectKey": "VKC-161:object",
+    "bounds": {
+      "min": {
+        "x": 36,
+        "y": 0,
+        "z": 16.642
+      },
+      "max": {
+        "x": 41,
+        "y": 1.7,
+        "z": 26
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-161:access",
+        "nodeId": "VKC:1:cell:VKC-161",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 38.5,
+          "y": 0,
+          "z": 21.320999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-1-SA",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "West stairs",
+    "displayLabel": "VKC west stairs, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "VKC west stairs, floor 1"
+    ],
+    "position": {
+      "x": -38.5,
+      "y": 0,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-1-SA:object",
+    "bounds": {
+      "min": {
+        "x": -41,
+        "y": 0,
+        "z": -26
+      },
+      "max": {
+        "x": -36,
+        "y": 1.7,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-1-SA:access",
+        "nodeId": "VKC:1:cell:VKC-1-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -38.5,
+          "y": 0,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-1-SB",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "East stairs",
+    "displayLabel": "VKC east stairs, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "VKC east stairs, floor 1"
+    ],
+    "position": {
+      "x": 38.5,
+      "y": 0,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-1-SB:object",
+    "bounds": {
+      "min": {
+        "x": 36,
+        "y": 0,
+        "z": -26
+      },
+      "max": {
+        "x": 41,
+        "y": 1.7,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-1-SB:access",
+        "nodeId": "VKC:1:cell:VKC-1-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 38.5,
+          "y": 0,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-1-EL",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Central elevator",
+    "displayLabel": "VKC central elevator, floor 1",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "VKC central elevator, floor 1"
+    ],
+    "position": {
+      "x": -2,
+      "y": 0,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-1-EL:object",
+    "bounds": {
+      "min": {
+        "x": -4,
+        "y": 0,
+        "z": -26
+      },
+      "max": {
+        "x": 0,
+        "y": 1.7,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-1-EL:access",
+        "nodeId": "VKC:1:cell:VKC-1-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -2,
+          "y": 0,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-1-RR",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "Restrooms",
+    "displayLabel": "VKC restrooms, floor 1",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "VKC restrooms, floor 1"
+    ],
+    "position": {
+      "x": 5,
+      "y": 0,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-1-RR:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": -26
+      },
+      "max": {
+        "x": 8,
+        "y": 1.7,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-1-RR:access",
+        "nodeId": "VKC:1:cell:VKC-1-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5,
+          "y": 0,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-ENT",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "main entrance",
+    "displayLabel": "VKC main entrance",
+    "roomNumber": null,
+    "kind": "entrance",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": -42,
+      "y": 0,
+      "z": -20
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "VKC:1:entrance:access",
+        "nodeId": "VKC:1:entrance",
+        "label": "main entrance",
+        "position": {
+          "x": -42,
+          "y": 0,
+          "z": -20
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Door location and step-free property inferred; not a verified accessible entrance or emergency exit. Sources: demos/usc-map/locations.json Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-EXIT-1-EXIT",
+    "buildingId": "VKC",
+    "floorId": "1",
+    "name": "secondary exit",
+    "displayLabel": "VKC secondary exit",
+    "roomNumber": null,
+    "kind": "emergency_exit",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": 42,
+      "y": 0,
+      "z": -20
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "VKC:1:exit:access",
+        "nodeId": "VKC:1:exit",
+        "label": "secondary exit",
+        "position": {
+          "x": 42,
+          "y": 0,
+          "z": -20
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": false,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Door location and step-free property inferred; not a verified accessible entrance or emergency exit. Sources: demos/usc-map/locations.json Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-200",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 200",
+    "roomNumber": "200",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 200",
+      "VKC 200"
+    ],
+    "position": {
+      "x": -25.736,
+      "y": 3.4,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-200:object",
+    "bounds": {
+      "min": {
+        "x": -32,
+        "y": 3.4,
+        "z": -26
+      },
+      "max": {
+        "x": -19.472,
+        "y": 5.1,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-200:access",
+        "nodeId": "VKC:2:cell:VKC-200",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -25.736,
+          "y": 3.4,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-201",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 201",
+    "roomNumber": "201",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 201",
+      "VKC 201"
+    ],
+    "position": {
+      "x": -12.736,
+      "y": 3.4,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-201:object",
+    "bounds": {
+      "min": {
+        "x": -19.472,
+        "y": 3.4,
+        "z": -26
+      },
+      "max": {
+        "x": -6,
+        "y": 5.1,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-201:access",
+        "nodeId": "VKC:2:cell:VKC-201",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12.736,
+          "y": 3.4,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-202",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 202",
+    "roomNumber": "202",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 202",
+      "VKC 202"
+    ],
+    "position": {
+      "x": 15.3,
+      "y": 3.4,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-202:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 3.4,
+        "z": -26
+      },
+      "max": {
+        "x": 20.6,
+        "y": 5.1,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-202:access",
+        "nodeId": "VKC:2:cell:VKC-202",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 15.3,
+          "y": 3.4,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-203",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 203",
+    "roomNumber": "203",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 203",
+      "VKC 203"
+    ],
+    "position": {
+      "x": 26.3,
+      "y": 3.4,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-203:object",
+    "bounds": {
+      "min": {
+        "x": 20.6,
+        "y": 3.4,
+        "z": -26
+      },
+      "max": {
+        "x": 32,
+        "y": 5.1,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-203:access",
+        "nodeId": "VKC:2:cell:VKC-203",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 26.3,
+          "y": 3.4,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-204",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 204",
+    "roomNumber": "204",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 204",
+      "VKC 204"
+    ],
+    "position": {
+      "x": -16.159,
+      "y": 3.4,
+      "z": -16.5
+    },
+    "sceneObjectKey": "VKC-204:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 3.4,
+        "z": -18
+      },
+      "max": {
+        "x": -8.318,
+        "y": 5.1,
+        "z": -15
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-204:access",
+        "nodeId": "VKC:2:cell:VKC-204",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -16.159,
+          "y": 3.4,
+          "z": -16.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-205",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 205",
+    "roomNumber": "205",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 205",
+      "VKC 205"
+    ],
+    "position": {
+      "x": 0,
+      "y": 3.4,
+      "z": -16.5
+    },
+    "sceneObjectKey": "VKC-205:object",
+    "bounds": {
+      "min": {
+        "x": -8.318,
+        "y": 3.4,
+        "z": -18
+      },
+      "max": {
+        "x": 8.318,
+        "y": 5.1,
+        "z": -15
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-205:access",
+        "nodeId": "VKC:2:cell:VKC-205",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 3.4,
+          "z": -16.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-206",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 206",
+    "roomNumber": "206",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 206",
+      "VKC 206"
+    ],
+    "position": {
+      "x": 16.159,
+      "y": 3.4,
+      "z": -16.5
+    },
+    "sceneObjectKey": "VKC-206:object",
+    "bounds": {
+      "min": {
+        "x": 8.318,
+        "y": 3.4,
+        "z": -18
+      },
+      "max": {
+        "x": 24,
+        "y": 5.1,
+        "z": -15
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-206:access",
+        "nodeId": "VKC:2:cell:VKC-206",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 16.159,
+          "y": 3.4,
+          "z": -16.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-207",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 207",
+    "roomNumber": "207",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 207",
+      "VKC 207"
+    ],
+    "position": {
+      "x": -38.5,
+      "y": 3.4,
+      "z": -7.092999999999999
+    },
+    "sceneObjectKey": "VKC-207:object",
+    "bounds": {
+      "min": {
+        "x": -41,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -36,
+        "y": 5.1,
+        "z": -2.1859999999999977
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-207:access",
+        "nodeId": "VKC:2:cell:VKC-207",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -38.5,
+          "y": 3.4,
+          "z": -7.092999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-208",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 208",
+    "roomNumber": "208",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 208",
+      "VKC 208"
+    ],
+    "position": {
+      "x": -38.5,
+      "y": 3.4,
+      "z": 2.4410000000000007
+    },
+    "sceneObjectKey": "VKC-208:object",
+    "bounds": {
+      "min": {
+        "x": -41,
+        "y": 3.4,
+        "z": -2.1859999999999977
+      },
+      "max": {
+        "x": -36,
+        "y": 5.1,
+        "z": 7.067999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-208:access",
+        "nodeId": "VKC:2:cell:VKC-208",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -38.5,
+          "y": 3.4,
+          "z": 2.4410000000000007
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-209",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 209",
+    "roomNumber": "209",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 209",
+      "VKC 209"
+    ],
+    "position": {
+      "x": -38.5,
+      "y": 3.4,
+      "z": 11.694999999999999
+    },
+    "sceneObjectKey": "VKC-209:object",
+    "bounds": {
+      "min": {
+        "x": -41,
+        "y": 3.4,
+        "z": 7.067999999999999
+      },
+      "max": {
+        "x": -36,
+        "y": 5.1,
+        "z": 16.322
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-209:access",
+        "nodeId": "VKC:2:cell:VKC-209",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -38.5,
+          "y": 3.4,
+          "z": 11.694999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-210",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 210",
+    "roomNumber": "210",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 210",
+      "VKC 210"
+    ],
+    "position": {
+      "x": -38.5,
+      "y": 3.4,
+      "z": 21.161
+    },
+    "sceneObjectKey": "VKC-210:object",
+    "bounds": {
+      "min": {
+        "x": -41,
+        "y": 3.4,
+        "z": 16.322
+      },
+      "max": {
+        "x": -36,
+        "y": 5.1,
+        "z": 26
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-210:access",
+        "nodeId": "VKC:2:cell:VKC-210",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -38.5,
+          "y": 3.4,
+          "z": 21.161
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-211",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 211",
+    "roomNumber": "211",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 211",
+      "VKC 211"
+    ],
+    "position": {
+      "x": -29.5,
+      "y": 3.4,
+      "z": -7.1099999999999985
+    },
+    "sceneObjectKey": "VKC-211:object",
+    "bounds": {
+      "min": {
+        "x": -32,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -27,
+        "y": 5.1,
+        "z": -2.219999999999997
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-211:access",
+        "nodeId": "VKC:2:cell:VKC-211",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -29.5,
+          "y": 3.4,
+          "z": -7.1099999999999985
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-252",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 252",
+    "roomNumber": "252",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 252",
+      "VKC 252"
+    ],
+    "position": {
+      "x": -29.5,
+      "y": 3.4,
+      "z": 2.670000000000001
+    },
+    "sceneObjectKey": "VKC-252:object",
+    "bounds": {
+      "min": {
+        "x": -32,
+        "y": 3.4,
+        "z": -2.219999999999997
+      },
+      "max": {
+        "x": -27,
+        "y": 5.1,
+        "z": 7.559999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-252:access",
+        "nodeId": "VKC:2:cell:VKC-252",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -29.5,
+          "y": 3.4,
+          "z": 2.670000000000001
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-254",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 254",
+    "roomNumber": "254",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 254",
+      "VKC 254"
+    ],
+    "position": {
+      "x": -29.5,
+      "y": 3.4,
+      "z": 12.169999999999998
+    },
+    "sceneObjectKey": "VKC-254:object",
+    "bounds": {
+      "min": {
+        "x": -32,
+        "y": 3.4,
+        "z": 7.559999999999999
+      },
+      "max": {
+        "x": -27,
+        "y": 5.1,
+        "z": 16.779999999999998
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-254:access",
+        "nodeId": "VKC:2:cell:VKC-254",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -29.5,
+          "y": 3.4,
+          "z": 12.169999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-255",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 255",
+    "roomNumber": "255",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 255",
+      "VKC 255"
+    ],
+    "position": {
+      "x": -29.5,
+      "y": 3.4,
+      "z": 21.39
+    },
+    "sceneObjectKey": "VKC-255:object",
+    "bounds": {
+      "min": {
+        "x": -32,
+        "y": 3.4,
+        "z": 16.779999999999998
+      },
+      "max": {
+        "x": -27,
+        "y": 5.1,
+        "z": 26
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-255:access",
+        "nodeId": "VKC:2:cell:VKC-255",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -29.5,
+          "y": 3.4,
+          "z": 21.39
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-256",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 256",
+    "roomNumber": "256",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 256",
+      "VKC 256"
+    ],
+    "position": {
+      "x": 29.5,
+      "y": 3.4,
+      "z": -5.544000000000001
+    },
+    "sceneObjectKey": "VKC-256:object",
+    "bounds": {
+      "min": {
+        "x": 27,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 32,
+        "y": 5.1,
+        "z": 0.9119999999999967
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-256:access",
+        "nodeId": "VKC:2:cell:VKC-256",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 29.5,
+          "y": 3.4,
+          "z": -5.544000000000001
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-257",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 257",
+    "roomNumber": "257",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 257",
+      "VKC 257"
+    ],
+    "position": {
+      "x": 29.5,
+      "y": 3.4,
+      "z": 6.999999999999998
+    },
+    "sceneObjectKey": "VKC-257:object",
+    "bounds": {
+      "min": {
+        "x": 27,
+        "y": 3.4,
+        "z": 0.9119999999999967
+      },
+      "max": {
+        "x": 32,
+        "y": 5.1,
+        "z": 13.088
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-257:access",
+        "nodeId": "VKC:2:cell:VKC-257",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 29.5,
+          "y": 3.4,
+          "z": 6.999999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-258",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 258",
+    "roomNumber": "258",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 258",
+      "VKC 258"
+    ],
+    "position": {
+      "x": 29.5,
+      "y": 3.4,
+      "z": 19.544
+    },
+    "sceneObjectKey": "VKC-258:object",
+    "bounds": {
+      "min": {
+        "x": 27,
+        "y": 3.4,
+        "z": 13.088
+      },
+      "max": {
+        "x": 32,
+        "y": 5.1,
+        "z": 26
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-258:access",
+        "nodeId": "VKC:2:cell:VKC-258",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 29.5,
+          "y": 3.4,
+          "z": 19.544
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-259",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 259",
+    "roomNumber": "259",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 259",
+      "VKC 259"
+    ],
+    "position": {
+      "x": 38.5,
+      "y": 3.4,
+      "z": -5.969000000000002
+    },
+    "sceneObjectKey": "VKC-259:object",
+    "bounds": {
+      "min": {
+        "x": 36,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 41,
+        "y": 5.1,
+        "z": 0.06199999999999666
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-259:access",
+        "nodeId": "VKC:2:cell:VKC-259",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 38.5,
+          "y": 3.4,
+          "z": -5.969000000000002
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-260",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 260",
+    "roomNumber": "260",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 260",
+      "VKC 260"
+    ],
+    "position": {
+      "x": 38.5,
+      "y": 3.4,
+      "z": 6.545999999999998
+    },
+    "sceneObjectKey": "VKC-260:object",
+    "bounds": {
+      "min": {
+        "x": 36,
+        "y": 3.4,
+        "z": 0.06199999999999666
+      },
+      "max": {
+        "x": 41,
+        "y": 5.1,
+        "z": 13.03
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-260:access",
+        "nodeId": "VKC:2:cell:VKC-260",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 38.5,
+          "y": 3.4,
+          "z": 6.545999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-261",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "VKC 261",
+    "roomNumber": "261",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 261",
+      "VKC 261"
+    ],
+    "position": {
+      "x": 38.5,
+      "y": 3.4,
+      "z": 19.515
+    },
+    "sceneObjectKey": "VKC-261:object",
+    "bounds": {
+      "min": {
+        "x": 36,
+        "y": 3.4,
+        "z": 13.03
+      },
+      "max": {
+        "x": 41,
+        "y": 5.1,
+        "z": 26
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-261:access",
+        "nodeId": "VKC:2:cell:VKC-261",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 38.5,
+          "y": 3.4,
+          "z": 19.515
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Published under current alias DMC; stable VKC ID retained. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-2-SA",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "West stairs",
+    "displayLabel": "VKC west stairs, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "VKC west stairs, floor 2"
+    ],
+    "position": {
+      "x": -38.5,
+      "y": 3.4,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-2-SA:object",
+    "bounds": {
+      "min": {
+        "x": -41,
+        "y": 3.4,
+        "z": -26
+      },
+      "max": {
+        "x": -36,
+        "y": 5.1,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-2-SA:access",
+        "nodeId": "VKC:2:cell:VKC-2-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -38.5,
+          "y": 3.4,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-2-SB",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "East stairs",
+    "displayLabel": "VKC east stairs, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "VKC east stairs, floor 2"
+    ],
+    "position": {
+      "x": 38.5,
+      "y": 3.4,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-2-SB:object",
+    "bounds": {
+      "min": {
+        "x": 36,
+        "y": 3.4,
+        "z": -26
+      },
+      "max": {
+        "x": 41,
+        "y": 5.1,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-2-SB:access",
+        "nodeId": "VKC:2:cell:VKC-2-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 38.5,
+          "y": 3.4,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-2-EL",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Central elevator",
+    "displayLabel": "VKC central elevator, floor 2",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "VKC central elevator, floor 2"
+    ],
+    "position": {
+      "x": -2,
+      "y": 3.4,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-2-EL:object",
+    "bounds": {
+      "min": {
+        "x": -4,
+        "y": 3.4,
+        "z": -26
+      },
+      "max": {
+        "x": 0,
+        "y": 5.1,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-2-EL:access",
+        "nodeId": "VKC:2:cell:VKC-2-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -2,
+          "y": 3.4,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-2-RR",
+    "buildingId": "VKC",
+    "floorId": "2",
+    "name": "Restrooms",
+    "displayLabel": "VKC restrooms, floor 2",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "VKC restrooms, floor 2"
+    ],
+    "position": {
+      "x": 5,
+      "y": 3.4,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-2-RR:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 3.4,
+        "z": -26
+      },
+      "max": {
+        "x": 8,
+        "y": 5.1,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-2-RR:access",
+        "nodeId": "VKC:2:cell:VKC-2-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5,
+          "y": 3.4,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-301",
+    "buildingId": "VKC",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "VKC 301",
+    "roomNumber": "301",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 301",
+      "VKC 301"
+    ],
+    "position": {
+      "x": -19,
+      "y": 6.8,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-301:object",
+    "bounds": {
+      "min": {
+        "x": -32,
+        "y": 6.8,
+        "z": -26
+      },
+      "max": {
+        "x": -6,
+        "y": 8.5,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-301:access",
+        "nodeId": "VKC:3:cell:VKC-301",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -19,
+          "y": 6.8,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-302",
+    "buildingId": "VKC",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "VKC 302",
+    "roomNumber": "302",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 302",
+      "VKC 302"
+    ],
+    "position": {
+      "x": 21,
+      "y": 6.8,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-302:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 6.8,
+        "z": -26
+      },
+      "max": {
+        "x": 32,
+        "y": 8.5,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-302:access",
+        "nodeId": "VKC:3:cell:VKC-302",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 6.8,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-303",
+    "buildingId": "VKC",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "VKC 303",
+    "roomNumber": "303",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 303",
+      "VKC 303"
+    ],
+    "position": {
+      "x": 0,
+      "y": 6.8,
+      "z": -16.5
+    },
+    "sceneObjectKey": "VKC-303:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 6.8,
+        "z": -18
+      },
+      "max": {
+        "x": 24,
+        "y": 8.5,
+        "z": -15
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-303:access",
+        "nodeId": "VKC:3:cell:VKC-303",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 6.8,
+          "z": -16.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-304",
+    "buildingId": "VKC",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "VKC 304",
+    "roomNumber": "304",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 304",
+      "VKC 304"
+    ],
+    "position": {
+      "x": -38.5,
+      "y": 6.8,
+      "z": -2.5
+    },
+    "sceneObjectKey": "VKC-304:object",
+    "bounds": {
+      "min": {
+        "x": -41,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": -36,
+        "y": 8.5,
+        "z": 7
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-304:access",
+        "nodeId": "VKC:3:cell:VKC-304",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -38.5,
+          "y": 6.8,
+          "z": -2.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-305",
+    "buildingId": "VKC",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "VKC 305",
+    "roomNumber": "305",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 305",
+      "VKC 305"
+    ],
+    "position": {
+      "x": -38.5,
+      "y": 6.8,
+      "z": 16.5
+    },
+    "sceneObjectKey": "VKC-305:object",
+    "bounds": {
+      "min": {
+        "x": -41,
+        "y": 6.8,
+        "z": 7
+      },
+      "max": {
+        "x": -36,
+        "y": 8.5,
+        "z": 26
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-305:access",
+        "nodeId": "VKC:3:cell:VKC-305",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -38.5,
+          "y": 6.8,
+          "z": 16.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-306",
+    "buildingId": "VKC",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "VKC 306",
+    "roomNumber": "306",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 306",
+      "VKC 306"
+    ],
+    "position": {
+      "x": -29.5,
+      "y": 6.8,
+      "z": -2.5
+    },
+    "sceneObjectKey": "VKC-306:object",
+    "bounds": {
+      "min": {
+        "x": -32,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": -27,
+        "y": 8.5,
+        "z": 7
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-306:access",
+        "nodeId": "VKC:3:cell:VKC-306",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -29.5,
+          "y": 6.8,
+          "z": -2.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-307",
+    "buildingId": "VKC",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "VKC 307",
+    "roomNumber": "307",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 307",
+      "VKC 307"
+    ],
+    "position": {
+      "x": -29.5,
+      "y": 6.8,
+      "z": 16.5
+    },
+    "sceneObjectKey": "VKC-307:object",
+    "bounds": {
+      "min": {
+        "x": -32,
+        "y": 6.8,
+        "z": 7
+      },
+      "max": {
+        "x": -27,
+        "y": 8.5,
+        "z": 26
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-307:access",
+        "nodeId": "VKC:3:cell:VKC-307",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -29.5,
+          "y": 6.8,
+          "z": 16.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-308",
+    "buildingId": "VKC",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "VKC 308",
+    "roomNumber": "308",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 308",
+      "VKC 308"
+    ],
+    "position": {
+      "x": 29.5,
+      "y": 6.8,
+      "z": -2.5
+    },
+    "sceneObjectKey": "VKC-308:object",
+    "bounds": {
+      "min": {
+        "x": 27,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 32,
+        "y": 8.5,
+        "z": 7
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-308:access",
+        "nodeId": "VKC:3:cell:VKC-308",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 29.5,
+          "y": 6.8,
+          "z": -2.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-309",
+    "buildingId": "VKC",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "VKC 309",
+    "roomNumber": "309",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 309",
+      "VKC 309"
+    ],
+    "position": {
+      "x": 29.5,
+      "y": 6.8,
+      "z": 16.5
+    },
+    "sceneObjectKey": "VKC-309:object",
+    "bounds": {
+      "min": {
+        "x": 27,
+        "y": 6.8,
+        "z": 7
+      },
+      "max": {
+        "x": 32,
+        "y": 8.5,
+        "z": 26
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-309:access",
+        "nodeId": "VKC:3:cell:VKC-309",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 29.5,
+          "y": 6.8,
+          "z": 16.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-310",
+    "buildingId": "VKC",
+    "floorId": "3",
+    "name": "Faculty office",
+    "displayLabel": "VKC 310",
+    "roomNumber": "310",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "VKC 310",
+      "VKC 310"
+    ],
+    "position": {
+      "x": 38.5,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "VKC-310:object",
+    "bounds": {
+      "min": {
+        "x": 36,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 41,
+        "y": 8.5,
+        "z": 26
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-310:access",
+        "nodeId": "VKC:3:cell:VKC-310",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 38.5,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-3-SA",
+    "buildingId": "VKC",
+    "floorId": "3",
+    "name": "West stairs",
+    "displayLabel": "VKC west stairs, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "VKC west stairs, floor 3"
+    ],
+    "position": {
+      "x": -38.5,
+      "y": 6.8,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-3-SA:object",
+    "bounds": {
+      "min": {
+        "x": -41,
+        "y": 6.8,
+        "z": -26
+      },
+      "max": {
+        "x": -36,
+        "y": 8.5,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-3-SA:access",
+        "nodeId": "VKC:3:cell:VKC-3-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -38.5,
+          "y": 6.8,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-3-SB",
+    "buildingId": "VKC",
+    "floorId": "3",
+    "name": "East stairs",
+    "displayLabel": "VKC east stairs, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "VKC east stairs, floor 3"
+    ],
+    "position": {
+      "x": 38.5,
+      "y": 6.8,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-3-SB:object",
+    "bounds": {
+      "min": {
+        "x": 36,
+        "y": 6.8,
+        "z": -26
+      },
+      "max": {
+        "x": 41,
+        "y": 8.5,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-3-SB:access",
+        "nodeId": "VKC:3:cell:VKC-3-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 38.5,
+          "y": 6.8,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-3-EL",
+    "buildingId": "VKC",
+    "floorId": "3",
+    "name": "Central elevator",
+    "displayLabel": "VKC central elevator, floor 3",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "VKC central elevator, floor 3"
+    ],
+    "position": {
+      "x": -2,
+      "y": 6.8,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-3-EL:object",
+    "bounds": {
+      "min": {
+        "x": -4,
+        "y": 6.8,
+        "z": -26
+      },
+      "max": {
+        "x": 0,
+        "y": 8.5,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-3-EL:access",
+        "nodeId": "VKC:3:cell:VKC-3-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -2,
+          "y": 6.8,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "VKC-3-RR",
+    "buildingId": "VKC",
+    "floorId": "3",
+    "name": "Restrooms",
+    "displayLabel": "VKC restrooms, floor 3",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "VKC restrooms, floor 3"
+    ],
+    "position": {
+      "x": 5,
+      "y": 6.8,
+      "z": -24
+    },
+    "sceneObjectKey": "VKC-3-RR:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": -26
+      },
+      "max": {
+        "x": 8,
+        "y": 8.5,
+        "z": -22
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "VKC-3-RR:access",
+        "nodeId": "VKC:3:cell:VKC-3-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5,
+          "y": 6.8,
+          "z": -24
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf Navigation and accessibility are unverified."
+    }
+  }
+]

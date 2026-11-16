@@ -1,0 +1,2356 @@
+{
+  "nodes": [
+    {
+      "id": "LVL:1:c:0",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": -24,
+        "y": 0,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:1:c:1",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": -21,
+        "y": 0,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:1:c:2",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": -14,
+        "y": 0,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:1:c:3",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": -6.5,
+        "y": 0,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:1:c:4",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:1:c:5",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 6.5,
+        "y": 0,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:1:c:6",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 14,
+        "y": 0,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:1:c:7",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 21,
+        "y": 0,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:1:c:8",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 24,
+        "y": 0,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:1:stairs:A",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": -21,
+        "y": 0,
+        "z": -7
+      },
+      "kind": "stairs"
+    },
+    {
+      "id": "LVL:1:stairs:A:door",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": -21,
+        "y": 0,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:1:room:101",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": -14,
+        "y": 0,
+        "z": -7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:1:room:101:door",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": -14,
+        "y": 0,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:1:room:103",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": -6.5,
+        "y": 0,
+        "z": -7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:1:room:103:door",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": -6.5,
+        "y": 0,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:1:elevator",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": -7
+      },
+      "kind": "elevator"
+    },
+    {
+      "id": "LVL:1:elevator:door",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:1:room:105",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 6.5,
+        "y": 0,
+        "z": -7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:1:room:105:door",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 6.5,
+        "y": 0,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:1:room:107",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 14,
+        "y": 0,
+        "z": -7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:1:room:107:door",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 14,
+        "y": 0,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:1:room:109",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 21,
+        "y": 0,
+        "z": -7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:1:room:109:door",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 21,
+        "y": 0,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:1:room:102",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": -21,
+        "y": 0,
+        "z": 7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:1:room:102:door",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": -21,
+        "y": 0,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:1:room:104",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": -14,
+        "y": 0,
+        "z": 7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:1:room:104:door",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": -14,
+        "y": 0,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:1:room:106",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": -6.5,
+        "y": 0,
+        "z": 7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:1:room:106:door",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": -6.5,
+        "y": 0,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:1:restroom",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 7
+      },
+      "kind": "restroom"
+    },
+    {
+      "id": "LVL:1:restroom:door",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:1:room:108",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 6.5,
+        "y": 0,
+        "z": 7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:1:room:108:door",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 6.5,
+        "y": 0,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:1:room:110",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 14,
+        "y": 0,
+        "z": 7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:1:room:110:door",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 14,
+        "y": 0,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:1:stairs:B",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 21,
+        "y": 0,
+        "z": 7
+      },
+      "kind": "stairs"
+    },
+    {
+      "id": "LVL:1:stairs:B:door",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 21,
+        "y": 0,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:1:entrance",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": -26,
+        "y": 0,
+        "z": 0
+      },
+      "kind": "entrance"
+    },
+    {
+      "id": "LVL:1:exit",
+      "buildingId": "LVL",
+      "floorId": "1",
+      "position": {
+        "x": 26,
+        "y": 0,
+        "z": 0
+      },
+      "kind": "entrance"
+    },
+    {
+      "id": "LVL:2:c:0",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": -24,
+        "y": 3.4,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:2:c:1",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": -21,
+        "y": 3.4,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:2:c:2",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": -14,
+        "y": 3.4,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:2:c:3",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": -6.5,
+        "y": 3.4,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:2:c:4",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 0,
+        "y": 3.4,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:2:c:5",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 6.5,
+        "y": 3.4,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:2:c:6",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 14,
+        "y": 3.4,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:2:c:7",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 21,
+        "y": 3.4,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:2:c:8",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 24,
+        "y": 3.4,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:2:stairs:A",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": -21,
+        "y": 3.4,
+        "z": -7
+      },
+      "kind": "stairs"
+    },
+    {
+      "id": "LVL:2:stairs:A:door",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": -21,
+        "y": 3.4,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:2:room:201",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": -14,
+        "y": 3.4,
+        "z": -7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:2:room:201:door",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": -14,
+        "y": 3.4,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:2:room:203",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": -6.5,
+        "y": 3.4,
+        "z": -7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:2:room:203:door",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": -6.5,
+        "y": 3.4,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:2:elevator",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 0,
+        "y": 3.4,
+        "z": -7
+      },
+      "kind": "elevator"
+    },
+    {
+      "id": "LVL:2:elevator:door",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 0,
+        "y": 3.4,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:2:room:205",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 6.5,
+        "y": 3.4,
+        "z": -7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:2:room:205:door",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 6.5,
+        "y": 3.4,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:2:room:207",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 14,
+        "y": 3.4,
+        "z": -7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:2:room:207:door",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 14,
+        "y": 3.4,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:2:room:209",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 21,
+        "y": 3.4,
+        "z": -7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:2:room:209:door",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 21,
+        "y": 3.4,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:2:room:202",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": -21,
+        "y": 3.4,
+        "z": 7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:2:room:202:door",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": -21,
+        "y": 3.4,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:2:room:204",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": -14,
+        "y": 3.4,
+        "z": 7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:2:room:204:door",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": -14,
+        "y": 3.4,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:2:room:206",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": -6.5,
+        "y": 3.4,
+        "z": 7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:2:room:206:door",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": -6.5,
+        "y": 3.4,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:2:restroom",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 0,
+        "y": 3.4,
+        "z": 7
+      },
+      "kind": "restroom"
+    },
+    {
+      "id": "LVL:2:restroom:door",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 0,
+        "y": 3.4,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:2:room:208",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 6.5,
+        "y": 3.4,
+        "z": 7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:2:room:208:door",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 6.5,
+        "y": 3.4,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:2:room:210",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 14,
+        "y": 3.4,
+        "z": 7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:2:room:210:door",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 14,
+        "y": 3.4,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:2:stairs:B",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 21,
+        "y": 3.4,
+        "z": 7
+      },
+      "kind": "stairs"
+    },
+    {
+      "id": "LVL:2:stairs:B:door",
+      "buildingId": "LVL",
+      "floorId": "2",
+      "position": {
+        "x": 21,
+        "y": 3.4,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:3:c:0",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": -24,
+        "y": 6.8,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:3:c:1",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": -21,
+        "y": 6.8,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:3:c:2",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": -14,
+        "y": 6.8,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:3:c:3",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": -6.5,
+        "y": 6.8,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:3:c:4",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 0,
+        "y": 6.8,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:3:c:5",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 6.5,
+        "y": 6.8,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:3:c:6",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 14,
+        "y": 6.8,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:3:c:7",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 21,
+        "y": 6.8,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:3:c:8",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 24,
+        "y": 6.8,
+        "z": 0
+      },
+      "kind": "corridor"
+    },
+    {
+      "id": "LVL:3:stairs:A",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": -21,
+        "y": 6.8,
+        "z": -7
+      },
+      "kind": "stairs"
+    },
+    {
+      "id": "LVL:3:stairs:A:door",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": -21,
+        "y": 6.8,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:3:room:301",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": -14,
+        "y": 6.8,
+        "z": -7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:3:room:301:door",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": -14,
+        "y": 6.8,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:3:room:303",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": -6.5,
+        "y": 6.8,
+        "z": -7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:3:room:303:door",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": -6.5,
+        "y": 6.8,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:3:elevator",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 0,
+        "y": 6.8,
+        "z": -7
+      },
+      "kind": "elevator"
+    },
+    {
+      "id": "LVL:3:elevator:door",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 0,
+        "y": 6.8,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:3:room:305",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 6.5,
+        "y": 6.8,
+        "z": -7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:3:room:305:door",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 6.5,
+        "y": 6.8,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:3:room:307",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 14,
+        "y": 6.8,
+        "z": -7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:3:room:307:door",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 14,
+        "y": 6.8,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:3:room:309",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 21,
+        "y": 6.8,
+        "z": -7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:3:room:309:door",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 21,
+        "y": 6.8,
+        "z": -2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:3:room:302",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": -21,
+        "y": 6.8,
+        "z": 7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:3:room:302:door",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": -21,
+        "y": 6.8,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:3:room:304",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": -14,
+        "y": 6.8,
+        "z": 7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:3:room:304:door",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": -14,
+        "y": 6.8,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:3:room:306",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": -6.5,
+        "y": 6.8,
+        "z": 7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:3:room:306:door",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": -6.5,
+        "y": 6.8,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:3:restroom",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 0,
+        "y": 6.8,
+        "z": 7
+      },
+      "kind": "restroom"
+    },
+    {
+      "id": "LVL:3:restroom:door",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 0,
+        "y": 6.8,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:3:room:308",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 6.5,
+        "y": 6.8,
+        "z": 7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:3:room:308:door",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 6.5,
+        "y": 6.8,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:3:room:310",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 14,
+        "y": 6.8,
+        "z": 7
+      },
+      "kind": "room"
+    },
+    {
+      "id": "LVL:3:room:310:door",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 14,
+        "y": 6.8,
+        "z": 2
+      },
+      "kind": "door"
+    },
+    {
+      "id": "LVL:3:stairs:B",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 21,
+        "y": 6.8,
+        "z": 7
+      },
+      "kind": "stairs"
+    },
+    {
+      "id": "LVL:3:stairs:B:door",
+      "buildingId": "LVL",
+      "floorId": "3",
+      "position": {
+        "x": 21,
+        "y": 6.8,
+        "z": 2
+      },
+      "kind": "door"
+    }
+  ],
+  "edges": [
+    {
+      "id": "LVL:edge:0",
+      "fromNodeId": "LVL:1:c:0",
+      "toNodeId": "LVL:1:c:1",
+      "lengthMeters": 3,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:1",
+      "fromNodeId": "LVL:1:c:1",
+      "toNodeId": "LVL:1:c:2",
+      "lengthMeters": 7,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:2",
+      "fromNodeId": "LVL:1:c:2",
+      "toNodeId": "LVL:1:c:3",
+      "lengthMeters": 7.5,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:3",
+      "fromNodeId": "LVL:1:c:3",
+      "toNodeId": "LVL:1:c:4",
+      "lengthMeters": 6.5,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:4",
+      "fromNodeId": "LVL:1:c:4",
+      "toNodeId": "LVL:1:c:5",
+      "lengthMeters": 6.5,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:5",
+      "fromNodeId": "LVL:1:c:5",
+      "toNodeId": "LVL:1:c:6",
+      "lengthMeters": 7.5,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:6",
+      "fromNodeId": "LVL:1:c:6",
+      "toNodeId": "LVL:1:c:7",
+      "lengthMeters": 7,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:7",
+      "fromNodeId": "LVL:1:c:7",
+      "toNodeId": "LVL:1:c:8",
+      "lengthMeters": 3,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:8",
+      "fromNodeId": "LVL:1:stairs:A",
+      "toNodeId": "LVL:1:stairs:A:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:9",
+      "fromNodeId": "LVL:1:stairs:A:door",
+      "toNodeId": "LVL:1:c:1",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:10",
+      "fromNodeId": "LVL:1:room:101",
+      "toNodeId": "LVL:1:room:101:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:11",
+      "fromNodeId": "LVL:1:room:101:door",
+      "toNodeId": "LVL:1:c:2",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:12",
+      "fromNodeId": "LVL:1:room:103",
+      "toNodeId": "LVL:1:room:103:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:13",
+      "fromNodeId": "LVL:1:room:103:door",
+      "toNodeId": "LVL:1:c:3",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:14",
+      "fromNodeId": "LVL:1:elevator",
+      "toNodeId": "LVL:1:elevator:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:15",
+      "fromNodeId": "LVL:1:elevator:door",
+      "toNodeId": "LVL:1:c:4",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:16",
+      "fromNodeId": "LVL:1:room:105",
+      "toNodeId": "LVL:1:room:105:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:17",
+      "fromNodeId": "LVL:1:room:105:door",
+      "toNodeId": "LVL:1:c:5",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:18",
+      "fromNodeId": "LVL:1:room:107",
+      "toNodeId": "LVL:1:room:107:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:19",
+      "fromNodeId": "LVL:1:room:107:door",
+      "toNodeId": "LVL:1:c:6",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:20",
+      "fromNodeId": "LVL:1:room:109",
+      "toNodeId": "LVL:1:room:109:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:21",
+      "fromNodeId": "LVL:1:room:109:door",
+      "toNodeId": "LVL:1:c:7",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:22",
+      "fromNodeId": "LVL:1:room:102",
+      "toNodeId": "LVL:1:room:102:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:23",
+      "fromNodeId": "LVL:1:room:102:door",
+      "toNodeId": "LVL:1:c:1",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:24",
+      "fromNodeId": "LVL:1:room:104",
+      "toNodeId": "LVL:1:room:104:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:25",
+      "fromNodeId": "LVL:1:room:104:door",
+      "toNodeId": "LVL:1:c:2",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:26",
+      "fromNodeId": "LVL:1:room:106",
+      "toNodeId": "LVL:1:room:106:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:27",
+      "fromNodeId": "LVL:1:room:106:door",
+      "toNodeId": "LVL:1:c:3",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:28",
+      "fromNodeId": "LVL:1:restroom",
+      "toNodeId": "LVL:1:restroom:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:29",
+      "fromNodeId": "LVL:1:restroom:door",
+      "toNodeId": "LVL:1:c:4",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:30",
+      "fromNodeId": "LVL:1:room:108",
+      "toNodeId": "LVL:1:room:108:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:31",
+      "fromNodeId": "LVL:1:room:108:door",
+      "toNodeId": "LVL:1:c:5",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:32",
+      "fromNodeId": "LVL:1:room:110",
+      "toNodeId": "LVL:1:room:110:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:33",
+      "fromNodeId": "LVL:1:room:110:door",
+      "toNodeId": "LVL:1:c:6",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:34",
+      "fromNodeId": "LVL:1:stairs:B",
+      "toNodeId": "LVL:1:stairs:B:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:35",
+      "fromNodeId": "LVL:1:stairs:B:door",
+      "toNodeId": "LVL:1:c:7",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:36",
+      "fromNodeId": "LVL:1:entrance",
+      "toNodeId": "LVL:1:c:0",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:37",
+      "fromNodeId": "LVL:1:exit",
+      "toNodeId": "LVL:1:c:8",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:38",
+      "fromNodeId": "LVL:2:c:0",
+      "toNodeId": "LVL:2:c:1",
+      "lengthMeters": 3,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:39",
+      "fromNodeId": "LVL:2:c:1",
+      "toNodeId": "LVL:2:c:2",
+      "lengthMeters": 7,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:40",
+      "fromNodeId": "LVL:2:c:2",
+      "toNodeId": "LVL:2:c:3",
+      "lengthMeters": 7.5,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:41",
+      "fromNodeId": "LVL:2:c:3",
+      "toNodeId": "LVL:2:c:4",
+      "lengthMeters": 6.5,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:42",
+      "fromNodeId": "LVL:2:c:4",
+      "toNodeId": "LVL:2:c:5",
+      "lengthMeters": 6.5,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:43",
+      "fromNodeId": "LVL:2:c:5",
+      "toNodeId": "LVL:2:c:6",
+      "lengthMeters": 7.5,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:44",
+      "fromNodeId": "LVL:2:c:6",
+      "toNodeId": "LVL:2:c:7",
+      "lengthMeters": 7,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:45",
+      "fromNodeId": "LVL:2:c:7",
+      "toNodeId": "LVL:2:c:8",
+      "lengthMeters": 3,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:46",
+      "fromNodeId": "LVL:2:stairs:A",
+      "toNodeId": "LVL:2:stairs:A:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:47",
+      "fromNodeId": "LVL:2:stairs:A:door",
+      "toNodeId": "LVL:2:c:1",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:48",
+      "fromNodeId": "LVL:2:room:201",
+      "toNodeId": "LVL:2:room:201:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:49",
+      "fromNodeId": "LVL:2:room:201:door",
+      "toNodeId": "LVL:2:c:2",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:50",
+      "fromNodeId": "LVL:2:room:203",
+      "toNodeId": "LVL:2:room:203:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:51",
+      "fromNodeId": "LVL:2:room:203:door",
+      "toNodeId": "LVL:2:c:3",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:52",
+      "fromNodeId": "LVL:2:elevator",
+      "toNodeId": "LVL:2:elevator:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:53",
+      "fromNodeId": "LVL:2:elevator:door",
+      "toNodeId": "LVL:2:c:4",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:54",
+      "fromNodeId": "LVL:2:room:205",
+      "toNodeId": "LVL:2:room:205:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:55",
+      "fromNodeId": "LVL:2:room:205:door",
+      "toNodeId": "LVL:2:c:5",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:56",
+      "fromNodeId": "LVL:2:room:207",
+      "toNodeId": "LVL:2:room:207:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:57",
+      "fromNodeId": "LVL:2:room:207:door",
+      "toNodeId": "LVL:2:c:6",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:58",
+      "fromNodeId": "LVL:2:room:209",
+      "toNodeId": "LVL:2:room:209:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:59",
+      "fromNodeId": "LVL:2:room:209:door",
+      "toNodeId": "LVL:2:c:7",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:60",
+      "fromNodeId": "LVL:2:room:202",
+      "toNodeId": "LVL:2:room:202:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:61",
+      "fromNodeId": "LVL:2:room:202:door",
+      "toNodeId": "LVL:2:c:1",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:62",
+      "fromNodeId": "LVL:2:room:204",
+      "toNodeId": "LVL:2:room:204:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:63",
+      "fromNodeId": "LVL:2:room:204:door",
+      "toNodeId": "LVL:2:c:2",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:64",
+      "fromNodeId": "LVL:2:room:206",
+      "toNodeId": "LVL:2:room:206:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:65",
+      "fromNodeId": "LVL:2:room:206:door",
+      "toNodeId": "LVL:2:c:3",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:66",
+      "fromNodeId": "LVL:2:restroom",
+      "toNodeId": "LVL:2:restroom:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:67",
+      "fromNodeId": "LVL:2:restroom:door",
+      "toNodeId": "LVL:2:c:4",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:68",
+      "fromNodeId": "LVL:2:room:208",
+      "toNodeId": "LVL:2:room:208:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:69",
+      "fromNodeId": "LVL:2:room:208:door",
+      "toNodeId": "LVL:2:c:5",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:70",
+      "fromNodeId": "LVL:2:room:210",
+      "toNodeId": "LVL:2:room:210:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:71",
+      "fromNodeId": "LVL:2:room:210:door",
+      "toNodeId": "LVL:2:c:6",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:72",
+      "fromNodeId": "LVL:2:stairs:B",
+      "toNodeId": "LVL:2:stairs:B:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:73",
+      "fromNodeId": "LVL:2:stairs:B:door",
+      "toNodeId": "LVL:2:c:7",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:74",
+      "fromNodeId": "LVL:3:c:0",
+      "toNodeId": "LVL:3:c:1",
+      "lengthMeters": 3,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:75",
+      "fromNodeId": "LVL:3:c:1",
+      "toNodeId": "LVL:3:c:2",
+      "lengthMeters": 7,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:76",
+      "fromNodeId": "LVL:3:c:2",
+      "toNodeId": "LVL:3:c:3",
+      "lengthMeters": 7.5,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:77",
+      "fromNodeId": "LVL:3:c:3",
+      "toNodeId": "LVL:3:c:4",
+      "lengthMeters": 6.5,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:78",
+      "fromNodeId": "LVL:3:c:4",
+      "toNodeId": "LVL:3:c:5",
+      "lengthMeters": 6.5,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:79",
+      "fromNodeId": "LVL:3:c:5",
+      "toNodeId": "LVL:3:c:6",
+      "lengthMeters": 7.5,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:80",
+      "fromNodeId": "LVL:3:c:6",
+      "toNodeId": "LVL:3:c:7",
+      "lengthMeters": 7,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:81",
+      "fromNodeId": "LVL:3:c:7",
+      "toNodeId": "LVL:3:c:8",
+      "lengthMeters": 3,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:82",
+      "fromNodeId": "LVL:3:stairs:A",
+      "toNodeId": "LVL:3:stairs:A:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:83",
+      "fromNodeId": "LVL:3:stairs:A:door",
+      "toNodeId": "LVL:3:c:1",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:84",
+      "fromNodeId": "LVL:3:room:301",
+      "toNodeId": "LVL:3:room:301:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:85",
+      "fromNodeId": "LVL:3:room:301:door",
+      "toNodeId": "LVL:3:c:2",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:86",
+      "fromNodeId": "LVL:3:room:303",
+      "toNodeId": "LVL:3:room:303:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:87",
+      "fromNodeId": "LVL:3:room:303:door",
+      "toNodeId": "LVL:3:c:3",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:88",
+      "fromNodeId": "LVL:3:elevator",
+      "toNodeId": "LVL:3:elevator:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:89",
+      "fromNodeId": "LVL:3:elevator:door",
+      "toNodeId": "LVL:3:c:4",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:90",
+      "fromNodeId": "LVL:3:room:305",
+      "toNodeId": "LVL:3:room:305:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:91",
+      "fromNodeId": "LVL:3:room:305:door",
+      "toNodeId": "LVL:3:c:5",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:92",
+      "fromNodeId": "LVL:3:room:307",
+      "toNodeId": "LVL:3:room:307:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:93",
+      "fromNodeId": "LVL:3:room:307:door",
+      "toNodeId": "LVL:3:c:6",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:94",
+      "fromNodeId": "LVL:3:room:309",
+      "toNodeId": "LVL:3:room:309:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:95",
+      "fromNodeId": "LVL:3:room:309:door",
+      "toNodeId": "LVL:3:c:7",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:96",
+      "fromNodeId": "LVL:3:room:302",
+      "toNodeId": "LVL:3:room:302:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:97",
+      "fromNodeId": "LVL:3:room:302:door",
+      "toNodeId": "LVL:3:c:1",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:98",
+      "fromNodeId": "LVL:3:room:304",
+      "toNodeId": "LVL:3:room:304:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:99",
+      "fromNodeId": "LVL:3:room:304:door",
+      "toNodeId": "LVL:3:c:2",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:100",
+      "fromNodeId": "LVL:3:room:306",
+      "toNodeId": "LVL:3:room:306:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:101",
+      "fromNodeId": "LVL:3:room:306:door",
+      "toNodeId": "LVL:3:c:3",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:102",
+      "fromNodeId": "LVL:3:restroom",
+      "toNodeId": "LVL:3:restroom:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:103",
+      "fromNodeId": "LVL:3:restroom:door",
+      "toNodeId": "LVL:3:c:4",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:104",
+      "fromNodeId": "LVL:3:room:308",
+      "toNodeId": "LVL:3:room:308:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:105",
+      "fromNodeId": "LVL:3:room:308:door",
+      "toNodeId": "LVL:3:c:5",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:106",
+      "fromNodeId": "LVL:3:room:310",
+      "toNodeId": "LVL:3:room:310:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:107",
+      "fromNodeId": "LVL:3:room:310:door",
+      "toNodeId": "LVL:3:c:6",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:108",
+      "fromNodeId": "LVL:3:stairs:B",
+      "toNodeId": "LVL:3:stairs:B:door",
+      "lengthMeters": 5,
+      "kind": "door",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    },
+    {
+      "id": "LVL:edge:109",
+      "fromNodeId": "LVL:3:stairs:B:door",
+      "toNodeId": "LVL:3:c:7",
+      "lengthMeters": 2,
+      "kind": "walkway",
+      "bidirectional": true,
+      "stepFree": "unknown",
+      "accessLevel": "public"
+    }
+  ],
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [],
+    "verifiedAt": null,
+    "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+  }
+}

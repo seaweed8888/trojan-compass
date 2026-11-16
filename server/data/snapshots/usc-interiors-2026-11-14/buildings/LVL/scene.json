@@ -1,0 +1,83 @@
+{
+  "representation": "procedural",
+  "buildingId": "LVL",
+  "coordinateSystem": {
+    "id": "LVL:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -36.3,
+      "y": -3.6399999999999997,
+      "z": -20.3
+    },
+    "max": {
+      "x": 38.3,
+      "y": 11.7,
+      "z": 24.3
+    }
+  },
+  "rootObjectKey": "LVL:root",
+  "viewerUrl": "/?building=LVL",
+  "floors": [
+    {
+      "floorId": "0",
+      "label": "Basement",
+      "sceneObjectKey": "LVL:floor:0",
+      "geometryUrl": "/api/buildings/LVL/floors/0?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "1",
+      "label": "Floor 1",
+      "sceneObjectKey": "LVL:floor:1",
+      "geometryUrl": "/api/buildings/LVL/floors/1?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "2",
+      "label": "Floor 2",
+      "sceneObjectKey": "LVL:floor:2",
+      "geometryUrl": "/api/buildings/LVL/floors/2?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "3",
+      "label": "Floor 3",
+      "sceneObjectKey": "LVL:floor:3",
+      "geometryUrl": "/api/buildings/LVL/floors/3?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "4",
+      "label": "Floor 4",
+      "sceneObjectKey": "LVL:floor:4",
+      "geometryUrl": "/api/buildings/LVL/floors/4?dataVersion=usc-interiors-2026-11-14"
+    }
+  ],
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [
+      "https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf",
+      "https://roomfinder.usc.edu/"
+    ],
+    "verifiedAt": null,
+    "note": "Reconstructed demo interior; all positions, boundaries, doors and circulation inferred. Estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Floor count confirmed: 2023 tour explicitly covers lower level and floors 1–4. https://libraries.usc.edu/sites/default/files/2023-10/Leavey_Library_tour_guide.pdf | Long reading plate, north projection and first-floor south pavilion from campus polygon. No numeric tour key is treated as a room number. Plan image pixels were unavailable. Navigation and access are unverified."
+  },
+  "materials": [
+    {
+      "key": "floor",
+      "color": "#e9e9ec",
+      "opacity": 1,
+      "roughness": 0.9,
+      "metalness": 0
+    },
+    {
+      "key": "wall",
+      "color": "#c9c9ce",
+      "opacity": 1,
+      "roughness": 0.9,
+      "metalness": 0
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "DEPENDENCY_TIMEOUT",
+    "message": "A required service did not respond in time.",
+    "requestId": "example-request"
+  }
+}

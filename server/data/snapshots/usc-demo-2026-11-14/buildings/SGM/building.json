@@ -1,0 +1,183 @@
+{
+  "id": "SGM",
+  "code": "SGM",
+  "name": "Seeley G. Mudd Building",
+  "aliases": [],
+  "location": null,
+  "coverage": "demo",
+  "capabilities": {
+    "interiorScene": true,
+    "navigation": true,
+    "verifiedStepFreeRouting": false,
+    "chatText": true,
+    "chatImages": false,
+    "events": false
+  },
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [],
+    "verifiedAt": null,
+    "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+  },
+  "description": "Science labs and large STEM lecture rooms.",
+  "officialMapUrl": null,
+  "viewerUrl": "/?building=SGM",
+  "coordinateSystem": {
+    "id": "SGM:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -24.900000000000002,
+      "y": -0.24,
+      "z": -12.9
+    },
+    "max": {
+      "x": 24.900000000000002,
+      "y": 15.1,
+      "z": 12.9
+    }
+  },
+  "floors": [
+    {
+      "id": "1",
+      "buildingId": "SGM",
+      "label": "1",
+      "sortOrder": 1,
+      "elevationMeters": 0,
+      "sceneObjectKey": "SGM:floor:1",
+      "bounds": {
+        "min": {
+          "x": -24.900000000000002,
+          "y": -0.24,
+          "z": -12.9
+        },
+        "max": {
+          "x": 24.900000000000002,
+          "y": 1.5,
+          "z": 12.9
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [],
+        "verifiedAt": null,
+        "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+      }
+    },
+    {
+      "id": "2",
+      "buildingId": "SGM",
+      "label": "2",
+      "sortOrder": 2,
+      "elevationMeters": 3.4,
+      "sceneObjectKey": "SGM:floor:2",
+      "bounds": {
+        "min": {
+          "x": -24.900000000000002,
+          "y": 3.16,
+          "z": -12.9
+        },
+        "max": {
+          "x": 24.900000000000002,
+          "y": 4.9,
+          "z": 12.9
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [],
+        "verifiedAt": null,
+        "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+      }
+    },
+    {
+      "id": "3",
+      "buildingId": "SGM",
+      "label": "3",
+      "sortOrder": 3,
+      "elevationMeters": 6.8,
+      "sceneObjectKey": "SGM:floor:3",
+      "bounds": {
+        "min": {
+          "x": -24.900000000000002,
+          "y": 6.56,
+          "z": -12.9
+        },
+        "max": {
+          "x": 24.900000000000002,
+          "y": 8.3,
+          "z": 12.9
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [],
+        "verifiedAt": null,
+        "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+      }
+    },
+    {
+      "id": "4",
+      "buildingId": "SGM",
+      "label": "4",
+      "sortOrder": 4,
+      "elevationMeters": 10.2,
+      "sceneObjectKey": "SGM:floor:4",
+      "bounds": {
+        "min": {
+          "x": -24.900000000000002,
+          "y": 9.959999999999999,
+          "z": -12.9
+        },
+        "max": {
+          "x": 24.900000000000002,
+          "y": 11.7,
+          "z": 12.9
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [],
+        "verifiedAt": null,
+        "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+      }
+    },
+    {
+      "id": "5",
+      "buildingId": "SGM",
+      "label": "5",
+      "sortOrder": 5,
+      "elevationMeters": 13.6,
+      "sceneObjectKey": "SGM:floor:5",
+      "bounds": {
+        "min": {
+          "x": -24.900000000000002,
+          "y": 13.36,
+          "z": -12.9
+        },
+        "max": {
+          "x": 24.900000000000002,
+          "y": 15.1,
+          "z": 12.9
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [],
+        "verifiedAt": null,
+        "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+      }
+    }
+  ],
+  "sources": []
+}

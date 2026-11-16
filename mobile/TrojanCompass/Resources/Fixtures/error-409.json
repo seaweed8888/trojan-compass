@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "DATA_VERSION_MISMATCH",
+    "message": "The supplied references use incompatible dataset versions.",
+    "requestId": "example-request"
+  }
+}

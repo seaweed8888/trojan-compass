@@ -1,0 +1,21 @@
+{
+  "kind": "outdoor",
+  "id": "example-outdoor-leg",
+  "distanceMeters": 25,
+  "durationSeconds": 25,
+  "fromBuildingId": "LAW",
+  "toBuildingId": "THH",
+  "fromEntrancePlaceId": "LAW-ENT",
+  "toEntrancePlaceId": "THH-ENT",
+  "coordinateSystem": "wgs84",
+  "points": [
+    {
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "latitude": 0,
+      "longitude": 0.0002
+    }
+  ]
+}

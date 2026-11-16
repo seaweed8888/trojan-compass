@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "DATA_VERSION_UNAVAILABLE",
+    "message": "This dataset snapshot is no longer available.",
+    "requestId": "example-request"
+  }
+}

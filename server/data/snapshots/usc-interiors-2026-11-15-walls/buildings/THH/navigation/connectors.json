@@ -1,0 +1,35 @@
+[
+  {
+    "id": "THH:A",
+    "nodeIds": [
+      "THH:0:cell:THH-0-SA",
+      "THH:1:cell:THH-1-SA",
+      "THH:2:cell:THH-2-SA",
+      "THH:3:cell:THH-3-SA",
+      "THH:4:cell:THH-4-SA"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "THH:B",
+    "nodeIds": [
+      "THH:0:cell:THH-0-SB",
+      "THH:1:cell:THH-1-SB",
+      "THH:2:cell:THH-2-SB",
+      "THH:3:cell:THH-3-SB",
+      "THH:4:cell:THH-4-SB"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "THH:E",
+    "nodeIds": [
+      "THH:0:cell:THH-0-EL",
+      "THH:1:cell:THH-1-EL",
+      "THH:2:cell:THH-2-EL",
+      "THH:3:cell:THH-3-EL",
+      "THH:4:cell:THH-4-EL"
+    ],
+    "kind": "elevator"
+  }
+]

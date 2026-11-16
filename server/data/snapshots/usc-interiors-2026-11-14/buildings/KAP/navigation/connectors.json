@@ -1,0 +1,57 @@
+[
+  {
+    "id": "KAP:A",
+    "nodeIds": [
+      "KAP:0:cell:KAP-0-SA",
+      "KAP:1:cell:KAP-1-SA",
+      "KAP:2:cell:KAP-2-SA",
+      "KAP:3:cell:KAP-3-SA",
+      "KAP:4:cell:KAP-4-SA"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "KAP:B",
+    "nodeIds": [
+      "KAP:0:cell:KAP-0-SB",
+      "KAP:1:cell:KAP-1-SB",
+      "KAP:2:cell:KAP-2-SB",
+      "KAP:3:cell:KAP-3-SB",
+      "KAP:4:cell:KAP-4-SB"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "KAP:E",
+    "nodeIds": [
+      "KAP:0:cell:KAP-0-EL",
+      "KAP:1:cell:KAP-1-EL",
+      "KAP:2:cell:KAP-2-EL",
+      "KAP:3:cell:KAP-3-EL",
+      "KAP:4:cell:KAP-4-EL"
+    ],
+    "kind": "elevator"
+  },
+  {
+    "id": "KAP:E2",
+    "nodeIds": [
+      "KAP:0:cell:KAP-0-EL2",
+      "KAP:1:cell:KAP-1-EL2",
+      "KAP:2:cell:KAP-2-EL2",
+      "KAP:3:cell:KAP-3-EL2",
+      "KAP:4:cell:KAP-4-EL2"
+    ],
+    "kind": "elevator"
+  },
+  {
+    "id": "KAP:E3",
+    "nodeIds": [
+      "KAP:0:cell:KAP-0-EL3",
+      "KAP:1:cell:KAP-1-EL3",
+      "KAP:2:cell:KAP-2-EL3",
+      "KAP:3:cell:KAP-3-EL3",
+      "KAP:4:cell:KAP-4-EL3"
+    ],
+    "kind": "elevator"
+  }
+]

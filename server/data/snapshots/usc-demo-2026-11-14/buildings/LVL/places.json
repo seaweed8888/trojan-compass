@@ -1,0 +1,2614 @@
+[
+  {
+    "id": "LVL-1-SA",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Stairwell A",
+    "displayLabel": "LVL stairwell a, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LVL stairwell a, floor 1",
+      "LVL A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-1-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-1-SA:access",
+        "nodeId": "LVL:1:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-101",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Seminar Room",
+    "displayLabel": "LVL 101",
+    "roomNumber": "101",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 101",
+      "LVL 101"
+    ],
+    "position": {
+      "x": -14,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-101:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-101:access",
+        "nodeId": "LVL:1:room:101",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-103",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Study Lounge",
+    "displayLabel": "LVL 103",
+    "roomNumber": "103",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 103",
+      "LVL 103"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-103:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-103:access",
+        "nodeId": "LVL:1:room:103",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-1-EL",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Elevator",
+    "displayLabel": "LVL elevator, floor 1",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LVL elevator, floor 1",
+      "LVL EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-1-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-1-EL:access",
+        "nodeId": "LVL:1:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-105",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Computer Lab",
+    "displayLabel": "LVL 105",
+    "roomNumber": "105",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 105",
+      "LVL 105"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-105:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-105:access",
+        "nodeId": "LVL:1:room:105",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-107",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "LVL 107",
+    "roomNumber": "107",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 107",
+      "LVL 107"
+    ],
+    "position": {
+      "x": 14,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-107:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-107:access",
+        "nodeId": "LVL:1:room:107",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-109",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Seminar Room",
+    "displayLabel": "LVL 109",
+    "roomNumber": "109",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 109",
+      "LVL 109"
+    ],
+    "position": {
+      "x": 21,
+      "y": 0,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-109:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 0,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-109:access",
+        "nodeId": "LVL:1:room:109",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 0,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-102",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "LVL 102",
+    "roomNumber": "102",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 102",
+      "LVL 102"
+    ],
+    "position": {
+      "x": -21,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-102:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-102:access",
+        "nodeId": "LVL:1:room:102",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-104",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "LVL 104",
+    "roomNumber": "104",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 104",
+      "LVL 104"
+    ],
+    "position": {
+      "x": -14,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-104:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-104:access",
+        "nodeId": "LVL:1:room:104",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-106",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Lecture Hall",
+    "displayLabel": "LVL 106",
+    "roomNumber": "106",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 106",
+      "LVL 106"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-106:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-106:access",
+        "nodeId": "LVL:1:room:106",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-1-RR",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "LVL restrooms, floor 1",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "LVL restrooms, floor 1",
+      "LVL RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-1-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-1-RR:access",
+        "nodeId": "LVL:1:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-108",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Faculty Offices",
+    "displayLabel": "LVL 108",
+    "roomNumber": "108",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 108",
+      "LVL 108"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-108:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-108:access",
+        "nodeId": "LVL:1:room:108",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-110",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Lecture Hall",
+    "displayLabel": "LVL 110",
+    "roomNumber": "110",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 110",
+      "LVL 110"
+    ],
+    "position": {
+      "x": 14,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-110:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-110:access",
+        "nodeId": "LVL:1:room:110",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-1-SB",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "Stairwell B",
+    "displayLabel": "LVL stairwell b, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LVL stairwell b, floor 1",
+      "LVL B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 0,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-1-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 0.85,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-1-SB:access",
+        "nodeId": "LVL:1:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 0,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-ENT",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "main west entrance",
+    "displayLabel": "LVL main west entrance",
+    "roomNumber": null,
+    "kind": "entrance",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": -26,
+      "y": 0,
+      "z": 0
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "LVL:1:entrance:access",
+        "nodeId": "LVL:1:entrance",
+        "label": "main west entrance",
+        "position": {
+          "x": -26,
+          "y": 0,
+          "z": 0
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-EXIT-1-EXIT",
+    "buildingId": "LVL",
+    "floorId": "1",
+    "name": "east exit",
+    "displayLabel": "LVL east exit",
+    "roomNumber": null,
+    "kind": "emergency_exit",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": 26,
+      "y": 0,
+      "z": 0
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "LVL:1:exit:access",
+        "nodeId": "LVL:1:exit",
+        "label": "east exit",
+        "position": {
+          "x": 26,
+          "y": 0,
+          "z": 0
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": false,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-2-SA",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Stairwell A",
+    "displayLabel": "LVL stairwell a, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LVL stairwell a, floor 2",
+      "LVL A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-2-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-2-SA:access",
+        "nodeId": "LVL:2:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-201",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "LVL 201",
+    "roomNumber": "201",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 201",
+      "LVL 201"
+    ],
+    "position": {
+      "x": -14,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-201:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-201:access",
+        "nodeId": "LVL:2:room:201",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-203",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Lecture Hall",
+    "displayLabel": "LVL 203",
+    "roomNumber": "203",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 203",
+      "LVL 203"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-203:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-203:access",
+        "nodeId": "LVL:2:room:203",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-2-EL",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Elevator",
+    "displayLabel": "LVL elevator, floor 2",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LVL elevator, floor 2",
+      "LVL EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-2-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-2-EL:access",
+        "nodeId": "LVL:2:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-205",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Faculty Offices",
+    "displayLabel": "LVL 205",
+    "roomNumber": "205",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 205",
+      "LVL 205"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-205:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-205:access",
+        "nodeId": "LVL:2:room:205",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-207",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Lecture Hall",
+    "displayLabel": "LVL 207",
+    "roomNumber": "207",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 207",
+      "LVL 207"
+    ],
+    "position": {
+      "x": 14,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-207:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-207:access",
+        "nodeId": "LVL:2:room:207",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-209",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "LVL 209",
+    "roomNumber": "209",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 209",
+      "LVL 209"
+    ],
+    "position": {
+      "x": 21,
+      "y": 3.4,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-209:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 3.4,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-209:access",
+        "nodeId": "LVL:2:room:209",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 3.4,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-202",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Computer Lab",
+    "displayLabel": "LVL 202",
+    "roomNumber": "202",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 202",
+      "LVL 202"
+    ],
+    "position": {
+      "x": -21,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-202:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-202:access",
+        "nodeId": "LVL:2:room:202",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-204",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Classroom",
+    "displayLabel": "LVL 204",
+    "roomNumber": "204",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 204",
+      "LVL 204"
+    ],
+    "position": {
+      "x": -14,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-204:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-204:access",
+        "nodeId": "LVL:2:room:204",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-206",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Seminar Room",
+    "displayLabel": "LVL 206",
+    "roomNumber": "206",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 206",
+      "LVL 206"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-206:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-206:access",
+        "nodeId": "LVL:2:room:206",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-2-RR",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "LVL restrooms, floor 2",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "LVL restrooms, floor 2",
+      "LVL RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-2-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-2-RR:access",
+        "nodeId": "LVL:2:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-208",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Seminar Room",
+    "displayLabel": "LVL 208",
+    "roomNumber": "208",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 208",
+      "LVL 208"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-208:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-208:access",
+        "nodeId": "LVL:2:room:208",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-210",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Study Lounge",
+    "displayLabel": "LVL 210",
+    "roomNumber": "210",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 210",
+      "LVL 210"
+    ],
+    "position": {
+      "x": 14,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-210:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-210:access",
+        "nodeId": "LVL:2:room:210",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-2-SB",
+    "buildingId": "LVL",
+    "floorId": "2",
+    "name": "Stairwell B",
+    "displayLabel": "LVL stairwell b, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LVL stairwell b, floor 2",
+      "LVL B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 3.4,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-2-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 4.25,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-2-SB:access",
+        "nodeId": "LVL:2:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 3.4,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-3-SA",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Stairwell A",
+    "displayLabel": "LVL stairwell a, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LVL stairwell a, floor 3",
+      "LVL A"
+    ],
+    "position": {
+      "x": -21,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-3-SA:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": -18,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-3-SA:access",
+        "nodeId": "LVL:3:stairs:A",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-301",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Classroom",
+    "displayLabel": "LVL 301",
+    "roomNumber": "301",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 301",
+      "LVL 301"
+    ],
+    "position": {
+      "x": -14,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-301:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": -10,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-301:access",
+        "nodeId": "LVL:3:room:301",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-303",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Seminar Room",
+    "displayLabel": "LVL 303",
+    "roomNumber": "303",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 303",
+      "LVL 303"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-303:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": -3,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-303:access",
+        "nodeId": "LVL:3:room:303",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-3-EL",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Elevator",
+    "displayLabel": "LVL elevator, floor 3",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "LVL elevator, floor 3",
+      "LVL EL"
+    ],
+    "position": {
+      "x": 0,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-3-EL:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 3,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-3-EL:access",
+        "nodeId": "LVL:3:elevator",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-305",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Seminar Room",
+    "displayLabel": "LVL 305",
+    "roomNumber": "305",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 305",
+      "LVL 305"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-305:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 10,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-305:access",
+        "nodeId": "LVL:3:room:305",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-307",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Study Lounge",
+    "displayLabel": "LVL 307",
+    "roomNumber": "307",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 307",
+      "LVL 307"
+    ],
+    "position": {
+      "x": 14,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-307:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 18,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-307:access",
+        "nodeId": "LVL:3:room:307",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-309",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Computer Lab",
+    "displayLabel": "LVL 309",
+    "roomNumber": "309",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 309",
+      "LVL 309"
+    ],
+    "position": {
+      "x": 21,
+      "y": 6.8,
+      "z": -7
+    },
+    "sceneObjectKey": "LVL-309:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 6.8,
+        "z": -12
+      },
+      "max": {
+        "x": 24,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-309:access",
+        "nodeId": "LVL:3:room:309",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 6.8,
+          "z": -7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-302",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Faculty Offices",
+    "displayLabel": "LVL 302",
+    "roomNumber": "302",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 302",
+      "LVL 302"
+    ],
+    "position": {
+      "x": -21,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-302:object",
+    "bounds": {
+      "min": {
+        "x": -24,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -18,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-302:access",
+        "nodeId": "LVL:3:room:302",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -21,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-304",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Lecture Hall",
+    "displayLabel": "LVL 304",
+    "roomNumber": "304",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 304",
+      "LVL 304"
+    ],
+    "position": {
+      "x": -14,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-304:object",
+    "bounds": {
+      "min": {
+        "x": -18,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -10,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-304:access",
+        "nodeId": "LVL:3:room:304",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -14,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-306",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Classroom",
+    "displayLabel": "LVL 306",
+    "roomNumber": "306",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 306",
+      "LVL 306"
+    ],
+    "position": {
+      "x": -6.5,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-306:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -3,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-306:access",
+        "nodeId": "LVL:3:room:306",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.5,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-3-RR",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Restrooms (all-gender, accessible)",
+    "displayLabel": "LVL restrooms, floor 3",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "",
+    "aliases": [
+      "LVL restrooms, floor 3",
+      "LVL RR"
+    ],
+    "position": {
+      "x": 0,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-3-RR:object",
+    "bounds": {
+      "min": {
+        "x": -3,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 3,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-3-RR:access",
+        "nodeId": "LVL:3:restroom",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 0,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-308",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Classroom",
+    "displayLabel": "LVL 308",
+    "roomNumber": "308",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 308",
+      "LVL 308"
+    ],
+    "position": {
+      "x": 6.5,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-308:object",
+    "bounds": {
+      "min": {
+        "x": 3,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 10,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-308:access",
+        "nodeId": "LVL:3:room:308",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 6.5,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-310",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Lecture Hall",
+    "displayLabel": "LVL 310",
+    "roomNumber": "310",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "LVL 310",
+      "LVL 310"
+    ],
+    "position": {
+      "x": 14,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-310:object",
+    "bounds": {
+      "min": {
+        "x": 10,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 18,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-310:access",
+        "nodeId": "LVL:3:room:310",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 14,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  },
+  {
+    "id": "LVL-3-SB",
+    "buildingId": "LVL",
+    "floorId": "3",
+    "name": "Stairwell B",
+    "displayLabel": "LVL stairwell b, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "LVL stairwell b, floor 3",
+      "LVL B"
+    ],
+    "position": {
+      "x": 21,
+      "y": 6.8,
+      "z": 7
+    },
+    "sceneObjectKey": "LVL-3-SB:object",
+    "bounds": {
+      "min": {
+        "x": 18,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 24,
+        "y": 7.6499999999999995,
+        "z": 12
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "LVL-3-SB:access",
+        "nodeId": "LVL:3:stairs:B",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 21,
+          "y": 6.8,
+          "z": 7
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Generated illustrative interior; estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Not surveyed."
+    }
+  }
+]

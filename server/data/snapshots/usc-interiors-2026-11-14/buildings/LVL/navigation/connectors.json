@@ -1,0 +1,35 @@
+[
+  {
+    "id": "LVL:A",
+    "nodeIds": [
+      "LVL:0:cell:LVL-0-SA",
+      "LVL:1:cell:LVL-1-SA",
+      "LVL:2:cell:LVL-2-SA",
+      "LVL:3:cell:LVL-3-SA",
+      "LVL:4:cell:LVL-4-SA"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "LVL:B",
+    "nodeIds": [
+      "LVL:0:cell:LVL-0-SB",
+      "LVL:1:cell:LVL-1-SB",
+      "LVL:2:cell:LVL-2-SB",
+      "LVL:3:cell:LVL-3-SB",
+      "LVL:4:cell:LVL-4-SB"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "LVL:E",
+    "nodeIds": [
+      "LVL:0:cell:LVL-0-EL",
+      "LVL:1:cell:LVL-1-EL",
+      "LVL:2:cell:LVL-2-EL",
+      "LVL:3:cell:LVL-3-EL",
+      "LVL:4:cell:LVL-4-EL"
+    ],
+    "kind": "elevator"
+  }
+]

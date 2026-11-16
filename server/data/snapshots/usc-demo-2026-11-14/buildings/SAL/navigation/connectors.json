@@ -1,0 +1,29 @@
+[
+  {
+    "id": "SAL:SA",
+    "nodeIds": [
+      "SAL:1:stairs:A",
+      "SAL:2:stairs:A",
+      "SAL:3:stairs:A"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "SAL:E",
+    "nodeIds": [
+      "SAL:1:elevator",
+      "SAL:2:elevator",
+      "SAL:3:elevator"
+    ],
+    "kind": "elevator"
+  },
+  {
+    "id": "SAL:SB",
+    "nodeIds": [
+      "SAL:1:stairs:B",
+      "SAL:2:stairs:B",
+      "SAL:3:stairs:B"
+    ],
+    "kind": "stairs"
+  }
+]

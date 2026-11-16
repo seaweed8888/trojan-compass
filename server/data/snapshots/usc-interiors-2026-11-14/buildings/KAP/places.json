@@ -1,0 +1,6164 @@
+[
+  {
+    "id": "KAP-B01",
+    "buildingId": "KAP",
+    "floorId": "0",
+    "name": "Laboratory",
+    "displayLabel": "KAP B01",
+    "roomNumber": "B01",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP B01",
+      "KAP B01"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": -3.4,
+      "z": -28.5
+    },
+    "sceneObjectKey": "KAP-B01:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": -3.4,
+        "z": -33
+      },
+      "max": {
+        "x": -2,
+        "y": -2.55,
+        "z": -24
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-B01:access",
+        "nodeId": "KAP:0:cell:KAP-B01",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": -3.4,
+          "z": -28.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-B02",
+    "buildingId": "KAP",
+    "floorId": "0",
+    "name": "Laboratory",
+    "displayLabel": "KAP B02",
+    "roomNumber": "B02",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP B02",
+      "KAP B02"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": -3.4,
+      "z": -19.5
+    },
+    "sceneObjectKey": "KAP-B02:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": -3.4,
+        "z": -24
+      },
+      "max": {
+        "x": -2,
+        "y": -2.55,
+        "z": -15
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-B02:access",
+        "nodeId": "KAP:0:cell:KAP-B02",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": -3.4,
+          "z": -19.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-B03",
+    "buildingId": "KAP",
+    "floorId": "0",
+    "name": "Laboratory",
+    "displayLabel": "KAP B03",
+    "roomNumber": "B03",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP B03",
+      "KAP B03"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": -3.4,
+      "z": -10.5
+    },
+    "sceneObjectKey": "KAP-B03:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": -3.4,
+        "z": -15
+      },
+      "max": {
+        "x": -2,
+        "y": -2.55,
+        "z": -6
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-B03:access",
+        "nodeId": "KAP:0:cell:KAP-B03",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": -3.4,
+          "z": -10.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-B04",
+    "buildingId": "KAP",
+    "floorId": "0",
+    "name": "Laboratory",
+    "displayLabel": "KAP B04",
+    "roomNumber": "B04",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP B04",
+      "KAP B04"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": -3.4,
+      "z": 6.167
+    },
+    "sceneObjectKey": "KAP-B04:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": -3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -2,
+        "y": -2.55,
+        "z": 10.334
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-B04:access",
+        "nodeId": "KAP:0:cell:KAP-B04",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": -3.4,
+          "z": 6.167
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-B05",
+    "buildingId": "KAP",
+    "floorId": "0",
+    "name": "Laboratory",
+    "displayLabel": "KAP B05",
+    "roomNumber": "B05",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP B05",
+      "KAP B05"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": -3.4,
+      "z": 14.5
+    },
+    "sceneObjectKey": "KAP-B05:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": -3.4,
+        "z": 10.334
+      },
+      "max": {
+        "x": -2,
+        "y": -2.55,
+        "z": 18.666
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-B05:access",
+        "nodeId": "KAP:0:cell:KAP-B05",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": -3.4,
+          "z": 14.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-B06",
+    "buildingId": "KAP",
+    "floorId": "0",
+    "name": "Laboratory",
+    "displayLabel": "KAP B06",
+    "roomNumber": "B06",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP B06",
+      "KAP B06"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": -3.4,
+      "z": 22.833
+    },
+    "sceneObjectKey": "KAP-B06:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": -3.4,
+        "z": 18.666
+      },
+      "max": {
+        "x": -2,
+        "y": -2.55,
+        "z": 27
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-B06:access",
+        "nodeId": "KAP:0:cell:KAP-B06",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": -3.4,
+          "z": 22.833
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-B07",
+    "buildingId": "KAP",
+    "floorId": "0",
+    "name": "Laboratory",
+    "displayLabel": "KAP B07",
+    "roomNumber": "B07",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP B07",
+      "KAP B07"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": -3.4,
+      "z": -22.25
+    },
+    "sceneObjectKey": "KAP-B07:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": -3.4,
+        "z": -27
+      },
+      "max": {
+        "x": 15.6,
+        "y": -2.55,
+        "z": -17.5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-B07:access",
+        "nodeId": "KAP:0:cell:KAP-B07",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": -3.4,
+          "z": -22.25
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-B08",
+    "buildingId": "KAP",
+    "floorId": "0",
+    "name": "Laboratory",
+    "displayLabel": "KAP B08",
+    "roomNumber": "B08",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP B08",
+      "KAP B08"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": -3.4,
+      "z": -12.75
+    },
+    "sceneObjectKey": "KAP-B08:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": -3.4,
+        "z": -17.5
+      },
+      "max": {
+        "x": 15.6,
+        "y": -2.55,
+        "z": -8
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-B08:access",
+        "nodeId": "KAP:0:cell:KAP-B08",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": -3.4,
+          "z": -12.75
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-B09",
+    "buildingId": "KAP",
+    "floorId": "0",
+    "name": "Laboratory",
+    "displayLabel": "KAP B09",
+    "roomNumber": "B09",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP B09",
+      "KAP B09"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": -3.4,
+      "z": 8.25
+    },
+    "sceneObjectKey": "KAP-B09:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": -3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 15.6,
+        "y": -2.55,
+        "z": 14.5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-B09:access",
+        "nodeId": "KAP:0:cell:KAP-B09",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": -3.4,
+          "z": 8.25
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-B10",
+    "buildingId": "KAP",
+    "floorId": "0",
+    "name": "Laboratory",
+    "displayLabel": "KAP B10",
+    "roomNumber": "B10",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP B10",
+      "KAP B10"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": -3.4,
+      "z": 20.75
+    },
+    "sceneObjectKey": "KAP-B10:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": -3.4,
+        "z": 14.5
+      },
+      "max": {
+        "x": 15.6,
+        "y": -2.55,
+        "z": 27
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-B10:access",
+        "nodeId": "KAP:0:cell:KAP-B10",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": -3.4,
+          "z": 20.75
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Basement number and use inferred; B-prefix follows supplied basement numbering where available. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-0-SA",
+    "buildingId": "KAP",
+    "floorId": "0",
+    "name": "North stairs",
+    "displayLabel": "KAP north stairs, basement",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "KAP north stairs, basement"
+    ],
+    "position": {
+      "x": -6.8,
+      "y": -3.4,
+      "z": -37
+    },
+    "sceneObjectKey": "KAP-0-SA:object",
+    "bounds": {
+      "min": {
+        "x": -11.6,
+        "y": -3.4,
+        "z": -39
+      },
+      "max": {
+        "x": -2,
+        "y": -2.55,
+        "z": -35
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-0-SA:access",
+        "nodeId": "KAP:0:cell:KAP-0-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.8,
+          "y": -3.4,
+          "z": -37
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-0-SB",
+    "buildingId": "KAP",
+    "floorId": "0",
+    "name": "South stairs",
+    "displayLabel": "KAP south stairs, basement",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "KAP south stairs, basement"
+    ],
+    "position": {
+      "x": -5.3,
+      "y": -3.4,
+      "z": 35.5
+    },
+    "sceneObjectKey": "KAP-0-SB:object",
+    "bounds": {
+      "min": {
+        "x": -8.6,
+        "y": -3.4,
+        "z": 32
+      },
+      "max": {
+        "x": -2,
+        "y": -2.55,
+        "z": 39
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-0-SB:access",
+        "nodeId": "KAP:0:cell:KAP-0-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.3,
+          "y": -3.4,
+          "z": 35.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-0-EL",
+    "buildingId": "KAP",
+    "floorId": "0",
+    "name": "Elevator 1",
+    "displayLabel": "KAP elevator 1, basement",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator 1, basement"
+    ],
+    "position": {
+      "x": -12,
+      "y": -3.4,
+      "z": -2.6
+    },
+    "sceneObjectKey": "KAP-0-EL:object",
+    "bounds": {
+      "min": {
+        "x": -14,
+        "y": -3.4,
+        "z": -4
+      },
+      "max": {
+        "x": -10,
+        "y": -2.55,
+        "z": -1.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-0-EL:access",
+        "nodeId": "KAP:0:cell:KAP-0-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12,
+          "y": -3.4,
+          "z": -2.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-0-EL2",
+    "buildingId": "KAP",
+    "floorId": "0",
+    "name": "Elevator 2",
+    "displayLabel": "KAP elevator 2, basement",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator 2, basement"
+    ],
+    "position": {
+      "x": -8,
+      "y": -3.4,
+      "z": -2.6
+    },
+    "sceneObjectKey": "KAP-0-EL2:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": -3.4,
+        "z": -4
+      },
+      "max": {
+        "x": -6,
+        "y": -2.55,
+        "z": -1.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-0-EL2:access",
+        "nodeId": "KAP:0:cell:KAP-0-EL2",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8,
+          "y": -3.4,
+          "z": -2.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-0-EL3",
+    "buildingId": "KAP",
+    "floorId": "0",
+    "name": "Elevator 3",
+    "displayLabel": "KAP elevator 3, basement",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator 3, basement"
+    ],
+    "position": {
+      "x": -4,
+      "y": -3.4,
+      "z": -2.6
+    },
+    "sceneObjectKey": "KAP-0-EL3:object",
+    "bounds": {
+      "min": {
+        "x": -6,
+        "y": -3.4,
+        "z": -4
+      },
+      "max": {
+        "x": -2,
+        "y": -2.55,
+        "z": -1.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-0-EL3:access",
+        "nodeId": "KAP:0:cell:KAP-0-EL3",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -4,
+          "y": -3.4,
+          "z": -2.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-0-RR",
+    "buildingId": "KAP",
+    "floorId": "0",
+    "name": "Restrooms",
+    "displayLabel": "KAP restrooms, basement",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "KAP restrooms, basement"
+    ],
+    "position": {
+      "x": 5,
+      "y": -3.4,
+      "z": -4
+    },
+    "sceneObjectKey": "KAP-0-RR:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": -3.4,
+        "z": -6
+      },
+      "max": {
+        "x": 8,
+        "y": -2.55,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-0-RR:access",
+        "nodeId": "KAP:0:cell:KAP-0-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5,
+          "y": -3.4,
+          "z": -4
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-113",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 113",
+    "roomNumber": "113",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 113",
+      "KAP 113"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 0,
+      "z": -31.580000000000005
+    },
+    "sceneObjectKey": "KAP-113:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 0,
+        "z": -33
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": -30.160000000000007
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-113:access",
+        "nodeId": "KAP:1:cell:KAP-113",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 0,
+          "z": -31.580000000000005
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-134",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 134",
+    "roomNumber": "134",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 134",
+      "KAP 134"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 0,
+      "z": -28.741
+    },
+    "sceneObjectKey": "KAP-134:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 0,
+        "z": -30.160000000000007
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": -27.321999999999996
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-134:access",
+        "nodeId": "KAP:1:cell:KAP-134",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 0,
+          "z": -28.741
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-137",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 137",
+    "roomNumber": "137",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 137",
+      "KAP 137"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 0,
+      "z": -25.902
+    },
+    "sceneObjectKey": "KAP-137:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 0,
+        "z": -27.321999999999996
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": -24.482000000000003
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-137:access",
+        "nodeId": "KAP:1:cell:KAP-137",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 0,
+          "z": -25.902
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-138",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 138",
+    "roomNumber": "138",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 138",
+      "KAP 138"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 0,
+      "z": -23.063000000000002
+    },
+    "sceneObjectKey": "KAP-138:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 0,
+        "z": -24.482000000000003
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": -21.644
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-138:access",
+        "nodeId": "KAP:1:cell:KAP-138",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 0,
+          "z": -23.063000000000002
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-140",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 140",
+    "roomNumber": "140",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 140",
+      "KAP 140"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 0,
+      "z": -20.223999999999997
+    },
+    "sceneObjectKey": "KAP-140:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 0,
+        "z": -21.644
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": -18.803999999999995
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-140:access",
+        "nodeId": "KAP:1:cell:KAP-140",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 0,
+          "z": -20.223999999999997
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-141",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 141",
+    "roomNumber": "141",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 141",
+      "KAP 141"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 0,
+      "z": -17.384999999999998
+    },
+    "sceneObjectKey": "KAP-141:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 0,
+        "z": -18.803999999999995
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": -15.966000000000001
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-141:access",
+        "nodeId": "KAP:1:cell:KAP-141",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 0,
+          "z": -17.384999999999998
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-144",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 144",
+    "roomNumber": "144",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 144",
+      "KAP 144"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 0,
+      "z": -14.227000000000002
+    },
+    "sceneObjectKey": "KAP-144:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 0,
+        "z": -15.966000000000001
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": -12.488000000000003
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-144:access",
+        "nodeId": "KAP:1:cell:KAP-144",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 0,
+          "z": -14.227000000000002
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-145",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 145",
+    "roomNumber": "145",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 145",
+      "KAP 145"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 0,
+      "z": -10.983
+    },
+    "sceneObjectKey": "KAP-145:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 0,
+        "z": -12.488000000000003
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": -9.477999999999998
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-145:access",
+        "nodeId": "KAP:1:cell:KAP-145",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 0,
+          "z": -10.983
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-146",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 146",
+    "roomNumber": "146",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 146",
+      "KAP 146"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 0,
+      "z": -7.738999999999999
+    },
+    "sceneObjectKey": "KAP-146:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 0,
+        "z": -9.477999999999998
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": -6
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-146:access",
+        "nodeId": "KAP:1:cell:KAP-146",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 0,
+          "z": -7.738999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-147",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 147",
+    "roomNumber": "147",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 147",
+      "KAP 147"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 0,
+      "z": 3.5290000000000004
+    },
+    "sceneObjectKey": "KAP-147:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 5.058000000000001
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-147:access",
+        "nodeId": "KAP:1:cell:KAP-147",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 0,
+          "z": 3.5290000000000004
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-148",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 148",
+    "roomNumber": "148",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 148",
+      "KAP 148"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 0,
+      "z": 6.586
+    },
+    "sceneObjectKey": "KAP-148:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 0,
+        "z": 5.058000000000001
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 8.113999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-148:access",
+        "nodeId": "KAP:1:cell:KAP-148",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 0,
+          "z": 6.586
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-150",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 150",
+    "roomNumber": "150",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 150",
+      "KAP 150"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 0,
+      "z": 9.576
+    },
+    "sceneObjectKey": "KAP-150:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 0,
+        "z": 8.113999999999999
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 11.038
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-150:access",
+        "nodeId": "KAP:1:cell:KAP-150",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 0,
+          "z": 9.576
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-156",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 156",
+    "roomNumber": "156",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 156",
+      "KAP 156"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 0,
+      "z": 12.828
+    },
+    "sceneObjectKey": "KAP-156:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 0,
+        "z": 11.038
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 14.617999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-156:access",
+        "nodeId": "KAP:1:cell:KAP-156",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 0,
+          "z": 12.828
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-158",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 158",
+    "roomNumber": "158",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 158",
+      "KAP 158"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 0,
+      "z": 16.252000000000002
+    },
+    "sceneObjectKey": "KAP-158:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 0,
+        "z": 14.617999999999999
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 17.886000000000003
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-158:access",
+        "nodeId": "KAP:1:cell:KAP-158",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 0,
+          "z": 16.252000000000002
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-159",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 159",
+    "roomNumber": "159",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 159",
+      "KAP 159"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 0,
+      "z": 19.347
+    },
+    "sceneObjectKey": "KAP-159:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 0,
+        "z": 17.886000000000003
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 20.808
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-159:access",
+        "nodeId": "KAP:1:cell:KAP-159",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 0,
+          "z": 19.347
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-163",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 163",
+    "roomNumber": "163",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 163",
+      "KAP 163"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 0,
+      "z": 22.442
+    },
+    "sceneObjectKey": "KAP-163:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 0,
+        "z": 20.808
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 24.076
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-163:access",
+        "nodeId": "KAP:1:cell:KAP-163",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 0,
+          "z": 22.442
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-164",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 164",
+    "roomNumber": "164",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 164",
+      "KAP 164"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 0,
+      "z": 25.538
+    },
+    "sceneObjectKey": "KAP-164:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 0,
+        "z": 24.076
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 27
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-164:access",
+        "nodeId": "KAP:1:cell:KAP-164",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 0,
+          "z": 25.538
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-165",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 165",
+    "roomNumber": "165",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 165",
+      "KAP 165"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 0,
+      "z": -25.417
+    },
+    "sceneObjectKey": "KAP-165:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": -27
+      },
+      "max": {
+        "x": 15.6,
+        "y": 0.85,
+        "z": -23.834
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-165:access",
+        "nodeId": "KAP:1:cell:KAP-165",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 0,
+          "z": -25.417
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-166",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 166",
+    "roomNumber": "166",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 166",
+      "KAP 166"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 0,
+      "z": -22.25
+    },
+    "sceneObjectKey": "KAP-166:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": -23.834
+      },
+      "max": {
+        "x": 15.6,
+        "y": 0.85,
+        "z": -20.666
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-166:access",
+        "nodeId": "KAP:1:cell:KAP-166",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 0,
+          "z": -22.25
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-167",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 167",
+    "roomNumber": "167",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 167",
+      "KAP 167"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 0,
+      "z": -19.083
+    },
+    "sceneObjectKey": "KAP-167:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": -20.666
+      },
+      "max": {
+        "x": 15.6,
+        "y": 0.85,
+        "z": -17.5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-167:access",
+        "nodeId": "KAP:1:cell:KAP-167",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 0,
+          "z": -19.083
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://roomfinder.usc.edu/"
+      ],
+      "verifiedAt": null,
+      "note": "Number confirmed; identity confirmed; position inferred. Position, boundary and door inferred. Room existence/number/capacity from indexed USC Room Finder; floor inferred from number prefix. Descriptive label Auditorium (74+ seats) or Classroom inferred from capacity, not an official room name. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-101",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 101",
+    "roomNumber": "101",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 101",
+      "KAP 101"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 0,
+      "z": -15.917
+    },
+    "sceneObjectKey": "KAP-101:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": -17.5
+      },
+      "max": {
+        "x": 15.6,
+        "y": 0.85,
+        "z": -14.334
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-101:access",
+        "nodeId": "KAP:1:cell:KAP-101",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 0,
+          "z": -15.917
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-102",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 102",
+    "roomNumber": "102",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 102",
+      "KAP 102"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 0,
+      "z": -12.75
+    },
+    "sceneObjectKey": "KAP-102:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": -14.334
+      },
+      "max": {
+        "x": 15.6,
+        "y": 0.85,
+        "z": -11.166
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-102:access",
+        "nodeId": "KAP:1:cell:KAP-102",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 0,
+          "z": -12.75
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-103",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 103",
+    "roomNumber": "103",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 103",
+      "KAP 103"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 0,
+      "z": -9.583
+    },
+    "sceneObjectKey": "KAP-103:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": -11.166
+      },
+      "max": {
+        "x": 15.6,
+        "y": 0.85,
+        "z": -8
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-103:access",
+        "nodeId": "KAP:1:cell:KAP-103",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 0,
+          "z": -9.583
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-104",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 104",
+    "roomNumber": "104",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 104",
+      "KAP 104"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 0,
+      "z": 3.7860000000000014
+    },
+    "sceneObjectKey": "KAP-104:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": 2
+      },
+      "max": {
+        "x": 15.6,
+        "y": 0.85,
+        "z": 5.572000000000003
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-104:access",
+        "nodeId": "KAP:1:cell:KAP-104",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 0,
+          "z": 3.7860000000000014
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-105",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 105",
+    "roomNumber": "105",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 105",
+      "KAP 105"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 0,
+      "z": 7.357000000000001
+    },
+    "sceneObjectKey": "KAP-105:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": 5.572000000000003
+      },
+      "max": {
+        "x": 15.6,
+        "y": 0.85,
+        "z": 9.142
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-105:access",
+        "nodeId": "KAP:1:cell:KAP-105",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 0,
+          "z": 7.357000000000001
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-106",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 106",
+    "roomNumber": "106",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 106",
+      "KAP 106"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 0,
+      "z": 10.927999999999999
+    },
+    "sceneObjectKey": "KAP-106:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": 9.142
+      },
+      "max": {
+        "x": 15.6,
+        "y": 0.85,
+        "z": 12.713999999999999
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-106:access",
+        "nodeId": "KAP:1:cell:KAP-106",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 0,
+          "z": 10.927999999999999
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-107",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 107",
+    "roomNumber": "107",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 107",
+      "KAP 107"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 0,
+      "z": 14.5
+    },
+    "sceneObjectKey": "KAP-107:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": 12.713999999999999
+      },
+      "max": {
+        "x": 15.6,
+        "y": 0.85,
+        "z": 16.286
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-107:access",
+        "nodeId": "KAP:1:cell:KAP-107",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 0,
+          "z": 14.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-108",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 108",
+    "roomNumber": "108",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 108",
+      "KAP 108"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 0,
+      "z": 18.072000000000003
+    },
+    "sceneObjectKey": "KAP-108:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": 16.286
+      },
+      "max": {
+        "x": 15.6,
+        "y": 0.85,
+        "z": 19.858
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-108:access",
+        "nodeId": "KAP:1:cell:KAP-108",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 0,
+          "z": 18.072000000000003
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-109",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 109",
+    "roomNumber": "109",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 109",
+      "KAP 109"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 0,
+      "z": 21.643
+    },
+    "sceneObjectKey": "KAP-109:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": 19.858
+      },
+      "max": {
+        "x": 15.6,
+        "y": 0.85,
+        "z": 23.428
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-109:access",
+        "nodeId": "KAP:1:cell:KAP-109",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 0,
+          "z": 21.643
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-110",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Classroom",
+    "displayLabel": "KAP 110",
+    "roomNumber": "110",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 110",
+      "KAP 110"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 0,
+      "z": 25.214
+    },
+    "sceneObjectKey": "KAP-110:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": 23.428
+      },
+      "max": {
+        "x": 15.6,
+        "y": 0.85,
+        "z": 27
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-110:access",
+        "nodeId": "KAP:1:cell:KAP-110",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 0,
+          "z": 25.214
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-1-SA",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "North stairs",
+    "displayLabel": "KAP north stairs, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "KAP north stairs, floor 1"
+    ],
+    "position": {
+      "x": -6.8,
+      "y": 0,
+      "z": -37
+    },
+    "sceneObjectKey": "KAP-1-SA:object",
+    "bounds": {
+      "min": {
+        "x": -11.6,
+        "y": 0,
+        "z": -39
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": -35
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-1-SA:access",
+        "nodeId": "KAP:1:cell:KAP-1-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.8,
+          "y": 0,
+          "z": -37
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-1-SB",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "South stairs",
+    "displayLabel": "KAP south stairs, floor 1",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "KAP south stairs, floor 1"
+    ],
+    "position": {
+      "x": -5.3,
+      "y": 0,
+      "z": 35.5
+    },
+    "sceneObjectKey": "KAP-1-SB:object",
+    "bounds": {
+      "min": {
+        "x": -8.6,
+        "y": 0,
+        "z": 32
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": 39
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-1-SB:access",
+        "nodeId": "KAP:1:cell:KAP-1-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.3,
+          "y": 0,
+          "z": 35.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-1-EL",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Elevator 1",
+    "displayLabel": "KAP elevator 1, floor 1",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator 1, floor 1"
+    ],
+    "position": {
+      "x": -12,
+      "y": 0,
+      "z": -2.6
+    },
+    "sceneObjectKey": "KAP-1-EL:object",
+    "bounds": {
+      "min": {
+        "x": -14,
+        "y": 0,
+        "z": -4
+      },
+      "max": {
+        "x": -10,
+        "y": 0.85,
+        "z": -1.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-1-EL:access",
+        "nodeId": "KAP:1:cell:KAP-1-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12,
+          "y": 0,
+          "z": -2.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-1-EL2",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Elevator 2",
+    "displayLabel": "KAP elevator 2, floor 1",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator 2, floor 1"
+    ],
+    "position": {
+      "x": -8,
+      "y": 0,
+      "z": -2.6
+    },
+    "sceneObjectKey": "KAP-1-EL2:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 0,
+        "z": -4
+      },
+      "max": {
+        "x": -6,
+        "y": 0.85,
+        "z": -1.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-1-EL2:access",
+        "nodeId": "KAP:1:cell:KAP-1-EL2",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8,
+          "y": 0,
+          "z": -2.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-1-EL3",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Elevator 3",
+    "displayLabel": "KAP elevator 3, floor 1",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator 3, floor 1"
+    ],
+    "position": {
+      "x": -4,
+      "y": 0,
+      "z": -2.6
+    },
+    "sceneObjectKey": "KAP-1-EL3:object",
+    "bounds": {
+      "min": {
+        "x": -6,
+        "y": 0,
+        "z": -4
+      },
+      "max": {
+        "x": -2,
+        "y": 0.85,
+        "z": -1.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-1-EL3:access",
+        "nodeId": "KAP:1:cell:KAP-1-EL3",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -4,
+          "y": 0,
+          "z": -2.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-1-RR",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "Restrooms",
+    "displayLabel": "KAP restrooms, floor 1",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "KAP restrooms, floor 1"
+    ],
+    "position": {
+      "x": 5,
+      "y": 0,
+      "z": -4
+    },
+    "sceneObjectKey": "KAP-1-RR:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 0,
+        "z": -6
+      },
+      "max": {
+        "x": 8,
+        "y": 0.85,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-1-RR:access",
+        "nodeId": "KAP:1:cell:KAP-1-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5,
+          "y": 0,
+          "z": -4
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-ENT",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "main entrance",
+    "displayLabel": "KAP main entrance",
+    "roomNumber": null,
+    "kind": "entrance",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": -40
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "KAP:1:entrance:access",
+        "nodeId": "KAP:1:entrance",
+        "label": "main entrance",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": -40
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Door location and step-free property inferred; not a verified accessible entrance or emergency exit. Sources: demos/usc-map/locations.json Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-EXIT-1-EXIT",
+    "buildingId": "KAP",
+    "floorId": "1",
+    "name": "secondary exit",
+    "displayLabel": "KAP secondary exit",
+    "roomNumber": null,
+    "kind": "emergency_exit",
+    "description": "",
+    "aliases": [],
+    "position": {
+      "x": 0,
+      "y": 0,
+      "z": 40
+    },
+    "sceneObjectKey": null,
+    "bounds": null,
+    "accessPoints": [
+      {
+        "id": "KAP:1:exit:access",
+        "nodeId": "KAP:1:exit",
+        "label": "secondary exit",
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 40
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": null,
+      "entryAllowed": false,
+      "exitAllowed": true,
+      "note": "Entrance geometry and accessibility are unverified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Door location and step-free property inferred; not a verified accessible entrance or emergency exit. Sources: demos/usc-map/locations.json Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-201",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Research office",
+    "displayLabel": "KAP 201",
+    "roomNumber": "201",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 201",
+      "KAP 201"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 3.4,
+      "z": -28.5
+    },
+    "sceneObjectKey": "KAP-201:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 3.4,
+        "z": -33
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": -24
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-201:access",
+        "nodeId": "KAP:2:cell:KAP-201",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 3.4,
+          "z": -28.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-202",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Research office",
+    "displayLabel": "KAP 202",
+    "roomNumber": "202",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 202",
+      "KAP 202"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 3.4,
+      "z": -19.5
+    },
+    "sceneObjectKey": "KAP-202:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 3.4,
+        "z": -24
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": -15
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-202:access",
+        "nodeId": "KAP:2:cell:KAP-202",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 3.4,
+          "z": -19.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-203",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Research office",
+    "displayLabel": "KAP 203",
+    "roomNumber": "203",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 203",
+      "KAP 203"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 3.4,
+      "z": -10.5
+    },
+    "sceneObjectKey": "KAP-203:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 3.4,
+        "z": -15
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": -6
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-203:access",
+        "nodeId": "KAP:2:cell:KAP-203",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 3.4,
+          "z": -10.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-204",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Research office",
+    "displayLabel": "KAP 204",
+    "roomNumber": "204",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 204",
+      "KAP 204"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 3.4,
+      "z": 6.167
+    },
+    "sceneObjectKey": "KAP-204:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": 10.334
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-204:access",
+        "nodeId": "KAP:2:cell:KAP-204",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 3.4,
+          "z": 6.167
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-205",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Research office",
+    "displayLabel": "KAP 205",
+    "roomNumber": "205",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 205",
+      "KAP 205"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 3.4,
+      "z": 14.5
+    },
+    "sceneObjectKey": "KAP-205:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 3.4,
+        "z": 10.334
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": 18.666
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-205:access",
+        "nodeId": "KAP:2:cell:KAP-205",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 3.4,
+          "z": 14.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-206",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Research office",
+    "displayLabel": "KAP 206",
+    "roomNumber": "206",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 206",
+      "KAP 206"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 3.4,
+      "z": 22.833
+    },
+    "sceneObjectKey": "KAP-206:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 3.4,
+        "z": 18.666
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": 27
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-206:access",
+        "nodeId": "KAP:2:cell:KAP-206",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 3.4,
+          "z": 22.833
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-207",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Research office",
+    "displayLabel": "KAP 207",
+    "roomNumber": "207",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 207",
+      "KAP 207"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 3.4,
+      "z": -22.25
+    },
+    "sceneObjectKey": "KAP-207:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 3.4,
+        "z": -27
+      },
+      "max": {
+        "x": 15.6,
+        "y": 4.25,
+        "z": -17.5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-207:access",
+        "nodeId": "KAP:2:cell:KAP-207",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 3.4,
+          "z": -22.25
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-208",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Research office",
+    "displayLabel": "KAP 208",
+    "roomNumber": "208",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 208",
+      "KAP 208"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 3.4,
+      "z": -12.75
+    },
+    "sceneObjectKey": "KAP-208:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 3.4,
+        "z": -17.5
+      },
+      "max": {
+        "x": 15.6,
+        "y": 4.25,
+        "z": -8
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-208:access",
+        "nodeId": "KAP:2:cell:KAP-208",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 3.4,
+          "z": -12.75
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-209",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Research office",
+    "displayLabel": "KAP 209",
+    "roomNumber": "209",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 209",
+      "KAP 209"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 3.4,
+      "z": 8.25
+    },
+    "sceneObjectKey": "KAP-209:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 3.4,
+        "z": 2
+      },
+      "max": {
+        "x": 15.6,
+        "y": 4.25,
+        "z": 14.5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-209:access",
+        "nodeId": "KAP:2:cell:KAP-209",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 3.4,
+          "z": 8.25
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-210",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Research office",
+    "displayLabel": "KAP 210",
+    "roomNumber": "210",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 210",
+      "KAP 210"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 3.4,
+      "z": 20.75
+    },
+    "sceneObjectKey": "KAP-210:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 3.4,
+        "z": 14.5
+      },
+      "max": {
+        "x": 15.6,
+        "y": 4.25,
+        "z": 27
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-210:access",
+        "nodeId": "KAP:2:cell:KAP-210",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 3.4,
+          "z": 20.75
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-2-SA",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "North stairs",
+    "displayLabel": "KAP north stairs, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "KAP north stairs, floor 2"
+    ],
+    "position": {
+      "x": -6.8,
+      "y": 3.4,
+      "z": -37
+    },
+    "sceneObjectKey": "KAP-2-SA:object",
+    "bounds": {
+      "min": {
+        "x": -11.6,
+        "y": 3.4,
+        "z": -39
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": -35
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-2-SA:access",
+        "nodeId": "KAP:2:cell:KAP-2-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.8,
+          "y": 3.4,
+          "z": -37
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-2-SB",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "South stairs",
+    "displayLabel": "KAP south stairs, floor 2",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "KAP south stairs, floor 2"
+    ],
+    "position": {
+      "x": -5.3,
+      "y": 3.4,
+      "z": 35.5
+    },
+    "sceneObjectKey": "KAP-2-SB:object",
+    "bounds": {
+      "min": {
+        "x": -8.6,
+        "y": 3.4,
+        "z": 32
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": 39
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-2-SB:access",
+        "nodeId": "KAP:2:cell:KAP-2-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.3,
+          "y": 3.4,
+          "z": 35.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-2-EL",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Elevator 1",
+    "displayLabel": "KAP elevator 1, floor 2",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator 1, floor 2"
+    ],
+    "position": {
+      "x": -12,
+      "y": 3.4,
+      "z": -2.6
+    },
+    "sceneObjectKey": "KAP-2-EL:object",
+    "bounds": {
+      "min": {
+        "x": -14,
+        "y": 3.4,
+        "z": -4
+      },
+      "max": {
+        "x": -10,
+        "y": 4.25,
+        "z": -1.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-2-EL:access",
+        "nodeId": "KAP:2:cell:KAP-2-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12,
+          "y": 3.4,
+          "z": -2.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-2-EL2",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Elevator 2",
+    "displayLabel": "KAP elevator 2, floor 2",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator 2, floor 2"
+    ],
+    "position": {
+      "x": -8,
+      "y": 3.4,
+      "z": -2.6
+    },
+    "sceneObjectKey": "KAP-2-EL2:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 3.4,
+        "z": -4
+      },
+      "max": {
+        "x": -6,
+        "y": 4.25,
+        "z": -1.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-2-EL2:access",
+        "nodeId": "KAP:2:cell:KAP-2-EL2",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8,
+          "y": 3.4,
+          "z": -2.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-2-EL3",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Elevator 3",
+    "displayLabel": "KAP elevator 3, floor 2",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator 3, floor 2"
+    ],
+    "position": {
+      "x": -4,
+      "y": 3.4,
+      "z": -2.6
+    },
+    "sceneObjectKey": "KAP-2-EL3:object",
+    "bounds": {
+      "min": {
+        "x": -6,
+        "y": 3.4,
+        "z": -4
+      },
+      "max": {
+        "x": -2,
+        "y": 4.25,
+        "z": -1.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-2-EL3:access",
+        "nodeId": "KAP:2:cell:KAP-2-EL3",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -4,
+          "y": 3.4,
+          "z": -2.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-2-RR",
+    "buildingId": "KAP",
+    "floorId": "2",
+    "name": "Restrooms",
+    "displayLabel": "KAP restrooms, floor 2",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "KAP restrooms, floor 2"
+    ],
+    "position": {
+      "x": 5,
+      "y": 3.4,
+      "z": -4
+    },
+    "sceneObjectKey": "KAP-2-RR:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 3.4,
+        "z": -6
+      },
+      "max": {
+        "x": 8,
+        "y": 4.25,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-2-RR:access",
+        "nodeId": "KAP:2:cell:KAP-2-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5,
+          "y": 3.4,
+          "z": -4
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-301",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Research office",
+    "displayLabel": "KAP 301",
+    "roomNumber": "301",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 301",
+      "KAP 301"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 6.8,
+      "z": -28.5
+    },
+    "sceneObjectKey": "KAP-301:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 6.8,
+        "z": -33
+      },
+      "max": {
+        "x": -2,
+        "y": 7.6499999999999995,
+        "z": -24
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-301:access",
+        "nodeId": "KAP:3:cell:KAP-301",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 6.8,
+          "z": -28.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-302",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Research office",
+    "displayLabel": "KAP 302",
+    "roomNumber": "302",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 302",
+      "KAP 302"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 6.8,
+      "z": -19.5
+    },
+    "sceneObjectKey": "KAP-302:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 6.8,
+        "z": -24
+      },
+      "max": {
+        "x": -2,
+        "y": 7.6499999999999995,
+        "z": -15
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-302:access",
+        "nodeId": "KAP:3:cell:KAP-302",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 6.8,
+          "z": -19.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-303",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Research office",
+    "displayLabel": "KAP 303",
+    "roomNumber": "303",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 303",
+      "KAP 303"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 6.8,
+      "z": -10.5
+    },
+    "sceneObjectKey": "KAP-303:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 6.8,
+        "z": -15
+      },
+      "max": {
+        "x": -2,
+        "y": 7.6499999999999995,
+        "z": -6
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-303:access",
+        "nodeId": "KAP:3:cell:KAP-303",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 6.8,
+          "z": -10.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-304",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Research office",
+    "displayLabel": "KAP 304",
+    "roomNumber": "304",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 304",
+      "KAP 304"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 6.8,
+      "z": 6.167
+    },
+    "sceneObjectKey": "KAP-304:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": -2,
+        "y": 7.6499999999999995,
+        "z": 10.334
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-304:access",
+        "nodeId": "KAP:3:cell:KAP-304",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 6.8,
+          "z": 6.167
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-305",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Research office",
+    "displayLabel": "KAP 305",
+    "roomNumber": "305",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 305",
+      "KAP 305"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 6.8,
+      "z": 14.5
+    },
+    "sceneObjectKey": "KAP-305:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 6.8,
+        "z": 10.334
+      },
+      "max": {
+        "x": -2,
+        "y": 7.6499999999999995,
+        "z": 18.666
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-305:access",
+        "nodeId": "KAP:3:cell:KAP-305",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 6.8,
+          "z": 14.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-306",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Research office",
+    "displayLabel": "KAP 306",
+    "roomNumber": "306",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 306",
+      "KAP 306"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 6.8,
+      "z": 22.833
+    },
+    "sceneObjectKey": "KAP-306:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 6.8,
+        "z": 18.666
+      },
+      "max": {
+        "x": -2,
+        "y": 7.6499999999999995,
+        "z": 27
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-306:access",
+        "nodeId": "KAP:3:cell:KAP-306",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 6.8,
+          "z": 22.833
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-307",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Research office",
+    "displayLabel": "KAP 307",
+    "roomNumber": "307",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 307",
+      "KAP 307"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 6.8,
+      "z": -22.25
+    },
+    "sceneObjectKey": "KAP-307:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": -27
+      },
+      "max": {
+        "x": 15.6,
+        "y": 7.6499999999999995,
+        "z": -17.5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-307:access",
+        "nodeId": "KAP:3:cell:KAP-307",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 6.8,
+          "z": -22.25
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-308",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Research office",
+    "displayLabel": "KAP 308",
+    "roomNumber": "308",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 308",
+      "KAP 308"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 6.8,
+      "z": -12.75
+    },
+    "sceneObjectKey": "KAP-308:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": -17.5
+      },
+      "max": {
+        "x": 15.6,
+        "y": 7.6499999999999995,
+        "z": -8
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-308:access",
+        "nodeId": "KAP:3:cell:KAP-308",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 6.8,
+          "z": -12.75
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-309",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Research office",
+    "displayLabel": "KAP 309",
+    "roomNumber": "309",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 309",
+      "KAP 309"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 6.8,
+      "z": 8.25
+    },
+    "sceneObjectKey": "KAP-309:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": 2
+      },
+      "max": {
+        "x": 15.6,
+        "y": 7.6499999999999995,
+        "z": 14.5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-309:access",
+        "nodeId": "KAP:3:cell:KAP-309",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 6.8,
+          "z": 8.25
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-310",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Research office",
+    "displayLabel": "KAP 310",
+    "roomNumber": "310",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 310",
+      "KAP 310"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 6.8,
+      "z": 20.75
+    },
+    "sceneObjectKey": "KAP-310:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": 14.5
+      },
+      "max": {
+        "x": 15.6,
+        "y": 7.6499999999999995,
+        "z": 27
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-310:access",
+        "nodeId": "KAP:3:cell:KAP-310",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 6.8,
+          "z": 20.75
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-3-SA",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "North stairs",
+    "displayLabel": "KAP north stairs, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "KAP north stairs, floor 3"
+    ],
+    "position": {
+      "x": -6.8,
+      "y": 6.8,
+      "z": -37
+    },
+    "sceneObjectKey": "KAP-3-SA:object",
+    "bounds": {
+      "min": {
+        "x": -11.6,
+        "y": 6.8,
+        "z": -39
+      },
+      "max": {
+        "x": -2,
+        "y": 7.6499999999999995,
+        "z": -35
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-3-SA:access",
+        "nodeId": "KAP:3:cell:KAP-3-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.8,
+          "y": 6.8,
+          "z": -37
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-3-SB",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "South stairs",
+    "displayLabel": "KAP south stairs, floor 3",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "KAP south stairs, floor 3"
+    ],
+    "position": {
+      "x": -5.3,
+      "y": 6.8,
+      "z": 35.5
+    },
+    "sceneObjectKey": "KAP-3-SB:object",
+    "bounds": {
+      "min": {
+        "x": -8.6,
+        "y": 6.8,
+        "z": 32
+      },
+      "max": {
+        "x": -2,
+        "y": 7.6499999999999995,
+        "z": 39
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-3-SB:access",
+        "nodeId": "KAP:3:cell:KAP-3-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.3,
+          "y": 6.8,
+          "z": 35.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-3-EL",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Elevator 1",
+    "displayLabel": "KAP elevator 1, floor 3",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator 1, floor 3"
+    ],
+    "position": {
+      "x": -12,
+      "y": 6.8,
+      "z": -2.6
+    },
+    "sceneObjectKey": "KAP-3-EL:object",
+    "bounds": {
+      "min": {
+        "x": -14,
+        "y": 6.8,
+        "z": -4
+      },
+      "max": {
+        "x": -10,
+        "y": 7.6499999999999995,
+        "z": -1.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-3-EL:access",
+        "nodeId": "KAP:3:cell:KAP-3-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12,
+          "y": 6.8,
+          "z": -2.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-3-EL2",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Elevator 2",
+    "displayLabel": "KAP elevator 2, floor 3",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator 2, floor 3"
+    ],
+    "position": {
+      "x": -8,
+      "y": 6.8,
+      "z": -2.6
+    },
+    "sceneObjectKey": "KAP-3-EL2:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 6.8,
+        "z": -4
+      },
+      "max": {
+        "x": -6,
+        "y": 7.6499999999999995,
+        "z": -1.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-3-EL2:access",
+        "nodeId": "KAP:3:cell:KAP-3-EL2",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8,
+          "y": 6.8,
+          "z": -2.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-3-EL3",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Elevator 3",
+    "displayLabel": "KAP elevator 3, floor 3",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator 3, floor 3"
+    ],
+    "position": {
+      "x": -4,
+      "y": 6.8,
+      "z": -2.6
+    },
+    "sceneObjectKey": "KAP-3-EL3:object",
+    "bounds": {
+      "min": {
+        "x": -6,
+        "y": 6.8,
+        "z": -4
+      },
+      "max": {
+        "x": -2,
+        "y": 7.6499999999999995,
+        "z": -1.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-3-EL3:access",
+        "nodeId": "KAP:3:cell:KAP-3-EL3",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -4,
+          "y": 6.8,
+          "z": -2.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-3-RR",
+    "buildingId": "KAP",
+    "floorId": "3",
+    "name": "Restrooms",
+    "displayLabel": "KAP restrooms, floor 3",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "KAP restrooms, floor 3"
+    ],
+    "position": {
+      "x": 5,
+      "y": 6.8,
+      "z": -4
+    },
+    "sceneObjectKey": "KAP-3-RR:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 6.8,
+        "z": -6
+      },
+      "max": {
+        "x": 8,
+        "y": 7.6499999999999995,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-3-RR:access",
+        "nodeId": "KAP:3:cell:KAP-3-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5,
+          "y": 6.8,
+          "z": -4
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-401",
+    "buildingId": "KAP",
+    "floorId": "4",
+    "name": "Research office",
+    "displayLabel": "KAP 401",
+    "roomNumber": "401",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 401",
+      "KAP 401"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 10.2,
+      "z": -28.5
+    },
+    "sceneObjectKey": "KAP-401:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 10.2,
+        "z": -33
+      },
+      "max": {
+        "x": -2,
+        "y": 11.049999999999999,
+        "z": -24
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-401:access",
+        "nodeId": "KAP:4:cell:KAP-401",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 10.2,
+          "z": -28.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-402",
+    "buildingId": "KAP",
+    "floorId": "4",
+    "name": "Research office",
+    "displayLabel": "KAP 402",
+    "roomNumber": "402",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 402",
+      "KAP 402"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 10.2,
+      "z": -19.5
+    },
+    "sceneObjectKey": "KAP-402:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 10.2,
+        "z": -24
+      },
+      "max": {
+        "x": -2,
+        "y": 11.049999999999999,
+        "z": -15
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-402:access",
+        "nodeId": "KAP:4:cell:KAP-402",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 10.2,
+          "z": -19.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-403",
+    "buildingId": "KAP",
+    "floorId": "4",
+    "name": "Research office",
+    "displayLabel": "KAP 403",
+    "roomNumber": "403",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 403",
+      "KAP 403"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 10.2,
+      "z": -10.5
+    },
+    "sceneObjectKey": "KAP-403:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 10.2,
+        "z": -15
+      },
+      "max": {
+        "x": -2,
+        "y": 11.049999999999999,
+        "z": -6
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-403:access",
+        "nodeId": "KAP:4:cell:KAP-403",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 10.2,
+          "z": -10.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-404",
+    "buildingId": "KAP",
+    "floorId": "4",
+    "name": "Research office",
+    "displayLabel": "KAP 404",
+    "roomNumber": "404",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 404",
+      "KAP 404"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 10.2,
+      "z": 6.167
+    },
+    "sceneObjectKey": "KAP-404:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": -2,
+        "y": 11.049999999999999,
+        "z": 10.334
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-404:access",
+        "nodeId": "KAP:4:cell:KAP-404",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 10.2,
+          "z": 6.167
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-405",
+    "buildingId": "KAP",
+    "floorId": "4",
+    "name": "Research office",
+    "displayLabel": "KAP 405",
+    "roomNumber": "405",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 405",
+      "KAP 405"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 10.2,
+      "z": 14.5
+    },
+    "sceneObjectKey": "KAP-405:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 10.2,
+        "z": 10.334
+      },
+      "max": {
+        "x": -2,
+        "y": 11.049999999999999,
+        "z": 18.666
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-405:access",
+        "nodeId": "KAP:4:cell:KAP-405",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 10.2,
+          "z": 14.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-406",
+    "buildingId": "KAP",
+    "floorId": "4",
+    "name": "Research office",
+    "displayLabel": "KAP 406",
+    "roomNumber": "406",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 406",
+      "KAP 406"
+    ],
+    "position": {
+      "x": -9.7,
+      "y": 10.2,
+      "z": 22.833
+    },
+    "sceneObjectKey": "KAP-406:object",
+    "bounds": {
+      "min": {
+        "x": -17.4,
+        "y": 10.2,
+        "z": 18.666
+      },
+      "max": {
+        "x": -2,
+        "y": 11.049999999999999,
+        "z": 27
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-406:access",
+        "nodeId": "KAP:4:cell:KAP-406",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -9.7,
+          "y": 10.2,
+          "z": 22.833
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-407",
+    "buildingId": "KAP",
+    "floorId": "4",
+    "name": "Research office",
+    "displayLabel": "KAP 407",
+    "roomNumber": "407",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 407",
+      "KAP 407"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 10.2,
+      "z": -22.25
+    },
+    "sceneObjectKey": "KAP-407:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 10.2,
+        "z": -27
+      },
+      "max": {
+        "x": 15.6,
+        "y": 11.049999999999999,
+        "z": -17.5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-407:access",
+        "nodeId": "KAP:4:cell:KAP-407",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 10.2,
+          "z": -22.25
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-408",
+    "buildingId": "KAP",
+    "floorId": "4",
+    "name": "Research office",
+    "displayLabel": "KAP 408",
+    "roomNumber": "408",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 408",
+      "KAP 408"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 10.2,
+      "z": -12.75
+    },
+    "sceneObjectKey": "KAP-408:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 10.2,
+        "z": -17.5
+      },
+      "max": {
+        "x": 15.6,
+        "y": 11.049999999999999,
+        "z": -8
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-408:access",
+        "nodeId": "KAP:4:cell:KAP-408",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 10.2,
+          "z": -12.75
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-409",
+    "buildingId": "KAP",
+    "floorId": "4",
+    "name": "Research office",
+    "displayLabel": "KAP 409",
+    "roomNumber": "409",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 409",
+      "KAP 409"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 10.2,
+      "z": 8.25
+    },
+    "sceneObjectKey": "KAP-409:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 10.2,
+        "z": 2
+      },
+      "max": {
+        "x": 15.6,
+        "y": 11.049999999999999,
+        "z": 14.5
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-409:access",
+        "nodeId": "KAP:4:cell:KAP-409",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 10.2,
+          "z": 8.25
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-410",
+    "buildingId": "KAP",
+    "floorId": "4",
+    "name": "Research office",
+    "displayLabel": "KAP 410",
+    "roomNumber": "410",
+    "kind": "classroom",
+    "description": "",
+    "aliases": [
+      "KAP 410",
+      "KAP 410"
+    ],
+    "position": {
+      "x": 8.8,
+      "y": 10.2,
+      "z": 20.75
+    },
+    "sceneObjectKey": "KAP-410:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 10.2,
+        "z": 14.5
+      },
+      "max": {
+        "x": 15.6,
+        "y": 11.049999999999999,
+        "z": 27
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-410:access",
+        "nodeId": "KAP:4:cell:KAP-410",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 8.8,
+          "y": 10.2,
+          "z": 20.75
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [],
+      "verifiedAt": null,
+      "note": "Number inferred; identity inferred; position inferred. Position, boundary and door inferred. Retained legacy demo number; number and use inferred. Sources: Original server/src/infrastructure/datasets/prototype/floorplan.ts template (unverified demo IDs only) Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-4-SA",
+    "buildingId": "KAP",
+    "floorId": "4",
+    "name": "North stairs",
+    "displayLabel": "KAP north stairs, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "KAP north stairs, floor 4"
+    ],
+    "position": {
+      "x": -6.8,
+      "y": 10.2,
+      "z": -37
+    },
+    "sceneObjectKey": "KAP-4-SA:object",
+    "bounds": {
+      "min": {
+        "x": -11.6,
+        "y": 10.2,
+        "z": -39
+      },
+      "max": {
+        "x": -2,
+        "y": 11.049999999999999,
+        "z": -35
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-4-SA:access",
+        "nodeId": "KAP:4:cell:KAP-4-SA",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -6.8,
+          "y": 10.2,
+          "z": -37
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-4-SB",
+    "buildingId": "KAP",
+    "floorId": "4",
+    "name": "South stairs",
+    "displayLabel": "KAP south stairs, floor 4",
+    "roomNumber": null,
+    "kind": "stairs",
+    "description": "",
+    "aliases": [
+      "KAP south stairs, floor 4"
+    ],
+    "position": {
+      "x": -5.3,
+      "y": 10.2,
+      "z": 35.5
+    },
+    "sceneObjectKey": "KAP-4-SB:object",
+    "bounds": {
+      "min": {
+        "x": -8.6,
+        "y": 10.2,
+        "z": 32
+      },
+      "max": {
+        "x": -2,
+        "y": 11.049999999999999,
+        "z": 39
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-4-SB:access",
+        "nodeId": "KAP:4:cell:KAP-4-SB",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -5.3,
+          "y": 10.2,
+          "z": 35.5
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-4-EL",
+    "buildingId": "KAP",
+    "floorId": "4",
+    "name": "Elevator 1",
+    "displayLabel": "KAP elevator 1, floor 4",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator 1, floor 4"
+    ],
+    "position": {
+      "x": -12,
+      "y": 10.2,
+      "z": -2.6
+    },
+    "sceneObjectKey": "KAP-4-EL:object",
+    "bounds": {
+      "min": {
+        "x": -14,
+        "y": 10.2,
+        "z": -4
+      },
+      "max": {
+        "x": -10,
+        "y": 11.049999999999999,
+        "z": -1.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-4-EL:access",
+        "nodeId": "KAP:4:cell:KAP-4-EL",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -12,
+          "y": 10.2,
+          "z": -2.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-4-EL2",
+    "buildingId": "KAP",
+    "floorId": "4",
+    "name": "Elevator 2",
+    "displayLabel": "KAP elevator 2, floor 4",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator 2, floor 4"
+    ],
+    "position": {
+      "x": -8,
+      "y": 10.2,
+      "z": -2.6
+    },
+    "sceneObjectKey": "KAP-4-EL2:object",
+    "bounds": {
+      "min": {
+        "x": -10,
+        "y": 10.2,
+        "z": -4
+      },
+      "max": {
+        "x": -6,
+        "y": 11.049999999999999,
+        "z": -1.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-4-EL2:access",
+        "nodeId": "KAP:4:cell:KAP-4-EL2",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -8,
+          "y": 10.2,
+          "z": -2.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-4-EL3",
+    "buildingId": "KAP",
+    "floorId": "4",
+    "name": "Elevator 3",
+    "displayLabel": "KAP elevator 3, floor 4",
+    "roomNumber": null,
+    "kind": "elevator",
+    "description": "",
+    "aliases": [
+      "KAP elevator 3, floor 4"
+    ],
+    "position": {
+      "x": -4,
+      "y": 10.2,
+      "z": -2.6
+    },
+    "sceneObjectKey": "KAP-4-EL3:object",
+    "bounds": {
+      "min": {
+        "x": -6,
+        "y": 10.2,
+        "z": -4
+      },
+      "max": {
+        "x": -2,
+        "y": 11.049999999999999,
+        "z": -1.2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-4-EL3:access",
+        "nodeId": "KAP:4:cell:KAP-4-EL3",
+        "label": "Demo arrival point",
+        "position": {
+          "x": -4,
+          "y": 10.2,
+          "z": -2.6
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  },
+  {
+    "id": "KAP-4-RR",
+    "buildingId": "KAP",
+    "floorId": "4",
+    "name": "Restrooms",
+    "displayLabel": "KAP restrooms, floor 4",
+    "roomNumber": null,
+    "kind": "restroom",
+    "description": "both restroom",
+    "aliases": [
+      "KAP restrooms, floor 4"
+    ],
+    "position": {
+      "x": 5,
+      "y": 10.2,
+      "z": -4
+    },
+    "sceneObjectKey": "KAP-4-RR:object",
+    "bounds": {
+      "min": {
+        "x": 2,
+        "y": 10.2,
+        "z": -6
+      },
+      "max": {
+        "x": 8,
+        "y": 11.049999999999999,
+        "z": -2
+      }
+    },
+    "accessPoints": [
+      {
+        "id": "KAP-4-RR:access",
+        "nodeId": "KAP:4:cell:KAP-4-RR",
+        "label": "Demo arrival point",
+        "position": {
+          "x": 5,
+          "y": 10.2,
+          "z": -4
+        },
+        "stepFreeAccess": "unknown"
+      }
+    ],
+    "access": {
+      "level": "public",
+      "stepFreeAccess": "unknown",
+      "isRamp": false,
+      "entryAllowed": true,
+      "exitAllowed": true,
+      "note": "Illustrative public routing only; access not verified."
+    },
+    "provenance": {
+      "dataKind": "demo",
+      "verificationStatus": "unverified",
+      "sourceUrls": [
+        "https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf"
+      ],
+      "verifiedAt": null,
+      "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Core alignment and floor service inferred. Accessibility and evacuation suitability unverified. Sources: https://bpb-us-w1.wpmucdn.com/sites.usc.edu/dist/f/100/files/2018/02/r2_CE_13_01_Ebrahimian_and_Trifunac_KAP_Vib_tests-vmv6a6.pdf p. 3 Navigation and accessibility are unverified."
+    }
+  }
+]

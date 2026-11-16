@@ -1,0 +1,32 @@
+[
+  {
+    "id": "SAL:A",
+    "nodeIds": [
+      "SAL:0:cell:SAL-0-SA",
+      "SAL:1:cell:SAL-1-SA",
+      "SAL:2:cell:SAL-2-SA",
+      "SAL:3:cell:SAL-3-SA"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "SAL:B",
+    "nodeIds": [
+      "SAL:0:cell:SAL-0-SB",
+      "SAL:1:cell:SAL-1-SB",
+      "SAL:2:cell:SAL-2-SB",
+      "SAL:3:cell:SAL-3-SB"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "SAL:E",
+    "nodeIds": [
+      "SAL:0:cell:SAL-0-EL",
+      "SAL:1:cell:SAL-1-EL",
+      "SAL:2:cell:SAL-2-EL",
+      "SAL:3:cell:SAL-3-EL"
+    ],
+    "kind": "elevator"
+  }
+]

@@ -1,0 +1,141 @@
+@import 'tailwindcss';
+
+/* Font variables come from next/font in src/app/layout.tsx. */
+@theme inline {
+  --font-sans: var(--font-source-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-source-serif), ui-serif, Georgia, serif;
+  --color-cardinal: #990000;
+  --color-cardinal-dark: #7a0000;
+  --color-cardinal-50: #fbf2f2;
+  --color-gold: #ffcc00;
+}
+
+@layer base {
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+  body {
+    @apply bg-white font-sans text-neutral-900 antialiased;
+  }
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.animate-fade-up {
+  animation: fade-up 0.25s ease-out both;
+}
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: #d4d4d8 transparent;
+}
+
+.mobile-tool-bar, .sheet-grip, .mobile-directions-action { display: none; }
+
+/* On phones the canvas occupies real space above the dock. Resizing the canvas
+   also refits its camera, keeping the building clear of every open tool panel. */
+@media (max-width: 767px) {
+  .compass-header > a { height: 44px; padding: 0 16px; gap: 12px; }
+  .compass-header img { width: 52px; height: auto; }
+  .compass-header > a > span[aria-hidden] { height: 19px; }
+  .compass-header > a > span:last-child { font-size: 16px; }
+  .compass-main { flex-direction: column; overflow: hidden; }
+  .map-viewport { min-height: 0; overflow: hidden; }
+  .map-breadcrumb { top: 12px; left: 12px; max-width: calc(100% - 24px); font-size: 12px; }
+  .desktop-map-control, .desktop-tool-menu, .desktop-sheet-resize { display: none; }
+  .tool-dock {
+    position: relative; inset: auto; order: 0; display: flex; flex-direction: column;
+    width: 100% !important; max-width: none; min-height: 0; max-height: 60%;
+    background: white; flex-shrink: 0;
+  }
+  .mobile-tool-bar {
+    display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); order: 2;
+    flex-shrink: 0; gap: 2px; padding: 6px 8px 8px; background: white;
+    border-top: 1px solid #e9e5e5;
+  }
+  .mobile-tool-bar > button {
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    gap: 2px; min-height: 54px; border-radius: 12px; color: #6b6262;
+    font-size: 11px; font-weight: 600; line-height: 15px;
+  }
+  .mobile-tool-icon { display: grid; place-items: center; width: 46px; height: 30px; border-radius: 10px; }
+  .mobile-tool-bar > button[aria-expanded="true"] { color: #990000; }
+  .mobile-tool-bar > button[aria-expanded="true"] .mobile-tool-icon { background: #fbefed; box-shadow: inset 0 -2px #ffcc00; }
+  .mobile-tool-bar > button:focus-visible { outline: 2px solid #990000; outline-offset: -2px; }
+  .mobile-tool-bar > button:active { background: #fbf2f2; }
+  .tool-sheet {
+    position: relative; inset: auto; order: 1; min-height: 0; flex-shrink: 1;
+    height: 186px; border: 1px solid #e9e5e5; border-bottom: 0;
+    border-radius: 20px 20px 0 0; box-shadow: 0 -6px 24px #3c151508;
+    animation: sheet-enter 180ms ease-out; overflow: hidden;
+  }
+  .tool-dock[data-active-tool="chat"] .tool-sheet { height: 256px; }
+  .tool-dock[data-active-tool="directions"] .tool-sheet { height: 316px; }
+  .tool-dock[data-active-tool="floors"] .tool-sheet { height: 124px; }
+  .tool-dock[data-active-tool="layers"] .tool-sheet { height: 240px; }
+  .tool-dock[data-picking="true"] .tool-sheet { height: 168px; }
+  .tool-dock[data-picking="true"] .directions-form > :not([role="status"]),
+  .tool-dock[data-picking="true"] .mobile-directions-action,
+  .tool-dock[data-picking="true"] .tool-sheet-footer { display: none; }
+  .tool-dock[data-picking="true"] .directions-form > [role="status"] { padding: 8px; font-size: 11px; }
+  .tool-dock[data-picking="true"] .directions-form > [role="status"] button { min-height: 44px; margin-top: 0; }
+  .sheet-grip { display: grid; place-items: center; width: 80px; min-height: 18px; flex-shrink: 0; align-self: center; touch-action: none; }
+  .sheet-grip > span { display: block; width: 32px; height: 4px; border-radius: 4px; background: #d6cece; }
+  /* Keep the panel name available to assistive technology without repeating the tab label. */
+  .tool-sheet-heading { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
+  .tool-sheet-heading > span { display: none; }
+  .tool-sheet-heading h2 { font-size: 16px; line-height: 20px; outline: none; }
+  .tool-sheet-heading p { font-size: 11px; line-height: 15px; }
+  .tool-sheet-heading > button { display: none; }
+  .tool-sheet-body { padding: 10px 16px 12px; overscroll-behavior: contain; }
+  .tool-sheet-body input:not([type="checkbox"]):not([type="radio"]), .tool-sheet-body textarea { font-size: 16px; }
+  .tool-sheet-body input:not([type="checkbox"]):not([type="radio"]) { min-height: 44px; padding-top: 8px; padding-bottom: 8px; }
+  .tool-sheet-body > form { display: flex; flex-direction: column; gap: 10px; }
+  .tool-sheet-body > form > * { margin-block: 0; }
+  .tool-sheet-body .location-suggestions { position: relative; inset: auto; max-height: 132px; }
+  .search-description { display: none; }
+  .tool-sheet-body form > button { min-height: 44px; }
+  .tool-sheet-body [role="listbox"] { max-height: 132px; overflow-y: auto; }
+  .tool-sheet-body [role="listbox"] [role="option"] { min-height: 44px; }
+  .tool-sheet-body .directions-form { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 4px; }
+  .directions-form > :not(.directions-location) { grid-column: 1 / -1; }
+  .directions-location label { font-size: 11px; }
+  .directions-location input { padding-left: 9px; margin-top: 0; }
+  .directions-form .desktop-directions-action { display: none; }
+  .mobile-directions-action { display: block; flex-shrink: 0; padding: 6px 16px; }
+  .mobile-directions-action > button { min-height: 44px; }
+  .directions-form > label { padding: 6px 10px; gap: 8px; min-height: 44px; }
+  .directions-form > label span span:last-child { font-size: 10px; }
+  .directions-form #current-location-hint { font-size: 10px; line-height: 13px; }
+  .directions-form fieldset label { min-height: 44px; padding: 6px; }
+  .tool-sheet-footer { flex-shrink: 0; padding: 0 16px 7px; font-size: 10px; }
+  .mobile-floor-options { display: flex; flex-wrap: wrap; gap: 8px; padding: 4px 0; }
+  .mobile-floor-options button { min-width: 46px; min-height: 46px; border: 1px solid #e9e5e5; }
+  .mobile-layer-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 4px 8px; }
+  .mobile-layer-grid > button { min-height: 44px; gap: 6px; padding: 4px; }
+  .mobile-layer-grid > button > span:first-child, .mobile-layer-grid > button > span:last-child { flex-shrink: 0; }
+  .mobile-layer-grid > button > span:nth-child(2) { font-size: 11px; line-height: 14px; }
+  @media (max-height: 500px) {
+    .tool-dock { max-height: 65%; }
+    .compass-header > a { height: 38px; }
+    .mobile-tool-bar { padding: 2px 8px; }
+    .mobile-tool-bar > button { min-height: 44px; }
+    .tool-sheet-heading p { display: none; }
+  }
+}
+@keyframes sheet-enter {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .tool-sheet { animation: none; }
+}

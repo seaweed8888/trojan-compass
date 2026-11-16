@@ -1,0 +1,29 @@
+[
+  {
+    "id": "LVL:SA",
+    "nodeIds": [
+      "LVL:1:stairs:A",
+      "LVL:2:stairs:A",
+      "LVL:3:stairs:A"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "LVL:E",
+    "nodeIds": [
+      "LVL:1:elevator",
+      "LVL:2:elevator",
+      "LVL:3:elevator"
+    ],
+    "kind": "elevator"
+  },
+  {
+    "id": "LVL:SB",
+    "nodeIds": [
+      "LVL:1:stairs:B",
+      "LVL:2:stairs:B",
+      "LVL:3:stairs:B"
+    ],
+    "kind": "stairs"
+  }
+]

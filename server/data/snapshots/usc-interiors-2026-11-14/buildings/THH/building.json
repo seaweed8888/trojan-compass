@@ -1,0 +1,216 @@
+{
+  "id": "THH",
+  "code": "THH",
+  "name": "Taper Hall of Humanities",
+  "aliases": [
+    "Taper Hall",
+    "Mark Taper Hall"
+  ],
+  "location": null,
+  "coverage": "demo",
+  "capabilities": {
+    "interiorScene": true,
+    "navigation": true,
+    "verifiedStepFreeRouting": false,
+    "chatText": true,
+    "chatImages": false,
+    "events": false
+  },
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [
+      "https://roomfinder.usc.edu/",
+      "https://dornsife.usc.edu/aire/roomreservations/"
+    ],
+    "verifiedAt": null,
+    "note": "Reconstructed demo interior; all positions, boundaries, doors and circulation inferred. Estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Floor count inferred: Basement and floors 1–3 evidenced by room records; fourth floor retained as inferred from campus.ts. demos/usc-map/locations.json | North/south end wings and narrow spine reconstructed from polygon; small ledges suppressed. Navigation and access are unverified."
+  },
+  "description": "Where most first-year writing and GE seminars meet.",
+  "officialMapUrl": null,
+  "viewerUrl": "/?building=THH",
+  "coordinateSystem": {
+    "id": "THH:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -21.3,
+      "y": -3.6399999999999997,
+      "z": -59.3
+    },
+    "max": {
+      "x": 13.900000000000002,
+      "y": 11.7,
+      "z": 55.3
+    }
+  },
+  "floors": [
+    {
+      "id": "0",
+      "buildingId": "THH",
+      "label": "Basement",
+      "sortOrder": 0,
+      "elevationMeters": -3.4,
+      "sceneObjectKey": "THH:floor:0",
+      "bounds": {
+        "min": {
+          "x": -21.3,
+          "y": -3.6399999999999997,
+          "z": -59.3
+        },
+        "max": {
+          "x": 13.900000000000002,
+          "y": -1.9,
+          "z": 55.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://roomfinder.usc.edu/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Basement and floors 1–3 supported by room codes. Floor 4 retained from supplied demo; count/outline at upper levels inferred. Lecture hall sizes are schematic. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "1",
+      "buildingId": "THH",
+      "label": "Floor 1",
+      "sortOrder": 1,
+      "elevationMeters": 0,
+      "sceneObjectKey": "THH:floor:1",
+      "bounds": {
+        "min": {
+          "x": -21.3,
+          "y": -0.24,
+          "z": -59.3
+        },
+        "max": {
+          "x": 13.900000000000002,
+          "y": 1.5,
+          "z": 55.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://roomfinder.usc.edu/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Basement and floors 1–3 supported by room codes. Floor 4 retained from supplied demo; count/outline at upper levels inferred. Lecture hall sizes are schematic. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "2",
+      "buildingId": "THH",
+      "label": "Floor 2",
+      "sortOrder": 2,
+      "elevationMeters": 3.4,
+      "sceneObjectKey": "THH:floor:2",
+      "bounds": {
+        "min": {
+          "x": -21.3,
+          "y": 3.16,
+          "z": -59.3
+        },
+        "max": {
+          "x": 13.900000000000002,
+          "y": 4.9,
+          "z": 55.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://roomfinder.usc.edu/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Basement and floors 1–3 supported by room codes. Floor 4 retained from supplied demo; count/outline at upper levels inferred. Lecture hall sizes are schematic. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "3",
+      "buildingId": "THH",
+      "label": "Floor 3",
+      "sortOrder": 3,
+      "elevationMeters": 6.8,
+      "sceneObjectKey": "THH:floor:3",
+      "bounds": {
+        "min": {
+          "x": -21.3,
+          "y": 6.56,
+          "z": -59.3
+        },
+        "max": {
+          "x": 13.900000000000002,
+          "y": 8.3,
+          "z": 55.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://roomfinder.usc.edu/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Basement and floors 1–3 supported by room codes. Floor 4 retained from supplied demo; count/outline at upper levels inferred. Lecture hall sizes are schematic. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "4",
+      "buildingId": "THH",
+      "label": "Floor 4",
+      "sortOrder": 4,
+      "elevationMeters": 10.2,
+      "sceneObjectKey": "THH:floor:4",
+      "bounds": {
+        "min": {
+          "x": -21.3,
+          "y": 9.959999999999999,
+          "z": -59.3
+        },
+        "max": {
+          "x": 13.900000000000002,
+          "y": 11.7,
+          "z": 55.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://roomfinder.usc.edu/"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Basement and floors 1–3 supported by room codes. Floor 4 retained from supplied demo; count/outline at upper levels inferred. Lecture hall sizes are schematic. Sources: https://roomfinder.usc.edu/ (indexed classroom table, retrieved 2026-11-14) Navigation and accessibility are unverified."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "THH:source:0",
+      "title": "Taper Hall of Humanities reconstruction reference 1",
+      "url": "https://roomfinder.usc.edu/",
+      "sourceDate": null,
+      "pageReference": null,
+      "note": "Identity or exterior reference; interior positions remain inferred. See docs/interiors/."
+    },
+    {
+      "id": "THH:source:1",
+      "title": "Taper Hall of Humanities reconstruction reference 2",
+      "url": "https://dornsife.usc.edu/aire/roomreservations/",
+      "sourceDate": null,
+      "pageReference": null,
+      "note": "Identity or exterior reference; interior positions remain inferred. See docs/interiors/."
+    }
+  ]
+}

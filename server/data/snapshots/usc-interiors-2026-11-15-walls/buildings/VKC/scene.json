@@ -1,0 +1,77 @@
+{
+  "representation": "procedural",
+  "buildingId": "VKC",
+  "coordinateSystem": {
+    "id": "VKC:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -42.3,
+      "y": -3.6399999999999997,
+      "z": -27.3
+    },
+    "max": {
+      "x": 42.3,
+      "y": 8.5,
+      "z": 27.3
+    }
+  },
+  "rootObjectKey": "VKC:root",
+  "viewerUrl": "/?building=VKC",
+  "floors": [
+    {
+      "floorId": "0",
+      "label": "Basement",
+      "sceneObjectKey": "VKC:floor:0",
+      "geometryUrl": "/api/buildings/VKC/floors/0?dataVersion=usc-interiors-2026-11-15-walls"
+    },
+    {
+      "floorId": "1",
+      "label": "Floor 1",
+      "sceneObjectKey": "VKC:floor:1",
+      "geometryUrl": "/api/buildings/VKC/floors/1?dataVersion=usc-interiors-2026-11-15-walls"
+    },
+    {
+      "floorId": "2",
+      "label": "Floor 2",
+      "sceneObjectKey": "VKC:floor:2",
+      "geometryUrl": "/api/buildings/VKC/floors/2?dataVersion=usc-interiors-2026-11-15-walls"
+    },
+    {
+      "floorId": "3",
+      "label": "Floor 3",
+      "sceneObjectKey": "VKC:floor:3",
+      "geometryUrl": "/api/buildings/VKC/floors/3?dataVersion=usc-interiors-2026-11-15-walls"
+    }
+  ],
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [
+      "https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf",
+      "https://roomfinder.usc.edu/"
+    ],
+    "verifiedAt": null,
+    "note": "Reconstructed demo interior; all positions, boundaries, doors and circulation inferred. Estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Floor count confirmed: City historic report describes three stories over basement; supersedes original generic four stories. https://cityclerk.lacity.org/onlinedocs/2013/13-1464-s8_rpt_chc_10-28-2013.pdf | U-shaped occupied wings within campus DMC envelope. Courtyard proportions and wing widths inferred, tower excluded. Navigation and access are unverified."
+  },
+  "materials": [
+    {
+      "key": "floor",
+      "color": "#e9e9ec",
+      "opacity": 1,
+      "roughness": 0.9,
+      "metalness": 0
+    },
+    {
+      "key": "wall",
+      "color": "#c9c9ce",
+      "opacity": 1,
+      "roughness": 0.9,
+      "metalness": 0
+    }
+  ]
+}

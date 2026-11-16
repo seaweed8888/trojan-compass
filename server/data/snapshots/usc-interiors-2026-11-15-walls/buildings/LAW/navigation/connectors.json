@@ -1,0 +1,76 @@
+[
+  {
+    "id": "LAW:NW",
+    "nodeIds": [
+      "LAW:0:cell:LAW-0-stairsNW",
+      "LAW:1:cell:LAW-1-stairsNW",
+      "LAW:2:cell:LAW-2-stairsNW",
+      "LAW:3:cell:LAW-3-stairsNW",
+      "LAW:4:cell:LAW-4-stairsNW"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "LAW:NE",
+    "nodeIds": [
+      "LAW:0:cell:LAW-0-stairsNE",
+      "LAW:1:cell:LAW-1-stairsNE",
+      "LAW:2:cell:LAW-2-stairsNE",
+      "LAW:3:cell:LAW-3-stairsNE",
+      "LAW:4:cell:LAW-4-stairsNE"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "LAW:SW",
+    "nodeIds": [
+      "LAW:0:cell:LAW-0-stairsSW",
+      "LAW:1:cell:LAW-1-stairsSW",
+      "LAW:2:cell:LAW-2-stairsSW",
+      "LAW:3:cell:LAW-3-stairsSW",
+      "LAW:4:cell:LAW-4-stairsSW"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "LAW:SE",
+    "nodeIds": [
+      "LAW:0:cell:LAW-0-stairsSE",
+      "LAW:1:cell:LAW-1-stairsSE",
+      "LAW:2:cell:LAW-2-stairsSE",
+      "LAW:3:cell:LAW-3-stairsSE",
+      "LAW:4:cell:LAW-4-stairsSE"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "LAW:EC",
+    "nodeIds": [
+      "LAW:0:cell:LAW-0-elevatorEC",
+      "LAW:1:cell:LAW-1-elevatorEC",
+      "LAW:2:cell:LAW-2-elevatorEC",
+      "LAW:3:cell:LAW-3-elevatorEC",
+      "LAW:4:cell:LAW-4-elevatorEC"
+    ],
+    "kind": "elevator"
+  },
+  {
+    "id": "LAW:ES",
+    "nodeIds": [
+      "LAW:0:cell:LAW-0-elevatorES",
+      "LAW:1:cell:LAW-1-elevatorES",
+      "LAW:2:cell:LAW-2-elevatorES",
+      "LAW:3:cell:LAW-3-elevatorES",
+      "LAW:4:cell:LAW-4-elevatorES"
+    ],
+    "kind": "elevator"
+  },
+  {
+    "id": "LAW:SC",
+    "nodeIds": [
+      "LAW:2:cell:LAW-2-stairsSC",
+      "LAW:3:cell:LAW-3-stairsSC"
+    ],
+    "kind": "stairs"
+  }
+]

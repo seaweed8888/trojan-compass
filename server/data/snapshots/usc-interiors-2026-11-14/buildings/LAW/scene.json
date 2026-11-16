@@ -1,0 +1,82 @@
+{
+  "representation": "procedural",
+  "buildingId": "LAW",
+  "coordinateSystem": {
+    "id": "LAW:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -46.36,
+      "y": -3.6399999999999997,
+      "z": -27.159999999999997
+    },
+    "max": {
+      "x": 45.959999999999994,
+      "y": 11.7,
+      "z": 24.36
+    }
+  },
+  "rootObjectKey": "LAW:root",
+  "viewerUrl": "/?building=LAW",
+  "floors": [
+    {
+      "floorId": "0",
+      "label": "B",
+      "sceneObjectKey": "LAW:floor:0",
+      "geometryUrl": "/api/buildings/LAW/floors/0?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "1",
+      "label": "1",
+      "sceneObjectKey": "LAW:floor:1",
+      "geometryUrl": "/api/buildings/LAW/floors/1?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "2",
+      "label": "2",
+      "sceneObjectKey": "LAW:floor:2",
+      "geometryUrl": "/api/buildings/LAW/floors/2?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "3",
+      "label": "3",
+      "sceneObjectKey": "LAW:floor:3",
+      "geometryUrl": "/api/buildings/LAW/floors/3?dataVersion=usc-interiors-2026-11-14"
+    },
+    {
+      "floorId": "4",
+      "label": "4",
+      "sceneObjectKey": "LAW:floor:4",
+      "geometryUrl": "/api/buildings/LAW/floors/4?dataVersion=usc-interiors-2026-11-14"
+    }
+  ],
+  "provenance": {
+    "dataKind": "source_derived",
+    "verificationStatus": "unverified",
+    "sourceUrls": [
+      "https://gould.usc.edu/resources/downloads/about/visit/building-map.pdf"
+    ],
+    "verifiedAt": null,
+    "note": "Traced floor plan; estimated 2.4 m per horizontal scene unit, assumed 3.4 m floor spacing. Navigation connections and access are unverified."
+  },
+  "materials": [
+    {
+      "key": "floor",
+      "color": "#e9e9ec",
+      "opacity": 1,
+      "roughness": 0.9,
+      "metalness": 0
+    },
+    {
+      "key": "wall",
+      "color": "#c9c9ce",
+      "opacity": 1,
+      "roughness": 0.9,
+      "metalness": 0
+    }
+  ]
+}

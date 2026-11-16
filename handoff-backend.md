@@ -1,3 +1,5 @@
+> Repository migration applied: see [current ownership](docs/ownership.md), [API status](docs/api.md), and [migration](docs/migration.md). This earlier handoff is background; those documents and the agreed OpenAPI resolve scope/path differences.
+
 # Trojan Compass — website backend handoff
 
 Prepared November 14, 2026 from the repository. Companion:
@@ -25,8 +27,8 @@ concepts with that team, but do not assume shared hosting, endpoints, or map coo
 | Events | Sample records; feature scaffold | Valid event data, feed, and a connected events UI |
 | Persistence | No database, accounts, or stored conversations | Decide only what the first release needs |
 
-The active UI is in `apps/web/src/components`, not the placeholder components under
-`apps/web/src/features`. `/map` and `/events` currently re-export the main page.
+The active UI is in `web/src/components`, not the placeholder components under
+`web/src/features`. `/map` and `/events` currently re-export the main page.
 The top-level `data/buildings` and `data/events` directories contain instructions,
 not populated production datasets.
 
@@ -44,14 +46,14 @@ Run the last two commands in separate terminals. Campus is on port 3001, interio
 on 3000, and API on 4000. `npm run dev` runs web/API only. The campus development
 server uses Python; Node >=22.9 is declared by the workspace.
 
-- API configuration: [env.ts](apps/api/src/config/env.ts), `PORT=4000`,
-  `HOST=127.0.0.1`; [example](apps/api/.env.example).
-- Web proxy: [next.config.ts](apps/web/next.config.ts) rewrites `/api/*` to
+- API configuration: [env.ts](server/src/config/env.ts), `PORT=4000`,
+  `HOST=127.0.0.1`; [example](server/.env.example).
+- Web proxy: [next.config.ts](web/next.config.ts) rewrites `/api/*` to
   `${API_BASE_URL}/api/*`; default `http://127.0.0.1:4000`.
 - Put server-only settings in the API environment. Never expose provider credentials
   through browser code or `NEXT_PUBLIC_` variables.
 - Replace hardcoded localhost navigation between the campus and interior sites for
-  deployment. See `Wayfinder.tsx` and `apps/campus-demo/map-data.js`.
+  deployment. See `Wayfinder.tsx` and `demos/usc-map/map-data.js`.
 - Bind the API appropriately for the deployment environment; the default loopback
   host will not expose it across containers. Keep the API behind the intended proxy.
 - `npm run build` checks shared types and builds API/web. The shared package exports
@@ -66,10 +68,10 @@ Do not make the API depend on frontend component imports.
 
 | Source | Contents and constraints |
 | --- | --- |
-| [campus.ts](apps/web/src/data/campus.ts) | Nine supported building codes, schematic positions, sample events |
-| [floorplan.ts](apps/web/src/data/floorplan.ts) | Generated layouts, place IDs, entrances, room resolution, graph connections |
-| [law.ts](apps/web/src/data/law.ts) | Traced LAW plan; explicit east ramp entrance |
-| [locations.json](apps/campus-demo/locations.json) | Campus directory and geographic location data |
+| [campus.ts](web/src/features/map/data/generated/campus.ts) | Nine supported building codes, schematic positions, sample events |
+| [floorplan.ts](web/src/features/map/data/generated/floorplan.ts) | Generated layouts, place IDs, entrances, room resolution, graph connections |
+| [law.ts](web/src/features/map/data/generated/law.ts) | Traced LAW plan; explicit east ramp entrance |
+| [locations.json](demos/usc-map/locations.json) | Campus directory and geographic location data |
 | [building data plan](data/buildings/README.md) | Planned building/places/graph JSON organization |
 | [event data plan](data/events/README.md) | Planned events dataset |
 
@@ -157,7 +159,7 @@ building entrance; ambiguous “outside” requires clarification.
 
 Return normalized endpoints, indoor/outdoor legs, floor/building context, ordered
 points, steps, total distance/time, and stair/elevator usage. Match the active
-renderer’s needs in [routing.ts](apps/web/src/lib/routing.ts), or add an explicit
+renderer’s needs in [routing.ts](web/src/features/routing/legacy/routing.generated.ts), or add an explicit
 adapter. Shared `RouteResult` currently lacks this full geometry and step context.
 
 For point endpoints, snap only to a valid reachable graph segment within an agreed
@@ -193,7 +195,7 @@ route service.
 
 ### Compass
 
-Implement the server-only provider adapter in `apps/api/src/lib/ai-client.ts`.
+Implement the server-only provider adapter in `server/src/integrations/ai/provider-adapter.ts`.
 Keep the assistant name Compass. Resolve intent to known buildings/places/events;
 ask a clarification when ambiguous. Validate any model-produced identifiers and
 call the routing service for paths. The model must not invent room coordinates,
@@ -217,13 +219,13 @@ The current website still needs an actual events flow wired to the service.
 
 | File | Required integration |
 | --- | --- |
-| [Wayfinder.tsx](apps/web/src/components/Wayfinder.tsx) | Load data; own resolved endpoints/route state; preserve selection/navigation |
-| [FloorTools.tsx](apps/web/src/components/ui/FloorTools.tsx) | Replace Directions notice and canned chat; pass mode/accessibility to the request |
-| [LocationAutocomplete.tsx](apps/web/src/components/ui/LocationAutocomplete.tsx) | Async suggestions with loading/no-match/error states; discard stale responses |
-| [map-location.ts](apps/web/src/lib/map-location.ts) | Resolve typed/picked endpoints consistently with server data |
-| [map-link.ts](apps/web/src/lib/map-link.ts) | Replace synchronous local route creation with validated async link resolution |
-| [BuildingScene.tsx](apps/web/src/components/map/BuildingScene.tsx) | Consume matching geometry/amenity/route data without losing highlights |
-| [MapOverlays.tsx](apps/web/src/components/ui/MapOverlays.tsx) | Preserve floors, route steps, and current layer order |
+| [Wayfinder.tsx](web/src/features/map/components/Wayfinder.tsx) | Load data; own resolved endpoints/route state; preserve selection/navigation |
+| [FloorTools.tsx](web/src/features/map/components/FloorTools.tsx) | Replace Directions notice and canned chat; pass mode/accessibility to the request |
+| [LocationAutocomplete.tsx](web/src/features/search/components/LocationAutocomplete.tsx) | Async suggestions with loading/no-match/error states; discard stale responses |
+| [map-location.ts](web/src/features/map/map-location.ts) | Resolve typed/picked endpoints consistently with server data |
+| [map-link.ts](web/src/features/map/map-link.ts) | Replace synchronous local route creation with validated async link resolution |
+| [BuildingScene.tsx](web/src/features/map/renderer/BuildingScene.tsx) | Consume matching geometry/amenity/route data without losing highlights |
+| [MapOverlays.tsx](web/src/features/map/components/MapOverlays.tsx) | Preserve floors, route steps, and current layer order |
 
 Today a picked destination is reduced to display text; only the current marker
 retains its coordinates. Store structured values for both endpoints before routing.

@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "DEPENDENCY_UNAVAILABLE",
+    "message": "A required service is temporarily unavailable.",
+    "requestId": "example-request"
+  }
+}

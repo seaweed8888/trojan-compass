@@ -1,0 +1,22 @@
+{
+  "clientRequestId": "11111111-1111-4111-8111-111111111111",
+  "dataVersion": "contract-demo-v1",
+  "origin": {
+    "kind": "place",
+    "buildingId": "LAW",
+    "placeId": "LAW-101"
+  },
+  "destination": {
+    "kind": "position",
+    "buildingId": "LAW",
+    "floorId": "1",
+    "position": {
+      "x": 9,
+      "y": 0,
+      "z": 3
+    }
+  },
+  "mode": "fastest",
+  "stepFree": false,
+  "accessProfile": "public"
+}

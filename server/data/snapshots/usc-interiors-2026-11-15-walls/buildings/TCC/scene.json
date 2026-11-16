@@ -1,0 +1,77 @@
+{
+  "representation": "procedural",
+  "buildingId": "TCC",
+  "coordinateSystem": {
+    "id": "TCC:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -14.900000000000002,
+      "y": -0.24,
+      "z": -43.9
+    },
+    "max": {
+      "x": 12.3,
+      "y": 11.899999999999999,
+      "z": 42.3
+    }
+  },
+  "rootObjectKey": "TCC:root",
+  "viewerUrl": "/?building=TCC",
+  "floors": [
+    {
+      "floorId": "1",
+      "label": "Floor 1",
+      "sceneObjectKey": "TCC:floor:1",
+      "geometryUrl": "/api/buildings/TCC/floors/1?dataVersion=usc-interiors-2026-11-15-walls"
+    },
+    {
+      "floorId": "2",
+      "label": "Floor 2",
+      "sceneObjectKey": "TCC:floor:2",
+      "geometryUrl": "/api/buildings/TCC/floors/2?dataVersion=usc-interiors-2026-11-15-walls"
+    },
+    {
+      "floorId": "3",
+      "label": "Floor 3",
+      "sceneObjectKey": "TCC:floor:3",
+      "geometryUrl": "/api/buildings/TCC/floors/3?dataVersion=usc-interiors-2026-11-15-walls"
+    },
+    {
+      "floorId": "4",
+      "label": "Floor 4",
+      "sceneObjectKey": "TCC:floor:4",
+      "geometryUrl": "/api/buildings/TCC/floors/4?dataVersion=usc-interiors-2026-11-15-walls"
+    }
+  ],
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [
+      "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/building-directory/",
+      "https://trojanevents.usc.edu/venues/ronald-tutor-campus-center-meeting-rooms/tcc-meeting-rooms/"
+    ],
+    "verifiedAt": null,
+    "note": "Reconstructed demo interior; all positions, boundaries, doors and circulation inferred. Estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Floor count confirmed: Directory and meeting-room list support floors 1–4; basement entries belong to SKS. demos/usc-map/locations.json | Narrow north/south bar and wider end volumes follow supplied TCC polygon, not the old rectangle. Navigation and access are unverified."
+  },
+  "materials": [
+    {
+      "key": "floor",
+      "color": "#e9e9ec",
+      "opacity": 1,
+      "roughness": 0.9,
+      "metalness": 0
+    },
+    {
+      "key": "wall",
+      "color": "#c9c9ce",
+      "opacity": 1,
+      "roughness": 0.9,
+      "metalness": 0
+    }
+  ]
+}

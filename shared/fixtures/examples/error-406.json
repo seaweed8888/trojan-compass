@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "REPRESENTATION_NOT_AVAILABLE",
+    "message": "The requested scene representation has not been exported.",
+    "requestId": "example-request"
+  }
+}

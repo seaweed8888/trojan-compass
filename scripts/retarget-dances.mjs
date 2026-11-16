@@ -1,5 +1,5 @@
 // Bake only motion from the supplied GLBs; source meshes/textures never ship.
-// Run: node scripts/retarget-dances.mjs C:/Users/salty/Downloads
+// Run from the repository root: node scripts/retarget-dances.mjs /path/to/source-dances
 import { readFileSync, writeFileSync } from 'node:fs'
 import { resolve } from 'node:path'
 import assert from 'node:assert/strict'
@@ -8,7 +8,7 @@ import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js'
 
 const files = ['banana_fortnite.glb', 'fortnite_dj.glb', 'fortnite_frozen_nog_ops_with_old_school_emote.glb']
 const names = ['Banana dance', 'DJ dance', 'Old School']
-const targetBytes = readFileSync('apps/web/public/models/tommy-trojan.glb')
+const targetBytes = readFileSync('web/public/models/tommy-trojan.glb')
 const target = await new GLTFLoader().parseAsync(targetBytes.buffer.slice(targetBytes.byteOffset, targetBytes.byteOffset + targetBytes.byteLength), '')
 const bones = {}; const meshes = []
 target.scene.traverse(o => { if (o.isBone) bones[o.name] = o; if (o.isSkinnedMesh) meshes.push(o) })
@@ -181,5 +181,5 @@ for (let fileIndex = 0; fileIndex < files.length; fileIndex++) {
 }
 const json = JSON.stringify(output, (_, value) => typeof value === 'number' ? Math.round(value * 100000) / 100000 : value)
 assert.ok(json.length < 450000, 'Animation download exceeds budget')
-writeFileSync('apps/web/public/models/trojan-dances.json', json)
+writeFileSync('web/public/models/trojan-dances.json', json)
 console.log(`Animation-only download: ${json.length} bytes`)

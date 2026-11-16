@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "NO_ROUTE",
+    "message": "No route satisfies the requested constraints.",
+    "requestId": "example-request"
+  }
+}

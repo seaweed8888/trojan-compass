@@ -1,0 +1,7 @@
+{
+  "error": {
+    "code": "UNVERIFIED_ACCESSIBILITY",
+    "message": "Required accessibility information is unknown.",
+    "requestId": "example-request"
+  }
+}

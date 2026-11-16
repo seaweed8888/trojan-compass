@@ -1,0 +1,32 @@
+[
+  {
+    "id": "THH:SA",
+    "nodeIds": [
+      "THH:1:stairs:A",
+      "THH:2:stairs:A",
+      "THH:3:stairs:A",
+      "THH:4:stairs:A"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "THH:E",
+    "nodeIds": [
+      "THH:1:elevator",
+      "THH:2:elevator",
+      "THH:3:elevator",
+      "THH:4:elevator"
+    ],
+    "kind": "elevator"
+  },
+  {
+    "id": "THH:SB",
+    "nodeIds": [
+      "THH:1:stairs:B",
+      "THH:2:stairs:B",
+      "THH:3:stairs:B",
+      "THH:4:stairs:B"
+    ],
+    "kind": "stairs"
+  }
+]

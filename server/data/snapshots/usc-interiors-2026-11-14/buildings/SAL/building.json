@@ -1,0 +1,186 @@
+{
+  "id": "SAL",
+  "code": "SAL",
+  "name": "Salvatori Computer Science Center",
+  "aliases": [
+    "Henry Salvatori Computer Science Center"
+  ],
+  "location": null,
+  "coverage": "demo",
+  "capabilities": {
+    "interiorScene": true,
+    "navigation": true,
+    "verifiedStepFreeRouting": false,
+    "chatText": true,
+    "chatImages": false,
+    "events": false
+  },
+  "provenance": {
+    "dataKind": "demo",
+    "verificationStatus": "unverified",
+    "sourceUrls": [
+      "https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf",
+      "https://roomfinder.usc.edu/"
+    ],
+    "verifiedAt": null,
+    "note": "Reconstructed demo interior; all positions, boundaries, doors and circulation inferred. Estimated 2 m per horizontal scene unit, assumed 3.4 m floor spacing. Floor count confirmed: Historic resource description: three stories over basement; north volume one story. https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf | Campus polygon simplified to southern block with corner/tongue projection and lower north volume; no GFS records imported. Navigation and access are unverified."
+  },
+  "description": "Computer labs and CS discussion sections.",
+  "officialMapUrl": null,
+  "viewerUrl": "/?building=SAL",
+  "coordinateSystem": {
+    "id": "SAL:meters",
+    "units": "meters",
+    "upAxis": "Y",
+    "handedness": "right",
+    "accuracy": "estimated"
+  },
+  "bounds": {
+    "min": {
+      "x": -23.3,
+      "y": -3.6399999999999997,
+      "z": -17.3
+    },
+    "max": {
+      "x": 24.3,
+      "y": 8.3,
+      "z": 17.3
+    }
+  },
+  "floors": [
+    {
+      "id": "0",
+      "buildingId": "SAL",
+      "label": "Basement",
+      "sortOrder": 0,
+      "elevationMeters": -3.4,
+      "sceneObjectKey": "SAL:floor:0",
+      "bounds": {
+        "min": {
+          "x": -23.3,
+          "y": -3.6399999999999997,
+          "z": -17.3
+        },
+        "max": {
+          "x": 24.3,
+          "y": -1.9,
+          "z": 17.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Three-story southern block plus one-story northern volume and basement supported by historic description. Auditorium placement in north block inferred. Sources: https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "1",
+      "buildingId": "SAL",
+      "label": "Floor 1",
+      "sortOrder": 1,
+      "elevationMeters": 0,
+      "sceneObjectKey": "SAL:floor:1",
+      "bounds": {
+        "min": {
+          "x": -23.3,
+          "y": -0.24,
+          "z": -17.3
+        },
+        "max": {
+          "x": 24.3,
+          "y": 1.5,
+          "z": 17.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Three-story southern block plus one-story northern volume and basement supported by historic description. Auditorium placement in north block inferred. Sources: https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "2",
+      "buildingId": "SAL",
+      "label": "Floor 2",
+      "sortOrder": 2,
+      "elevationMeters": 3.4,
+      "sceneObjectKey": "SAL:floor:2",
+      "bounds": {
+        "min": {
+          "x": -23.3,
+          "y": 3.16,
+          "z": -4.300000000000001
+        },
+        "max": {
+          "x": 24.3,
+          "y": 4.9,
+          "z": 17.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Three-story southern block plus one-story northern volume and basement supported by historic description. Auditorium placement in north block inferred. Sources: https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf Navigation and accessibility are unverified."
+      }
+    },
+    {
+      "id": "3",
+      "buildingId": "SAL",
+      "label": "Floor 3",
+      "sortOrder": 3,
+      "elevationMeters": 6.8,
+      "sceneObjectKey": "SAL:floor:3",
+      "bounds": {
+        "min": {
+          "x": -23.3,
+          "y": 6.56,
+          "z": -4.300000000000001
+        },
+        "max": {
+          "x": 24.3,
+          "y": 8.3,
+          "z": 17.3
+        }
+      },
+      "provenance": {
+        "dataKind": "demo",
+        "verificationStatus": "unverified",
+        "sourceUrls": [
+          "https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf"
+        ],
+        "verifiedAt": null,
+        "note": "Number not applicable; identity inferred; position inferred. Position, boundary and door inferred. Whole floor geometry inferred. Three-story southern block plus one-story northern volume and basement supported by historic description. Auditorium placement in north block inferred. Sources: https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf Navigation and accessibility are unverified."
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "SAL:source:0",
+      "title": "Salvatori Computer Science Center reconstruction reference 1",
+      "url": "https://planning.lacity.gov/eir/USC/FEIR/files/USC%20Appendix%20C-1%20Supplemental%20Historic%20Resources%20Report.pdf",
+      "sourceDate": null,
+      "pageReference": null,
+      "note": "Identity or exterior reference; interior positions remain inferred. See docs/interiors/."
+    },
+    {
+      "id": "SAL:source:1",
+      "title": "Salvatori Computer Science Center reconstruction reference 2",
+      "url": "https://roomfinder.usc.edu/",
+      "sourceDate": null,
+      "pageReference": null,
+      "note": "Identity or exterior reference; interior positions remain inferred. See docs/interiors/."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "TCC:A",
+    "nodeIds": [
+      "TCC:1:cell:TCC-1-SA",
+      "TCC:2:cell:TCC-2-SA",
+      "TCC:3:cell:TCC-3-SA",
+      "TCC:4:cell:TCC-4-SA"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "TCC:B",
+    "nodeIds": [
+      "TCC:1:cell:TCC-1-SB",
+      "TCC:2:cell:TCC-2-SB",
+      "TCC:3:cell:TCC-3-SB",
+      "TCC:4:cell:TCC-4-SB"
+    ],
+    "kind": "stairs"
+  },
+  {
+    "id": "TCC:E",
+    "nodeIds": [
+      "TCC:1:cell:TCC-1-EL",
+      "TCC:2:cell:TCC-2-EL",
+      "TCC:3:cell:TCC-3-EL",
+      "TCC:4:cell:TCC-4-EL"
+    ],
+    "kind": "elevator"
+  }
+]
